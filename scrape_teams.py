@@ -5,14 +5,15 @@ import requests
 def get_page(url):
 
 	print "getting url: " + url
-	r  = requests.get("http://" +url)
+	r  = requests.get(url)
 	data = r.text
 	soup = BeautifulSoup(data)
 
 	return soup
 
-def scrape_teams():
-	url = "espn.go.com/mens-college-basketball/teams"
+# Scrape ESPN NCAAB Site to gather a list of Teams and their Associated Conferences
+def get_teams():
+	url = "http://espn.go.com/mens-college-basketball/teams"
 	soup = get_page(url)
 	teamFile = open("teams.txt", 'w')
 	
@@ -34,8 +35,50 @@ def scrape_teams():
 	teamFile.close()
 
 
+def get_players():
+
+	teamFile = open("teams2.txt", 'r')
+
+	confGroup = ""
+	for line in teamFile:
+		splitLine = line.strip("\n").split(",")
+
+		if len(splitLine) == 1:
+			# ignore end of conference indicator
+			if splitLine[0] != "-":
+				print splitLine[0]
+				confGroup = splitLine[0]
+		else:
+
+			teamName = splitLine[0]
+			rosterUrl = modify_url(splitLine[1], 'roster')
+
+			soup = get_page(rosterUrl)
+			for playerRow in soup.findAll("tr"):
+				# print playerRow
+				playerStr = ""
+				for playerData in playerRow.findAll("td"):
+					playerStr += str(playerData.text) + ","
+
+				# Strip trailing ","
+				playerStr = playerStr[:-1]
+
+				playerFile = open("players2.txt", 'a')
+				playerFile.write(teamName + "," + confGroup + "," + playerStr + "\n")
+				playerFile.close()
+
+	teamFile.close()
+	
+
+# Modify ESPN Url to get either "roster" or "stats"
+def modify_url(url, target):
+	splitURL = url.split("_")
+	newURL = splitURL[0] + target + "/_" + splitURL[1] 
+	return newURL
+
 def main():
-	scrape_teams()
+	# get_teams()
+	get_players()
 
 
 main()
