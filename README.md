@@ -1,4 +1,4 @@
-## March Madness Prediction EECS 349 Machine Learning
+## March Madness Prediction
 
 ##### Purpose
 - To utilize machine learning techniques to predict the NCAA March Madness Tournament
