@@ -1,0 +1,2301 @@
+Binghamton,America East,2013-14 Binghamton Bearcats
+Binghamton,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Binghamton,America East,1,Marlon Beck II,G,5-11,175,FR,Bowie, MD
+Binghamton,America East,2,Robert Mansell,G,6-4,200,JR,Philadelphia, PA
+Binghamton,America East,3,Jordan Reed,G,6-4,205,SO,Philadelphia, PA
+Binghamton,America East,5,Magnus Richards,F,6-7,210,FR,Silver Spring, MD
+Binghamton,America East,10,Yosef Yacob,G,6-0,170,FR,Chester, PA
+Binghamton,America East,11,Rayner Moquete,G,6-1,195,SR,Santo Domingo, Dominican Republic
+Binghamton,America East,12,John Rinaldi,G,6-1,190,FR,Dunmore, PA
+Binghamton,America East,15,Alex Ogundadegbe,C,6-8,235,SR,Mitchellville, MD
+Binghamton,America East,21,Nick Madray,F,6-9,215,FR,Mississauga, ON
+Binghamton,America East,23,Chris Rice,G,6-3,195,JR,Sicklerville, NJ
+Binghamton,America East,25,Roland Brown,C,6-8,240,SR,Queens, NY
+Binghamton,America East,32,Jabrille Williams,F,6-6,190,JR,Stamford, CT
+Binghamton,America East, -- ,Karon Waller,NA,6-4,200,SO,Camden, NJ
+Hartford,America East,2013-14 Hartford Hawks
+Hartford,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Hartford,America East,1,Mark Nwakamma,F,6-6,235,JR,Leander, TX
+Hartford,America East,2,Justin Graham,G,6-1,175,FR,San Antonio, TX
+Hartford,America East,3,Jeremiah Aska,G,5-8,165,SR,Bronx, NY
+Hartford,America East,4,Corban Wroe,G,6-2,195,JR,--
+Hartford,America East,11,Taylor Dyson,G,6-4,185,SO,Sunbury, VIC
+Hartford,America East,12,Yasin Kolo,C,6-10,245,SO,--
+Hartford,America East,14,Dougal Weir,C,6-9,240,FR,--
+Hartford,America East,15,Yolonzo Moore II,G,6-2,175,JR,Austin, TX
+Hartford,America East,21,Preston Anderson,G-F,6-6,185,FR,Cayuga, TX
+Hartford,America East,22,Evan Cooper,G,6-0,185,SO,Houston, TX
+Hartford,America East,33,Adam Oresky,F,6-8,205,SR,Lawrenceville, NJ
+Hartford,America East,43,Nate Sikma,F,6-7,235,JR,Bellevue, WA
+Hartford,America East,44,Oren Faulk,F,6-7,250,SR,Muskogee, OK
+Hartford,America East,50,Jamie Schneck,F-C,6-8,240,JR,Whitefish Bay, WI
+Hartford,America East, -- ,Wes Cole,G,6-0,165,JR,The Woodlands, TX
+Maine,America East,2013-14 Maine Black Bears
+Maine,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Maine,America East,1,Dimitry Akanda-Coronel,G-F,6-4,210,SO,Boston, MA
+Maine,America East,3,Christian Ejiga,F,6-8,225,FR,Lagos, Nigeria
+Maine,America East,4,Marko Pirovic,F,6-7,205,FR,--
+Maine,America East,5,Zarko Valjarevic,G,6-4,210,JR,--
+Maine,America East,11,Erik Nissen,F,6-9,215,FR,Quispamsis, NB
+Maine,America East,12,Xavier Pollard,G,6-3,190,JR,Bronx, NY
+Maine,America East,13,Stefan Micovic,F,6-9,210,SO,--
+Maine,America East,14,Mitchell Worcester,G,6-3,175,FR,Washburn, ME
+Maine,America East,23,Kilian Cato,F,6-7,225,JR,Espoo, Finland
+Maine,America East,25,Till Gloger,F,6-8,220,SO,Bochum, Germany
+Maine,America East,31,Troy Reid-Knight,G,6-0,190,FR,--
+Maine,America East,33,Ethan Mackey,F,6-7,220,SO,Voorheesville, NY
+Maine,America East,42,Luke Hettermann,G,5-9,160,JR,Bangor, ME
+Maine,America East,54,Aurturas Besevicius,G,6-4,209,FR,--
+Maine,America East,55,Garet Beal,G-F,6-6,215,FR,--
+Maine,America East, -- ,Shaun Lawton,NA,6-5,190,SO,Harlem, NY
+UMass Lowell,America East,2013-14 Massachusetts Lowell River Hawks
+UMass Lowell,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UMass Lowell,America East,1,Michael Gelineau,G,6-2,175,FR,Waltham, MA
+UMass Lowell,America East,4,Chad Holley,G,5-10,170,JR,New York, NY
+UMass Lowell,America East,5,Carlos Taylor,G,6-2,185,SO,Philadelphia, PA
+UMass Lowell,America East,10,Jahad Thomas,G,6-2,220,FR,Williamsport, PA
+UMass Lowell,America East,11,Akeem Williams,G,5-10,190,SR,Brockton, MA
+UMass Lowell,America East,13,Andrew Nene,G,5-11,163,FR,Webster, MA
+UMass Lowell,America East,21,DJ Mlachnik,G,6-2,175,SO,Muskego, WI
+UMass Lowell,America East,23,Kerry Weldon,F,6-5,190,SR,New York, NY
+UMass Lowell,America East,24,Tyler Livingston,F,6-5,200,FR,Hudson, NH
+UMass Lowell,America East,30,Mark Cornelius,G,6-2,180,JR,--
+UMass Lowell,America East,34,Kennedy Chukwuocha,F,6-6,210,SO,Willingboro, NJ
+UMass Lowell,America East,42,Parris Massey,C,6-7,220,SR,Boston, MA
+UMass Lowell,America East,50,James McDonnell,C,6-10,217,SO,Swansea, MA
+New Hampshire,America East,2013-14 New Hampshire Wildcats
+New Hampshire,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+New Hampshire,America East,1,Patrick Konan,F,6-6,220,SR,Gainesville, FL
+New Hampshire,America East,3,Jacoby Armstrong,F,6-6,220,FR,Sachse, TX
+New Hampshire,America East,5,Jordon Bronner,G,6-0,185,SR,Sleepy Hollow, NY
+New Hampshire,America East,10,Logan Mortenson,F,6-7,210,SO,South Jordan, UT
+New Hampshire,America East,11,Tommy McDonnell,G,6-3,190,JR,Durham, NH
+New Hampshire,America East,12,Frank Okeke,F,6-6,225,SO,Desoto, TX
+New Hampshire,America East,14,John Edwards,F,6-6,200,FR,Charlotte, NC
+New Hampshire,America East,22,Scott Morris,G,6-2,210,SR,Walkersville, MD
+New Hampshire,America East,23,Matt Miller,G,6-4,190,JR,Arnold, MD
+New Hampshire,America East,24,Williams Gabriel,F,6-8,215,FR,Lagos, Nigeria
+New Hampshire,America East,30,Daniel Dion,G,6-0,170,FR,Cedar Park, TX
+New Hampshire,America East,32,Joe Bramanti,G,6-2,195,SO,Andover, MA
+New Hampshire,America East,44,Chris Pelcher,C,6-10,250,SR,Albany, NY
+New Hampshire,America East, -- ,Jaleen Smith,G,6-4,185,FR,Freeport, TX
+Stony Brook,America East,2013-14 Stony Brook Seawolves
+Stony Brook,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Stony Brook,America East,2,Kameron Mitchell,G,6-4,175,FR,Jacksonville, FL
+Stony Brook,America East,3,Ahmad Walker,G,6-4,185,FR,Port Washington, NY
+Stony Brook,America East,4,Anthony Jackson,G,6-0,185,SR,Columbus, OH
+Stony Brook,America East,5,Dave Coley,G,6-2,190,SR,Brooklyn, NY
+Stony Brook,America East,10,Carson Puriefoy,G,6-0,175,SO,Wenonah, NJ
+Stony Brook,America East,11,Ben Resner,G,6-2,185,SR,Centerport, NY
+Stony Brook,America East,20,Jameel Warney,F,6-8,260,SO,Plainfield, NJ
+Stony Brook,America East,21,Rayshaun McGrew,F,6-7,230,SO,Chicago, IL
+Stony Brook,America East,22,Eric McAlister,F,6-8,220,SR,Hightstown, NJ
+Stony Brook,America East,23,Chris Braley,G-F,6-5,205,FR,Newport, ME
+Stony Brook,America East,24,Roland Nyama,G-F,6-6,200,FR,Frankfurt, Germany
+Stony Brook,America East,32,Anthony Mayo,F,6-10,235,JR,Philadelphia, PA
+Stony Brook,America East,33,Ryan Burnett,G,6-4,190,FR,Richmond, VA
+Stony Brook,America East,35,Scott King,F,6-10,220,SO,Derry, NH
+UMBC,America East,2013-14 UMBC Retrievers
+UMBC,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UMBC,America East,1,Chase Plummer,F,6-6,230,SR,Plainfield, NJ
+UMBC,America East,2,Rodney Elliott,G,6-0,180,FR,Baltimore, MD
+UMBC,America East,3,Quentin Jones,G,6-0,185,SR,Ellicott City, MD
+UMBC,America East,4,Ben Grace,G,5-10,175,FR,Catonsville, MD
+UMBC,America East,5,Joey Getz,G,6-0,180,JR,Philadelphia, PA
+UMBC,America East,11,Charles Taylor, Jr.,G,6-4,185,FR,Haymarket, VA
+UMBC,America East,12,Will Darley,G,6-8,190,FR,Timonium, MD
+UMBC,America East,13,Bryan Harris,G,6-2,180,FR,Oxon Hill, MD
+UMBC,America East,21,Jamar Wertz,G,6-4,195,SR,Suffolk, VA
+UMBC,America East,23,Devarick Houston,F,6-7,190,JR,Jonesboro, GA
+UMBC,America East,24,David Kadiri,F-C,6-8,190,FR,Beltsville, MD
+UMBC,America East,33,Malik Garner,F,6-6,225,FR,Philadelphia, PA
+UMBC,America East,35,Brett Roseboro,F-C,6-10,240,SR,Quakertown, PA
+UMBC,America East, -- ,Aaron Morgan,G,5-11,175,SO,Washington, PA
+Vermont,America East,2013-14 Vermont Catamounts
+Vermont,America East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Vermont,America East,1,Brian Voelkel,F,6-6,210,SR,Pleasantville, NY
+Vermont,America East,2,Luke Apfeld,F,6-7,215,SR,Chattanooga, TN
+Vermont,America East,3,Ryan Pierson,F-C,6-10,240,JR,--
+Vermont,America East,4,Naasir Williams,G,5-9,165,FR,New York, NY
+Vermont,America East,5,Hector Harold,F,6-7,205,JR,Pasadena, CA
+Vermont,America East,12,Sandro Carissimo,G,6-2,170,SR,Sleepy Hollow, NY
+Vermont,America East,14,Josh Elbaum,G,6-3,195,SR,Melville, NY
+Vermont,America East,15,Brendan Kilpatrick,G-F,6-5,205,SO,Norristown, PA
+Vermont,America East,20,Dre Wills,G,6-1,175,FR,Indianapolis, IN
+Vermont,America East,21,Candon Rusin,G,6-4,190,SR,Wilmington, VT
+Vermont,America East,24,Harrison Taggart,G-F,6-5,190,FR,Wallingford, VT
+Vermont,America East,31,Clancy Rugg,F,6-8,195,SR,Burlington, VT
+Vermont,America East,32,Ethan O'Day,F,6-9,205,SO,--
+Vermont,America East,34,Kurt Steidl,F,6-6,185,FR,Ridgefield, CT
+Vermont,America East, -- ,Troy Davine,G,6-3,185,SO,Rutland, VT
+Vermont,America East, -- ,Kurt Steidl,F,0-0,0,FR,--
+Cincinnati,American,2013-14 Cincinnati Bearcats
+Cincinnati,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Cincinnati,American,1,Deshaun Morman,G,6-3,190,FR,Richmond, VA
+Cincinnati,American,2,Titus Rubles,F,6-7,220,SR,Dallas, TX
+Cincinnati,American,3,Shaquille Thomas,F,6-7,205,SO,Paterson, NJ
+Cincinnati,American,5,Justin Jackson,F,6-8,230,SR,Cocoa Beach, FL
+Cincinnati,American,10,Troy Caupain,G,6-3,200,FR,Midlothian, VA
+Cincinnati,American,11,Jermaine Lawrence,F,6-9,205,FR,Springfield Gardens, NY
+Cincinnati,American,14,Ge'Lawn Guyn,G,6-2,185,JR,Lexington, KY
+Cincinnati,American,15,Jermaine Sanders,F,6-5,210,JR,Far Rockaway, NY
+Cincinnati,American,23,Sean Kilpatrick,G,6-4,210,SR,Yonkers, NY
+Cincinnati,American,25,Kevin Johnson,G,6-2,180,FR,Cincinnati, OH
+Cincinnati,American,32,Jamaree Strickland,C,6-10,270,FR,Oakland, CA
+Cincinnati,American,33,David Nyarsuk,C,7-1,250,SR,--
+Cincinnati,American,45,Zack Tobler,F,6-5,215,FR,Fort Mitchell, KY
+Cincinnati,American, -- ,Derek Cox,G,6-3,186,SR,Mason, OH
+Connecticut,American,2013-14 Connecticut Huskies
+Connecticut,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Connecticut,American,2,DeAndre Daniels,F,6-9,195,JR,Los Angeles, CA
+Connecticut,American,3,Terrence Samuel,G,6-4,190,FR,Brooklyn, NY
+Connecticut,American,5,Niels Giffey,G-F,6-7,204,SR,Berlin, Germany
+Connecticut,American,10,Tyler Olander,F,6-10,230,SR,--
+Connecticut,American,11,Ryan Boatright,G,6-0,168,JR,Aurora, IL
+Connecticut,American,12,Kentan Facey,F,6-9,200,FR,--
+Connecticut,American,13,Shabazz Napier,G,6-1,180,SR,Roxbury, MA
+Connecticut,American,14,Pat Lenehan,G,6-4,181,JR,Middletown, CT
+Connecticut,American,20,Lasan Kromah,G-F,6-6,201,SR,Greenbelt, MD
+Connecticut,American,21,Omar Calhoun,G,6-6,200,SO,Brooklyn, NY
+Connecticut,American,22,Leon Tolksdorf,F,6-8,218,SO,Berlin, Germany
+Connecticut,American,23,Nnamdi Amilo,G,0-0,0,FR,--
+Connecticut,American,24,Dan Guest,C,6-2,212, -- ,West Hartford, CT
+Connecticut,American,25,Tor Watts,G,6-1,200,SR,Brooklyn, NY
+Connecticut,American,35,Amida Brimah,C,7-0,217,FR,Accra, Ghana
+Connecticut,American, -- ,Nielss Giffey,NA,0-0,0, -- ,--
+Connecticut,American, -- ,Dan Guest,C,0-0,0, -- ,--
+Connecticut,American, -- ,Phillip Nolan,F,6-10,212,SO,Milwaukee, WI
+Houston,American,2013-14 Houston Cougars
+Houston,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Houston,American,1,Mikhail McLean,F,6-8,205,JR,Houston, TX
+Houston,American,2,Brandon Morris,G,6-0,185,SR,Alexandria, LA
+Houston,American,3,Jaaron Simmons,G,6-1,175,FR,Dayton, OH
+Houston,American,4,LeRon Barnes,G,6-6,195,SO,Stonewall, LA
+Houston,American,5,L.J. Rose,G,6-4,190,SO,Houston, TX
+Houston,American,12,Jimmie Jones,G,5-10,160,SR,Plano, TX
+Houston,American,21,Jherrod Stiggers,G,6-5,210,SO,Terrell, TX
+Houston,American,23,Danuel House,F,6-7,195,SO,Sugar Land, TX
+Houston,American,24,Lawrence Paye,G,6-0,185,SR,Houston, TX
+Houston,American,25,Ahmed Hamdy,F-C,6-9,255,FR,--
+Houston,American,35,TaShawn Thomas,F,6-8,240,JR,Killeen, TX
+Houston,American,45,Valentine Izundu,C,6-10,215,SO,Houston, TX
+Houston,American,55,J.J. Richardson,F,6-8,255,SR,Missouri City, TX
+Houston,American, -- ,Danrad Knowles,F,6-10,190,FR,Houston, TX
+Houston,American, -- ,Tione Womack,NA,6-1,170,SR,Baltimore, MD
+Louisville,American,2013-14 Louisville Cardinals
+Louisville,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Louisville,American,1,Anton Gill,G,6-3,185,FR,Raleigh, NC
+Louisville,American,2,Russ Smith,G,6-0,165,SR,Brooklyn, NY
+Louisville,American,3,Chris Jones,G,5-10,175,JR,Memphis, TN
+Louisville,American,4,Dillon Avare,G,6-0,150,FR,Lexington, KY
+Louisville,American,5,Kevin Ware,G,6-2,175,JR,Bronx, NY
+Louisville,American,11,Luke Hancock,G-F,6-6,200,SR,Roanoke, VA
+Louisville,American,12,Mangok Mathiang,F-C,6-10,210,FR,--
+Louisville,American,15,Tim Henderson,G,6-2,190,SR,Louisville, KY
+Louisville,American,20,Wayne Blackshear,G-F,6-5,230,JR,Chicago, IL
+Louisville,American,22,Akoy Agau,F,6-8,230,FR,Omaha, NE
+Louisville,American,23,David Levitch,G,6-3,180,FR,Goshen, KY
+Louisville,American,24,Montrezl Harrell,F,6-8,235,SO,Tarboro, NC
+Louisville,American,44,Stephan Van Treese,F,6-9,245,SR,Indianapolis, IN
+Louisville,American, -- ,Terry Rozier,G,6-1,185,FR,Cleveland, OH
+Memphis,American,2013-14 Memphis Tigers
+Memphis,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Memphis,American,1,Joe Jackson,G,6-1,174,SR,Memphis, TN
+Memphis,American,2,Shaq Goodwin,F,6-9,242,SO,Atlanta, GA
+Memphis,American,3,Chris Crawford,G,6-4,222,SR,Memphis, TN
+Memphis,American,4,Austin Nichols,F,6-8,212,FR,Collierville, TN
+Memphis,American,5,Nick King,G-F,6-7,220,FR,Memphis, TN
+Memphis,American,10,Markel Crawford,G,6-4,187,FR,Memphis, TN
+Memphis,American,11,Michael Dixon Jr.,G,6-1,200,SR,Kansas City, MO
+Memphis,American,12,David Pellom,F,6-7,224,SR,Wilmington, NC
+Memphis,American,14,Hippolyte Tsafack,F,6-8,242,JR,Yaounde, Cameroon
+Memphis,American,15,Dominic Woodson,F,6-10,300,FR,Round Rock, TX
+Memphis,American,20,RaShawn Powell,G,6-0,177,FR,Orlando, FL
+Memphis,American,23,Kuran Iverson,G-F,6-10,209,FR,Hartford, CT
+Memphis,American,32,Trey Draper,G,5-10,170,SR,Memphis, TN
+Memphis,American,35,Anthony Cole,G,6-1,193,SO,Arlington, TN
+Memphis,American,42,Jake McDowell,G-F,6-6,196,FR,Memphis, TN
+Memphis,American,55,Geron Johnson,G,6-3,203,SR,Dayton, OH
+Memphis,American, -- ,Damien Wilson,G,6-6,191,SO,Atlanta, GA
+Rutgers,American,2013-14 Rutgers Scarlet Knights
+Rutgers,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Rutgers,American,1,Jerome Seagears,G,6-1,175,JR,Silver Spring, MD
+Rutgers,American,4,Myles Mack,G,5-9,175,JR,Paterson, NJ
+Rutgers,American,10,Junior Etou,F,6-7,225,FR,Upper Marlboro, MD
+Rutgers,American,11,Kadeem Jack,F-C,6-9,230,JR,Queens, NY
+Rutgers,American,15,Craig Brown,G-F,6-5,220,JR,Miami, FL
+Rutgers,American,21,Stephen Zurich,F,6-5,205,SO,Montvale, NJ
+Rutgers,American,23,Jalen Hyde,G,5-8,160,SO,Somerset, NJ
+Rutgers,American,30,Khalil Batie,G,5-10,165,FR,Willingboro, NJ
+Rutgers,American,30,Logan Kelley,G,6-2,200,SO,Mountainside, NJ
+Rutgers,American,33,Wally Judge,F,6-9,250,SR,Washington, DC
+Rutgers,American,35,Greg Lewis,F,6-9,260,SO,Randallstown, MD
+Rutgers,American,44,J.J. Moore,F,6-6,215,SR,Brentwood, NY
+Rutgers,American,55,D'Von Campbell,G,5-11,178,JR,Arlington, TX
+Rutgers,American, -- ,Malick Kone,G-F,6-5,200,JR,Conakry, Guinea
+Rutgers,American, -- ,Kerwin Okoro,NA,6-5,220,SO,Bronx, NY
+South Florida,American,2013-14 South Florida Bulls
+South Florida,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+South Florida,American,1,Musa Abdul-Aleem,G,6-5,221,JR,Atlanta, GA
+South Florida,American,2,Victor Rudd,F,6-9,235,SR,Los Angeles, CA
+South Florida,American,3,Zach LeDay,F,6-7,245,SO,The Colony, TX
+South Florida,American,4,Corey Allen Jr.,G,6-1,152,JR,--
+South Florida,American,5,John Egbunu,C,6-10,245,FR,--
+South Florida,American,10,Josh Heath,G,6-2,165,FR,Tampa, FL
+South Florida,American,11,Anthony Collins,G,6-1,175,JR,Houston, TX
+South Florida,American,13,Jake Bodway,G,6-2,191,FR,--
+South Florida,American,15,Shemiye McLendon,G,6-3,217,JR,Vero Beach, FL
+South Florida,American,21,Javontae Hawkins,G,6-5,205,SO,Flint, MI
+South Florida,American,23,Chris Perry,F-C,6-8,266,FR,Bartow, FL
+South Florida,American,24,Dre' Clayton,F,6-6,245,FR,Orlando, FL
+South Florida,American,30,Bo Zeigler,G-F,6-6,198,FR,Detroit, MI
+South Florida,American,35,Jordan Omogbehin,C,7-3,315,SO,Lagos, Nigeria
+South Florida,American, -- ,Martino Brock,G,6-5,205,SR,Memphis, TN
+SMU,American,2013-14 Southern Methodist Mustangs
+SMU,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+SMU,American,1,Ryan Manuel,G,6-4,185,JR,Houston, TX
+SMU,American,2,Shawn Williams,F,6-7,230,SR,Duncanville, TX
+SMU,American,3,Sterling Brown,G,6-6,200,FR,Maywood, IL
+SMU,American,4,Keith Frazier,G,6-5,190,FR,Dallas, TX
+SMU,American,5,Markus Kennedy,F,6-9,245,SO,Philadelphia, PA
+SMU,American,10,Kevin Dunleavy, Jr.,G,6-2,180,JR,New Providence, NJ
+SMU,American,11,Nic Moore,G,5-9,170,SO,Winona Lake, IN
+SMU,American,12,Nick Russell,G,6-4,200,SR,Duncanville, TX
+SMU,American,13,Crandall Head,G,6-4,180,JR,Matteson, IL
+SMU,American,15,Cannen Cunningham,C,6-10,225,JR,Arlington, TX
+SMU,American,20,Jonathan Wilfong,G,6-2,185,FR,Memphis, TN
+SMU,American,24,Jean-Micheal Mudiay,G,6-3,200,JR,Arlington, TX
+SMU,American,34,Ben Moore,F,6-8,185,FR,Bolingbrook, IL
+SMU,American,35,Yanick Moreira,C,6-11,220,JR,--
+Temple,American,2013-14 Temple Owls
+Temple,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Temple,American,1,Josh Brown,G,6-3,185,FR,Irvington, NJ
+Temple,American,2,Will Cummings,G,6-2,175,JR,Jacksonville, FL
+Temple,American,3,Anthony Lee,F,6-9,230,JR,Columbia, MD
+Temple,American,10,Mark Williams,F,6-8,240,FR,Cleveland, OH
+Temple,American,13,Nick Pendergast,F,6-5,180,JR,Bridgewater, CT
+Temple,American,15,Jimmy McDonnell,F,6-10,210,JR,Jackson, NJ
+Temple,American,23,Devontae Watson,F-C,6-10,210,SO,Ambridge, PA
+Temple,American,25,Quenton DeCosey,G,6-5,180,SO,Union, NJ
+Temple,American,32,Dalton Pepper,G,6-5,220,SR,Levittown, PA
+Temple,American,42,Daniel Dingle,G-F,6-7,225,SO,Bronx, NY
+UCF,American,2013-14 UCF Knights
+UCF,American,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UCF,American,1,Tristan Spurlock,F,6-8,230,SR,Woodbridge, VA
+UCF,American,3,Isaiah Sykes,G-F,6-6,220,SR,Detroit, MI
+UCF,American,4,Daiquan Walker,G,6-2,180,SO,Philadelphia, PA
+UCF,American,5,Eugene McCrory,F,6-8,240,JR,Riverdale, MD
+UCF,American,10,Tyler Coons,G,6-2,185,SO,Orlando, FL
+UCF,American,11,Calvin Newell,G,6-1,210,SR,Philadelphia, PA
+UCF,American,12,Matt Williams,G,6-5,220,SO,Orlando, FL
+UCF,American,15,Dylan Karell,F,6-11,230,SO,North Miami Beach, FL
+UCF,American,21,Isaac Lang,G,6-1,195,SR,Tampa, FL
+UCF,American,22,Brandon Goodwin,G,6-0,175,FR,Norcross, GA
+UCF,American,24,Steven Haney,G-F,6-6,190,FR,Fort Lauderdale, FL
+UCF,American,32,Kasey Wilson,F,6-7,225,JR,North Port, FL
+UCF,American,34,Justin McBride,C,6-10,310,FR,Starke, FL
+UCF,American,52,Staphon Blair,F,6-9,250,SO,Fort Lauderdale, FL
+UCF,American, -- ,Craig Brown,NA,0-0,0, -- ,--
+UCF,American, -- ,D'Von Campbell,NA,0-0,0, -- ,--
+UCF,American, -- ,Kadeem Jack,NA,0-0,0, -- ,--
+UCF,American, -- ,Wally Judge,NA,0-0,0, -- ,--
+UCF,American, -- ,Malick Kone,NA,0-0,0, -- ,--
+UCF,American, -- ,Greg Lewis,NA,0-0,0, -- ,--
+UCF,American, -- ,Myles Mack,NA,0-0,0, -- ,--
+UCF,American, -- ,Jj Moore,NA,0-0,0, -- ,--
+Dayton,Atlantic 10,2013-14 Dayton Flyers
+Dayton,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Dayton,Atlantic 10,3,Kyle Davis,G,6-0,165,FR,Chicago, IL
+Dayton,Atlantic 10,5,Devin Oliver,F,6-7,225,SR,Kalamazoo, MI
+Dayton,Atlantic 10,11,Scoochie Smith,G,6-2,170,FR,New York, NY
+Dayton,Atlantic 10,12,Jalen Robinson,F-C,6-9,243,SO,Columbus, OH
+Dayton,Atlantic 10,21,Dyshawn Pierre,F,6-6,210,SO,Whitby, ON
+Dayton,Atlantic 10,22,Kendall Pollard,F,6-6,210,FR,Chicago, IL
+Dayton,Atlantic 10,23,Brian Vonderhaar,G,6-0,170,SR,Cincinnati, OH
+Dayton,Atlantic 10,24,Jordan Sibert,G,6-4,187,JR,Cincinnati, OH
+Dayton,Atlantic 10,25,Alex Gavrilovic,F,6-9,246,JR,Strasbourg, France
+Dayton,Atlantic 10,35,Matt Kavanaugh,F-C,6-10,250,SR,Centerville, OH
+Dayton,Atlantic 10,40,Devon Scott,F-C,6-9,215,SO,Columbus, OH
+Dayton,Atlantic 10,43,Vee Sanford,G,6-4,196,SR,Lexington, KY
+Dayton,Atlantic 10,50,Bobby Wehrli,F,6-6,198,SO,Naperville, IL
+Dayton,Atlantic 10,51,William DuPuy,G,5-8,157,FR,Grapevine, TX
+Dayton,Atlantic 10,52,Eddie Eshoo,G,6-0,180,FR,Lisle, IL
+Dayton,Atlantic 10, -- ,Khari Price,G,5-11,170,SO,Slidell, LA
+Duquesne,Atlantic 10,2013-14 Duquesne Dukes
+Duquesne,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Duquesne,Atlantic 10,2,Tra'Vaughn White,G,5-10,190,JR,Kansas City, KS
+Duquesne,Atlantic 10,3,Dominique McKoy,F,6-8,215,JR,Atlanta, GA
+Duquesne,Atlantic 10,4,Christian Johnston,G,5-10,150,SO,Pittsburgh, PA
+Duquesne,Atlantic 10,5,Jerry Jones,F,6-4,195,SR,Detroit, MI
+Duquesne,Atlantic 10,13,Isaiah Watkins,F,6-7,220,FR,Toronto, ON
+Duquesne,Atlantic 10,21,Brandon Cartmill,G,5-10,170,SO,Carlisle, PA
+Duquesne,Atlantic 10,22,Micah Mason,G,6-2,180,SO,Natrona Heights, PA
+Duquesne,Atlantic 10,23,Jeremiah Jones,F,6-3,190,SO,Gary, IN
+Duquesne,Atlantic 10,32,Desmond Ridenour,G,6-2,185,FR,Cleveland Heights, OH
+Duquesne,Atlantic 10,33,L.G. Gill,F,6-7,210,FR,Chesterfield, VA
+Duquesne,Atlantic 10,44,Nick Foschia,F,6-4,215,SO,--
+Duquesne,Atlantic 10,54,Darius Lewis,C,6-11,255,FR,Lexington, KY
+Duquesne,Atlantic 10,55,Jordan Robinson,F,6-8,255,FR,Toronto, ON
+Duquesne,Atlantic 10, -- ,Derrick Colter,NA,5-11,180,SO,Forestville, MD
+Duquesne,Atlantic 10, -- ,Ovie Soko,F,6-8,225,SR,London, England
+Fordham,Atlantic 10,2013-14 Fordham Rams
+Fordham,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Fordham,Atlantic 10,1,Mandell Thomas,G,6-2,185,SO,Rochester, NY
+Fordham,Atlantic 10,3,Matt Massimino,G,5-11,155,FR,New Hope, PA
+Fordham,Atlantic 10,5,Antwoine Anderson,G,6-1,170,FR,Rochester, NY
+Fordham,Atlantic 10,10,Jon Severe,G,6-3,180,FR,Brooklyn, NY
+Fordham,Atlantic 10,12,Jake Fay,G,6-5,175,FR,--
+Fordham,Atlantic 10,13,Chris Whitehead,G,5-9,190,JR,New Albany, IN
+Fordham,Atlantic 10,15,Nihad Musovic,G,6-0,185,SO,Yonkers, NY
+Fordham,Atlantic 10,20,Jared Fay,G,6-3,185,SO,Lynn, MA
+Fordham,Atlantic 10,22,Jermaine Myers,G,6-0,180,SO,Ajax, ON
+Fordham,Atlantic 10,24,Bryan Smith,G,6-2,190,JR,Brooklyn, NY
+Fordham,Atlantic 10,25,Leo Walsh,F,6-4,198,SR,Clarks Green, PA
+Fordham,Atlantic 10,30,Ryan Rhoomes,F,6-8,235,SO,--
+Fordham,Atlantic 10,32,DC Gaitley,G,6-1,190,SO,Haverford, PA
+Fordham,Atlantic 10,33,Victor Ieronymides,G-F,6-6,208,FR,--
+Fordham,Atlantic 10,35,Khalid Robinson,G,6-2,195,SR,Bronx, NY
+Fordham,Atlantic 10,42,Ryan Canty,C,6-9,240,JR,Danvers, MA
+Fordham,Atlantic 10,44,Manny Suarez,F,6-10,225,FR,Cliffside Park, NJ
+Fordham,Atlantic 10, -- ,Branden Frazier,G,6-3,170,SR,Brooklyn, NY
+Fordham,Atlantic 10, -- ,Travion Leonard,NA,6-8,275,SO,Raleigh, NC
+George Mason,Atlantic 10,2013-14 George Mason Patriots
+George Mason,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+George Mason,Atlantic 10,1,Vaughn Gray,F,6-5,195,JR,Elmwood Park, NJ
+George Mason,Atlantic 10,2,Johnny Williams,F,6-8,260,SR,Memphis, TN
+George Mason,Atlantic 10,3,Patrick Holloway,G,6-1,163,SO,Stafford, VA
+George Mason,Atlantic 10,4,Erik Copes,F-C,6-8,250,JR,Philadelphia, PA
+George Mason,Atlantic 10,5,Jonathan Arledge,F,6-9,236,SR,Silver Spring, MD
+George Mason,Atlantic 10,10,Sherrod Wright,G,6-4,202,SR,Mount Vernon, NY
+George Mason,Atlantic 10,12,Myles Tate,G,5-7,158,SO,Ashburn, VA
+George Mason,Atlantic 10,13,Corey Edwards,G,5-11,174,JR,--
+George Mason,Atlantic 10,14,Anali Okoloji,F,6-8,214,JR,Brooklyn, NY
+George Mason,Atlantic 10,20,Jalen Jenkins,F,6-7,238,FR,Yonkers, NY
+George Mason,Atlantic 10,22,Marquise Moore,G,6-1,195,FR,Queens, NY
+George Mason,Atlantic 10,25,Julian Royal,F,6-8,237,JR,Alpharetta, GA
+George Mason,Atlantic 10,30,Michael Rudy,F,6-7,220,SO,Falls Church, VA
+George Mason,Atlantic 10,40,Marko Gujanicic,F,6-8,224,SO,--
+George Mason,Atlantic 10, -- ,Bryon Allen,G,6-3,202,SR,Largo, MD
+George Mason,Atlantic 10, -- ,Tate Myles,G,0-0,0, -- ,--
+G. Washington,Atlantic 10,2013-14 George Washington Colonials
+G. Washington,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+G. Washington,Atlantic 10,1,Maurice Creek,G,6-5,195,SR,Oxon Hill, MD
+G. Washington,Atlantic 10,3,Miguel Cartagena,G,6-0,170,FR,Aibonito, Puerto Rico
+G. Washington,Atlantic 10,5,Nick Griffin,G,6-2,173,FR,Rockville, MD
+G. Washington,Atlantic 10,11,Kethan Savage,G,6-3,200,SO,Fairfax, VA
+G. Washington,Atlantic 10,13,Patricio Garino,G-F,6-6,211,SO,Mar Del Plata, Argentina
+G. Washington,Atlantic 10,20,Ryan McCoy,F,6-9,207,JR,Skillman, NJ
+G. Washington,Atlantic 10,21,Kevin Larsen,F,6-10,247,SO,Copenhagen, Denmark
+G. Washington,Atlantic 10,22,Joe McDonald,G,6-1,184,SO,Lorton, VA
+G. Washington,Atlantic 10,30,Nemanja Mikic,F,6-8,213,SR,--
+G. Washington,Atlantic 10,32,Isaiah Armwood,F,6-9,208,SR,Baltimore, MD
+G. Washington,Atlantic 10,33,Paris Maragkos,F,6-9,243,SO,--
+G. Washington,Atlantic 10,34,John Kopriva,F,6-8,214,JR,Milwaukee, WI
+G. Washington,Atlantic 10,43,Skyler White,F,6-8,238,FR,Clyde Hill, WA
+La Salle,Atlantic 10,2013-14 La Salle Explorers
+La Salle,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+La Salle,Atlantic 10,1,D.J. Peterson,G,6-5,190,JR,Burnsville, MN
+La Salle,Atlantic 10,2,Amar Stukes,G,6-2,180,FR,Philadelphia, PA
+La Salle,Atlantic 10,3,Tyreek Duren,G,6-0,190,SR,Philadelphia, PA
+La Salle,Atlantic 10,4,Hank Davis,G,5-10,155,FR,Cherry Hill, NJ
+La Salle,Atlantic 10,5,Taylor Dunn,G,6-2,205,SR,State College, PA
+La Salle,Atlantic 10,10,Sam Mills,G,6-2,200,SR,Sunrise, FL
+La Salle,Atlantic 10,11,O.J. Lewis,G,6-0,170,SO,Mitchellville, MD
+La Salle,Atlantic 10,21,Tyrone Garland,G,6-1,185,SR,Philadelphia, PA
+La Salle,Atlantic 10,23,Khalid Lewis,G,6-3,195,SO,Trenton, NJ
+La Salle,Atlantic 10,25,Jerrell Wright,F,6-8,255,JR,Philadelphia, PA
+La Salle,Atlantic 10,30,Jermaine Davis,C,6-9,280,FR,Garfield Heights, OH
+La Salle,Atlantic 10,35,Rohan Brown,G-F,6-6,225,SO,Hartford, CT
+La Salle,Atlantic 10, -- ,Jordan Price,G,6-5,225,SO,Decatur, GA
+La Salle,Atlantic 10, -- ,Cleon Roberts,G,6-5,180,SO,Miami, FL
+La Salle,Atlantic 10, -- ,Steve Zack,C,6-11,245,JR,New Cumberland, PA
+Massachusetts,Atlantic 10,2013-14 Massachusetts Minutemen
+Massachusetts,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Massachusetts,Atlantic 10,1,Maxie Esho,F,6-8,215,JR,Upper Marlboro, MD
+Massachusetts,Atlantic 10,2,Derrick Gordon,G,6-3,200,SO,Plainfield, NJ
+Massachusetts,Atlantic 10,3,Chaz Williams,G,5-9,175,SR,Brooklyn, NY
+Massachusetts,Atlantic 10,4,Jabarie Hinds,G,5-11,185,JR,Mount Vernon, NY
+Massachusetts,Atlantic 10,5,Clyde Santee,G,6-7,205,FR,Houston, TX
+Massachusetts,Atlantic 10,11,Tyler Bergantino,C,6-9,245,SO,--
+Massachusetts,Atlantic 10,12,Trey Davis,G,6-0,180,SO,Desoto, TX
+Massachusetts,Atlantic 10,13,Zach Coleman,F,6-7,205,FR,Dallas, TX
+Massachusetts,Atlantic 10,22,Sampson Carter,F,6-8,220,SR,Baton Rouge, LA
+Massachusetts,Atlantic 10,24,Seth Berger,F,6-7,210,FR,Seattle, WA
+Massachusetts,Atlantic 10,34,Raphiael Putney,F,6-9,185,SR,Woodbridge, VA
+Massachusetts,Atlantic 10, -- ,Demetrius Dyson,G,6-5,200,FR,Covington, TN
+Massachusetts,Atlantic 10, -- ,Cady Lalanne,NA,6-10,250,JR,Orlando, FL
+Rhode Island,Atlantic 10,2013-14 Rhode Island Rams
+Rhode Island,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Rhode Island,Atlantic 10,1,Mike Powell,G,5-11,175,JR,Chicago, IL
+Rhode Island,Atlantic 10,2,Jarelle Reischel,F,6-6,215,SO,Frankfurt, Germany
+Rhode Island,Atlantic 10,4,Jordan Hare,F,6-10,205,SO,Saginaw, MI
+Rhode Island,Atlantic 10,5,Xavier Munford,G,6-2,180,SR,Hillside, NJ
+Rhode Island,Atlantic 10,10,Biggie Minnis,G,6-3,185,SO,Philadelphia, PA
+Rhode Island,Atlantic 10,11,Matthew Butler,G,6-2,200,FR,Memphis, TN
+Rhode Island,Atlantic 10,12,Hassan Martin,F,6-7,210,FR,Staten Island, NY
+Rhode Island,Atlantic 10,13,T.J. Buchanan,G,6-3,195,JR,Kalamazoo, MI
+Rhode Island,Atlantic 10,14,Ifeanyi Onyekaba,F,6-8,240,SO,--
+Rhode Island,Atlantic 10,20,Eric Youncofski,G,5-10,150,SO,Middletown, NJ
+Rhode Island,Atlantic 10,22,Jonathan Nazarko,G,6-2,200,JR,East Lyme, CT
+Rhode Island,Atlantic 10,30,Shane Plunkett,G,6-3,195,SO,--
+Rhode Island,Atlantic 10,34,Mike Aaman,F,6-8,210,SO,Hazlet, NJ
+Rhode Island,Atlantic 10,55,Gilvydas Biruta,F,6-8,245,JR,Jonava, Lithuania
+Rhode Island,Atlantic 10, -- ,E.C. Matthews,G,6-5,190,FR,Romulus, MI
+Richmond,Atlantic 10,2013-14 Richmond Spiders
+Richmond,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Richmond,Atlantic 10,1,Josh Jones,G,6-4,185,FR,Memphis, TN
+Richmond,Atlantic 10,2,Cedrick Lindsay,G,6-1,190,SR,Washington, DC
+Richmond,Atlantic 10,3,ShawnDre' Jones,G,5-10,155,FR,Houston, TX
+Richmond,Atlantic 10,4,Wayne Sparrow,G,6-3,180,JR,Baltimore, MD
+Richmond,Atlantic 10,5,Trey Davis,F,6-5,200,SO,Richmond, VA
+Richmond,Atlantic 10,10,Tim Singleton,G,6-2,180,FR,Dallas, TX
+Richmond,Atlantic 10,11,Deion Taylor,F,6-7,200,SO,New Orleans, LA
+Richmond,Atlantic 10,12,Chase Fletcher,F,6-6,205,FR,Dallas, TX
+Richmond,Atlantic 10,13,John Moran,G,6-3,175,SO,Phoenixville, PA
+Richmond,Atlantic 10,15,Terry Allen,F,6-8,220,SO,Houston, TX
+Richmond,Atlantic 10,30,Zach Chu,G,5-8,160,JR,Dallas, TX
+Richmond,Atlantic 10,32,T.J. Cline,F,6-8,240,SO,Plano, TX
+Richmond,Atlantic 10,33,Alonzo Nelson-Ododa,F,6-9,210,SO,Atlanta, GA
+Richmond,Atlantic 10,34,Derrick Williams,F,6-6,270,SR,Harlem, NY
+Richmond,Atlantic 10, -- ,Kendall Anthony,G,5-8,140,JR,Jackson, TN
+Saint Joseph's,Atlantic 10,2013-14 Saint Joseph's Hawks
+Saint Joseph's,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Saint Joseph's,Atlantic 10,10,Langston Galloway,G,6-2,202,SR,Baton Rouge, LA
+Saint Joseph's,Atlantic 10,11,Daryus Quarles,F,6-6,186,SR,Paulsboro, NJ
+Saint Joseph's,Atlantic 10,13,Ronald Roberts, Jr.,F,6-8,225,SR,Bayonne, NJ
+Saint Joseph's,Atlantic 10,15,Isaiah Miles,F,6-7,223,SO,Baltimore, MD
+Saint Joseph's,Atlantic 10,20,Brendan Casper,F,6-6,215,FR,Audubon, PA
+Saint Joseph's,Atlantic 10,22,Kyle Molock,G,6-2,192,FR,Dublin, OH
+Saint Joseph's,Atlantic 10,24,Chris Wilson,G,6-3,210,JR,Fayetteville, NC
+Saint Joseph's,Atlantic 10,25,Eric Kindler,F,6-5,223,JR,Mechanicsburg, PA
+Saint Joseph's,Atlantic 10,32,Papa Ndao,F,6-8,225,JR,Dakar, Senegal
+Saint Joseph's,Atlantic 10,34,Javon Baumann,F,6-8,257,FR,--
+Saint Joseph's,Atlantic 10,40,Jai Williams,F,6-9,275,FR,Philadelphia, PA
+Saint Joseph's,Atlantic 10,41,Colin Kelly,F,6-5,205,SR,--
+Saint Joseph's,Atlantic 10,43,DeAndre Bembry,F,6-6,200,FR,--
+Saint Joseph's,Atlantic 10,45,Halil Kanacevic,F,6-8,255,SR,Staten Island, NY
+Saint Joseph's,Atlantic 10, -- ,Evan Maschmeyer,G,6-3,200,JR,Jeffersonville, IN
+Saint Louis,Atlantic 10,2013-14 Saint Louis Billikens
+Saint Louis,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Saint Louis,Atlantic 10,1,Grandy Glaze,F,6-6,235,JR,Toronto, ON
+Saint Louis,Atlantic 10,2,Austin McBroom,G,5-9,165,SO,North Hollywood, CA
+Saint Louis,Atlantic 10,5,Jordair Jett,G,6-1,215,SR,--
+Saint Louis,Atlantic 10,10,Joey LePak,G,6-1,170,SO,Cedarburg, WI
+Saint Louis,Atlantic 10,11,Mike McCall Jr.,G,6-0,180,SR,Chicago, IL
+Saint Louis,Atlantic 10,15,Tanner Lancona,F,6-8,230,FR,Trabuco Canyon, CA
+Saint Louis,Atlantic 10,21,Dwayne Evans,F,6-6,230,SR,Bolingbrook, IL
+Saint Louis,Atlantic 10,30,Jake Barnett,F,6-5,205,SR,Wauwatosa, WI
+Saint Louis,Atlantic 10,32,Mike Crawford,G-F,6-4,200,FR,Tipton, IN
+Saint Louis,Atlantic 10,35,Reggie Agbeko,F,6-7,240,FR,Buffalo, NY
+Saint Louis,Atlantic 10,51,Rob Loe,F,6-11,245,SR,Auckland, New Zealand
+Saint Louis,Atlantic 10,54,John Manning,C,6-11,240,JR,Chantilly, VA
+St. Bonaventure,Atlantic 10,2013-14 St. Bonaventure Bonnies
+St. Bonaventure,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+St. Bonaventure,Atlantic 10,3,Charlon Kloof,G,6-3,195,SR,Paramaribo, Suriname
+St. Bonaventure,Atlantic 10,4,Jalen Adams,G,6-4,175,FR,Saginaw, MI
+St. Bonaventure,Atlantic 10,5,Jordan Gathers,G,6-3,200,JR,Los Angeles, CA
+St. Bonaventure,Atlantic 10,10,Danny Farrell,G,6-0,170,SR,Binghamton, NY
+St. Bonaventure,Atlantic 10,11,Xavier Smith,F,6-8,205,FR,Plano, TX
+St. Bonaventure,Atlantic 10,12,Denzel Gregg,G-F,6-7,210,FR,Syracuse, NY
+St. Bonaventure,Atlantic 10,15,Chris Dees,F-C,6-8,260,JR,Sylmar, CA
+St. Bonaventure,Atlantic 10,20,Matthias Runs,F-C,7-0,240,SO,Hilversum, Netherlands
+St. Bonaventure,Atlantic 10,21,Dion Wright,G-F,6-7,215,SO,Lakewood, CA
+St. Bonaventure,Atlantic 10,23,Andell Cumberbatch,G,6-4,195,JR,East Orange, NJ
+St. Bonaventure,Atlantic 10,24,Matthew Wright,G,6-4,200,SR,Toronto, ON
+St. Bonaventure,Atlantic 10,33,Marquise Simmons,F,6-8,235,SR,Washington, DC
+St. Bonaventure,Atlantic 10,35,Youssou Ndoye,C,7-0,245,JR,Dakar, Senegal
+St. Bonaventure,Atlantic 10,43,Jean Yves Toupane,G-F,6-7,185,SO,Dakar, Senegal
+VCU,Atlantic 10,2013-14 Virginia Commonwealth Rams
+VCU,Atlantic 10,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+VCU,Atlantic 10,1,JeQuan Lewis,G,6-1,175,FR,Dickson, TN
+VCU,Atlantic 10,2,Briante Weber,G,6-2,165,JR,Chesapeake, VA
+VCU,Atlantic 10,5,Doug Brooks,G,6-3,180,FR,Lake Wales, FL
+VCU,Atlantic 10,11,Rob Brandenberg,G,6-2,190,SR,Cincinnati, OH
+VCU,Atlantic 10,12,Mo Alie-Cox,F,6-6,250,FR,Middleburg, VA
+VCU,Atlantic 10,14,Torey Burston,G,5-8,165,FR,Richmond, VA
+VCU,Atlantic 10,15,Juvonte Reddic,F,6-9,250,SR,Winston-salem, NC
+VCU,Atlantic 10,20,Jordan Burgess,G,6-5,215,FR,Midlothian, VA
+VCU,Atlantic 10,21,Treveon Graham,G,6-6,220,JR,Temple Hills, MD
+VCU,Atlantic 10,23,Jarred Guest,F,6-8,225,JR,Columbia, SC
+VCU,Atlantic 10,25,Antravious Simmons,F,6-9,250,FR,Miami, FL
+VCU,Atlantic 10,32,Melvin Johnson,G,6-3,195,SO,Bronx, NY
+VCU,Atlantic 10,40,Emerson Burk,F,6-9,215,FR,Chesapeake, VA
+VCU,Atlantic 10, -- ,Jairus Lyles,G,6-2,175,FR,Washington, DC
+Boston College,ACC,2013-14 Boston College Eagles
+Boston College,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Boston College,ACC,1,Steve Perpiglia,G,5-10,170,SO,Broomall, PA
+Boston College,ACC,4,Eddie Odio,F,6-7,213,JR,Miami, FL
+Boston College,ACC,5,KC Caudill,C,6-11,277,JR,Brea, CA
+Boston College,ACC,10,Darryl Hicks,G,6-2,179,FR,Louisville, KY
+Boston College,ACC,11,Will Magarity,F,6-11,227,FR,Stockholm, Sweden
+Boston College,ACC,12,Ryan Anderson,F,6-8,219,JR,Lakewood, CA
+Boston College,ACC,13,John Cain Carney,F,6-8,219,JR,Philadelphia, PA
+Boston College,ACC,14,Drew Jacobs,G,6-2,183,SO,Mendham, NJ
+Boston College,ACC,15,Sam Donahue,G,6-1,178,FR,Pawcatuck, CT
+Boston College,ACC,20,Lonnie Jackson,G,6-3,178,JR,Valencia, CA
+Boston College,ACC,21,Olivier Hanlan,G,6-4,181,SO,Aylmer, PQ
+Boston College,ACC,23,Alex Dragicevich,F,6-7,207,JR,Northbrook, IL
+Boston College,ACC,24,Dennis Clifford,C,7-0,247,JR,Bridgewater, MA
+Boston College,ACC,25,Joe Rahon,G,6-2,192,SO,San Diego, CA
+Boston College,ACC,31,Danny Rubin,G,6-6,192,SR,Chevy Chase, MD
+Boston College,ACC,33,Patrick Heckmann,G,6-5,211,JR,Mainz, Germany
+Boston College,ACC, -- ,John Cain Carney,NA,0-0,0, -- ,--
+Boston College,ACC, -- ,Garland Owens,F,6-5,202,FR,Gaithersburg, MD
+Clemson,ACC,2013-14 Clemson Tigers
+Clemson,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Clemson,ACC,1,Austin Ajukwa,G-F,6-5,190,FR,Columbia, SC
+Clemson,ACC,2,Carson Fields,G,6-4,200,JR,Pewee Valley, KY
+Clemson,ACC,3,Adonis Filer,G,6-2,190,SO,Chicago, IL
+Clemson,ACC,4,Patrick Rooks,G,6-2,185,FR,Charlotte, NC
+Clemson,ACC,5,Jaron Blossomgame,F,6-7,215,FR,Alpharetta, GA
+Clemson,ACC,12,Rod Hall,G,6-1,210,JR,Augusta, GA
+Clemson,ACC,20,Jordan Roper,G,5-11,165,SO,Columbia, SC
+Clemson,ACC,21,Damarcus Harrison,G,6-4,205,JR,Greenwood, SC
+Clemson,ACC,32,K.J. McDaniels,F,6-6,200,JR,Birmingham, AL
+Clemson,ACC,33,Josh Smith,F-C,6-8,260,SO,Charlotte, NC
+Clemson,ACC,35,Landry Nnoko,C,6-10,250,SO,Yaounde, Cameroon
+Clemson,ACC,42,Ibrahim Djambo,F,6-10,215,JR,Bamako, Mali
+Clemson,ACC,50,Sidy Djitte,C,6-10,240,FR,Dakar, Senegal
+Duke,ACC,2013-14 Duke Blue Devils
+Duke,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Duke,ACC,1,Jabari Parker,F,6-8,235,FR,Chicago, IL
+Duke,ACC,2,Quinn Cook,G,6-2,180,JR,Washington, DC
+Duke,ACC,3,Tyler Thornton,G,6-2,190,SR,Washington, DC
+Duke,ACC,5,Rodney Hood,F,6-8,215,SO,Meridian, MS
+Duke,ACC,13,Matt Jones,G,6-4,200,FR,Desoto, TX
+Duke,ACC,14,Rasheed Sulaimon,G,6-4,190,SO,Houston, TX
+Duke,ACC,15,Josh Hairston,F,6-8,235,SR,Fredericksburg, VA
+Duke,ACC,20,Semi Ojeleye,F,6-7,230,FR,Ottawa, KS
+Duke,ACC,21,Amile Jefferson,F,6-9,210,SO,Philadelphia, PA
+Duke,ACC,34,Andre Dawkins,G,6-5,215,SR,Chesapeake, VA
+Duke,ACC,40,Marshall Plumlee,C,7-0,260,SO,Warsaw, IN
+Duke,ACC,45,Nick Pagliuca,G,6-3,175,FR,Weston, MA
+Duke,ACC,52,Todd Zafirovski,F,6-9,245,SR,Lake Forest, IL
+Duke,ACC, -- ,Alex Murphy,NA,0-0,0, -- ,--
+Florida State,ACC,2013-14 Florida State Seminoles
+Florida State,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Florida State,ACC,1,Devon Bookert,G,6-3,185,SO,Anchorage, AK
+Florida State,ACC,2,Marquez White,G,6-0,171,FR,Dothan, AL
+Florida State,ACC,5,Jarquez Smith,F,6-9,225,FR,Haddock, GA
+Florida State,ACC,10,Okaro White,F,6-9,204,SR,Clearwater, FL
+Florida State,ACC,11,Kiel Turpin,C,7-0,225,SR,Normal, IL
+Florida State,ACC,14,Robert Gilchrist,F,6-9,220,SR,London, England
+Florida State,ACC,15,Boris Bojanovsky,C,7-3,240,SO,--
+Florida State,ACC,22,Xavier Rathan-Mayes,G,6-4,180,FR,Scarborough, ON
+Florida State,ACC,25,Aaron Thomas,G,6-5,195,SO,Cincinnati, OH
+Florida State,ACC,30,Ian Miller,G,6-3,197,SR,Charlotte, NC
+Florida State,ACC,32,Montay Brandon,G,6-7,216,SO,High Point, NC
+Florida State,ACC,35,Joell Hopkins,F,6-6,205,JR,Durham, NC
+Florida State,ACC,40,Brandon Allen,F,6-6,200,FR,Milton, FL
+Florida State,ACC,50,Michael Ojo,C,7-1,290,SO,Lagos, Nigeria
+Georgia Tech,ACC,2013-14 Georgia Tech Yellow Jackets
+Georgia Tech,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Georgia Tech,ACC,1,Stacey Poole, Jr.,G-F,6-4,199,JR,Jacksonville, FL
+Georgia Tech,ACC,2,Solomon Poole,G,6-0,190,SO,Jacksonville, FL
+Georgia Tech,ACC,3,Marcus Georges-Hunt,F,6-5,219,SO,College Park, GA
+Georgia Tech,ACC,4,Robert Carter, Jr.,F,6-8,247,SO,Thomasville, GA
+Georgia Tech,ACC,5,Daniel Miller,C,6-11,275,SR,Loganville, GA
+Georgia Tech,ACC,10,Travis Jorgenson,G,6-0,177,FR,Columbia, MO
+Georgia Tech,ACC,11,Chris Bolden,G,6-3,216,SO,Tifton, GA
+Georgia Tech,ACC,12,Quinton Stephens,F,6-8,184,FR,Atlanta, GA
+Georgia Tech,ACC,14,Jason Morris,G-F,6-5,231,SR,Augusta, GA
+Georgia Tech,ACC,23,Trae Golden,G,6-2,205,SR,Powder Springs, GA
+Georgia Tech,ACC,24,Kammeon Holsey,F,6-8,234,SR,Sparta, GA
+Georgia Tech,ACC,30,Corey Heyward,G,6-1,221,FR,Duluth, GA
+Georgia Tech,ACC,31,Aaron Peek,G-F,6-4,188,JR,Atlanta, GA
+Georgia Tech,ACC,32,Brooks Doyle,G,6-4,199,SO,Atlanta, GA
+Georgia Tech,ACC,41,Colin Gurry,G,6-1,183,SO,Canton, CT
+Georgia Tech,ACC,42,Rand Rowland,F,6-6,208,FR,Cleveland, GA
+Georgia Tech,ACC,43,Ron Wamer,G,6-2,190,SO,Dacula, GA
+Maryland,ACC,2013-14 Maryland Terrapins
+Maryland,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Maryland,ACC,1,Evan Smotrycz,F,6-9,230,JR,Reading, MA
+Maryland,ACC,2,Roddy Peters,G,6-3,195,FR,District Heights, MD
+Maryland,ACC,4,Seth Allen,G,6-1,190,SO,Woodbridge, VA
+Maryland,ACC,5,Nick Faust,G,6-6,205,JR,Baltimore, MD
+Maryland,ACC,10,Jake Layman,G-F,6-8,205,SO,Wrentham, MA
+Maryland,ACC,11,Varun Ram,G,5-9,150,JR,Clarksville, MD
+Maryland,ACC,12,Conner Lipinski,G,5-10,155,SO,Gambrills, MD
+Maryland,ACC,15,Spencer Barks,F,6-9,225,JR,Poolesville, MD
+Maryland,ACC,23,John Auslander,F,6-7,220,SR,Herndon, VA
+Maryland,ACC,24,Jacob Susskind,G,6-5,190,JR,West Orange, NJ
+Maryland,ACC,25,Jonathan Graham,F,6-8,220,JR,Baltimore, MD
+Maryland,ACC,32,Dez Wells,G-F,6-5,215,JR,Raleigh, NC
+Maryland,ACC,33,A.J. Metz,F,6-5,185,FR,Leesburg, VA
+Maryland,ACC,35,Damonte Dodd,F,6-9,240,FR,Centreville, MD
+Maryland,ACC,44,Shaquille Cleare,C,6-9,265,SO,Andros, Bahamas
+Maryland,ACC, -- ,Charles Mitchell,F,6-8,260,SO,Atlanta, GA
+Miami (FL),ACC,2013-14 Miami (FL) Hurricanes
+Miami (FL),ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Miami (FL),ACC,1,Deandre Burnett,G,6-2,191,FR,Miami Gardens, FL
+Miami (FL),ACC,2,Corn Elder,G,5-10,173,FR,Nashville, TN
+Miami (FL),ACC,3,Steve Sorenson,G,6-0,161,SO,Dallas, TX
+Miami (FL),ACC,4,Raphael Akpejiori,F,6-9,241,SR,Lagos, Nigeria
+Miami (FL),ACC,5,Davon Reed,G,6-6,208,FR,Princeton, NJ
+Miami (FL),ACC,11,Mike Fernandez,G,6-1,189,FR,Coral Gables, FL
+Miami (FL),ACC,12,Justin Heller,G,6-2,177,JR,Boca Raton, FL
+Miami (FL),ACC,15,Rion Brown,G,6-6,211,SR,Hinesville, GA
+Miami (FL),ACC,20,Manu Lecomte,G,5-11,159,FR,--
+Miami (FL),ACC,21,Erik Swoope,F,6-5,220,SR,Lake Elsinore, CA
+Miami (FL),ACC,22,Donnavan Kirk,F,6-9,228,SR,Pontiac, MI
+Miami (FL),ACC,23,Tonye Jekiri,C,7-0,235,SO,Hialeah, FL
+Miami (FL),ACC,25,Garrius Adams,G,6-6,200,SR,Apex, NC
+Miami (FL),ACC,35,James Kelly,F,6-7,246,JR,Ann Arbor, MI
+North Carolina,ACC,2013-14 North Carolina Tar Heels
+North Carolina,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+North Carolina,ACC,2,Leslie McDonald,G,6-5,215,SR,Memphis, TN
+North Carolina,ACC,3,Kennedy Meeks,F,6-9,290,FR,Charlotte, NC
+North Carolina,ACC,4,Luke Davis,G,6-0,175,JR,Raleigh, NC
+North Carolina,ACC,5,Marcus Paige,G,6-1,175,SO,Marion, IA
+North Carolina,ACC,11,Brice Johnson,F,6-9,210,SO,Orangeburg, SC
+North Carolina,ACC,13,J.P. Tokoto,F,6-5,200,SO,--
+North Carolina,ACC,14,Desmond Hubert,F,6-10,220,JR,Cream Ridge, NJ
+North Carolina,ACC,21,Jackson Simmons,F,6-7,225,JR,Webster, NC
+North Carolina,ACC,22,Isaiah Hicks,F,6-8,220,FR,Oxford, NC
+North Carolina,ACC,30,James Manor,F,6-6,220,SR,Carrboro, NC
+North Carolina,ACC,34,Denzel Robinson,F,6-4,220,SR,Chapel Hill, NC
+North Carolina,ACC,42,Joel James,F,6-10,280,SO,West Palm Beach, FL
+North Carolina,ACC,43,James Michael McAdoo,F,6-9,230,JR,Norfolk, VA
+North Carolina,ACC,55,Wade Moody,G,6-0,175,SR,Mount Airy, NC
+North Carolina,ACC, -- ,Nate Britt,G,5-11,165,FR,--
+NC State,ACC,2013-14 North Carolina State Wolfpack
+NC State,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+NC State,ACC,1,Trevor Lacey,G,6-3,220,JR,Huntsville, AL
+NC State,ACC,2,Anthony Barber,G,6-2,170,FR,Newport News, VA
+NC State,ACC,5,Desmond Lee,G,6-4,200,JR,Norfolk, VA
+NC State,ACC,10,Lennard Freeman,F,6-8,245,FR,Washington, DC
+NC State,ACC,12,Tyler Lewis,G,5-11,170,SO,Statesville, NC
+NC State,ACC,14,Jordan Vandenberg,C,7-1,245,SR,--
+NC State,ACC,15,Chris Brickhouse,F,6-5,205,FR,Raleigh, NC
+NC State,ACC,20,Patrick Wallace,G,6-1,195,FR,Charlotte, NC
+NC State,ACC,21,Beejay Anya,F,6-9,325,FR,Gaithersburg, MD
+NC State,ACC,22,Ralston Turner,G,6-5,205,JR,Muscle Shoals, AL
+NC State,ACC,24,T.J. Warren,F,6-8,215,SO,Durham, NC
+NC State,ACC,25,Chase Cannon,G,6-4,200,SO,Morehead City, NC
+NC State,ACC,30,Staats Battle,G,6-6,203,JR,Raleigh, NC
+NC State,ACC,32,Kyle Washington,F,6-9,225,FR,Champlin, MN
+NC State,ACC,34,Jevoni Robinson,F,6-8,225,JR,Charlotte, NC
+Notre Dame,ACC,2013-14 Notre Dame Fighting Irish
+Notre Dame,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Notre Dame,ACC,3,V.J. Beachem,F,6-8,187,FR,Fort Wayne, IN
+Notre Dame,ACC,4,Patrick Crowley,G,6-3,201,SR,Los Gatos, CA
+Notre Dame,ACC,11,Garrick Sherman,C,6-11,255,SR,Kenton, OH
+Notre Dame,ACC,15,Eric Katenda,F,6-9,230,SO,Paris, France
+Notre Dame,ACC,20,Austin Burgett,F,6-9,227,SO,Avon, IN
+Notre Dame,ACC,23,Demetrius Jackson,G,6-1,195,FR,Mishawaka, IN
+Notre Dame,ACC,24,Pat Connaughton,G-F,6-5,214,JR,Arlington, MA
+Notre Dame,ACC,25,Tom Knight,F,6-10,258,SR,Dixfield, ME
+Notre Dame,ACC,30,Zach Auguste,F,6-10,242,SO,Marlborough, MA
+Notre Dame,ACC,32,Steve Vasturia,G,6-6,207,FR,Medford, NJ
+Notre Dame,ACC,35,Austin Torres,F,6-7,218,FR,Mishawaka, IN
+Notre Dame,ACC, -- ,Eric Atkins,G,6-2,182,SR,Columbia, MD
+Pittsburgh,ACC,2013-14 Pittsburgh Panthers
+Pittsburgh,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Pittsburgh,ACC,1,Jamel Artis,F,6-7,230,FR,Baltimore, MD
+Pittsburgh,ACC,2,Michael Young,F,6-8,245,FR,Duquesne, PA
+Pittsburgh,ACC,3,Cameron Wright,G,6-4,205,JR,Cleveland, OH
+Pittsburgh,ACC,5,Durand Johnson,F,6-6,205,SO,Baltimore, MD
+Pittsburgh,ACC,11,Derrick Randall,F,6-9,240,JR,Brooklyn, NY
+Pittsburgh,ACC,12,Chris Jones,G-F,6-6,213,FR,Teaneck, NJ
+Pittsburgh,ACC,13,Josh Newkirk,G,6-1,185,FR,Raleigh, NC
+Pittsburgh,ACC,15,Aron Nwankwo,F,6-7,215,JR,Baltimore, MD
+Pittsburgh,ACC,21,Lamar Patterson,F,6-5,225,SR,Lancaster, PA
+Pittsburgh,ACC,22,Joshua Ko,G,6-1,150,FR,Kailua, HI
+Pittsburgh,ACC,24,Mike Lecak,G,6-2,175,SO,Pittsburgh, PA
+Pittsburgh,ACC,42,Talib Zanna,F,6-9,230,SR,--
+Pittsburgh,ACC,50,Joseph Uchebo,C,6-10,260,SO,Enugu, Nigeria
+Pittsburgh,ACC, -- ,James Robinson,G,6-3,200,SO,Mitchellville, MD
+Syracuse,ACC,2013-14 Syracuse Orange
+Syracuse,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Syracuse,ACC,2,B.J. Johnson,F,6-7,185,FR,Philadelphia, PA
+Syracuse,ACC,3,Jerami Grant,F,6-8,210,SO,Hyattsville, MD
+Syracuse,ACC,4,Nolan Hart,G,5-10,152,SR,Albany, NY
+Syracuse,ACC,5,C.J. Fair,F,6-8,215,SR,Baltimore, MD
+Syracuse,ACC,10,Trevor Cooney,G,6-4,195,SO,Wilmington, DE
+Syracuse,ACC,11,Tyler Ennis,G,6-2,180,FR,Brampton, ON
+Syracuse,ACC,12,Baye-Moussa Keita,C,6-10,220,SR,--
+Syracuse,ACC,21,Tyler Roberson,F,6-8,212,FR,Union, NJ
+Syracuse,ACC,23,Russ DeRemer,G,6-5,203,SR,Wrentham, MA
+Syracuse,ACC,25,Rakeem Christmas,F,6-9,250,JR,Philadelphia, PA
+Syracuse,ACC,32,DaJuan Coleman,C,6-9,280,SO,Jamesville, NY
+Syracuse,ACC,33,Albert Nassar,F,6-6,195,JR,Stuart, FL
+Syracuse,ACC,34,Ron Patterson,G,6-2,200,FR,Broad Ripple, IN
+Syracuse,ACC,35,Chinonso Obokoh,C,6-10,210,FR,Rochester, NY
+Syracuse,ACC, -- ,Michael Gbinije,G,6-7,200,SO,Richmond, VA
+Virginia,ACC,2013-14 Virginia Cavaliers
+Virginia,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Virginia,ACC,1,Justin Anderson,G,6-6,227,SO,Montross, VA
+Virginia,ACC,4,Maleek Frazier,G,5-10,170,JR,Charlottesville, VA
+Virginia,ACC,5,Teven Jones,G,6-0,182,SO,Kannapolis, NC
+Virginia,ACC,10,Mike Tobey,F-C,6-11,253,SO,Monroe, NY
+Virginia,ACC,11,Evan Nolte,F,6-8,227,SO,--
+Virginia,ACC,12,Joe Harris,G,6-6,225,SR,Chelan, WA
+Virginia,ACC,13,Anthony Gill,F,6-8,230,SO,High Point, NC
+Virginia,ACC,15,Malcolm Brogdon,G,6-5,217,SO,Norcross, GA
+Virginia,ACC,21,Rob Vozenilek,G,6-2,190,JR,Richmond, VA
+Virginia,ACC,23,London Perrantes,G,6-2,189,FR,Los Angeles, CA
+Virginia,ACC,24,Caid Kirven,F,6-8,229,SO,Raleigh, NC
+Virginia,ACC,25,Akil Mitchell,F,6-8,235,SR,Charlotte, NC
+Virginia,ACC,30,Thomas Rogers,G,6-6,206,SR,Farmville, VA
+Virginia,ACC,32,Darion Atkins,F,6-8,234,JR,Clinton, MD
+Virginia,ACC,34,Jeff Jones,F,6-6,195,FR,Charlottesville, VA
+Virginia,ACC, -- ,Devon Hall,G,6-5,210,FR,Virginia Beach, VA
+Virginia Tech,ACC,2013-14 Virginia Tech Hokies
+Virginia Tech,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Virginia Tech,ACC,1,Malik Mueller,G,6-3,210,FR,--
+Virginia Tech,ACC,2,Joey Van Zegeren,F,6-10,225,SO,--
+Virginia Tech,ACC,3,Adam Smith,G,6-1,170,SO,Jonesboro, GA
+Virginia Tech,ACC,4,Cadarian Raines,F,6-9,238,SR,Petersburg, VA
+Virginia Tech,ACC,11,Devin Wilson,G,6-4,185,FR,Mckees Rocks, PA
+Virginia Tech,ACC,14,Greg Donlon,F,6-8,230,JR,Midlothian, VA
+Virginia Tech,ACC,15,Ben Emelogu,G,6-5,205,FR,Grand Prairie, TX
+Virginia Tech,ACC,21,Maurice Kirby,F,6-9,235,FR,Chandler, AZ
+Virginia Tech,ACC,22,Christian Beyer,F,6-7,200,JR,New Bern, NC
+Virginia Tech,ACC,25,Will Johnston,G,6-3,185,JR,Midlothian, VA
+Virginia Tech,ACC,31,Jarell Eddie,G-F,6-7,220,SR,Charlotte, NC
+Virginia Tech,ACC,32,Trevor Thompson,F,6-11,210,FR,Indianapolis, IN
+Virginia Tech,ACC,33,Marshall Wood,G-F,6-8,210,SO,Rustburg, VA
+Virginia Tech,ACC,42,C.J. Barksdale,F,6-8,235,JR,Danville, VA
+Wake Forest,ACC,2013-14 Wake Forest Demon Deacons
+Wake Forest,ACC,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Wake Forest,ACC,1,Madison Jones,G,6-1,160,SO,Raleigh, NC
+Wake Forest,ACC,2,Devin Thomas,F,6-9,245,SO,Harrisburg, PA
+Wake Forest,ACC,4,Daniel Green,F,6-10,230,SO,Colleyville, TX
+Wake Forest,ACC,11,Greg McClinton,F,6-7,185,FR,Winston-salem, NC
+Wake Forest,ACC,13,Coron Williams,G,6-1,170,SR,Midlothian, VA
+Wake Forest,ACC,20,Miles Overton,G,6-4,210,FR,Philadelphia, PA
+Wake Forest,ACC,30,Travis McKie,F,6-7,220,SR,Richmond, VA
+Wake Forest,ACC,31,Andre Washington,C,7-0,240,SO,Rocky Mount, VA
+Wake Forest,ACC,33,Aaron Rountree III,F,6-8,195,SO,Wilson, NC
+Wake Forest,ACC,34,Tyler Cavanaugh,F,6-9,230,SO,Jamesville, NY
+Wake Forest,ACC,41,Duke Antonelli,G,6-3,200,SO,Mechanicsburg, PA
+Wake Forest,ACC,51,Grant O'Brien,F,6-7,195,SO,North Andover, MA
+Wake Forest,ACC,52,Doug Niedrich,F,6-6,200,JR,Kildeer, IL
+Wake Forest,ACC, -- ,Arnaud-William Adala Moto,NA,6-6,225,SO,Yaounde, Cameroon
+Wake Forest,ACC, -- ,Codi Miller-McIntyre,G,6-3,195,SO,Concord, NC
+East Tenn St,Atlantic Sun,2013-14 East Tennessee State Buccaneers
+East Tenn St,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+East Tenn St,Atlantic Sun,1,Petey McClain,G,6-0,185,SO,Mobile, AL
+East Tenn St,Atlantic Sun,2,Devin Harris,G,6-4,200,FR,Tampa, FL
+East Tenn St,Atlantic Sun,4,Rashawn Rembert,G,6-3,195,JR,Tampa, FL
+East Tenn St,Atlantic Sun,5,Jalen Riley,G,6-0,150,JR,Racine, WI
+East Tenn St,Atlantic Sun,10,Isaac Banks,F,6-7,215,FR,New Orleans, LA
+East Tenn St,Atlantic Sun,11,Todd Halvorsen,G,6-3,190,SR,Kingsport, TN
+East Tenn St,Atlantic Sun,13,A.J. Merriweather,G,6-2,185,FR,Jackson, TN
+East Tenn St,Atlantic Sun,15,Lester Wilson,F,6-4,215,SO,Knoxville, TN
+East Tenn St,Atlantic Sun,20,Hunter Harris,F,6-7,235,SR,Nashville, TN
+East Tenn St,Atlantic Sun,23,Darius Forrest,F,6-6,190,JR,Jackson, MS
+East Tenn St,Atlantic Sun,32,Adam Denison,F,6-3,190,FR,Kingsport, TN
+East Tenn St,Atlantic Sun,33,Leonard Smith Jr.,F,6-5,240,JR,Hickman, KY
+East Tenn St,Atlantic Sun,34,Lukas Poderis,F,6-8,250,SR,Port Richey, FL
+East Tenn St,Atlantic Sun,35,Kinard Gadsden-Gilliard,F,6-6,250,SR,Georgetown, SC
+East Tenn St,Atlantic Sun, -- ,Ron Giplaye,F,6-6,250,JR,Lowell, MA
+FGCU,Atlantic Sun,2013-14 Florida Gulf Coast Eagles
+FGCU,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+FGCU,Atlantic Sun,1,Nate Hicks,C,6-10,217,JR,Panama City Beach, FL
+FGCU,Atlantic Sun,2,Bernard Thompson,G,6-3,166,JR,Conyers, GA
+FGCU,Atlantic Sun,3,Julian DeBose,G,6-4,196,JR,Washington, DC
+FGCU,Atlantic Sun,4,Armand Shoon,G,6-3,180,FR,Miami, FL
+FGCU,Atlantic Sun,5,Jamail Jones,G,6-6,215,JR,Atlanta, GA
+FGCU,Atlantic Sun,10,Logan Hovey,F,6-7,210,FR,Orlando, FL
+FGCU,Atlantic Sun,11,Nick Pellar,F,6-6,205,SO,Munster, IN
+FGCU,Atlantic Sun,12,Eric McKnight,F,6-9,210,JR,Raleigh, NC
+FGCU,Atlantic Sun,15,Filip Cvjeticanin,F,6-9,218,JR,Zagreb, Croatia
+FGCU,Atlantic Sun,20,Chase Fieler,F,6-8,225,SR,Parkersburg, WV
+FGCU,Atlantic Sun,21,TeJai Allen,G,6-4,198,FR,Jacksonville, FL
+FGCU,Atlantic Sun,22,Kevin Boyle,G,5-9,175,JR,Rahway, NJ
+FGCU,Atlantic Sun,24,Marcus Blake,F,6-7,196,JR,Miami, FL
+FGCU,Atlantic Sun,35,Dajuan Graf,G,6-0,170,SO,Charlotte, NC
+FGCU,Atlantic Sun, -- ,Brett Comer,G,6-3,192,JR,Winter Park, FL
+FGCU,Atlantic Sun, -- ,Brian Greene Jr.,NA,6-3,205,SO,Chicago, IL
+Jacksonville,Atlantic Sun,2013-14 Jacksonville Dolphins
+Jacksonville,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Jacksonville,Atlantic Sun,1,Jeremy Bogus,G,6-5,190,JR,Birmingham, AL
+Jacksonville,Atlantic Sun,2,Kordario Fleming,F,6-6,210,SO,Memphis, TN
+Jacksonville,Atlantic Sun,5,Vince Martin,G,6-2,200,SR,Marietta, GA
+Jacksonville,Atlantic Sun,10,Marcellous Bell,G,5-11,170,SO,Hyattsville, MD
+Jacksonville,Atlantic Sun,11,Jarvis Haywood,G,6-4,185,SO,Charlotte, NC
+Jacksonville,Atlantic Sun,13,Marcel White,G-F,6-6,200,FR,Lake Wales, FL
+Jacksonville,Atlantic Sun,14,Omar El Manasterly,F,6-6,220,FR,Sugar Land, TX
+Jacksonville,Atlantic Sun,15,J.R. Holder,F,6-7,180,FR,Atlanta, GA
+Jacksonville,Atlantic Sun,21,Keith McDougald,G,6-1,205,SR,Jacksonville, FL
+Jacksonville,Atlantic Sun,22,Sam Hunt,G,6-2,170,FR,Greensboro, NC
+Jacksonville,Atlantic Sun,33,RJ Slawson,F,6-9,220,SR,Charleston, SC
+Jacksonville,Atlantic Sun,34,Josh Murray,C,6-9,220,FR,Burlington, NC
+Jacksonville,Atlantic Sun,44,Tyler Alderman,C,6-9,235,SO,Fishers, IN
+Jacksonville,Atlantic Sun, -- ,Javon Dawson,F,6-6,260,SR,Cordele, GA
+Kennesaw State,Atlantic Sun,2013-14 Kennesaw State Owls
+Kennesaw State,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Kennesaw State,Atlantic Sun,1,Nigel Pruitt,F,6-7,180,SO,Potomac, MD
+Kennesaw State,Atlantic Sun,2,Jordan Jones,F,6-8,205,FR,Alpharetta, GA
+Kennesaw State,Atlantic Sun,3,Delbert Love,G,6-0,185,JR,Cleveland, OH
+Kennesaw State,Atlantic Sun,4,Yonel Brown,G,5-9,160,SO,Lawrenceville, GA
+Kennesaw State,Atlantic Sun,5,Bernard Morena,F,6-8,200,FR,Abidjan, Ivory Coast
+Kennesaw State,Atlantic Sun,11,Myles Hamilton,G,6-1,190,SO,Cleveland, OH
+Kennesaw State,Atlantic Sun,12,Nate Rucker,F,6-6,240,JR,Memphis, TN
+Kennesaw State,Atlantic Sun,13,Jordan Montgomery,G-F,6-5,170,SO,Orlando, FL
+Kennesaw State,Atlantic Sun,21,Kris Drees,F,6-6,210,SR,Cumming, GA
+Kennesaw State,Atlantic Sun,23,Tanner Wozniak,G,6-5,185,JR,Saint Petersburg, FL
+Kennesaw State,Atlantic Sun,24,Orlando Coleman,F,6-5,195,SO,Pleasant Grove, AL
+Kennesaw State,Atlantic Sun,32,Charlie Byers,G,5-11,185,JR,Cincinnati, OH
+Kennesaw State,Atlantic Sun,40,Drew McGhee,F,6-11,235,SR,North Ridgeville, OH
+Kennesaw State,Atlantic Sun,45,Andrew Osemhen,F,6-9,270,SR,Loganville, GA
+Kennesaw State,Atlantic Sun,50,Willy Kouassi,C,6-10,230,SO,Abidjan, Ivory Coast
+Lipscomb,Atlantic Sun,2013-14 Lipscomb Bisons
+Lipscomb,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Lipscomb,Atlantic Sun,1,Cam Miller,G,6-1,180,FR,Franklin, TN
+Lipscomb,Atlantic Sun,2,Josh Williams,G,6-4,218,FR,Jackson, MS
+Lipscomb,Atlantic Sun,3,Carter Sanderson,G,6-1,170,JR,Nashville, TN
+Lipscomb,Atlantic Sun,5,J.J. Butler,G,6-3,195,SO,Abingdon, MD
+Lipscomb,Atlantic Sun,10,Talbott Denny,G,6-6,200,SO,Tucson, AZ
+Lipscomb,Atlantic Sun,14,Alex Brayboy,G,6-6,185,JR,Alexandria, VA
+Lipscomb,Atlantic Sun,15,Dylan Greene,G,6-4,200,SO,Anaheim Hills, CA
+Lipscomb,Atlantic Sun,20,Chad Johnson,G,6-0,185,JR,Edmond, OK
+Lipscomb,Atlantic Sun,21,Charles Smith,C,6-9,210,SO,Memphis, TN
+Lipscomb,Atlantic Sun,22,J.C. Hampton,G,6-1,180,SO,Gainesville, GA
+Lipscomb,Atlantic Sun,32,Brett Wishon,F,6-9,210,FR,Gainesville, GA
+Lipscomb,Atlantic Sun,35,Martin Smith,F,6-4,190,JR,Clarksville, TN
+Lipscomb,Atlantic Sun,52,Malcolm Smith,F,6-5,210,JR,Clarksville, TN
+Lipscomb,Atlantic Sun, -- ,Khion Sankey,G-F,6-5,220,SR,Stockton, CA
+Mercer,Atlantic Sun,2013-14 Mercer Bears
+Mercer,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Mercer,Atlantic Sun,1,Phillip Leonard,G,6-2,200,SO,Tulsa, OK
+Mercer,Atlantic Sun,2,Matt Panaggio,G,6-3,185,FR,Daytona Beach, FL
+Mercer,Atlantic Sun,3,Kevin Canevari,G,5-11,165,SR,Charlotte, NC
+Mercer,Atlantic Sun,5,Bud Thomas,F,6-6,200,SR,Highlands Ranch, CO
+Mercer,Atlantic Sun,10,Ike Nwamu,G,6-5,205,SO,Greensboro, NC
+Mercer,Atlantic Sun,11,D.J. Brooks,G,6-1,180,FR,Simpsonville, SC
+Mercer,Atlantic Sun,12,John Mosser,G,6-4,210,FR,Cary, NC
+Mercer,Atlantic Sun,14,T.J. Hallice,F,6-9,205,JR,Weddington, NC
+Mercer,Atlantic Sun,15,Anthony White Jr.,G,6-2,170,SR,Indianapolis, IN
+Mercer,Atlantic Sun,20,Jakob Gollon,F,6-6,200,SR,Stevens Point, WI
+Mercer,Atlantic Sun,21,Langston Hall,G,6-4,180,SR,Atlanta, GA
+Mercer,Atlantic Sun,22,Darious Moten,F,6-6,195,JR,Bowdon, GA
+Mercer,Atlantic Sun,25,Lawrence Brown,G,6-5,210,SO,Kansas City, MO
+Mercer,Atlantic Sun,32,James Bento,F,6-6,195,FR,Houston, TX
+Mercer,Atlantic Sun,34,Jibri Bryan,G,6-3,180,SO,Savannah, GA
+Mercer,Atlantic Sun,45,Monty Brown,C,6-11,250,SR,--
+Mercer,Atlantic Sun,52,Daniel Coursey,F,6-10,220,SR,Savannah, GA
+North Florida,Atlantic Sun,2013-14 North Florida Ospreys
+North Florida,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+North Florida,Atlantic Sun,1,Travis Wallace,F,6-6,230,SR,Marietta, GA
+North Florida,Atlantic Sun,2,Beau Beech,G,6-8,210,SO,Ponte Vedra Beach, FL
+North Florida,Atlantic Sun,3,Sean Brennan,G,6-2,175,FR,Roswell, GA
+North Florida,Atlantic Sun,4,Devin Wilson,G,5-11,175,JR,Gainesville, FL
+North Florida,Atlantic Sun,5,Charles McRoy,F,6-6,210,SR,Jacksonville, FL
+North Florida,Atlantic Sun,11,Trent Mackey,G,6-4,180,JR,Tampa, FL
+North Florida,Atlantic Sun,12,Aaron Bodager,G,6-5,195,FR,Oviedo, FL
+North Florida,Atlantic Sun,14,Dallas Moore,G,6-1,175,FR,Gulfport, FL
+North Florida,Atlantic Sun,32,Demarcus Daniels,F,6-7,200,SO,Ashburn, GA
+North Florida,Atlantic Sun,33,Romelo Banks,C,6-11,235,FR,Kissimmee, FL
+North Florida,Atlantic Sun,35,Chris Davenport,F,6-8,210,FR,Atlanta, GA
+North Florida,Atlantic Sun, -- ,Demarcus Daniels,NA,0-0,0, -- ,--
+North Florida,Atlantic Sun, -- ,Charles Mccroy,NA,0-0,0, -- ,--
+North Florida,Atlantic Sun, -- ,Jalen Nesbitt,G,6-6,200,JR,Inman, SC
+NKU,Atlantic Sun,2013-14 Northern Kentucky Norse
+NKU,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+NKU,Atlantic Sun,1,Jack Flournoy,F,6-6,210,SO,--
+NKU,Atlantic Sun,2,Jordan Jackson,G,6-2,180,JR,--
+NKU,Atlantic Sun,5,Matt Rosenwinkel,G,6-2,200,FR,Rochelle, IL
+NKU,Atlantic Sun,10,Tyler White,G,6-3,180,SO,Lima, OH
+NKU,Atlantic Sun,15,Daniel Camps,F,6-5,220,FR,Fayetteville, NC
+NKU,Atlantic Sun,20,Jake Giesler,C,6-7,230,SO,--
+NKU,Atlantic Sun,21,Jalen Billups,F-C,6-6,240,SO,Cincinnati, OH
+NKU,Atlantic Sun,23,Todd Johnson,G,5-9,170,SO,Elkhart, IN
+NKU,Atlantic Sun,24,Chad Jackson,G,6-4,195,SR,Lexington, KY
+NKU,Atlantic Sun,25,Cole Murray,G,6-7,190,FR,Delphi, IN
+NKU,Atlantic Sun,33,Anthony Monaco,G,6-4,185,SO,Dover, OH
+NKU,Atlantic Sun,35,Deontae Cole,F,6-6,190,FR,Toledo, OH
+NKU,Atlantic Sun,44,Dean Danos,G,5-11,160,FR,Aurora, IL
+USC Upstate,Atlantic Sun,2013-14 USC Upstate Spartans
+USC Upstate,Atlantic Sun,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+USC Upstate,Atlantic Sun,2,Daniel Bridges,F,6-7,180,FR,Inman, SC
+USC Upstate,Atlantic Sun,3,Karim Mawuenyega,G,6-0,170,FR,Douglasville, GA
+USC Upstate,Atlantic Sun,5,Ty Greene,G,6-3,185,JR,Knoxville, TN
+USC Upstate,Atlantic Sun,10,Josh Cuthbertson,F,6-5,185,FR,New Bern, NC
+USC Upstate,Atlantic Sun,12,Ricardo Glenn,F,6-8,246,SR,Augusta, GA
+USC Upstate,Atlantic Sun,14,Tristan Thomas,G,6-3,190,SO,Bangor, ME
+USC Upstate,Atlantic Sun,15,ShunQuez Stephens,F,6-5,245,SO,--
+USC Upstate,Atlantic Sun,21,Austin Grimes,G,6-3,195,FR,Cincinnati, OH
+USC Upstate,Atlantic Sun,23,Torrey Craig,F,6-6,215,SR,Great Falls, SC
+USC Upstate,Atlantic Sun,24,Jodd Maxey,F,6-8,200,SR,Statham, GA
+USC Upstate,Atlantic Sun,31,Mario Blessing,G,6-2,165,JR,--
+USC Upstate,Atlantic Sun,32,Fred Miller,G,6-4,200,JR,Atlanta, GA
+USC Upstate,Atlantic Sun,34,Babatunde Olumuyiwa,C,6-8,220,SR,Athens, GA
+USC Upstate,Atlantic Sun,43,Racine Talla,F,6-8,195,FR,Dakar, Senegal
+USC Upstate,Atlantic Sun,44,Michael Buchanan,C,6-11,250,FR,Las Vegas, NV
+Baylor,Big 12,2013-14 Baylor Bears
+Baylor,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Baylor,Big 12,1,Kenny Chery,G,5-11,180,JR,Montreal, PQ
+Baylor,Big 12,2,Rico Gathers,F,6-8,270,SO,Laplace, LA
+Baylor,Big 12,4,Gary Franklin,G,6-2,190,SR,Inglewood, CA
+Baylor,Big 12,5,Brady Heslip,G,6-2,180,SR,Burlington, ON
+Baylor,Big 12,12,Johnathan Motley,F,6-9,210,FR,Houston, TX
+Baylor,Big 12,13,John Heard,F,6-5,200,SO,Houston, TX
+Baylor,Big 12,15,Chad Rykhoek,F-C,6-11,230,FR,Fort Worth, TX
+Baylor,Big 12,20,Logan Lowery,F,6-6,190,JR,Kingwood, TX
+Baylor,Big 12,21,Isaiah Austin,C,7-1,225,SO,Arlington, TX
+Baylor,Big 12,24,Ish Wainright,G-F,6-5,245,FR,Kansas City, MO
+Baylor,Big 12,25,Allerik Freeman,G,6-3,200,FR,Charlotte, NC
+Baylor,Big 12,34,Cory Jefferson,F,6-9,220,SR,Killeen, TX
+Baylor,Big 12,35,Taurean Prince,F,6-7,210,SO,San Antonio, TX
+Baylor,Big 12,55,Josh Clemons,C,6-8,230,JR,Jacksonville, FL
+Baylor,Big 12, -- ,Royce O'Neale,F,6-6,220,JR,Killeen, TX
+Iowa State,Big 12,2013-14 Iowa State Cyclones
+Iowa State,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Iowa State,Big 12,1,Bubu Palo,G,6-1,180,SR,Ames, IA
+Iowa State,Big 12,2,Abdel Nader,F,6-6,225,JR,Skokie, IL
+Iowa State,Big 12,3,Melvin Ejim,F,6-6,220,SR,Toronto, ON
+Iowa State,Big 12,4,Sherron Dorsey-Walker,G,6-4,200,FR,Detroit, MI
+Iowa State,Big 12,11,Monte Morris,G,6-2,170,FR,Flint, MI
+Iowa State,Big 12,12,Kourtlin Jackson,G,6-3,185,SO,Des Moines, IA
+Iowa State,Big 12,13,Jameel McKay,F,6-8,210,JR,Milwaukee, WI
+Iowa State,Big 12,15,Naz Long,G,6-4,205,SO,Mississauga, ON
+Iowa State,Big 12,21,Matt Thomas,G,6-3,200,FR,Onalaska, WI
+Iowa State,Big 12,22,Dustin Hogue,F,6-6,215,JR,Yonkers, NY
+Iowa State,Big 12,24,Percy Gibson,C,6-9,255,JR,Detroit, MI
+Iowa State,Big 12,31,Georges Niang,F,6-7,240,SO,Methuen, MA
+Iowa State,Big 12,33,Tyler Ellerman,F,6-8,240,SR,Dallas Center, IA
+Iowa State,Big 12,42,Daniel Edozie,F,6-8,245,JR,Compton, CA
+Iowa State,Big 12,50,DeAndre Kane,G,6-4,200,SR,Pittsburgh, PA
+Iowa State,Big 12, -- ,Kj Bluford,NA,0-0,0, -- ,--
+Kansas,Big 12,2013-14 Kansas Jayhawks
+Kansas,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Kansas,Big 12,1,Wayne Selden, Jr.,G,6-5,230,FR,Roxbury, MA
+Kansas,Big 12,3,Andrew White III,G,6-6,210,SO,Richmond, VA
+Kansas,Big 12,4,Justin Wesley,F,6-9,220,SR,Fort Worth, TX
+Kansas,Big 12,5,Evan Manning,G,6-3,170,SO,Lawrence, KS
+Kansas,Big 12,10,Naadir Tharpe,G,5-11,170,JR,Worcester, MA
+Kansas,Big 12,11,Tyler Self,G,6-2,165,SO,Lawrence, KS
+Kansas,Big 12,14,Brannen Greene,G,6-7,215,FR,Juliette, GA
+Kansas,Big 12,15,Christian Garrett,G,6-3,185,JR,Los Angeles, CA
+Kansas,Big 12,20,Niko Roberts,G,5-11,175,SR,Huntington, NY
+Kansas,Big 12,21,Joel Embiid,C,7-0,250,FR,--
+Kansas,Big 12,22,Andrew Wiggins,G,6-8,200,FR,Thornhill, ON
+Kansas,Big 12,23,Conner Frankamp,G,6-0,165,FR,Wichita, KS
+Kansas,Big 12,25,Tarik Black,F,6-9,260,SR,Memphis, TN
+Kansas,Big 12,31,Jamari Traylor,F,6-8,220,SO,Chicago, IL
+Kansas,Big 12,33,Landen Lucas,F,6-10,240,FR,Portland, OR
+Kansas,Big 12,34,Perry Ellis,F,6-8,225,SO,Wichita, KS
+Kansas,Big 12, -- ,Frank Mason,G,5-11,185,FR,Petersburg, VA
+Kansas State,Big 12,2013-14 Kansas State Wildcats
+Kansas State,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Kansas State,Big 12,1,Shane Southwell,G,6-7,215,SR,Harlem, NY
+Kansas State,Big 12,2,Marcus Foster,G,6-2,200,FR,Wichita Falls, TX
+Kansas State,Big 12,3,Jack Karapetyan,F,6-7,220,FR,Los Angeles, CA
+Kansas State,Big 12,11,Nino Williams,F,6-5,220,JR,--
+Kansas State,Big 12,12,Omari Lawrence,G,6-3,205,SR,Bronx, NY
+Kansas State,Big 12,23,Nigel Johnson,G,6-1,180,FR,Ashburn, VA
+Kansas State,Big 12,24,Ryan Schultz,F,6-5,205,SR,Wichita, KS
+Kansas State,Big 12,25,Wesley Iwundu,G-F,6-7,195,FR,Houston, TX
+Kansas State,Big 12,33,Brian Rohleder,G,6-3,215,SO,Wichita, KS
+Kansas State,Big 12,40,Shawn Meyer,G,6-3,215,JR,Kansas City, MO
+Kansas State,Big 12,42,Thomas Gipson,F,6-7,265,JR,Cedar Hill, TX
+Kansas State,Big 12,50,D.J. Johnson,F,6-9,250,SO,--
+Kansas State,Big 12,55,Will Spradling,G,6-2,185,SR,Overland Park, KS
+Oklahoma,Big 12,2013-14 Oklahoma Sooners
+Oklahoma,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Oklahoma,Big 12,1,Frank Booker,G,6-4,198,FR,Augusta, GA
+Oklahoma,Big 12,5,Je'lon Hornbeak,G,6-4,184,SO,Arlington, TX
+Oklahoma,Big 12,10,Jordan Woodard,G,6-0,185,FR,Arcadia, OK
+Oklahoma,Big 12,11,Isaiah Cousins,G,6-4,186,SO,Mount Vernon, NY
+Oklahoma,Big 12,13,James Fraschilla,G,5-10,153,JR,Dallas, TX
+Oklahoma,Big 12,15,Tyler Neal,F,6-7,234,SR,Oklahoma City, OK
+Oklahoma,Big 12,21,Cameron Clark,F,6-7,211,SR,Sherman, TX
+Oklahoma,Big 12,22,Daniel Harper,G,6-1,176,FR,Norman, OK
+Oklahoma,Big 12,24,Buddy Hield,G,6-4,208,SO,Freeport, GB
+Oklahoma,Big 12,25,C.J. Cole,F,6-7,228,FR,Sperry, OK
+Oklahoma,Big 12,31,D.J. Bennett,F,6-8,212,JR,Chicago, IL
+Oklahoma,Big 12,41,Austin Mankin,F,6-7,197,FR,Coppell, TX
+Oklahoma,Big 12,45,Trey Slate,G,6-1,202,FR,Gore, OK
+Oklahoma,Big 12, -- ,Ryan Spangler,F,6-8,232,SO,Blanchard, OK
+Oklahoma State,Big 12,2013-14 Oklahoma State Cowboys
+Oklahoma State,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Oklahoma State,Big 12,1,Ford Stuen,G,6-3,190,SO,Henderson, KY
+Oklahoma State,Big 12,2,Le'Bryan Nash,G-F,6-7,235,JR,Dallas, TX
+Oklahoma State,Big 12,4,Brian Williams,G-F,6-5,210,JR,Baton Rouge, LA
+Oklahoma State,Big 12,12,Jackson Perez,G,6-1,180,FR,Emporia, KS
+Oklahoma State,Big 12,13,Phil Forte, III,G,5-11,185,SO,Flower Mound, TX
+Oklahoma State,Big 12,14,Marek Soucek,F-C,7-0,240,JR,Brno, Czech Republic
+Oklahoma State,Big 12,15,Christien Sager,G-F,6-4,205,JR,Wichita Falls, TX
+Oklahoma State,Big 12,21,Kamari Murphy,F-C,6-8,220,SO,Brooklyn, NY
+Oklahoma State,Big 12,22,Markel Brown,G,6-3,190,SR,Alexandria, LA
+Oklahoma State,Big 12,23,Leyton Hammonds,G-F,6-7,205,FR,North Richland Hills, TX
+Oklahoma State,Big 12,24,Alex Budke,G,6-2,190,JR,Stillwater, OK
+Oklahoma State,Big 12,30,Jeffrey Carroll,G-F,6-6,205,FR,Rowlett, TX
+Oklahoma State,Big 12,33,Marcus Smart,G,6-4,220,SO,Flower Mound, TX
+Oklahoma State,Big 12,34,Gary Gaskins,F-C,6-10,200,JR,Beaufort, SC
+Oklahoma State,Big 12,53,Mason Cox,F-C,6-10,230,SR,Highland Village, TX
+Oklahoma State,Big 12, -- ,Michael Cobbins,NA,6-8,230,JR,Amarillo, TX
+TCU,Big 12,2013-14 TCU Horned Frogs
+TCU,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+TCU,Big 12,1,Karviar Shepherd,C,6-10,225,FR,Dallas, TX
+TCU,Big 12,2,Michael Williams,G,6-2,185,FR,San Antonio, TX
+TCU,Big 12,3,Clyde Smith III,G,6-2,180,SO,Houston, TX
+TCU,Big 12,4,Amric Fields,F,6-9,220,JR,Oklahoma City, OK
+TCU,Big 12,5,Kyan Anderson,G,5-11,175,JR,Fort Worth, TX
+TCU,Big 12,10,Kemal Dincer,G,6-3,187,SO,Istanbul, Turkey
+TCU,Big 12,11,Brandon Parrish,F,6-6,185,FR,Arlington, TX
+TCU,Big 12,13,Christian Gore,G,6-2,175,SO,El Paso, TX
+TCU,Big 12,20,Thomas Montigel,G,6-2,195,SR,Fort Worth, TX
+TCU,Big 12,21,Hudson Price,G,6-6,200,FR,Orlando, FL
+TCU,Big 12,22,Jarvis Ray,G,6-6,195,SR,New Orleans, LA
+TCU,Big 12,23,Devonta Abron,F,6-8,255,JR,Seagoville, TX
+TCU,Big 12,44,Aaron Durley,C,6-10,270,FR,Houston, TX
+TCU,Big 12, -- ,Charles Hill Jr.,G,6-2,185,SO,Fort Worth, TX
+Texas,Big 12,2013-14 Texas Longhorns
+Texas,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Texas,Big 12,1,Isaiah Taylor,G,6-1,170,FR,Hayward, CA
+Texas,Big 12,3,Javan Felix,G,5-11,195,SO,New Orleans, LA
+Texas,Big 12,4,Danny Newsome,F,6-9,190,FR,Houston, TX
+Texas,Big 12,5,Damarcus Croaker,G,6-2,175,FR,Orlando, FL
+Texas,Big 12,10,Jonathan Holmes,F,6-8,240,JR,San Antonio, TX
+Texas,Big 12,21,Connor Lammert,F,6-9,235,SO,San Antonio, TX
+Texas,Big 12,24,Martez Walker,G,6-4,185,FR,Detroit, MI
+Texas,Big 12,30,Ryan McClurg,F,6-5,225,FR,Katy, TX
+Texas,Big 12,40,Tarale Murry,G,6-2,187,JR,San Antonio, TX
+Texas,Big 12,44,Prince Ibeh,C,6-10,250,SO,Garland, TX
+Texas,Big 12,52,Brandon Allums,F,6-4,241,SO,Plano, TX
+Texas,Big 12,55,Cameron Ridley,C,6-9,285,SO,Houston, TX
+Texas,Big 12, -- ,Demarcus Holland,NA,6-2,185,SO,Garland, TX
+Texas,Big 12, -- ,Kendal Yancy,G,6-3,200,FR,Richardson, TX
+Texas Tech,Big 12,2013-14 Texas Tech Red Raiders
+Texas Tech,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Texas Tech,Big 12,1,Randy Onwuasor,G,6-3,190,FR,Inglewood, CA
+Texas Tech,Big 12,2,Dusty Hannahs,G,6-4,210,SO,Little Rock, AR
+Texas Tech,Big 12,4,Patrick Strake,F,6-6,235,FR,Austin, TX
+Texas Tech,Big 12,5,Stan Mays,G,6-2,185,FR,Baton Rouge, LA
+Texas Tech,Big 12,11,Dejan Kravic,F,7-0,235,SR,London, ON
+Texas Tech,Big 12,12,Kader Tapsoba,F,6-10,225,SR,--
+Texas Tech,Big 12,13,Luke Adams,G,5-9,170,JR,Big Spring, TX
+Texas Tech,Big 12,14,Robert Turner,G,6-3,180,JR,Augusta, GA
+Texas Tech,Big 12,15,Aaron Ross,F,6-8,225,FR,Little Rock, AR
+Texas Tech,Big 12,20,Toddrick Gotcher,G,6-4,200,SO,Garland, TX
+Texas Tech,Big 12,23,Jamal Williams, Jr.,G,6-4,190,SR,Brooklyn, NY
+Texas Tech,Big 12,30,Jaye Crockett,F,6-7,210,SR,Clovis, NM
+Texas Tech,Big 12,32,Jordan Tolbert,F,6-7,225,JR,Fort Worth, TX
+Texas Tech,Big 12,34,Alex Foster,F,6-8,225,FR,Chicago, IL
+Texas Tech,Big 12,35,Clark Lammert,F,6-8,220,JR,San Antonio, TX
+Texas Tech,Big 12, -- ,Patrick Strakes,NA,0-0,0, -- ,--
+West Virginia,Big 12,2013-14 West Virginia Mountaineers
+West Virginia,Big 12,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+West Virginia,Big 12,1,Jonathan Holton,F,6-7,210,JR,Miami, FL
+West Virginia,Big 12,3,Juwan Staten,G,6-1,190,JR,Dayton, OH
+West Virginia,Big 12,4,Chase Connor,G,6-1,190,FR,Shady Spring, WV
+West Virginia,Big 12,5,Devin Williams,F,6-9,255,FR,Cincinnati, OH
+West Virginia,Big 12,11,Nathan Adrian,F,6-9,230,FR,Morgantown, WV
+West Virginia,Big 12,14,Gary Browne,G,6-1,195,JR,--
+West Virginia,Big 12,15,Terry Henderson,G,6-4,200,SO,Raleigh, NC
+West Virginia,Big 12,20,Brandon Watkins,F,6-9,235,FR,Decatur, GA
+West Virginia,Big 12,23,Tyrone Hughes,G,6-0,180,SO,Chicago, IL
+West Virginia,Big 12,30,Richard Romeo,G,5-11,190,SO,White Sulphur Springs, WV
+West Virginia,Big 12,34,Kevin Noreen,F,6-10,250,JR,Minneapolis, MN
+West Virginia,Big 12,45,Elijah Macon,F,6-9,240,FR,Columbus, OH
+West Virginia,Big 12, -- ,Remi Dibo,F,6-7,225,JR,--
+West Virginia,Big 12, -- ,Eron Harris,NA,6-3,195,SO,Indianapolis, IN
+Butler,Big East,2013-14 Butler Bulldogs
+Butler,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Butler,Big East,2,Devontae Morgan,G,6-3,176,SO,Tampa, FL
+Butler,Big East,3,Alex Barlow,G,5-11,187,JR,Springboro, OH
+Butler,Big East,4,Erik Fromm,F,6-8,223,SR,Bloomington, IN
+Butler,Big East,5,Elijah Brown,G,6-4,185,FR,Los Angeles, CA
+Butler,Big East,10,Michael Volovic,G,5-9,165,FR,Carmel, IN
+Butler,Big East,11,Jackson Aldridge,G,6-0,187,JR,--
+Butler,Big East,12,Elliott Kampen,G,6-5,180,JR,Muncie, IN
+Butler,Big East,14,Rene Castro,G,6-2,180,FR,Milton, MA
+Butler,Big East,21,Roosevelt Jones,F,6-4,227,JR,--
+Butler,Big East,22,Nolan Berry,F-C,6-10,200,FR,--
+Butler,Big East,23,Khyle Marshall,F,6-6,216,SR,Davie, FL
+Butler,Big East,24,Kellen Dunham,G,6-6,185,SO,Pendleton, IN
+Butler,Big East,25,Steven Bennett,G,6-2,175,FR,New Castle, IN
+Butler,Big East,31,Kameron Woods,F,6-9,200,JR,Louisville, KY
+Butler,Big East,45,Andrew Chrabascz,F,6-7,225,FR,Portsmouth, RI
+Creighton,Big East,2013-14 Creighton Bluejays
+Creighton,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Creighton,Big East,1,Austin Chatman,G,6-0,180,JR,The Colony, TX
+Creighton,Big East,2,Steven Ferrarini,G,6-1,175,SO,Omaha, NE
+Creighton,Big East,3,Doug McDermott,F,6-8,225,SR,Ames, IA
+Creighton,Big East,4,Alex Olsen,F,6-6,195,SO,Council Bluffs, IA
+Creighton,Big East,5,Devin Brooks,G,6-2,175,JR,Harlem, NY
+Creighton,Big East,10,Grant Gibbs,G,6-5,210,SR,Marion, IA
+Creighton,Big East,11,Tyler Clement,G,6-1,170,FR,Overland Park, KS
+Creighton,Big East,12,Jahenns Manigat,G,6-1,180,SR,Ottawa, ON
+Creighton,Big East,15,Darian Harris,G,6-6,195,FR,Springdale, AR
+Creighton,Big East,20,John Burns,G,6-3,180,FR,Algona, IA
+Creighton,Big East,21,Isaiah Zierden,G,6-2,180,FR,--
+Creighton,Big East,22,Avery Dingman,G,6-6,215,JR,Branson, MO
+Creighton,Big East,23,James Milliken,G,6-2,180,JR,Siler City, NC
+Creighton,Big East,25,Eric Roberts,G,6-3,205,FR,Eagle River, AK
+Creighton,Big East,31,Will Artino,C,6-11,230,JR,Waukee, IA
+Creighton,Big East,32,Toby Hegner,F,6-9,225,FR,Berlin, WI
+Creighton,Big East,34,Ethan Wragge,F,6-7,225,SR,Eden Prairie, MN
+Creighton,Big East,40,Zach Hanson,F,6-9,245,FR,Pierre, SD
+Creighton,Big East,41,Geoffrey Groselle,C,7-0,250,SO,Plano, TX
+Creighton,Big East,50,Mogboluwaga Oginni,F,6-8,225,SO,--
+DePaul,Big East,2013-14 DePaul Blue Demons
+DePaul,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+DePaul,Big East,1,DeJuan Marrero,F,6-5,219,FR,Gary, IN
+DePaul,Big East,2,Tommy Hamilton IV,C,6-10,284,FR,Chicago, IL
+DePaul,Big East,3,Myke Henry,F,6-6,210,JR,Chicago, IL
+DePaul,Big East,4,Edwind McGhee,G,6-3,205,SR,Champaign, IL
+DePaul,Big East,5,Billy Garrett Jr.,G,6-5,194,FR,Chicago, IL
+DePaul,Big East,11,Forrest Robinson,F,6-10,229,JR,Eastland, TX
+DePaul,Big East,12,Cleveland Melvin,F,6-8,208,SR,Baltimore, MD
+DePaul,Big East,13,Cory Dolins,G,6-0,182,SO,Northbrook, IL
+DePaul,Big East,20,Brandon Young,G,6-4,192,SR,Baltimore, MD
+DePaul,Big East,21,Jamee Crockett,F,6-4,207,JR,Chicago, IL
+DePaul,Big East,25,Durrell McDonald,G,6-1,169,SO,Las Vegas, NV
+DePaul,Big East,30,Peter Ryckbosch,F,6-9,237,SO,Chicago, IL
+DePaul,Big East,32,Charles McKinney,G,6-3,184,JR,Evanston, IL
+DePaul,Big East,42,Greg Sequele,F,6-9,215,JR,--
+DePaul,Big East,55,Sandi Marcius,F,6-10,255,SR,--
+DePaul,Big East, -- ,R.J. Curington,G,6-4,205,FR,Dyer, IN
+Georgetown,Big East,2013-14 Georgetown Hoyas
+Georgetown,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Georgetown,Big East,1,Reggie Cameron,F,6-7,225,FR,Hackensack, NJ
+Georgetown,Big East,3,Mikael Hopkins,F,6-9,223,JR,Hyattsville, MD
+Georgetown,Big East,4,D'Vauntes Smith-Rivera,G,6-3,218,SO,Indianapolis, IN
+Georgetown,Big East,5,Markel Starks,G,6-1,175,SR,Accokeek, MD
+Georgetown,Big East,12,David Allen,G,6-2,185,SO,Dallas, TX
+Georgetown,Big East,21,Riyan Williams,G,6-4,0,SO,--
+Georgetown,Big East,23,Aaron Bowen,F,6-6,208,SR,Jacksonville, FL
+Georgetown,Big East,24,Joshua Smith,C,6-10,350,JR,Kent, WA
+Georgetown,Big East,25,John Caprio,G,6-5,220,SR,North Caldwell, NJ
+Georgetown,Big East,31,Stephen Domingo,G,6-6,206,SO,San Francisco, CA
+Georgetown,Big East,32,Moses Ayegba,C,6-9,247,SR,--
+Georgetown,Big East,34,Nate Lubick,F,6-8,219,SR,Southborough, MA
+Georgetown,Big East,42,Bradley Hayes,C,7-0,251,SO,Jacksonville, FL
+Georgetown,Big East,55,Jabril Trawick,G,6-5,210,JR,Philadelphia, PA
+Georgetown,Big East, -- ,Tyler Adams,C,6-9,254,JR,Brandon, MS
+Marquette,Big East,2013-14 Marquette Golden Eagles
+Marquette,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Marquette,Big East,1,Duane Wilson,G,6-2,180,FR,Milwaukee, WI
+Marquette,Big East,2,John Dawson,G,6-2,195,FR,Clovis, NM
+Marquette,Big East,4,Todd Mayo,G,6-3,195,JR,Huntington, WV
+Marquette,Big East,5,JaJuan Johnson,G,6-5,185,FR,Memphis, TN
+Marquette,Big East,10,Juan Anderson,F,6-6,215,JR,Oakland, CA
+Marquette,Big East,12,Derrick Wilson,G,6-1,215,JR,Anchorage, AK
+Marquette,Big East,23,Jake Thomas,G,6-3,205,SR,Racine, WI
+Marquette,Big East,25,Steve Taylor, Jr.,F,6-7,235,SO,Chicago, IL
+Marquette,Big East,30,Deonte Burton,G-F,6-4,230,FR,Milwaukee, WI
+Marquette,Big East,34,Dylan Flood,G,6-4,200,JR,Lemont, IL
+Marquette,Big East,42,Chris Otule,C,6-11,275,SR,Richmond, TX
+Marquette,Big East,44,Luke Fischer,C,6-11,230,FR,Germantown, WI
+Marquette,Big East,54,Davante Gardner,F,6-8,290,SR,Suffolk, VA
+Marquette,Big East, -- ,Jamil Wilson,F,6-7,230,SR,Racine, WI
+Providence,Big East,2013-14 Providence Friars
+Providence,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Providence,Big East,3,Kris Dunn,G,6-3,197,SO,New London, CT
+Providence,Big East,4,Josh Fortune,G,6-5,205,SO,Hampton, VA
+Providence,Big East,5,Rodney Bullock,F,6-7,215,FR,Hampton, VA
+Providence,Big East,10,Kadeem Batts,F,6-9,245,SR,Boston, MA
+Providence,Big East,11,Bryce Cotton,G,6-1,165,SR,Tucson, AZ
+Providence,Big East,12,Casey Woodring,G,6-2,180,FR,Darien, CT
+Providence,Big East,13,Brice Kofane,F,6-8,210,JR,Yaounde, Cameroon
+Providence,Big East,21,Lee Goldsbrough,F,6-9,230,SR,Newcastle, England
+Providence,Big East,22,Ted Bancroft,G,6-6,215,SR,Marion, MA
+Providence,Big East,23,LaDontae Henton,F,6-6,215,JR,Lansing, MI
+Providence,Big East,25,Tyler Harris,F,6-9,215,SO,Dix Hills, NY
+Providence,Big East,33,Carson Desrosiers,F,7-0,250,JR,Windham, NH
+Providence,Big East, -- ,Tyler Harris,NA,0-0,0, -- ,--
+Seton Hall,Big East,2013-14 Seton Hall Pirates
+Seton Hall,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Seton Hall,Big East,1,Tom Maayan,G,6-2,175,SO,--
+Seton Hall,Big East,2,Brandon Mobley,F,6-9,215,JR,Savannah, GA
+Seton Hall,Big East,4,Sterling Gibbs,G,6-2,185,SO,Scotch Plains, NJ
+Seton Hall,Big East,13,Haralds Karlis,G,6-6,210,JR,--
+Seton Hall,Big East,14,Kevin Lynch,G,6-4,190,SR,Canton, MA
+Seton Hall,Big East,15,Hakeem Harris,G,6-1,190,JR,Bergenfield, NJ
+Seton Hall,Big East,21,Gene Teague,C,6-9,270,SR,Vineland, NJ
+Seton Hall,Big East,22,Brian Oliver,G-F,6-7,225,SR,Glassboro, NJ
+Seton Hall,Big East,23,Fuquan Edwin,G-F,6-6,215,SR,Paterson, NJ
+Seton Hall,Big East,25,Rashed Anthony,F,6-8,225,FR,Cordova, SC
+Seton Hall,Big East,30,Jaren Sina,G,6-2,180,FR,Lake Hopatcong, NJ
+Seton Hall,Big East,31,Travis Berry,G,6-4,185,FR,Elmont, NY
+Seton Hall,Big East,33,Patrik Auda,F,6-9,235,JR,Brno, Czech Republic
+Seton Hall,Big East,45,Stephane Manga,F,6-6,230,JR,--
+Seton Hall,Big East,50,Aaron Geramipoor,F-C,6-11,245,SR,Manchester, England
+St. John's,Big East,2013-14 St. John's Red Storm
+St. John's,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+St. John's,Big East,1,Phil Greene IV,G,6-2,189,JR,Chicago, IL
+St. John's,Big East,2,Marc-Antoine Bourgault,G-F,6-7,206,SR,--
+St. John's,Big East,3,God'sgift Achiuwa,F,6-8,230,SR,Port Harcourt, Nigeria
+St. John's,Big East,4,Christian Jones,F,6-7,225,SO,Arlington, TX
+St. John's,Big East,5,David Lipscomb,G,6-2,175,SO,Riverdale, GA
+St. John's,Big East,10,Max Hooper,G-F,6-6,206,SO,Carmel Valley, CA
+St. John's,Big East,11,D'Angelo Harrison,G,6-4,204,JR,Missouri City, TX
+St. John's,Big East,12,Chris Obekpa,C,6-9,240,SO,--
+St. John's,Big East,14,Jakarr Sampson,F,6-9,214,SO,Akron, OH
+St. John's,Big East,15,Sir'Dominic Pointer,G-F,6-5,196,JR,Detroit, MI
+St. John's,Big East,23,Rysheed Jordan,G,6-4,185,FR,Philadelphia, PA
+St. John's,Big East,24,Felix Balamou,G,6-4,199,SO,--
+St. John's,Big East,30,Jamal White,G,6-4,206,SR,Roosevelt, NY
+St. John's,Big East,33,Orlando Sanchez,F,6-9,232,SR,Nagua, Dominican Republic
+St. John's,Big East,35,Khadim Ndiaye,F,6-6,195,JR,Queens, NY
+St. John's,Big East,40,Sam Sealy,F,6-8,187,SO,Medford, NY
+St. John's,Big East,40,Tyler Walston,G,6-5,195,SO,Norwalk, CT
+St. John's,Big East, -- ,Jamal Branch,G,6-3,175,SO,Kansas City, MO
+Villanova,Big East,2013-14 Villanova Wildcats
+Villanova,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Villanova,Big East,2,Kris Jenkins,F,6-6,255,FR,Upper Marlboro, MD
+Villanova,Big East,3,Josh Hart,G,6-5,202,FR,Washington, DC
+Villanova,Big East,4,Darrun Hilliard II,G,6-6,215,JR,Bethlehem, PA
+Villanova,Big East,5,Tony Chennault,G,6-2,195,SR,Philadelphia, PA
+Villanova,Big East,12,Nick McMahon,G,6-0,165,SR,Colts Neck, NJ
+Villanova,Big East,14,Darryl Reynolds,F,6-8,225,FR,Philadelphia, PA
+Villanova,Big East,15,Ryan Arcidiacono,G,6-3,195,SO,Langhorne, PA
+Villanova,Big East,20,Patrick Farrell,F,6-5,200,SO,Rockville Centre, NY
+Villanova,Big East,22,JayVaughn Pinkston,F,6-7,260,JR,Brooklyn, NY
+Villanova,Big East,23,Daniel Ochefu,F,6-11,245,SO,Baltimore, MD
+Villanova,Big East,31,Dylan Ennis,G,6-2,182,SO,Brampton, ON
+Villanova,Big East,32,James Bell,G,6-6,225,SR,Orlando, FL
+Villanova,Big East, -- ,Henry Lowe,G,5-11,185,SO,New York, NY
+Xavier,Big East,2013-14 Xavier Musketeers
+Xavier,Big East,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Xavier,Big East,1,Jalen Reynolds,F,6-9,222,FR,Detroit, MI
+Xavier,Big East,2,James Farr,F,6-9,237,SO,Evanston, IL
+Xavier,Big East,3,Brandon Randolph,G,6-1,190,FR,Inglewood, CA
+Xavier,Big East,5,Remy Abell,G,6-4,200,JR,Louisville, KY
+Xavier,Big East,11,Dee Davis,G,6-0,161,JR,Bloomington, IN
+Xavier,Big East,14,Tim Whelan,G,5-9,160,SR,Cincinnati, OH
+Xavier,Big East,15,Myles Davis,G,6-2,195,FR,Plainfield, NJ
+Xavier,Big East,20,Justin Martin,F,6-6,205,JR,Indianapolis, IN
+Xavier,Big East,21,Tim Stainbrook,F,6-5,180,FR,Bay Village, OH
+Xavier,Big East,22,Landen Amos,G,6-4,185,SR,Chicago, IL
+Xavier,Big East,24,Kamall Richards,F,6-6,210,FR,Brooklyn, NY
+Xavier,Big East,31,Isaiah Philmore,F,6-8,230,SR,Bel Air, MD
+Xavier,Big East,32,Kevin Coker,F,6-6,190,SO,Plainfield, IL
+Xavier,Big East,35,Erik Stenger,F,6-8,207,SR,Cincinnati, OH
+Xavier,Big East,40,Matt Stainbrook,C,6-10,263,JR,Bay Village, OH
+Xavier,Big East, -- ,Semaj Christon,G,6-3,190,SO,Cincinnati, OH
+E Washington,Big Sky,2013-14 Eastern Washington Eagles
+E Washington,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+E Washington,Big Sky,1,Tyler Harvey,G,6-4,180,SO,Torrance, CA
+E Washington,Big Sky,2,Daniel Hill,G,5-9,165,SO,--
+E Washington,Big Sky,4,Danny Powell,F,6-6,230,FR,Phoenix, AZ
+E Washington,Big Sky,5,Nate Galgalo,G,5-10,175,FR,Spokane, WA
+E Washington,Big Sky,10,Parker Kelly,G,6-4,195,JR,Spokane, WA
+E Washington,Big Sky,11,Sir Washington,G,6-3,180,FR,Las Vegas, NV
+E Washington,Big Sky,12,Martin Seiferth,F,6-10,235,JR,Berlin, Germany
+E Washington,Big Sky,13,Thomas Reuter,F,6-6,230,SO,--
+E Washington,Big Sky,21,Frederik Jorg,F,7-1,290,SO,--
+E Washington,Big Sky,22,Drew Brandon,G,6-4,180,JR,Corona, CA
+E Washington,Big Sky,33,Garrett Moon,F,6-5,190,JR,San Francisco, CA
+E Washington,Big Sky,44,Felix Von Hofe,F,6-5,200,FR,--
+E Washington,Big Sky,55,Venky Jois,F,6-7,230,SO,--
+E Washington,Big Sky, -- ,Ognjen Miljkovic,F,6-7,220,FR,--
+Idaho State,Big Sky,2013-14 Idaho State Bengals
+Idaho State,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Idaho State,Big Sky,3,Ben Wilson,G,6-5,200,JR,--
+Idaho State,Big Sky,5,Jeffrey Solarin,F,6-4,210,JR,Denver, CO
+Idaho State,Big Sky,10,Evann Hall,G,6-4,210,SO,Thousand Oaks, CA
+Idaho State,Big Sky,11,Nnamdi Ezenwa,F,6-6,204,SR,El Paso, TX
+Idaho State,Big Sky,12,Ajak Magot,C,6-11,225,JR,Tucson, AZ
+Idaho State,Big Sky,13,Scotty Tyler,F,6-7,205,FR,Grafton, WI
+Idaho State,Big Sky,15,Andre Hatchett,G,6-4,185,SR,Tucson, AZ
+Idaho State,Big Sky,21,Andre Slavik,F-C,6-9,210,FR,--
+Idaho State,Big Sky,24,Chris Hansen,G-F,6-4,220,JR,Fort Collins, CO
+Idaho State,Big Sky,25,Erik Nakken,G,6-3,175,FR,Cedar City, UT
+Idaho State,Big Sky,32,Justin Smith,G,6-5,200,FR,Colorado Springs, CO
+Idaho State,Big Sky,33,Clint Thomas,G,6-1,185,SO,--
+Idaho State,Big Sky,55,Ayibakuro Preh,C,6-9,218,SR,--
+Idaho State,Big Sky, -- ,Tomas Sanchez,NA,6-3,185,SR,Seattle, WA
+Montana,Big Sky,2013-14 Montana Grizzlies
+Montana,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Montana,Big Sky,1,Mario Dunn Jr.,G,6-0,171,FR,Oakland, CA
+Montana,Big Sky,10,Jordan Gregory,G,6-2,194,JR,Pueblo, CO
+Montana,Big Sky,15,Keron DeShields,G,6-2,177,JR,Baltimore, MD
+Montana,Big Sky,20,Nick Emerson,F,6-5,209,SO,Columbia Falls, MT
+Montana,Big Sky,22,Riley Bradshaw,G,6-2,180,FR,Corvallis, MT
+Montana,Big Sky,24,Chris Kemp,F,6-7,236,JR,Baltimore, MD
+Montana,Big Sky,31,Jack Lopez,G-F,6-5,200,FR,--
+Montana,Big Sky,32,Kareem Jamar,G-F,6-5,207,SR,Venice, CA
+Montana,Big Sky,33,Michael Weisner,F,6-7,193,JR,Walla Walla, WA
+Montana,Big Sky,34,Brandon Gfeller,G,6-4,190,FR,Colfax, WA
+Montana,Big Sky,41,Andy Martin,C,7-0,222,SO,Casper, WY
+Montana,Big Sky,45,Eric Hutchison,F,6-9,243,SR,Longview, WA
+Montana,Big Sky,50,Martin Breunig,F,6-8,210,JR,Leverkusen, Germany
+Montana,Big Sky, -- ,Morgan Young,G,6-0,175,SO,Lustre, MT
+Montana State,Big Sky,2013-14 Montana State Bobcats
+Montana State,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Montana State,Big Sky,1,Stephan Holm,G,6-3,185,FR,Riverton, UT
+Montana State,Big Sky,2,Blake Brumwell,C,6-7,250,JR,Big Sandy, MT
+Montana State,Big Sky,3,Michael Dison,G,5-9,160,JR,Houston, TX
+Montana State,Big Sky,5,Antonio Biglow,G,6-0,165,SR,Los Angeles, CA
+Montana State,Big Sky,11,Paul Egwuonwu,C,6-9,235,SR,Boise, ID
+Montana State,Big Sky,13,Terrell Brown,F,6-4,200,SO,Colorado Springs, CO
+Montana State,Big Sky,20,Ryan Shannon,F,6-7,225,FR,Marysville, WA
+Montana State,Big Sky,22,Marcus Colbert,G,5-11,190,SO,Post Falls, ID
+Montana State,Big Sky,23,Vance Wentz,G,6-4,175,FR,Leawood, KS
+Montana State,Big Sky,24,Eric Norman,F,6-9,210,JR,San Diego, CA
+Montana State,Big Sky,30,Josh Bray,G,6-2,175,FR,Kalispell, MT
+Montana State,Big Sky,32,Calen Coleman,F,6-4,200,SR,Bakersfield, CA
+Montana State,Big Sky,34,Danny Robison,F,6-8,230,SO,Billings, MT
+Montana State,Big Sky, -- ,Flavien Davis,F,6-5,225,SR,Milwaukee, WI
+North Dakota,Big Sky,2013-14 North Dakota 
+North Dakota,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+North Dakota,Big Sky,1,Jaron Nash,F,6-8,190,SR,Waterloo, IA
+North Dakota,Big Sky,2,Cole Stefan,G,6-3,190,JR,--
+North Dakota,Big Sky,3,Lenny Antwi,G,6-1,185,JR,Montreal, PQ
+North Dakota,Big Sky,5,Troy Huff,G,6-5,175,SR,Milwaukee, WI
+North Dakota,Big Sky,10,Shane Benton,G,6-3,195,SO,Cedar Rapids, IA
+North Dakota,Big Sky,11,Jamal Webb,G,6-1,190,SR,Buffalo, NY
+North Dakota,Big Sky,20,Thomas Blake,G,6-2,205,FR,Hagerstown, MD
+North Dakota,Big Sky,21,Quinton Hooker,G,6-0,195,FR,Brooklyn Park, MN
+North Dakota,Big Sky,22,Estan Tyler,G,6-1,175,JR,--
+North Dakota,Big Sky,24,Brandon Brekke,F-C,6-8,225,SR,East Grand Forks, MN
+North Dakota,Big Sky,25,Dustin Hobaugh,G,6-5,195,SO,League City, TX
+North Dakota,Big Sky,32,Josh Schuler,G,6-3,180,SR,Urbana, OH
+North Dakota,Big Sky,33,Chad Calcaterra,F,6-9,230,JR,Cloquet, MN
+North Dakota,Big Sky,41,Ryan Salmonson,F-C,6-10,220,JR,Colfax, CA
+North Dakota,Big Sky,42,Alonzo Traylor,F,6-7,215,SR,Minneapolis, MN
+North Dakota,Big Sky, -- ,Aaron Anderson,G,5-10,150,SR,Brooklyn Park, MN
+N Arizona,Big Sky,2013-14 Northern Arizona Lumberjacks
+N Arizona,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+N Arizona,Big Sky,1,Aaseem Dixon,G,6-0,185,JR,Las Vegas, NV
+N Arizona,Big Sky,2,Quinton Upshur,G,6-5,207,JR,Norfolk, VA
+N Arizona,Big Sky,3,Christopher Miller,G,6-3,175,FR,Peoria, AZ
+N Arizona,Big Sky,4,Kris Yanku,G,6-4,183,FR,Chatsworth, CA
+N Arizona,Big Sky,5,Travis Meeker,G,6-4,185,FR,Peoria, AZ
+N Arizona,Big Sky,10,Chris Heine,G,6-1,175,JR,Phoenix, AZ
+N Arizona,Big Sky,11,Ako Kaluna,F-C,6-7,276,FR,Stevenson Ranch, CA
+N Arizona,Big Sky,12,Dewayne Russell,G,5-11,155,SO,Peoria, AZ
+N Arizona,Big Sky,14,Zachary Reynolds,F,6-9,240,JR,Tampa Bay, FL
+N Arizona,Big Sky,15,Len Springs,F-C,6-10,220,JR,Compton, CA
+N Arizona,Big Sky,21,Jaran Hoover,G,6-3,175,FR,Prescott, AZ
+N Arizona,Big Sky,23,Jordan Banks,G,6-1,175,JR,Lenexa, KS
+N Arizona,Big Sky,24,Alex Stecca,F,6-6,195,FR,Corona Del Mar, CA
+N Arizona,Big Sky,32,Gaellan Bewernick,F,6-6,215,JR,Los Angeles, CA
+N Arizona,Big Sky,33,Max Jacobsen,F,6-8,230,SR,Lake Oswego, OR
+N Arizona,Big Sky,34,Jordyn Martin,F,6-7,210,SO,Las Vegas, NV
+N Colorado,Big Sky,2013-14 Northern Colorado Bears
+N Colorado,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+N Colorado,Big Sky,1,Derrick Barden,F,6-5,225,SR,Detroit, MI
+N Colorado,Big Sky,2,Xzaivier James,G,5-11,175,SR,Greeley, CO
+N Colorado,Big Sky,3,Jordan Wilson,G,5-7,155,FR,Los Angeles, CA
+N Colorado,Big Sky,4,Cameron Michael,G,6-5,185,SO,Loveland, CO
+N Colorado,Big Sky,5,Tevin Svihovec,G,6-2,190,JR,Kingwood, TX
+N Colorado,Big Sky,10,Cody McDavis,F,6-8,230,SO,Phoenix, AZ
+N Colorado,Big Sky,13,Dominique Lee,F,6-5,215,JR,Oakland, CA
+N Colorado,Big Sky,15,Tate Unruh,G,6-4,180,SR,Branson, MO
+N Colorado,Big Sky,21,Brendan Keane,F,6-9,245,JR,Oakland, CA
+N Colorado,Big Sky,22,Tim Huskisson,F,6-5,210,JR,Willard, MO
+N Colorado,Big Sky,23,Collin Sanger,F,6-5,200,FR,Sterling, CO
+N Colorado,Big Sky,24,Anthony Johnson,G,6-2,190,FR,Indianapolis, IN
+N Colorado,Big Sky,30,Jon'te Dotson,G,6-3,185,FR,Denver, CO
+N Colorado,Big Sky,33,Jeremy Verhagen,F,6-10,195,FR,Florence, AZ
+N Colorado,Big Sky,34,Connor Osborne,C,6-9,270,SR,Littleton, CO
+N Colorado,Big Sky, -- ,Corey Spence,G,5-9,175,JR,Baltimore, MD
+Portland State,Big Sky,2013-14 Portland State Vikings
+Portland State,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Portland State,Big Sky,1,Zach Gengler,G,6-2,180,FR,Silverton, OR
+Portland State,Big Sky,2,Kyle Benton,F,6-6,220,FR,Long Beach, CA
+Portland State,Big Sky,3,Andre Winston, Jr.,G,6-1,170,JR,Lakewood, WA
+Portland State,Big Sky,5,Lamont Prosser,C,6-8,275,SR,Fort Wayne, IN
+Portland State,Big Sky,10,Jacob Begin,G,6-1,185,JR,Tillamook, OR
+Portland State,Big Sky,11,Tim Douglas,G,5-10,160,JR,Cerritos, CA
+Portland State,Big Sky,12,Alyx Foster,G,6-3,180,SR,Phoenix, AZ
+Portland State,Big Sky,13,Tiegbe Bamba,F,6-6,205,JR,--
+Portland State,Big Sky,15,Marcus Hall,G,6-4,200,SR,Bakersfield, CA
+Portland State,Big Sky,21,Aaron Moore,F,6-8,210,SR,Riverside, CA
+Portland State,Big Sky,23,DaShaun Wiggins,G,6-2,185,JR,Bronx, NY
+Portland State,Big Sky,30,Kyler Shula,G,5-10,160,JR,Puyallup, WA
+Portland State,Big Sky,30,Sebastian Suarez,G,6-4,210,JR,--
+Portland State,Big Sky,34,Joel King,G,6-3,185,JR,Lacey, WA
+Portland State,Big Sky,42,Kyle Richardson,F,6-7,235,JR,Lakewood, CA
+Portland State,Big Sky,44,Brandon Cataldo,C,6-10,290,JR,Rainier, OR
+Portland State,Big Sky, -- ,Gary Winston,G,6-0,190,JR,Walla Walla, WA
+Sacramento St,Big Sky,2013-14 Sacramento State Hornets
+Sacramento St,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Sacramento St,Big Sky,1,Dreon Barlett,G,6-3,170,SO,Pasadena, CA
+Sacramento St,Big Sky,2,Cody Demps,G,6-4,200,SO,Elk Grove, CA
+Sacramento St,Big Sky,4,Joey Quigley,F,6-8,210,SR,Kansas City, MO
+Sacramento St,Big Sky,5,Dylan Garrity,G,6-2,175,JR,Huntington Beach, CA
+Sacramento St,Big Sky,10,Mikh McKinney,G,6-1,165,JR,Union City, CA
+Sacramento St,Big Sky,11,Trevis Jackson,G,5-11,160,FR,Santa Monica, CA
+Sacramento St,Big Sky,12,Kendell Groom,G,6-3,175,SR,New Haven, CT
+Sacramento St,Big Sky,15,Ryan Okwudibonye,C,6-8,235,JR,Huntington Beach, CA
+Sacramento St,Big Sky,20,Zach Mills,F,6-5,215,JR,Yorba Linda, CA
+Sacramento St,Big Sky,22,Jordan Salley,F,6-6,230,SR,La Verne, CA
+Sacramento St,Big Sky,32,Nick Hornsby,G-F,6-7,200,FR,Irvine, CA
+Sacramento St,Big Sky,34,Alex Tiffin,F,6-9,235,JR,Thousand Oaks, CA
+Sacramento St,Big Sky,44,Eric Stuteville,C,6-11,240,FR,--
+Sacramento St,Big Sky, -- ,Case Rada,G,6-3,200,SO,Burbank, WA
+Weber State,Big Sky,2013-14 Weber State Wildcats
+Weber State,Big Sky,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Weber State,Big Sky,5,Jordan Richardson,G,6-1,180,SR,Lewisville, TX
+Weber State,Big Sky,15,Davion Berry,G-F,6-4,185,SR,Oakland, CA
+Weber State,Big Sky,23,Richaud Gittens,G,6-4,185,FR,Tempe, AZ
+Weber State,Big Sky,25,Byron Fulton,F,6-7,235,SR,Phoenix, AZ
+Weber State,Big Sky,30,Jeremy Senglin,G,6-2,185,FR,Arlington, TX
+Weber State,Big Sky,32,Royce Williams,G-F,6-5,205,JR,Los Angeles, CA
+Weber State,Big Sky,35,Kyndahl Hill,F,6-7,210,FR,Humble, TX
+Weber State,Big Sky,40,Josh Fuller,F,6-6,220,FR,Rexburg, ID
+Weber State,Big Sky,44,Kyle Tresnak,C,6-10,240,SR,Scottsdale, AZ
+Weber State,Big Sky,45,James Hajek,C,6-10,250,JR,Omaha, NE
+Weber State,Big Sky, -- ,Joel Bolomboy,NA,6-9,225,SO,Fort Worth, TX
+Weber State,Big Sky, -- ,Gelaun Wheelwright,G,6-1,195,JR,Corona, CA
+Campbell,Big South,2013-14 Campbell Fighting Camels
+Campbell,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Campbell,Big South,1,Luke Moyer,G,6-0,170,SO,Souderton, PA
+Campbell,Big South,2,Rod Days,F,6-6,220,JR,Miami Gardens, FL
+Campbell,Big South,3,Casey Perrin,G,5-9,160,SO,Scottsdale, AZ
+Campbell,Big South,4,Lance Brown,G,5-10,155,SO,Greensboro, NC
+Campbell,Big South,5,Quinton Ray,G,6-1,180,FR,Angier, NC
+Campbell,Big South,10,Leek Leek,F,6-6,215,SR,--
+Campbell,Big South,11,Jordan Faciane,G,6-4,210,SO,Ellenwood, GA
+Campbell,Big South,13,A'kanni White,G,6-0,153,FR,Suffolk, VA
+Campbell,Big South,15,Marvelle Harris,F,6-6,215,SR,Macon, GA
+Campbell,Big South,20,Andrew Ryan,G,6-5,200,JR,Lynden, WA
+Campbell,Big South,22,Darius Leonard,C,6-9,225,JR,Raleigh, NC
+Campbell,Big South,23,Jacob Talbert,G,6-0,200,FR,Southern Pines, NC
+Campbell,Big South,24,Kyre' Hamer,G,6-3,195,FR,Stone Mountain, GA
+Campbell,Big South,25,Reco McCarter,F,6-6,195,JR,Goldsboro, NC
+Campbell,Big South,35,D.J. Mason,F,6-6,215,SO,Clarkton, NC
+Campbell,Big South,41,Antonio Kalpic,C,6-9,220,SR,Sibenik, Croatia
+Campbell,Big South, -- ,Antwon Oliver,F,6-6,185,SR,Racine, WI
+Charl Southern,Big South,2013-14 Charleston Southern Buccaneers
+Charl Southern,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Charl Southern,Big South,1,Will Saunders,F,6-7,190,JR,London, England
+Charl Southern,Big South,2,Malcolm Bernard,F,6-5,191,SO,Middleburg, FL
+Charl Southern,Big South,4,Sheldon Strickland,G,6-0,175,SR,Lithonia, GA
+Charl Southern,Big South,5,Saah Nimley,G,5-8,158,JR,Lawrenceville, GA
+Charl Southern,Big South,10,Tre Smith,G,6-3,195,FR,Simpsonville, SC
+Charl Southern,Big South,11,Matt Kennedy,G,6-3,180,SR,Charleston, SC
+Charl Southern,Big South,12,Mitchell Deter,G,6-3,205,SR,Columbia, SC
+Charl Southern,Big South,15,Paul Gombwer,F,6-6,217,JR,--
+Charl Southern,Big South,21,Bakari Copeland,F,6-6,222,FR,Lithonia, GA
+Charl Southern,Big South,23,Ty'Quan Bitting,C,6-8,185,FR,Winston-salem, NC
+Charl Southern,Big South,24,Cedrick Bowen,F,6-5,225,JR,Woodstock, GA
+Charl Southern,Big South,30,Thomas Odom,G,6-2,188,SR,Florence, SC
+Charl Southern,Big South,33,Greg Dorleus,F-C,6-9,249,JR,Oviedo, FL
+Charl Southern,Big South,35,Alhaji Fullah,F-C,6-8,235,SR,London, England
+Charl Southern,Big South, -- ,Ty'Quan Biting,NA,0-0,0, -- ,--
+Charl Southern,Big South, -- ,Arlon Harper,G,6-2,180,JR,College Park, GA
+Coast Carolina,Big South,2013-14 Coastal Carolina Chanticleers
+Coast Carolina,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Coast Carolina,Big South,2,Aaron Law,G,6-0,180,SO,Chapel Hill, NC
+Coast Carolina,Big South,3,Josh Cameron,G,6-1,175,JR,Racine, WI
+Coast Carolina,Big South,5,Eric Smith,G,6-0,205,SR,Mullins, SC
+Coast Carolina,Big South,10,Shivaughn Wiggins,G,5-11,180,SO,Charlotte, NC
+Coast Carolina,Big South,11,El Hadji Ndieguene,C,6-10,240,SR,--
+Coast Carolina,Big South,12,Michel Enanga,F,6-6,215,SO,Yaounde, Cameroon
+Coast Carolina,Big South,13,Uros Ljeskovic,F,6-8,240,SO,--
+Coast Carolina,Big South,21,Tristian Curtis,F,6-7,220,SO,Nassau, Bahamas
+Coast Carolina,Big South,22,Elijah Wilson,G,6-4,205,FR,Wilmington, NC
+Coast Carolina,Big South,23,Badou Diagne,F,6-7,220,SO,Dakar, Senegal
+Coast Carolina,Big South,30,Colton Ray-St Cyr,G,6-5,185,FR,Williamsburg, VA
+Coast Carolina,Big South,33,Ron Trapps,G,6-4,195,FR,Lancaster, SC
+Coast Carolina,Big South,55,Kyle Buffkin,C,6-10,235,FR,--
+Coast Carolina,Big South, -- ,Warren Gillis,G,6-3,205,JR,Philadelphia, PA
+Gardner-Webb,Big South,2013-14 Gardner-Webb Runnin' Bulldogs
+Gardner-Webb,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Gardner-Webb,Big South,2,Tyler Strange,G,5-10,185,JR,Leominster, MA
+Gardner-Webb,Big South,3,Josh Castellanos,G,6-1,180,SR,Orlando, FL
+Gardner-Webb,Big South,4,Logan Stumpf,F,6-6,210,FR,Harrisburg, PA
+Gardner-Webb,Big South,5,Onzie Branch,F,6-6,215,SR,Topeka, KS
+Gardner-Webb,Big South,11,Naji Hibbert,G,6-5,190,SR,Baltimore, MD
+Gardner-Webb,Big South,15,Jarvis Davis,G,6-0,180,JR,Columbia, SC
+Gardner-Webb,Big South,20,Tyrell Nelson,C,6-7,235,FR,Charlotte, NC
+Gardner-Webb,Big South,23,Adonis Burbage,G,6-5,200,JR,Orlando, FL
+Gardner-Webb,Big South,24,Isaiah Ivey,G,6-2,190,SO,Georgetown, KY
+Gardner-Webb,Big South,30,Adam Sweeney,G,5-10,180,SO,Madison, OH
+Gardner-Webb,Big South,32,Donell Tuff,F,6-6,210,FR,Tifton, GA
+Gardner-Webb,Big South,33,Corey Hensley,C,6-8,220,JR,Candler, NC
+Gardner-Webb,Big South,35,Jerome Hill,F,6-5,210,SO,Adel, GA
+Gardner-Webb,Big South,54,Mike Byron,C,6-10,245,SR,San Antonio, TX
+Gardner-Webb,Big South, -- ,Donta Harper,F,6-7,205,JR,Winterville, NC
+Gardner-Webb,Big South, -- ,Kevin Hartley,NA,0-0,0, -- ,--
+High Point,Big South,2013-14 High Point Panthers
+High Point,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+High Point,Big South,1,Dejuan McGaughy,G,6-1,210,SR,Columbus, OH
+High Point,Big South,2,Brian Richardson,G,6-4,175,SR,Wilson, NC
+High Point,Big South,4,Cliff Cornish,F,6-9,250,FR,Baltimore, MD
+High Point,Big South,10,Tarique Thompson,F,6-5,210,FR,Raeford, NC
+High Point,Big South,11,Haiishen McIntyre,G,6-2,175,SO,Harrisburg, PA
+High Point,Big South,12,Jorge Perez-Laham,G,6-1,187,FR,Canovanas, Puerto Rico
+High Point,Big South,13,Allan Chaney,F,6-9,240,SR,Baltimore, MD
+High Point,Big South,15,Lorenzo Cugini,F,6-7,225,SO,Stow, OH
+High Point,Big South,21,Quincy Drye,G,6-2,190,JR,Durham, NC
+High Point,Big South,22,Adam Weary,G,6-3,205,SO,Memphis, TN
+High Point,Big South,23,Devante Wallace,G,6-5,185,JR,Baltimore, MD
+High Point,Big South,24,Anthony Lindauer,G,6-3,170,FR,Moline, IL
+High Point,Big South,25,Matteo Bellusci,G,6-3,170,SO,Calgary, AB
+High Point,Big South,35,Tre Duncan,G,6-0,210,JR,Millersville, MD
+High Point,Big South, -- ,John Brown,F,6-8,205,SO,Jacksonville, FL
+High Point,Big South, -- ,Derrell Edwards,NA,6-2,210,SR,Baltimore, MD
+Liberty,Big South,2013-14 Liberty Flames
+Liberty,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Liberty,Big South,1,Davon Marshall,G,5-11,170,SR,Niagara Falls, NY
+Liberty,Big South,3,Casey Roberts,G,6-3,190,SR,Lavale, MD
+Liberty,Big South,4,Wesley Alcegaire,G-F,6-5,205,FR,Miami, FL
+Liberty,Big South,5,Ryan Kemrite,G-F,6-4,200,FR,Conroe, TX
+Liberty,Big South,10,Chad Donley,G,6-2,175,JR,Baker, FL
+Liberty,Big South,11,Andrew Smith,F,6-9,225,JR,Pompano Beach, FL
+Liberty,Big South,12,Tomasz Gielo,F,6-9,225,JR,--
+Liberty,Big South,15,Ethan Layer,G,6-1,160,SO,Forest, VA
+Liberty,Big South,21,Joel Vander Pol,C,6-10,235,SR,Fort Myers, FL
+Liberty,Big South,23,Joe Retic,G,6-3,190,SO,Indianapolis, IN
+Liberty,Big South,24,Antwan Burrus,F,6-6,235,SR,Winterville, NC
+Liberty,Big South,32,JR Coronado,F,6-8,245,SR,Caracas, 
+Liberty,Big South,33,John-Caleb Sanders,G,6-0,190,SR,Sugar Land, TX
+Liberty,Big South,42,Sommy Ogukwe,F,6-7,230,JR,--
+Liberty,Big South, -- ,Devon Pekas,G,6-4,185,FR,Hawley, MN
+Longwood,Big South,2013-14 Longwood Lancers
+Longwood,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Longwood,Big South,1,Leron Fisher,G,5-11,160,SO,Baltimore, MD
+Longwood,Big South,2,Lucas Woodhouse,G,6-1,165,SO,Greenlawn, NY
+Longwood,Big South,3,Darrion Allen,G,6-2,165,FR,Pompano Beach, FL
+Longwood,Big South,4,Eric Shaw,F,6-7,192,FR,Stafford, VA
+Longwood,Big South,5,Curtis Rowser III,G,6-1,165,FR,Stafford, VA
+Longwood,Big South,10,Lotanna Nwogbo,F-C,6-8,255,JR,Lithonia, GA
+Longwood,Big South,12,Tristan Carey,G,6-4,185,SR,Colonial Beach, VA
+Longwood,Big South,13,David Robinson,G,6-3,190,SR,Chesterfield, VA
+Longwood,Big South,15,Isaac Belton,G,6-4,205,FR,Salem, VA
+Longwood,Big South,20,Karl Ziegler,F,6-5,215,SO,Annandale, VA
+Longwood,Big South,21,Mark Parker,F,6-7,210,SR,Clayton, NC
+Longwood,Big South,22,Jeylani Dublin,F,6-6,225,JR,Brooklyn, NY
+Longwood,Big South,24,Damarion Geter,F,6-7,215,FR,Dayton, OH
+Longwood,Big South,30,Tyler Akers,G,6-4,180,JR,Wytheville, VA
+Longwood,Big South,44,Jeff Havenstein,F,6-8,230,SR,--
+Longwood,Big South, -- ,Charlie Lockwood,C,6-10,210,FR,Inglewood, CA
+Presbyterian,Big South,2013-14 Presbyterian Blue Hose
+Presbyterian,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Presbyterian,Big South,2,Markus Terry,G,6-1,200,FR,--
+Presbyterian,Big South,4,Austin Anderson,G,6-5,172,SO,Piedmont, SC
+Presbyterian,Big South,10,Russell McCray,G,5-11,191,JR,Columbia, SC
+Presbyterian,Big South,11,Bradford Allen,G,6-0,176,FR,Charleston, SC
+Presbyterian,Big South,14,Reggie Dillard,G,6-4,220,FR,Greensboro, NC
+Presbyterian,Big South,15,William Truss,C,6-8,265,JR,Vestavia Hills, AL
+Presbyterian,Big South,21,Jordan Downing,G-F,6-5,208,JR,Huntersville, NC
+Presbyterian,Big South,24,Will Adams,G,5-10,170,FR,Johnson City, TN
+Presbyterian,Big South,31,Mac Lake,F,6-4,201,JR,Prosperity, SC
+Presbyterian,Big South,33,Charlie Inclan,G,5-10,165,FR,Spartanburg, SC
+Presbyterian,Big South,34,Ed Drew,F,6-5,205,FR,Suffolk, VA
+Presbyterian,Big South,44,Jake Campbell,C,7-0,248,SO,Centerville, OH
+Presbyterian,Big South, -- ,Danny Herrera,F,6-5,215,JR,Miami, FL
+Radford,Big South,2013-14 Radford Highlanders
+Radford,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Radford,Big South,2,Javonte Green,F,6-4,205,JR,Petersburg, VA
+Radford,Big South,5,Rashun Davis,G,5-11,185,SO,Charlotte, NC
+Radford,Big South,10,R.J. Price,G,5-11,180,JR,Richmond, VA
+Radford,Big South,11,Ya Ya Anderson,G,6-2,195,SO,Palmyra, VA
+Radford,Big South,12,Allen Dickerson,G,6-2,210,SR,Radford, VA
+Radford,Big South,14,Justin Cousin,G,6-0,195,FR,Burlington, NC
+Radford,Big South,15,Lucas Dyer,F,6-8,215,SO,Richmond, VA
+Radford,Big South,30,Jalen Carethers,F,6-8,205,JR,Burlington, NC
+Radford,Big South,32,Juwan Wells,G-F,6-6,195,SO,La Plata, MD
+Radford,Big South,33,Kyle Noreen,F,6-4,210,JR,Minneapolis, MN
+Radford,Big South,55,Brandon Holcomb,F,6-7,215,SO,Murrieta, CA
+Radford,Big South, -- ,Kion Brown,F,6-7,210,SO,Richmond, VA
+UNC Asheville,Big South,2013-14 UNC Asheville Bulldogs
+UNC Asheville,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UNC Asheville,Big South,3,Ethan Wilmoth,G,6-2,195,FR,Dobson, NC
+UNC Asheville,Big South,5,Jaron Lane,G-F,6-4,185,SR,Greenville, NC
+UNC Asheville,Big South,11,Marcus Neely,G,6-4,205,SO,Fort Lauderdale, FL
+UNC Asheville,Big South,13,David Robertson,G,6-3,185,FR,Cary, NC
+UNC Asheville,Big South,14,Mike Bedulskis,F,6-9,220,FR,Vilnius, Lithuania
+UNC Asheville,Big South,15,Andrew Rowsey,G,5-10,175,FR,Lexington, VA
+UNC Asheville,Big South,20,Chudier Pal,C,6-9,240,JR,--
+UNC Asheville,Big South,21,Giacomo Zilli,F,6-9,225,FR,Udine, Italy
+UNC Asheville,Big South,22,Corey Littlejohn,G,6-3,180,JR,Columbia, SC
+UNC Asheville,Big South,25,Jacob Casper,G,6-3,190,JR,Asheville, NC
+UNC Asheville,Big South,31,Sam Hughes,G-F,6-4,205,SO,Battleboro, NC
+UNC Asheville,Big South,32,Will Weeks,F,6-6,220,SO,Charlotte, NC
+UNC Asheville,Big South,33,D.J. Cunningham,C,6-10,240,SR,Waterford, OH
+UNC Asheville,Big South,42,Alex Biggerstaff,F,6-4,185,FR,Burnsville, NC
+UNC Asheville,Big South,45,Jaleel Roberts,C,7-0,225,JR,Evans, GA
+UNC Asheville,Big South,55,Trent Meyer,G,6-3,170,SR,Fort Lauderdale, FL
+UNC Asheville,Big South, -- ,Zach Davis,G,6-3,185,SO,Charlotte, NC
+VMI,Big South,2013-14 Virginia Military Keydets
+VMI,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+VMI,Big South,1,Rodney Glasgow,G,5-10,170,SR,Brooklyn, NY
+VMI,Big South,3,Brian Brown,G,5-11,185,JR,Kings Mountain, NC
+VMI,Big South,4,Christian Burton,G,5-10,170,JR,Virginia Beach, VA
+VMI,Big South,5,Drew Absher,G,5-10,170,SR,Mocksville, NC
+VMI,Big South,12,Ot Elmore,G,6-3,190,FR,Charleston, WV
+VMI,Big South,15,Trey Chapman,F,6-6,205,FR,Greensboro, NC
+VMI,Big South,21,Tyrell Mason,G,6-3,190,FR,Stafford, VA
+VMI,Big South,22,QJ Peterson,G,6-0,170,FR,Hedgesville, WV
+VMI,Big South,23,Tim Marshall,G,6-3,185,SO,Virginia Beach, VA
+VMI,Big South,24,D.J. Covington,F,6-9,235,SR,Virginia Beach, VA
+VMI,Big South,25,Craig Hinton,F,6-7,195,FR,Winston-salem, NC
+VMI,Big South,32,Phillip Anglade,F,6-5,210,SO,--
+VMI,Big South,34,Jarid Watson,C,6-7,215,JR,Burtonsville, MD
+VMI,Big South,35,Julian Eleby,G,6-3,190,FR,Fayetteville, NC
+VMI,Big South,40,Jordan Weethee,F,6-6,210,SO,Greensboro, NC
+Winthrop,Big South,2013-14 Winthrop Eagles
+Winthrop,Big South,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Winthrop,Big South,1,Brandon Vega,G,5-10,160,JR,Miami, FL
+Winthrop,Big South,2,Carlin Bremner,G,5-10,180,SO,Charlotte, NC
+Winthrop,Big South,3,Christian Farmer,G,6-5,190,SR,Charlotte, NC
+Winthrop,Big South,4,Joab Jerome,F,6-5,197,SR,Marietta, GA
+Winthrop,Big South,5,Keon Johnson,G,5-7,160,FR,Mansfield, OH
+Winthrop,Big South,10,Keon Moore,G,6-5,190,JR,Windsor, NC
+Winthrop,Big South,10,Moore Moore Keon,G,0-0,0,JR,--
+Winthrop,Big South,11,Andre Smith,G,5-10,170,JR,Tampa, FL
+Winthrop,Big South,12,Ivan Saicic,F,6-7,205,FR,--
+Winthrop,Big South,14,James Bourne,F,6-8,245,JR,Alexandria, VA
+Winthrop,Big South,15,Derrick Henry,G,6-2,190,JR,Covington, GA
+Winthrop,Big South,20,Donovan Carter,F,6-5,215,SR,Ladson, SC
+Winthrop,Big South,23,Larry Brown,F,6-6,210,JR,--
+Winthrop,Big South,25,Josh Davenport,F,6-5,200,FR,Cincinnati, OH
+Winthrop,Big South,31,Tevin Prescott,F,6-5,180,SO,Hartsville, SC
+Winthrop,Big South,33,Hunter Sadlon,G,6-0,168,FR,Cincinnati, OH
+Winthrop,Big South,35,Jarad Scott,F,6-8,215,FR,Lumberton, NC
+Winthrop,Big South, -- ,Duby Okeke,C,6-8,230,FR,Jonesboro, GA
+Illinois,Big Ten,2013-14 Illinois Fighting Illini
+Illinois,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Illinois,Big Ten,1,Jaylon Tate,G,6-3,160,FR,Chicago, IL
+Illinois,Big Ten,2,Joseph Bertrand,G,6-6,200,SR,Sterling, IL
+Illinois,Big Ten,10,Mike LaTulip,G,6-1,170,SO,Arlington Heights, IL
+Illinois,Big Ten,13,Tracy Abrams,G,6-2,190,JR,Chicago, IL
+Illinois,Big Ten,21,Malcolm Hill,G,6-6,210,FR,Belleville, IL
+Illinois,Big Ten,22,Maverick Morgan,C,6-10,250,FR,Springboro, OH
+Illinois,Big Ten,24,Rayvonte Rice,G,6-4,235,JR,Champaign, IL
+Illinois,Big Ten,25,Kendrick Nunn,G,6-3,180,FR,Chicago, IL
+Illinois,Big Ten,31,Austin Colbert,F,6-9,210,FR,Chesapeake, VA
+Illinois,Big Ten,32,Nnanna Egwu,F-C,6-11,250,JR,Chicago, IL
+Illinois,Big Ten,33,Jon Ekey,F,6-7,225,SR,Independence, MO
+Illinois,Big Ten,35,Darius Paul,F,6-8,220,SO,Gurnee, IL
+Indiana,Big Ten,2013-14 Indiana Hoosiers
+Indiana,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Indiana,Big Ten,1,Noah Vonleh,F,6-10,240,FR,Haverhill, MA
+Indiana,Big Ten,2,Andrew Calomeris,G,6-4,186,FR,Potomac, MD
+Indiana,Big Ten,3,Jonny Marlin,G,5-10,162,SO,Greenwood, IN
+Indiana,Big Ten,5,Troy Williams,F,6-7,206,FR,Hampton, VA
+Indiana,Big Ten,10,Evan Gordon,G,6-0,192,SR,Indianapolis, IN
+Indiana,Big Ten,11,Yogi Ferrell,G,6-0,178,SO,Indianapolis, IN
+Indiana,Big Ten,12,Hanner Mosquera-Perea,F,6-9,225,SO,--
+Indiana,Big Ten,13,Austin Etherington,F,6-6,213,SO,Cicero, IN
+Indiana,Big Ten,15,Devin Davis,F,6-7,221,FR,Indianapolis, IN
+Indiana,Big Ten,20,Taylor Wayer,G,5-10,187,SR,Indianapolis, IN
+Indiana,Big Ten,21,Joe Fagan,G,6-4,195,FR,Indianapolis, IN
+Indiana,Big Ten,22,Stanford Robinson,G,6-4,193,FR,Landover, MD
+Indiana,Big Ten,24,Jeff Howard,F,6-8,225,SR,Westfield, IN
+Indiana,Big Ten,30,Collin Hartman,F,6-6,210,FR,Indianapolis, IN
+Indiana,Big Ten,33,Jeremy Hollowell,F,6-8,219,SO,Indianapolis, IN
+Indiana,Big Ten,42,Peter Jurkin,C,7-0,230,SO,--
+Indiana,Big Ten, -- ,Will Sheehey,F,6-7,200,SR,Stuart, FL
+Iowa,Big Ten,2013-14 Iowa Hawkeyes
+Iowa,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Iowa,Big Ten,1,Melsahn Basabe,F,6-7,220,SR,Glen Cove, NY
+Iowa,Big Ten,2,Josh Oglesby,G,6-5,208,JR,Cedar Rapids, IA
+Iowa,Big Ten,3,Peter Jok,G,6-6,200,FR,West Des Moines, IA
+Iowa,Big Ten,4,Roy Devyn Marble,G,6-6,200,SR,Southfield, MI
+Iowa,Big Ten,5,Anthony Clemmons,G,6-1,195,SO,Lansing, MI
+Iowa,Big Ten,10,Mike Gesell,G,6-1,190,SO,South Sioux City, NE
+Iowa,Big Ten,13,Kyle Denning,G,6-2,160,JR,Cedar Falls, IA
+Iowa,Big Ten,15,Zach McCabe,F,6-7,235,SR,Sioux City, IA
+Iowa,Big Ten,20,Jarrod Uthoff,F,6-8,208,SO,Cedar Rapids, IA
+Iowa,Big Ten,23,Okey Ukah,F,6-6,210,JR,Iowa City, IA
+Iowa,Big Ten,30,Aaron White,F,6-9,220,JR,Strongsville, OH
+Iowa,Big Ten,34,Adam Woodbury,C,7-1,240,SO,Sioux City, IA
+Iowa,Big Ten,35,Darius Stokes,F,6-7,203,JR,Cedar Rapids, IA
+Iowa,Big Ten,42,Kyle Meyer,F,6-10,225,FR,Alpharetta, GA
+Iowa,Big Ten, -- ,Gabriel Olaseni,C,6-10,225,JR,London, England
+Michigan,Big Ten,2013-14 Michigan Wolverines
+Michigan,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Michigan,Big Ten,1,Glenn Robinson III,F,6-6,220,SO,--
+Michigan,Big Ten,2,Spike Albrecht,G,5-11,175,SO,Crown Point, IN
+Michigan,Big Ten,4,Mitch McGary,F,6-10,255,SO,Chesterton, IN
+Michigan,Big Ten,5,Andrew Dakich,G,6-2,185,FR,Zionsville, IN
+Michigan,Big Ten,10,Derrick Walton Jr.,G,6-1,185,FR,Detroit, MI
+Michigan,Big Ten,11,Nik Stauskas,G,6-6,205,SO,Mississauga, ON
+Michigan,Big Ten,12,Cole McConnell,G,6-5,200,FR,Atherton, CA
+Michigan,Big Ten,14,Brad Anlauf,F,6-4,195,SO,Hinsdale, IL
+Michigan,Big Ten,15,Jon Horford,F,6-10,250,JR,Grand Ledge, MI
+Michigan,Big Ten,20,Sean Lonergan,G,6-5,190,FR,Fishers, IN
+Michigan,Big Ten,21,Zak Irvin,G,6-6,200,FR,Fishers, IN
+Michigan,Big Ten,23,Caris LeVert,G,6-6,185,SO,Pickerington, OH
+Michigan,Big Ten,34,Mark Donnal,F,6-9,230,FR,Monclova, OH
+Michigan,Big Ten,44,Max Bielfeldt,F,6-7,245,SO,Peoria, IL
+Michigan,Big Ten,52,Jordan Morgan,F,6-8,250,SR,Detroit, MI
+Michigan,Big Ten, -- ,Derrick Walton Jr,G,0-0,0, -- ,--
+Michigan State,Big Ten,2013-14 Michigan State Spartans
+Michigan State,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Michigan State,Big Ten,2,Alex Gauna,F,6-9,250,JR,Eaton Rapids, MI
+Michigan State,Big Ten,3,Alvin Ellis III,G,6-4,195,FR,Matteson, IL
+Michigan State,Big Ten,5,Adreian Payne,F,6-10,245,SR,Dayton, OH
+Michigan State,Big Ten,10,Matt Costello,F,6-9,240,SO,Bay City, MI
+Michigan State,Big Ten,11,Keith Appling,G,6-1,185,SR,Detroit, MI
+Michigan State,Big Ten,13,Trevor Bohnhoff,F,6-7,215,SO,Saginaw, MI
+Michigan State,Big Ten,14,Gary Harris,G,6-4,210,SO,Fishers, IN
+Michigan State,Big Ten,15,Keenan Wetzel,G,6-4,210,JR,Monroe, MI
+Michigan State,Big Ten,20,Travis Trice,G,6-0,170,JR,Huber Heights, OH
+Michigan State,Big Ten,22,Branden Dawson,G-F,6-6,225,JR,Gary, IN
+Michigan State,Big Ten,30,Kenny Kaminski,F,6-8,225,FR,Medina, OH
+Michigan State,Big Ten,34,Gavin Schilling,F,6-9,240,FR,Chicago, IL
+Michigan State,Big Ten,40,Dan Chapman,G,6-3,190,SR,Okemos, MI
+Michigan State,Big Ten,41,Colby Wollenman,F,6-7,225,SO,Big Horn, WY
+Michigan State,Big Ten,45,Denzel Valentine,G,6-5,225,SO,Lansing, MI
+Michigan State,Big Ten, -- ,Russell Byrd,G,6-7,205,JR,Fort Wayne, IN
+Minnesota,Big Ten,2013-14 Minnesota Golden Gophers
+Minnesota,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Minnesota,Big Ten,1,Andre Hollins,G,6-2,195,JR,Memphis, TN
+Minnesota,Big Ten,2,Kendal Shell,G,6-0,185,JR,--
+Minnesota,Big Ten,3,Wally Ellenson,G,6-6,210,SO,Rice Lake, WI
+Minnesota,Big Ten,4,Deandre Mathieu,G,5-9,165,JR,Knoxville, TN
+Minnesota,Big Ten,5,Daquein McNeil,G,6-3,195,FR,Baltimore, MD
+Minnesota,Big Ten,10,Oto Osenieks,F,6-8,220,JR,--
+Minnesota,Big Ten,13,Maverick Ahanmisi,G,6-2,190,SR,Santa Clarita, CA
+Minnesota,Big Ten,15,Maurice Walker,F,6-10,250,JR,Scarborough, ON
+Minnesota,Big Ten,20,Austin Hollins,G,6-4,190,SR,Germantown, TN
+Minnesota,Big Ten,21,Jasen Baranowski,G,6-2,185,FR,Green Bay, WI
+Minnesota,Big Ten,23,Charles Buggs,F,6-9,210,FR,Arlington, TX
+Minnesota,Big Ten,24,Joey King,F,6-9,225,SO,Eagan, MN
+Minnesota,Big Ten,30,Malik Smith,G,6-2,200,SR,Boston, MA
+Minnesota,Big Ten,55,Elliott Eliason,C,6-11,240,JR,Chadron, NE
+Nebraska,Big Ten,2013-14 Nebraska Cornhuskers
+Nebraska,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Nebraska,Big Ten,2,David Rivers,F,6-7,198,JR,Little Rock, AR
+Nebraska,Big Ten,3,Benny Parker,G,5-9,166,SO,Kansas City, KS
+Nebraska,Big Ten,4,Nathan Hawkins,G,6-5,198,FR,Garland, TX
+Nebraska,Big Ten,5,Terran Petteway,G-F,6-6,209,SO,Galveston, TX
+Nebraska,Big Ten,10,Trevor Menke,G,5-11,183,JR,Beatrice, NE
+Nebraska,Big Ten,11,Jordan Tyrance,F,6-3,202,JR,Lincoln, NE
+Nebraska,Big Ten,12,Mike Peltz,G,6-3,202,SR,Alliance, NE
+Nebraska,Big Ten,14,Sergej Vucetic,C,7-1,238,SO,--
+Nebraska,Big Ten,15,Ray Gallegos,G,6-2,182,SR,Salt Lake City, UT
+Nebraska,Big Ten,21,Leslee Smith,F,6-8,255,JR,--
+Nebraska,Big Ten,23,Nick Fuller,F,6-6,199,FR,Sun Prairie, WI
+Nebraska,Big Ten,31,Shavon Shields,G-F,6-7,219,SO,Olathe, KS
+Nebraska,Big Ten,35,Walter Pitchford,F,6-10,234,SO,Grand Rapids, MI
+Nebraska,Big Ten,44,Kye Kurkowski,F,6-11,214,JR,Grant, NE
+Nebraska,Big Ten, -- ,Jordan Tyrance,NA,0-0,0, -- ,--
+Nebraska,Big Ten, -- ,Tai Webster,G,6-4,194,FR,Auckland, New Zealand
+Northwestern,Big Ten,2013-14 Northwestern Wildcats
+Northwestern,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Northwestern,Big Ten,1,Drew Crawford,G-F,6-5,215,SR,Naperville, IL
+Northwestern,Big Ten,3,Dave Sobolewski,G,6-1,180,JR,Naperville, IL
+Northwestern,Big Ten,13,Kale Abrahamson,F,6-7,210,SO,West Des Moines, IA
+Northwestern,Big Ten,14,Tre Demps,G,6-2,193,SO,San Antonio, TX
+Northwestern,Big Ten,15,James Montgomery III,G,6-4,202,SR,Los Angeles, CA
+Northwestern,Big Ten,22,Alex Olah,C,7-0,265,SO,--
+Northwestern,Big Ten,23,JerShon Cobb,G,6-5,205,JR,Decatur, GA
+Northwestern,Big Ten,31,Aaron Liberman,F-C,6-10,215,FR,Los Angeles, CA
+Northwestern,Big Ten,32,Nathan Taphorn,F,6-7,190,FR,Pekin, IL
+Northwestern,Big Ten,34,Sanjay Lumpkin,G-F,6-6,210,FR,Wayzata, MN
+Northwestern,Big Ten,45,Nikola Cerina,F,6-9,235,SR,--
+Northwestern,Big Ten, -- ,Chier Ajou,NA,0-0,0, -- ,--
+Ohio State,Big Ten,2013-14 Ohio State Buckeyes
+Ohio State,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Ohio State,Big Ten,2,Marc Loving,F,6-7,215,FR,Toledo, OH
+Ohio State,Big Ten,3,Shannon Scott,G,6-1,185,JR,Alpharetta, GA
+Ohio State,Big Ten,4,Aaron Craft,G,6-2,195,SR,Findlay, OH
+Ohio State,Big Ten,10,LaQuinton Ross,F,6-8,220,JR,Jackson, MS
+Ohio State,Big Ten,12,Sam Thompson,F,6-7,200,JR,Chicago, IL
+Ohio State,Big Ten,15,Kam Williams,G,6-2,175,FR,Baltimore, MD
+Ohio State,Big Ten,23,Amir Williams,C,6-11,250,JR,Detroit, MI
+Ohio State,Big Ten,24,Andrew Goldstein,G,6-3,200,JR,Marlboro, NJ
+Ohio State,Big Ten,32,Lenzelle Smith Jr.,G,6-4,210,SR,Zion, IL
+Ohio State,Big Ten,33,Amedeo Della Valle,G,6-5,190,SO,--
+Ohio State,Big Ten,34,Jake Lorbach,F,6-7,210,JR,Elyria, OH
+Ohio State,Big Ten,55,Trey McDonald,C,6-8,240,JR,Battle Creek, MI
+Penn State,Big Ten,2013-14 Penn State Nittany Lions
+Penn State,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Penn State,Big Ten,2,D.J. Newbill,G,6-4,205,JR,Philadelphia, PA
+Penn State,Big Ten,3,Graham Woodward,G,6-0,170,FR,Edina, MN
+Penn State,Big Ten,5,Donovon Jack,F,6-9,210,SO,Reading, PA
+Penn State,Big Ten,10,Brandon Taylor,F,6-7,235,SO,Tabernacle, NJ
+Penn State,Big Ten,11,Allen Roberts,G,6-3,214,SR,Middletown, OH
+Penn State,Big Ten,13,Geno Thorpe,G,6-3,180,FR,Pittsburgh, PA
+Penn State,Big Ten,14,Kevin Montminy,G,6-3,185,JR,Centre Hall, PA
+Penn State,Big Ten,23,Tim Frazier,G,6-1,170,SR,Houston, TX
+Penn State,Big Ten,24,Zach Cooper,G,6-1,175,SR,Ijamsville, MD
+Penn State,Big Ten,32,Jordan Dickerson,C,7-0,240,SO,Brooklyn, NY
+Penn State,Big Ten,34,Alan Wisniewski,F,6-9,230,JR,Sterling Heights, MI
+Penn State,Big Ten,43,Ross Travis,F,6-6,225,JR,Chaska, MN
+Penn State,Big Ten,44,Julian Moore,F,6-10,215,FR,Fort Washington, PA
+Penn State,Big Ten, -- ,Payton Banks,F,6-6,220,FR,Orange, CA
+Penn State,Big Ten, -- ,Jack Jack Donovan,C,0-0,0, -- ,--
+Purdue,Big Ten,2013-14 Purdue Boilermakers
+Purdue,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Purdue,Big Ten,1,Sterling Carter,G,6-0,193,SR,Seattle, WA
+Purdue,Big Ten,2,Jon McKeeman,G,6-1,180,SO,Fort Wayne, IN
+Purdue,Big Ten,3,Ronnie Johnson,G,6-0,178,SO,Indianapolis, IN
+Purdue,Big Ten,5,Basil Smotherman,F,6-5,222,FR,Indianapolis, IN
+Purdue,Big Ten,11,Stephen Toyra,G,6-3,177,SO,Lafayette, IN
+Purdue,Big Ten,12,Bryson Scott,G,6-1,201,FR,Fort Wayne, IN
+Purdue,Big Ten,20,A.J. Hammons,C,7-0,251,SO,Carmel, IN
+Purdue,Big Ten,21,Kendall Stephens,G,6-6,193,FR,--
+Purdue,Big Ten,23,Jay Simpson,F,6-10,250,FR,Champaign, IL
+Purdue,Big Ten,24,Anfernee Brown,G,6-1,190,FR,East Chicago, IN
+Purdue,Big Ten,30,Neal Beshears,F,6-7,198,JR,Winchester, IN
+Purdue,Big Ten,32,Errick Peck,F,6-6,223,SR,Indianapolis, IN
+Purdue,Big Ten,35,Rapheal Davis,G,6-5,211,SO,--
+Purdue,Big Ten,50,Travis Carroll,F,6-9,247,SR,Danville, IN
+Purdue,Big Ten, -- ,Terone Johnson,G,6-4,198,SR,Indianapolis, IN
+Wisconsin,Big Ten,2013-14 Wisconsin Badgers
+Wisconsin,Big Ten,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Wisconsin,Big Ten,1,Ben Brust,G,6-1,196,SR,Hawthorn Woods, IL
+Wisconsin,Big Ten,5,Aaron Moesch,F,6-8,200,FR,Green Bay, WI
+Wisconsin,Big Ten,10,Nigel Hayes,F,6-7,250,FR,Toledo, OH
+Wisconsin,Big Ten,11,Jordan Hill,G,6-3,170,FR,Pasadena, CA
+Wisconsin,Big Ten,12,Traevon Jackson,G,6-2,208,JR,Westerville, OH
+Wisconsin,Big Ten,13,Duje Dukan,F,6-9,220,JR,Deerfield, IL
+Wisconsin,Big Ten,15,Sam Dekker,F,6-8,220,SO,--
+Wisconsin,Big Ten,21,Josh Gasser,G,6-3,190,JR,Port Washington, WI
+Wisconsin,Big Ten,24,Bronson Koenig,G,6-3,190,FR,La Crosse, WI
+Wisconsin,Big Ten,30,Vitto Brown,F,6-8,237,FR,Bowling Green, OH
+Wisconsin,Big Ten,32,Evan Anderson,C,6-10,245,JR,Stanley, WI
+Wisconsin,Big Ten,34,Zach Bohannon,F,6-6,206,SR,Marion, IA
+Wisconsin,Big Ten,35,Riley Dearring,G,6-5,180,FR,Minnetonka, MN
+Wisconsin,Big Ten,44,Frank Kaminsky,F,7-0,234,JR,Lisle, IL
+Cal Poly,Big West,2013-14 Cal Poly Mustangs
+Cal Poly,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Cal Poly,Big West,1,Markel Leonard,G,6-0,168,FR,Richmond, CA
+Cal Poly,Big West,2,Andy Rowley,G,6-0,163,FR,San Luis Obispo, CA
+Cal Poly,Big West,3,Maliik Love,G,6-2,209,JR,Oceanside, CA
+Cal Poly,Big West,4,Alberto Ganis,F,6-5,211,JR,--
+Cal Poly,Big West,5,Reese Morgan,G,6-2,206,JR,San Pedro, CA
+Cal Poly,Big West,10,Ridge Shipley,G,6-0,184,FR,Carrollton, TX
+Cal Poly,Big West,11,Taylor Sutlive,G,6-3,193,FR,San Antonio, TX
+Cal Poly,Big West,14,Max Betkowski,G,6-3,224,FR,San Francisco, CA
+Cal Poly,Big West,24,Jamal Johnson,G,6-0,177,SR,San Antonio, TX
+Cal Poly,Big West,25,Joel Awich,F,6-7,209,SO,--
+Cal Poly,Big West,30,Michael Bolden,G-F,6-5,192,JR,Mission Viejo, CA
+Cal Poly,Big West,33,Chris Eversley,F,6-7,229,SR,Chicago, IL
+Cal Poly,Big West,34,Brian Bennett,F,6-9,253,SO,Romeoville, IL
+Cal Poly,Big West,35,Kyle Odister,G,6-0,185,SR,Sacramento, CA
+Cal Poly,Big West,42,Anthony Silvestri,F,6-7,218,JR,San Francisco, CA
+Cal Poly,Big West,44,Zach Gordon,F,6-8,229,SO,--
+Cal Poly,Big West, -- ,Dave Nwaba,G-F,6-4,200,SO,Los Angeles, CA
+CS Fullerton,Big West,2013-14 Cal State Fullerton Titans
+CS Fullerton,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+CS Fullerton,Big West,1,Jared Brandon,G,6-4,200,SO,North Las Vegas, NV
+CS Fullerton,Big West,3,Moses Morgan,F,6-6,220,SR,Las Vegas, NV
+CS Fullerton,Big West,4,James Douglas,G,6-0,175,JR,Orange, CA
+CS Fullerton,Big West,10,Michael Williams,G,6-2,185,SR,Van Nuys, CA
+CS Fullerton,Big West,11,Josh Gentry,G,6-4,180,JR,Indianapolis, IN
+CS Fullerton,Big West,13,Joe Boyd,F,6-9,240,FR,Scottsdale, AZ
+CS Fullerton,Big West,15,Hidde Vos,G,6-4,190,FR,--
+CS Fullerton,Big West,21,Steve McClellan,F,6-7,250,JR,Fresno, CA
+CS Fullerton,Big West,22,Sheldon Blackwell,G,6-5,175,FR,Rancho Cucamonga, CA
+CS Fullerton,Big West,23,Alex Harris,G,6-1,170,JR,Richmond, CA
+CS Fullerton,Big West,24,Ian Spruce,G,6-4,185,FR,--
+CS Fullerton,Big West,31,Floris Versteeg,F-C,6-9,215,FR,Amsterdam, Netherlands
+CS Fullerton,Big West,32,Chris Collins,G,6-4,185,JR,Chino, CA
+CS Fullerton,Big West,33,James Johnson,F,6-7,240,SR,North Hills, CA
+CS Fullerton,Big West, -- ,Marquis Horne,F,6-6,225,SR,Cincinnati, OH
+CS Northridge,Big West,2013-14 Cal State Northridge Matadors
+CS Northridge,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+CS Northridge,Big West,1,Josh Greene,G,6-0,180,SR,Los Angeles, CA
+CS Northridge,Big West,2,Landon Drew,G,6-1,175,SO,Los Angeles, CA
+CS Northridge,Big West,3,Stephan Hicks,G-F,6-6,200,JR,Thousand Oaks, CA
+CS Northridge,Big West,5,J.J. Thomas,F,6-6,220,JR,Opelousas, LA
+CS Northridge,Big West,10,Trevone Williams,F,6-6,225,SO,Los Angeles, CA
+CS Northridge,Big West,11,Ben Vozzola,G,6-5,190,JR,Las Vegas, NV
+CS Northridge,Big West,12,Robert Cid,G,5-10,160,JR,Santa Barbara, CA
+CS Northridge,Big West,14,Aaron Parks,G,6-3,198,FR,Baltimore, MD
+CS Northridge,Big West,15,Dominique Youmans,C,6-10,220,SR,Philadelphia, PA
+CS Northridge,Big West,20,KJ Smith,G,6-2,165,SO,Los Angeles, CA
+CS Northridge,Big West,21,Stephen Maxwell,F,6-7,220,JR,Woodland Hills, CA
+CS Northridge,Big West,23,Kevin Rutledge,G-F,6-4,198,FR,Westchester, CA
+CS Northridge,Big West,32,Kevin Johnson,C,6-10,240,SO,Los Angeles, CA
+CS Northridge,Big West,35,Tre Hale-Edmerson,F-C,6-9,215,SO,--
+Hawaii,Big West,2013-14 Hawaii Warriors
+Hawaii,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Hawaii,Big West,1,Garrett Nevels,G,6-2,190,JR,Los Angeles, CA
+Hawaii,Big West,2,Niko Filipovich,G,6-0,160,FR,Rancho Palos Verdes, CA
+Hawaii,Big West,3,Brandon Jawato,G,6-4,200,SO,El Segundo, CA
+Hawaii,Big West,10,Dyrbe Enos,G,5-9,170,FR,Aiea, HI
+Hawaii,Big West,11,Quincy Smith,G,6-0,170,SO,Antioch, CA
+Hawaii,Big West,13,Davis Rozitis,C,7-0,240,SR,--
+Hawaii,Big West,14,Negus Webster-Chan,G,6-7,200,SO,Scarborough, ON
+Hawaii,Big West,15,Stefan Jovanovic,C,6-10,235,FR,--
+Hawaii,Big West,21,Jack Hackman,G,6-4,180,FR,Portland, OR
+Hawaii,Big West,23,Aaron Valdes,G,6-5,190,FR,Whittier, CA
+Hawaii,Big West,24,Michael Harper,G,6-4,200,SO,--
+Hawaii,Big West,25,Mike Thomas,F,6-8,215,FR,Woodland Hills, CA
+Hawaii,Big West,32,Brandon Spearman,G,6-3,190,SR,Chicago, IL
+Hawaii,Big West,34,Christian Standhardinger,F,6-8,220,SR,Munich, Germany
+Hawaii,Big West,42,Isaac Fotu,F,6-8,230,SO,--
+Hawaii,Big West,54,Caleb Dressler,C,6-10,245,FR,Vancouver, WA
+Hawaii,Big West, -- ,Keith Shamburger,G,5-11,170,JR,Los Angeles, CA
+Long Beach St,Big West,2013-14 Long Beach State 49ers
+Long Beach St,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Long Beach St,Big West,1,Tyler Lamb,G,6-5,205,JR,Santa Ana, CA
+Long Beach St,Big West,2,Kris Gulley,G-F,6-7,195,JR,Dallas, TX
+Long Beach St,Big West,3,Anson Moye,G,6-0,175,FR,Thousand Oaks, CA
+Long Beach St,Big West,5,Mike Caffey,G,6-0,175,JR,Corona, CA
+Long Beach St,Big West,11,David Samuels,F,6-7,220,JR,Bronx, NY
+Long Beach St,Big West,12,Edgar Garibay,F,6-11,250,SR,Compton, CA
+Long Beach St,Big West,14,Branford Jones,G,6-1,185,FR,Missouri City, TX
+Long Beach St,Big West,15,A.J. Spencer,G,6-3,200,JR,Shawnee, KS
+Long Beach St,Big West,20,Desmond Ross,G,6-3,190,FR,Mesa, AZ
+Long Beach St,Big West,21,Christian Griggs-Williams,F,6-7,260,JR,Milwaukee, WI
+Long Beach St,Big West,22,Javion Watson,G,6-2,190,FR,San Diego, CA
+Long Beach St,Big West,31,McKay LaSalle,G,6-3,190,JR,Bountiful, UT
+Long Beach St,Big West,33,Nick Shepherd,F,6-9,220,JR,Missouri City, TX
+Long Beach St,Big West,34,Charles Lockett,F,6-6,235,JR,Los Angeles, CA
+Long Beach St,Big West,35,Dan Jennings,F,6-9,245,SR,Staten Island, NY
+UC Davis,Big West,2013-14 UC Davis Aggies
+UC Davis,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UC Davis,Big West,1,Iggy Nujic,F,6-8,215,JR,--
+UC Davis,Big West,2,Darius Graham,G,5-10,180,FR,Sacramento, CA
+UC Davis,Big West,3,Corey Hawkins,G,6-3,195,JR,Goodyear, AZ
+UC Davis,Big West,12,Georgi Funtarov,F,6-8,205,FR,Sofia, Bulgaria
+UC Davis,Big West,13,J.T. Adenrele,F,6-7,225,JR,Roseville, CA
+UC Davis,Big West,14,Ivan Nikolic,F,6-6,200,FR,London, England
+UC Davis,Big West,15,Tyler Les,G,6-2,185,SR,Peoria, IL
+UC Davis,Big West,20,Avery Johnson,G,6-3,180,JR,Huntington Beach, CA
+UC Davis,Big West,23,Josh Ritchart,G-F,6-9,235,SR,Auburn, CA
+UC Davis,Big West,25,Ryan Sypkens,G,6-4,195,SR,Elk Grove, CA
+UC Davis,Big West,31,Carlos Mancasola,G,6-2,164,FR,Redding, CA
+UC Davis,Big West,33,Clint Bozner,F,6-8,250,JR,Corona, CA
+UC Davis,Big West,40,Justin Dueck,F,6-8,235,SO,San Jose, CA
+UC Davis,Big West, -- ,Olivier-Paul Betu,NA,6-2,175,SO,Montreal, PQ
+UC Davis,Big West, -- ,Brynton Lemar,G,6-4,192,FR,San Diego, CA
+UC Irvine,Big West,2013-14 UC Irvine Anteaters
+UC Irvine,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UC Irvine,Big West,1,Alex Young,G,6-1,190,SO,Phoenix, OR
+UC Irvine,Big West,2,Travis Souza,G,6-5,212,JR,Turlock, CA
+UC Irvine,Big West,3,Will Davis II,F,6-8,210,JR,Sacramento, CA
+UC Irvine,Big West,4,Reed McConnell,G,6-5,195,SO,Atherton, CA
+UC Irvine,Big West,5,Chris McNealy,G,6-4,195,SR,Danville, CA
+UC Irvine,Big West,10,Luke Nelson,G,6-3,182,FR,Worthing, England
+UC Irvine,Big West,12,Ioannis Dimakopoulos,F-C,7-2,255,FR,--
+UC Irvine,Big West,20,Shawn Ray,F,6-8,232,JR,Torrance, CA
+UC Irvine,Big West,24,Dominique Dunning,G,6-4,212,SO,Corona, CA
+UC Irvine,Big West,25,John Ryan,F-C,6-10,248,JR,El Segundo, CA
+UC Irvine,Big West,32,Aaron Wright,G,6-3,198,SO,Cerritos, CA
+UC Irvine,Big West,33,Mike Best,F,6-10,215,SO,San Rafael, CA
+UC Irvine,Big West,34,Mamadou Ndiaye,C,7-6,290,FR,Dakar, Senegal
+UC Irvine,Big West,35,Ege Mala,F,6-7,210,FR,--
+UC Irvine,Big West,42,Conor Clifford,C,7-0,260,SO,Huntington Beach, CA
+UC Irvine,Big West, -- ,Jaron Martin,G,5-10,160,FR,Sunland, CA
+UC Riverside,Big West,2013-14 UC Riverside Highlanders
+UC Riverside,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UC Riverside,Big West,1,Sam Finley,G,6-2,185,FR,Riverside, CA
+UC Riverside,Big West,3,Charles Standifer,G,6-5,185,JR,Sacramento, CA
+UC Riverside,Big West,5,Taylor Johns,F,6-7,220,SO,San Francisco, CA
+UC Riverside,Big West,10,Steven Jones,G,6-0,175,SO,Winnetka, CA
+UC Riverside,Big West,15,Chris Harriel,F,6-4,185,SR,Moreno Valley, CA
+UC Riverside,Big West,20,Colin Gruber,F,6-5,190,JR,Aptos, CA
+UC Riverside,Big West,21,Lucas Devenny,C,6-8,240,SR,Santa Rosa, CA
+UC Riverside,Big West,24,Steven Thornton,F,6-4,205,JR,Santa Clarita, CA
+UC Riverside,Big West,35,Austin Quick,G,6-2,180,JR,Murrieta, CA
+UC Riverside,Big West,54,Chris Patton,C,6-10,245,SR,--
+UC Riverside,Big West, -- ,Kristopher Acevado,NA,0-0,0, -- ,--
+UC Riverside,Big West, -- ,Nick Gruninger,G,5-10,160,JR,Kaysville, UT
+UC Riverside,Big West, -- ,Tre Owens,NA,6-6,185,SO,Rota, Spain
+UC Santa Barbara,Big West,2013-14 UC Santa Barbara Gauchos
+UC Santa Barbara,Big West,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UC Santa Barbara,Big West,1,Eric Childress,G,6-0,170,FR,Hawthorne, CA
+UC Santa Barbara,Big West,3,Zalmico Harmon,G,6-1,185,JR,Washington, DC
+UC Santa Barbara,Big West,4,Aamahd Walker,G,6-2,190,FR,Culver City, CA
+UC Santa Barbara,Big West,10,Kyle Boswell,G,6-2,180,SR,Huntington Beach, CA
+UC Santa Barbara,Big West,11,T.J. Taylor,G,5-9,160,JR,Oakland, CA
+UC Santa Barbara,Big West,12,Alex Hart,F,6-10,215,FR,Kelowna, BC
+UC Santa Barbara,Big West,15,Alan Williams,F,6-8,280,JR,Phoenix, AZ
+UC Santa Barbara,Big West,20,Logan Louks,G,6-2,175,SO,Danville, CA
+UC Santa Barbara,Big West,21,Mitch Brewe,F,6-8,230,SO,Seattle, WA
+UC Santa Barbara,Big West,24,Michael Bryson,G,6-4,190,SO,Sacramento, CA
+UC Santa Barbara,Big West,31,John Green,G,6-5,205,SO,Oakland, CA
+UC Santa Barbara,Big West,34,Shawn Moore,G-F,6-5,210,SR,Chico, CA
+UC Santa Barbara,Big West,35,Taran Brown,F,6-8,190,SO,Gillette, WY
+UC Santa Barbara,Big West,43,Duke DaRe,G,6-1,185,SO,Clayton, CA
+UC Santa Barbara,Big West,44,Sam Beeler,F,6-10,210,SO,Poway, CA
+UC Santa Barbara,Big West, -- ,Hunter Ford,G,6-3,180,FR,Roseville, CA
+Charleston,Colonial,2013-14 Charleston Cougars
+Charleston,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Charleston,Colonial,1,Adjehi Baru,F,6-9,225,JR,Abidjan, Ivory Coast
+Charleston,Colonial,2,Johnathan Burroughs-Cook,G,6-1,175,FR,Memphis, TN
+Charleston,Colonial,3,Anthony Thomas,F,6-7,207,SR,Winston-salem, NC
+Charleston,Colonial,5,Glen Pierre, Jr.,F-C,6-11,210,FR,Orlando, FL
+Charleston,Colonial,10,Pat Branin,G,6-1,190,JR,Richmond, VA
+Charleston,Colonial,11,Nori Johnson,G-F,6-5,209,SR,Greer, SC
+Charleston,Colonial,13,Joe Chealey,G,6-3,180,FR,Orlando, FL
+Charleston,Colonial,14,Theo Johnson,G-F,6-6,195,SO,Sacramento, CA
+Charleston,Colonial,15,Terrance O'Donohue,F,6-7,225,FR,Norcross, GA
+Charleston,Colonial,20,Chad Cooke,G,6-0,175,SO,Bolingbrook, IL
+Charleston,Colonial,22,Anthony Stitt,G,6-1,180,JR,Charlotte, NC
+Charleston,Colonial,24,Canyon Barry,G,6-6,195,FR,Colorado Springs, CO
+Charleston,Colonial,31,Harrison Bowne,F,6-6,230,SO,Hickory, NC
+Charleston,Colonial,33,David Wishon,C,7-2,265,SO,Concord, NC
+Charleston,Colonial,41,Judson Hall,F,6-6,200,SR,Charlotte, NC
+Charleston,Colonial,53,Willis Hall,F,6-6,235,SR,Charlotte, NC
+Delaware,Colonial,2013-14 Delaware Fightin Blue Hens
+Delaware,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Delaware,Colonial,1,Tom Allshouse,F,6-6,230,JR,Middletown, DE
+Delaware,Colonial,2,Barnett Harris,F,6-9,210,FR,Monroeville, PA
+Delaware,Colonial,4,Jarvis Threatt,G,6-2,170,JR,Richmond, VA
+Delaware,Colonial,10,Devon Saddler,G,6-2,210,SR,Aberdeen, MD
+Delaware,Colonial,11,Devonne Pinkard,F,6-6,205,FR,Lancaster, PA
+Delaware,Colonial,13,Kyle Anderson,G,6-2,200,JR,Newark, IL
+Delaware,Colonial,15,Maurice Jeffers,F,6-9,235,FR,Washington, DC
+Delaware,Colonial,21,Marvin King-Davis,F,6-7,230,SO,Richmond, VA
+Delaware,Colonial,22,Cazmon Hayes,G,6-4,195,FR,Charlotte, NC
+Delaware,Colonial,24,Sean Locke,G,6-4,195,SO,Newark, DE
+Delaware,Colonial,31,Dylan Miller,G,6-4,195,SO,Wilmington, DE
+Delaware,Colonial,33,Carl Baptiste,F,6-9,260,SR,Pittstown, NJ
+Delaware,Colonial,55,Tommy Williams,F,6-8,205,SR,Hamden, CT
+Delaware,Colonial, -- ,Terrell Rogers,NA,5-8,160,SO,Fort Mill, SC
+Delaware,Colonial, -- ,Davon Usher,G,6-6,200,SR,--
+Drexel,Colonial,2013-14 Drexel Dragons
+Drexel,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Drexel,Colonial,1,Freddie Wilson,G,6-2,204,JR,New Haven, CT
+Drexel,Colonial,3,Chris Fouch,G,6-2,185,SR,New York, NY
+Drexel,Colonial,4,Frantz Massenat,G,6-4,190,SR,Ewing, NJ
+Drexel,Colonial,5,Stevan Manojlovic,G,6-5,197,SR,Toronto, ON
+Drexel,Colonial,11,Tavon Allen,F,6-7,190,SO,New Haven, CT
+Drexel,Colonial,13,Goran Pantovic,F,6-10,225,SR,--
+Drexel,Colonial,14,Damion Lee,G,6-6,200,JR,Baltimore, MD
+Drexel,Colonial,15,Mohamed Bah,F,6-9,225,FR,Bamako, Mali
+Drexel,Colonial,21,Khris Lane,F,6-6,215,FR,Richmond, VA
+Drexel,Colonial,22,Jake Lerner,G,6-2,190,SR,Philadelphia, PA
+Drexel,Colonial,24,Rodney Williams,F,6-7,220,FR,Richmond, VA
+Drexel,Colonial,25,Major Canady,G,6-4,200,FR,Wilson, NC
+Drexel,Colonial,32,Kazembe Abif,F,6-7,215,JR,Elizabeth, NJ
+Drexel,Colonial,35,Dartaye Ruffin,F,6-8,250,SR,Stoughton, MA
+Hofstra,Colonial,2013-14 Hofstra Pride
+Hofstra,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Hofstra,Colonial,1,Juan'ya Green,G,6-3,195,JR,Philadelphia, PA
+Hofstra,Colonial,3,Zeke Upshaw,G-F,6-6,215,SR,Chicago, IL
+Hofstra,Colonial,4,Chris Jenkins,G-F,6-4,215,FR,Hillside, NJ
+Hofstra,Colonial,11,Dion Nesmith,G,6-0,200,SR,Union, NJ
+Hofstra,Colonial,12,Darren Payen,F,6-8,205,SO,Milford, CT
+Hofstra,Colonial,15,Adam Savion,G,6-2,185,SO,Hackensack, NJ
+Hofstra,Colonial,20,Jamall Robinson,G-F,6-5,210,FR,--
+Hofstra,Colonial,24,Stephen Nwaukoni,F-C,6-8,240,SR,Queens, NY
+Hofstra,Colonial,30,Eliel Gonzalez,G,6-3,200,FR,Cayey, Puerto Rico
+Hofstra,Colonial,31,Moussa Kone,F-C,6-7,220,JR,Bronx, NY
+Hofstra,Colonial, -- ,Jordan Allen,F,6-6,200,SO,Bay Shore, NY
+James Madison,Colonial,2013-14 James Madison Dukes
+James Madison,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+James Madison,Colonial,2,Ron Curry,G,6-4,190,SO,Pennsauken, NJ
+James Madison,Colonial,10,Jackson Kent,G,6-7,185,FR,High Point, NC
+James Madison,Colonial,11,Andrey Semenov,F,6-7,200,SR,St. Petersburg, Russia
+James Madison,Colonial,12,Paulius Satkus,F,6-8,215,FR,--
+James Madison,Colonial,13,Tom Vodanovich,F,6-8,220,FR,Wellington, New Zealand
+James Madison,Colonial,14,Christian Pierce,G,6-5,205,SR,Ivy, VA
+James Madison,Colonial,15,Andre Nation,G,6-5,200,SO,Plant City, FL
+James Madison,Colonial,20,Tom Rivard,F,6-7,205,FR,Worcester, MA
+James Madison,Colonial,21,Dimitrije Cabarkapa,F,6-10,240,SO,--
+James Madison,Colonial,22,Taylor Bessick,F,6-9,240,SO,Philadelphia, PA
+James Madison,Colonial,35,Shawn Wilborne,G,6-2,195,FR,Fredericksburg, VA
+James Madison,Colonial,40,Yohanny Dalembert,F,6-8,225,FR,Port-au-prince, Haiti
+James Madison,Colonial,55,Ivan Lukic,F,6-8,220,FR,--
+James Madison,Colonial, -- ,Charles Cooke,NA,6-6,200,SO,Trenton, NJ
+UNC-Wilmington,Colonial,2013-14 North Carolina-Wilmington Seahawks
+UNC-Wilmington,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+UNC-Wilmington,Colonial,1,Chris Dixon,G,6-0,190,SR,Montgomery, AL
+UNC-Wilmington,Colonial,3,Yemi Makanjuola,C,6-8,250,JR,Lagos, Nigeria
+UNC-Wilmington,Colonial,5,Ben Eblen,G,6-1,185,SR,Isle Of Palms, SC
+UNC-Wilmington,Colonial,10,Freddie Jackson,G,6-4,185,JR,Wilmington, NC
+UNC-Wilmington,Colonial,12,Tanner Milson,G,6-2,190,SR,Cedar Hill, TX
+UNC-Wilmington,Colonial,13,Chuck Ogbodo,F,6-9,230,FR,Enugu, Nigeria
+UNC-Wilmington,Colonial,15,Luke Hager,F,6-7,205,SO,Chicago, IL
+UNC-Wilmington,Colonial,20,Dylan Sherwood,F,6-9,215,SO,Pittsford, NY
+UNC-Wilmington,Colonial,22,Nate Anderson,F,6-9,235,JR,Ashville, OH
+UNC-Wilmington,Colonial,23,C.J. Gettys,C,7-0,285,FR,Findlay, OH
+UNC-Wilmington,Colonial,24,Addison Spruill,G,6-4,225,JR,Currie, NC
+UNC-Wilmington,Colonial,30,Zack Allen,G,5-11,190,SR,Wilmington, NC
+UNC-Wilmington,Colonial,33,Shane Reybold,F,6-8,238,SR,Laurel, MD
+UNC-Wilmington,Colonial,34,Marcus Graham,G,6-6,178,SR,Roseboro, NC
+UNC-Wilmington,Colonial,40,Cedrick Williams,F,6-9,225,JR,Murfreesboro, TN
+UNC-Wilmington,Colonial, -- ,Craig Ponder,G,6-1,185,SO,Bluefield, WV
+Northeastern,Colonial,2013-14 Northeastern Huskies
+Northeastern,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Northeastern,Colonial,1,Chris Avenant,G-F,6-4,193,SR,Sacramento, CA
+Northeastern,Colonial,2,Demetrius Pollard,G,6-2,200,JR,Virginia Beach, VA
+Northeastern,Colonial,3,Jimmy Marshall,G-F,6-7,185,FR,Richmond, VA
+Northeastern,Colonial,4,David Walker,G,6-6,176,SO,Stow, OH
+Northeastern,Colonial,10,T.J. Williams,G,6-3,190,FR,Pflugerville, TX
+Northeastern,Colonial,11,Marco Banegas-Flores,G,6-1,190,JR,Boston, MA
+Northeastern,Colonial,12,Quincy Ford,G-F,6-8,212,JR,--
+Northeastern,Colonial,22,C.J. Hill,G,6-2,180,FR,Centreville, VA
+Northeastern,Colonial,24,Derrico Peck,G,6-5,204,SO,Woodstock, GA
+Northeastern,Colonial,33,Zach Stahl,G-F,6-5,201,SO,Chanhassen, MN
+Northeastern,Colonial,34,Kwesi Abakah,F,6-8,193,FR,Suwanee, GA
+Northeastern,Colonial,43,Scott Eatherton,F,6-8,219,JR,Hershey, PA
+Northeastern,Colonial,44,Reggie Spencer,F,6-7,210,JR,Tuscaloosa, AL
+Towson,Colonial,2013-14 Towson Tigers
+Towson,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Towson,Colonial,1,Marcus Damas,F,6-7,210,SR,Bay Shore, NY
+Towson,Colonial,2,Marquis Marshall,G,6-5,170,FR,Reading, PA
+Towson,Colonial,4,Four McGlynn,G,6-2,180,SO,York, PA
+Towson,Colonial,5,Walter Foster,F-C,6-8,230,FR,Atlanta, GA
+Towson,Colonial,10,John Davis,F,6-5,215,FR,Philadelphia, PA
+Towson,Colonial,11,Larry McCollum,G,5-7,150,SO,Clinton, MD
+Towson,Colonial,12,Barrington Alston,F,6-8,220,FR,Wilmington, DE
+Towson,Colonial,15,Timajh Parker-Rivera,F,6-7,215,SO,Milford, CT
+Towson,Colonial,20,Jerrelle Benimon,F,6-8,245,SR,Warrenton, VA
+Towson,Colonial,21,Ben Mesuda,G,6-0,165,FR,Hurley, NY
+Towson,Colonial,22,Rafriel Guthrie,G-F,6-3,210,SR,Washington, DC
+Towson,Colonial,23,Mike Burwell,G,6-5,205,SR,East Brunswick, NJ
+Towson,Colonial,25,A.J. Astroth,G,6-6,200,SO,Tampa, FL
+Towson,Colonial,32,Jonah Meredith,G,6-5,160,FR,Frederick, MD
+Towson,Colonial,44,Jamel Flash,F,6-10,220,JR,West Hempstead, NY
+Towson,Colonial, -- ,Jerome Hairston,G,6-3,190,SO,Cheyenne, WY
+William & Mary,Colonial,2013-14 William & Mary Tribe
+William & Mary,Colonial,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+William & Mary,Colonial,2,Julian Boatner,G,6-2,185,SR,Bloomington, IN
+William & Mary,Colonial,3,Marcus Thornton,G,6-4,185,JR,Upper Marlboro, MD
+William & Mary,Colonial,4,Omar Prewitt,G-F,6-6,180,FR,Mount Sterling, KY
+William & Mary,Colonial,11,Michael Schlotman,G,6-4,190,FR,Munster, IN
+William & Mary,Colonial,12,Brandon Britt,G,6-2,200,SR,Chesapeake, VA
+William & Mary,Colonial,22,Tim Rusthoven,F,6-9,235,SR,Winfield, IL
+William & Mary,Colonial,23,Kyle Gaillard,F,6-8,220,SR,Huntersville, NC
+William & Mary,Colonial,24,Fred Heldring,F,6-9,245,SR,Winnetka, IL
+William & Mary,Colonial,25,Terry Tarpey,G,6-5,200,SO,Stamford, CT
+William & Mary,Colonial,31,Sean Sheldon,F,6-9,245,SO,Traverse City, MI
+William & Mary,Colonial,41,Jack Whitman,F,6-9,225,FR,Lexington, KY
+William & Mary,Colonial,43,Tom Schalk,F,6-8,220,JR,Burnsville, MN
+William & Mary,Colonial, -- ,Daniel Dixon,G,6-5,200,FR,Great Falls, VA
+William & Mary,Colonial, -- ,Ben Whitlatch,NA,6-1,180,SR,Bloomington, IN
+Charlotte,Conference USA,2013-14 Charlotte 49ers
+Charlotte,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Charlotte,Conference USA,1,Braxton Ogbueze,G,6-0,179,SO,Charlotte, NC
+Charlotte,Conference USA,2,Gavin Wilson,G,6-1,208,SO,Raleigh, NC
+Charlotte,Conference USA,3,Shawn Lester,G,6-4,190,SO,Mooresville, NC
+Charlotte,Conference USA,5,Mason Wyrick,G,6-4,190,FR,Greensboro, NC
+Charlotte,Conference USA,10,Denzel Ingram,G,6-0,171,SO,Chapel Hill, NC
+Charlotte,Conference USA,11,Ivan Benkovic,G,6-6,213,SO,Zagreb, Croatia
+Charlotte,Conference USA,12,Mike Thorne Jr.,C,6-11,260,SO,Fayetteville, NC
+Charlotte,Conference USA,14,Terrence Williams,G,6-4,203,JR,Charlotte, NC
+Charlotte,Conference USA,15,Pierria Henry,G,6-4,189,JR,Charleston, WV
+Charlotte,Conference USA,20,Cameron Blakley,F,6-9,216,FR,Winder, GA
+Charlotte,Conference USA,21,Willie Clayton,F,6-9,237,SO,Thomasville, GA
+Charlotte,Conference USA,22,Bernard Sullivan,F,6-8,224,JR,Gastonia, NC
+Charlotte,Conference USA,24,Ben Cherry,G,6-3,180,SR,Charlotte, NC
+Charlotte,Conference USA,25,Reid Aube,F,6-6,212,FR,Concord, NC
+Charlotte,Conference USA,30,Marcus Bryan,F,6-7,224,FR,Raleigh, NC
+Charlotte,Conference USA,31,Mitch Warner,G,6-2,184,SO,Charlotte, NC
+Charlotte,Conference USA,44,Terrence Thompson,F,6-7,200,FR,Bahama, NC
+East Carolina,Conference USA,2013-14 East Carolina Pirates
+East Carolina,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+East Carolina,Conference USA,1,Akeem Richmond,G,6-0,180,SR,Sanford, NC
+East Carolina,Conference USA,2,Caleb White,F,6-7,190,FR,Buckingham, VA
+East Carolina,Conference USA,3,Petar Torlak,G,6-2,185,SR,--
+East Carolina,Conference USA,4,Prince Williams,G,6-5,200,SO,Raleigh, NC
+East Carolina,Conference USA,10,Francis Edosomwan,G,6-3,220,JR,Charlotte, NC
+East Carolina,Conference USA,11,Antonio Robinson,G,6-4,175,JR,Winston-salem, NC
+East Carolina,Conference USA,15,Peyton Robbins,G,6-3,200,SO,Raleigh, NC
+East Carolina,Conference USA,22,Paris Roberts-Campbell,G,6-3,185,JR,Charlotte, NC
+East Carolina,Conference USA,25,Brandan Stith,F,6-7,215,FR,Lawrenceville, VA
+East Carolina,Conference USA,31,Greg Alexander,G,6-4,200,FR,Hampton, VA
+East Carolina,Conference USA,34,Michael Zangari,F,6-9,230,SO,Lewisberry, PA
+East Carolina,Conference USA,41,Marshall Guilmette,F,6-10,250,SO,Kennesaw, GA
+East Carolina,Conference USA, -- ,Terry Whisnant,G,6-3,180,JR,Cherryville, NC
+Florida Atl,Conference USA,2013-14 Florida Atlantic Owls
+Florida Atl,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Florida Atl,Conference USA,1,D'Andre Johnson,G,6-0,185,FR,Detroit, MI
+Florida Atl,Conference USA,2,Marquan Botley,G,5-9,160,FR,Plano, TX
+Florida Atl,Conference USA,3,Dragan Sekelja,C,7-0,250,SR,Zagreb, Croatia
+Florida Atl,Conference USA,5,Javier Lacunza,F,6-8,210,SO,Pamplona, Spain
+Florida Atl,Conference USA,11,Justin Raffington,C,6-9,245,JR,Freiburg, Germany
+Florida Atl,Conference USA,12,Jackson Trapp,G,6-4,186,SO,Tallahassee, FL
+Florida Atl,Conference USA,15,Richard Morrow,G,6-3,198,JR,Cleveland, OH
+Florida Atl,Conference USA,21,Tyler Pate,G,6-3,190,FR,--
+Florida Atl,Conference USA,24,Brian Hornstein,F-C,6-10,210,JR,Dallas, TX
+Florida Atl,Conference USA,25,Pablo Bertone,G,6-4,198,SR,--
+Florida Atl,Conference USA,44,Kelvin Penn,F,6-6,233,JR,Steilacoom, WA
+Florida Atl,Conference USA,50,Grant Pelchen,C,6-9,225,FR,Jupiter, FL
+FIU,Conference USA,2013-14 Florida International Golden Panthers
+FIU,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+FIU,Conference USA,1,Jason Boswell,G,6-6,205,FR,Bronx, NY
+FIU,Conference USA,2,Raymond Taylor,G,5-6,145,SR,Miami, FL
+FIU,Conference USA,3,Jerome Frink,F,6-6,220,SO,Jersey City, NJ
+FIU,Conference USA,4,Cody Mann,G,6-0,160,SO,Miami, FL
+FIU,Conference USA,5,Rakeem Buckles,F,6-7,215,SR,Miami, FL
+FIU,Conference USA,5,Dee Lewis,G,6-3,195,FR,Ocala, FL
+FIU,Conference USA,11,Ray Rodriquez,G,6-1,180,SO,Miami, FL
+FIU,Conference USA,12,Dominique Williams,G,6-7,205,FR,Charlotte, NC
+FIU,Conference USA,14,Jonas Page,F,6-7,185,FR,Harrisburg, PA
+FIU,Conference USA,15,Tymell Murphy,F,6-5,210,SR,Brooklyn, NY
+FIU,Conference USA,20,Adrian Diaz,F,6-10,230,JR,Miami, FL
+FIU,Conference USA,22,Dennis Mavin,G,6-3,183,JR,Gainesville, FL
+FIU,Conference USA,23,Marco Porcher Jimenez,G,6-4,185,JR,Malaga, Spain
+FIU,Conference USA,25,Ivan Jurkovic,C,7-0,265,SR,Zagreb, Croatia
+FIU,Conference USA,33,George Naldjieff,F,6-6,225,SR,Miami, FL
+Louisiana Tech,Conference USA,2013-14 Louisiana Tech Bulldogs
+Louisiana Tech,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Louisiana Tech,Conference USA,1,Michale Kyser,F,6-9,205,JR,Lancaster, TX
+Louisiana Tech,Conference USA,2,Erik McCree,F,6-8,220,SO,Orlando, FL
+Louisiana Tech,Conference USA,3,Raheem Appleby,G,6-4,160,JR,Jacksonville, AR
+Louisiana Tech,Conference USA,4,Kenneth Smith,G,6-3,180,JR,--
+Louisiana Tech,Conference USA,5,Chris Anderson,F,6-6,220,SR,Muskegon, MI
+Louisiana Tech,Conference USA,10,Isaiah Massey,F,6-8,225,JR,Mcdonough, GA
+Louisiana Tech,Conference USA,11,Stojan Gjuroski,F,6-8,205,JR,--
+Louisiana Tech,Conference USA,15,Cordarius Johnson,G,6-6,220,SR,Coushatta, LA
+Louisiana Tech,Conference USA,21,Kenyon McNeail,G,6-1,190,SR,Conway, AR
+Louisiana Tech,Conference USA,22,Josh Butler,F,6-6,225,FR,Los Angeles, CA
+Louisiana Tech,Conference USA,23,Jaron Johnson,G,6-6,205,SR,Tyler, TX
+Louisiana Tech,Conference USA,33,Leo Edwards,F,6-8,230,FR,Detroit, MI
+Louisiana Tech,Conference USA,40,Gilbert Talbot,F-C,6-10,290,SO,Houma, LA
+Louisiana Tech,Conference USA, -- ,Kk Babin,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Jonmarie Guillory,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Alex Hamilton,G,6-4,180,SO,Chipley, FL
+Louisiana Tech,Conference USA, -- ,Marina Lilly,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Taylor Morrison,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Jenny Nash,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Jasmine Scott,NA,0-0,0, -- ,--
+Louisiana Tech,Conference USA, -- ,Emani White,NA,0-0,0, -- ,--
+Marshall,Conference USA,2013-14 Marshall Thundering Herd
+Marshall,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Marshall,Conference USA,1,Kareem Canty,G,6-1,185,FR,Brooklyn, NY
+Marshall,Conference USA,2,Chris Thomas,G,6-5,188,SO,Denver, CO
+Marshall,Conference USA,4,Kevin McNair,G,6-3,160,FR,Atlanta, GA
+Marshall,Conference USA,13,Cheikh Sane,F,6-9,225,JR,Dakar, Senegal
+Marshall,Conference USA,15,DeVince Boykins,G,6-4,210,SO,Forest City, NC
+Marshall,Conference USA,21,TyQuane Goard,F,6-7,215,SO,Charleston, WV
+Marshall,Conference USA,23,Justin Edmonds,G,6-4,220,JR,Albion, MI
+Marshall,Conference USA,24,Elijah Pittman,F,6-9,220,SR,Covington, KY
+Marshall,Conference USA,25,Ryan Taylor,F,6-5,225,FR,Indianapolis, IN
+Marshall,Conference USA,31,JP Kambola,C,6-9,244,JR,Toronto, ON
+Marshall,Conference USA,32,Tamron Manning,G,6-4,210,SO,Georgetown, KY
+Marshall,Conference USA,34,Yous Mbao,C,7-2,250,SR,--
+Marshall,Conference USA,35,Austin Loop,G,6-4,207,FR,South Webster, OH
+Marshall,Conference USA, -- ,Shawn Smith,F,6-6,228,JR,Sacramento, CA
+Middle Tennessee,Conference USA,2013-14 Middle Tennessee Blue Raiders
+Middle Tennessee,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Middle Tennessee,Conference USA,1,Neiko Hunter,F,6-7,221,SR,Eutaw, AL
+Middle Tennessee,Conference USA,2,Eric Wortham, Jr.,G,6-6,210,FR,Mcdonough, GA
+Middle Tennessee,Conference USA,3,Joshua Phillips,F,6-8,220,FR,Hendersonville, TN
+Middle Tennessee,Conference USA,10,Jaqawn Raymond,G,6-4,197,SO,Statesboro, GA
+Middle Tennessee,Conference USA,11,Tharone Chilton,G,6-2,160,JR,Tulsa, OK
+Middle Tennessee,Conference USA,12,Shawn Jones,F,6-8,236,SR,Hialeah, FL
+Middle Tennessee,Conference USA,13,Blake Johnson,G,5-10,160,FR,Memphis, TN
+Middle Tennessee,Conference USA,15,Ronald Ross,G,6-3,215,JR,Indianapolis, IN
+Middle Tennessee,Conference USA,20,Tavarres Jefferson,G,5-9,206,SR,Nashville, TN
+Middle Tennessee,Conference USA,21,Torin Walker,C,6-11,240,SR,Columbus, GA
+Middle Tennessee,Conference USA,23,Marcus Tarrance,G,6-6,210,JR,Memphis, TN
+Middle Tennessee,Conference USA,24,Kerry Hammonds II,G-F,6-5,210,SR,Murfreesboro, TN
+Middle Tennessee,Conference USA,30,Reggie Upshaw Jr.,F,6-7,222,FR,Chattanooga, TN
+Middle Tennessee,Conference USA,32,Gavin Gibson,G,6-4,200,SO,Chattanooga, TN
+Middle Tennessee,Conference USA,42,Jacquez Rozier,F,6-7,227,JR,Waynesboro, GA
+Middle Tennessee,Conference USA, -- ,Zane Gibson,G,6-2,183,SR,Chattanooga, TN
+Middle Tennessee,Conference USA, -- ,Tweety Knight,NA,6-1,190,SR,Rentz, GA
+North Texas,Conference USA,2013-14 North Texas Mean Green
+North Texas,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+North Texas,Conference USA,1,Maurice Aniefiok,G-F,6-5,212,SO,Lagos, Nigeria
+North Texas,Conference USA,2,Brandan Walton,G,6-2,205,SR,Compton, CA
+North Texas,Conference USA,3,Alzee Williams,G,6-4,182,SR,Dallas, TX
+North Texas,Conference USA,4,Armani Flannigan,F,6-8,200,JR,Rockford, IL
+North Texas,Conference USA,5,Chris Jones,G,6-2,203,JR,Garland, TX
+North Texas,Conference USA,10,Austin Mitchell,G,6-1,180,SO,Plano, TX
+North Texas,Conference USA,21,T.J. Taylor,G,6-3,215,JR,Denison, TX
+North Texas,Conference USA,22,Greg Wesley,G,6-7,190,FR,Arlington, TX
+North Texas,Conference USA,23,Jordan Williams,G,6-6,202,JR,Dallas, TX
+North Texas,Conference USA,24,Kelvin Gaines,F-C,6-10,240,JR,Ocala, FL
+North Texas,Conference USA,33,Colin Voss,F,6-7,240,JR,Grand Rapids, MI
+North Texas,Conference USA,44,Keith Coleman,F,6-10,250,JR,Philadelphia, PA
+North Texas,Conference USA, -- ,Vertrail Vaughns,G,6-2,194,SR,Mesquite, TX
+Old Dominion,Conference USA,2013-14 Old Dominion Monarchs
+Old Dominion,Conference USA,NO,NAME,POS,HT,WT,CLASS,HOMETOWN
+Old Dominion,Conference USA,1,Aaron Bacote,G,6-4,180,SO,Hampton, VA
+Old Dominion,Conference USA,3,Keenan Palmore,G,6-1,180,SO,Atlanta, GA
+Old Dominion,Conference USA,4,Dimitri Batten,G,6-3,205,JR,Newport News, VA
+Old Dominion,Conference USA,10,Martin Shaw,G,5-11,170,SO,Hampton, VA
+Old Dominion,Conference USA,11,Joe Ebondo,F,6-7,215,JR,Euless, TX
+Old Dominion,Conference USA,15,Deion Clark,G,6-3,210,SO,Naples, FL
+Old Dominion,Conference USA,20,Trey Freeman,G,6-2,175,JR,Virginia Beach, VA
+Old Dominion,Conference USA,21,Denzell Taylor,F,6-7,210,FR,Brampton, ON
+Old Dominion,Conference USA,22,Ambrose Mosley,G,6-2,170,FR,Jacksonville, FL
+Old Dominion,Conference USA,23,Richard Ross,F,6-6,225,JR,Wichita Falls, TX
+Old Dominion,Conference USA,25,Sean-Michael King,G,6-1,180,JR,Alexandria, VA
+Old Dominion,Conference USA,30,Nik Biberaj,F,6-8,235,JR,Fairfax Station, VA
+Old Dominion,Conference USA,40,Anton Larsen,C,7-0,245,SR,Copenhagen, Denmark
+Old Dominion,Conference USA, -- ,Jordan Baker,G,6-2,195,FR,Hampton, VA

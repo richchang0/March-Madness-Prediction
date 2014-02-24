@@ -225,13 +225,13 @@ MEAC
 Bethune-Cookman,http://espn.go.com/mens-college-basketball/team/_/id/2065/bethune-cookman-wildcats
 Coppin State,http://espn.go.com/mens-college-basketball/team/_/id/2154/coppin-state-eagles
 Delaware State,http://espn.go.com/mens-college-basketball/team/_/id/2169/delaware-state-hornets
-Florida A&M,http://espn.go.com/mens-college-basketball/team/_/id/50/florida-a&m-rattlers
+Florida A&M;,http://espn.go.com/mens-college-basketball/team/_/id/50/florida-a&m-rattlers
 Hampton,http://espn.go.com/mens-college-basketball/team/_/id/2261/hampton-pirates
 Howard,http://espn.go.com/mens-college-basketball/team/_/id/47/howard-bison
 MD-E Shore,http://espn.go.com/mens-college-basketball/team/_/id/2379/maryland-eastern-shore-hawks
 Morgan State,http://espn.go.com/mens-college-basketball/team/_/id/2415/morgan-state-bears
 Norfolk State,http://espn.go.com/mens-college-basketball/team/_/id/2450/norfolk-state-spartans
-N Carolina A&T,http://espn.go.com/mens-college-basketball/team/_/id/2448/north-carolina-a&t-aggies
+N Carolina A&T;,http://espn.go.com/mens-college-basketball/team/_/id/2448/north-carolina-a&t-aggies
 N Carolina Cent,http://espn.go.com/mens-college-basketball/team/_/id/2428/north-carolina-central-eagles
 Savannah State,http://espn.go.com/mens-college-basketball/team/_/id/2542/savannah-state-tigers
 S Carolina St,http://espn.go.com/mens-college-basketball/team/_/id/2569/south-carolina-state-bulldogs
@@ -326,7 +326,7 @@ Missouri,http://espn.go.com/mens-college-basketball/team/_/id/142/missouri-tiger
 Ole Miss,http://espn.go.com/mens-college-basketball/team/_/id/145/ole-miss-rebels
 South Carolina,http://espn.go.com/mens-college-basketball/team/_/id/2579/south-carolina-gamecocks
 Tennessee,http://espn.go.com/mens-college-basketball/team/_/id/2633/tennessee-volunteers
-Texas A&M,http://espn.go.com/mens-college-basketball/team/_/id/245/texas-a&m-aggies
+Texas A&M;,http://espn.go.com/mens-college-basketball/team/_/id/245/texas-a&m-aggies
 Vanderbilt,http://espn.go.com/mens-college-basketball/team/_/id/238/vanderbilt-commodores
 -
 Southern
@@ -356,17 +356,17 @@ Oral Roberts,http://espn.go.com/mens-college-basketball/team/_/id/198/oral-rober
 Sam Houston,http://espn.go.com/mens-college-basketball/team/_/id/2534/sam-houston-state-bearkats
 SE Louisiana,http://espn.go.com/mens-college-basketball/team/_/id/2545/southeastern-louisiana-lions
 SF Austin,http://espn.go.com/mens-college-basketball/team/_/id/2617/stephen-f.-austin-lumberjacks
-Texas A&M-CC,http://espn.go.com/mens-college-basketball/team/_/id/357/texas-a&m-cc-islanders
+Texas A&M-CC;,http://espn.go.com/mens-college-basketball/team/_/id/357/texas-a&m-cc-islanders
 -
 SWAC
-Alabama A&M,http://espn.go.com/mens-college-basketball/team/_/id/2010/alabama-a&m-bulldogs
+Alabama A&M;,http://espn.go.com/mens-college-basketball/team/_/id/2010/alabama-a&m-bulldogs
 Alabama State,http://espn.go.com/mens-college-basketball/team/_/id/2011/alabama-state-hornets
 Alcorn State,http://espn.go.com/mens-college-basketball/team/_/id/2016/alcorn-state-braves
 AR-Pine Bluff,http://espn.go.com/mens-college-basketball/team/_/id/2029/arkansas-pine-bluff-golden-lions
 Grambling St,http://espn.go.com/mens-college-basketball/team/_/id/2755/grambling-state-tigers
 Jackson State,http://espn.go.com/mens-college-basketball/team/_/id/2296/jackson-state-tigers
 Miss Valley St,http://espn.go.com/mens-college-basketball/team/_/id/2400/mississippi-valley-state-delta-devils
-PV A&M,http://espn.go.com/mens-college-basketball/team/_/id/2504/prairie-view-a&m-panthers
+PV A&M;,http://espn.go.com/mens-college-basketball/team/_/id/2504/prairie-view-a&m-panthers
 Southern,http://espn.go.com/mens-college-basketball/team/_/id/2582/southern-university-jaguars
 Texas Southern,http://espn.go.com/mens-college-basketball/team/_/id/2640/texas-southern-tigers
 -

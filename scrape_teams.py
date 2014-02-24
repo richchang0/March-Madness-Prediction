@@ -37,7 +37,7 @@ def get_teams():
 
 def get_players():
 
-	teamFile = open("teams2.txt", 'r')
+	teamFile = open("teams.txt", 'r')
 
 	confGroup = ""
 	for line in teamFile:
