@@ -36,25 +36,41 @@ def get_teams():
 
 def get_stats():
 
-	# teamFile = open('teams_statsheet', 'r')
-
+	teamFile = open('teams_statsheet.txt', 'r')
+	
 	# TargetURL
 	# http://statsheet.com/mcb/teams/syracuse/team_stats?season=2013-2014&type=all
 	season = '2013-2014'
 	extraPart = '/team_stats?season=' + season + '&type=all'
 
-	url = 'http://statsheet.com/mcb/teams/syracuse/team_stats?type=all'
+	# url = 'http://statsheet.com/mcb/teams/syracuse/team_stats?type=all'
+	for team in teamFile:
 
-	soup = get_page(url)
-	# print soup
-	for table in soup.findAll("table", { "class" : "table-stats" }):
+		splitLine = team.strip("\n").split(",")
+		teamName = splitLine[0]
+		teamURL = splitLine[1]
 
-		for tr in table.findAll("tr"):
-			tds = tr.findAll("td")
+		url = teamURL + extraPart
 
-			# this are the values
-			if len(tds):
-				print tds[1].text
+		soup = get_page(url)
+		# print soup
+		for table in soup.findAll("table", { "class" : "table-stats" }):
+
+			valueStr = ""
+			for tr in table.findAll("tr"):
+				tds = tr.findAll("td")
+
+				# this are the values
+				if len(tds):
+					valueStr += str(tds[1].text) + ","
+
+			if valueStr != "":
+				valueStr = valueStr[:-1]
+				statFile = open('stats.txt', 'a')
+				statFile.write(teamName + "," + valueStr + "\n")
+				statFile.close()
+
+	teamFile.close()
 
 
 def main():
