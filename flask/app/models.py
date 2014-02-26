@@ -55,16 +55,16 @@ class Team(db.Model):
     blocks_per_game = db.Column(db.Float)
     fouls= db.Column(db.Integer)
     fouls_per_game = db.Column(db.Float)
-    disqualifications = = db.Column(db.Integer)
+    disqualifications = db.Column(db.Integer)
 
     def __repr__(self):
         return '<Team Name %r>' % (self.name)
 
 class Game(db.Model):
     id = db.Column(db.Integer, primary_key = True)
-    team_one_id = db.Column(db.Integer)
+    team_one_id = db.Column(db.Integer, db.ForeignKey('team.id'))
     team_one_name = db.Column(db.String(64))
-    team_two_id = db.Column(db.Integer)
+    team_two_id = db.Column(db.Integer, db.ForeignKey('team.id'))
     team_one_name = db.Column(db.String(64))
     team_one_win = db.Column(db.Boolean)
 
