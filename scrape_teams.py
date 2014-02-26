@@ -15,7 +15,7 @@ def get_page(url):
 def get_teams():
 	url = "http://espn.go.com/mens-college-basketball/teams"
 	soup = get_page(url)
-	teamFile = open("teams.txt", 'w')
+	teamFile = open("temp.txt", 'w')
 	
 	for conf_div in soup.findAll("div", { "class" : "mod-teams-list-medium" }):
 		
@@ -77,8 +77,8 @@ def modify_url(url, target):
 	return newURL
 
 def main():
-	# get_teams()
-	get_players()
+	get_teams()
+	# get_players()
 
 
 main()
