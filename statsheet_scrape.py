@@ -84,7 +84,7 @@ def get_games():
 		url = line_array[1]
 		soup = get_page(url)
 		for tr in soup.tbody.findAll("tr"):
-			line = ""
+			stat = {}
 			if tr["class"][0] not in ['stathead', 'colhead']:
 				game_status = tr.findAll("li", {"class":"game-status"})
 				opponent_team_name = tr.findAll("li", {"class":"team-name"})[0].a.text
