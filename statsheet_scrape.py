@@ -72,9 +72,49 @@ def get_stats():
 
 	teamFile.close()
 
+def get_games():
+	team_file = open('teams.txt', 'r')
+	lines = team_file.readlines()
+
+	for line in lines:
+		line_array = line.split(",")
+		if len(line_array) < 2:
+			continue
+		team_name = line_array[0]
+		url = line_array[1]
+		soup = get_page(url)
+		for tr in soup.tbody.findAll("tr"):
+			line = ""
+			if tr["class"][0] not in ['stathead', 'colhead']:
+				game_status = tr.findAll("li", {"class":"game-status"})
+				opponent_team_name = tr.findAll("li", {"class":"team-name"})[0].a.text
+				if len(game_status)>1:
+
+					if game_status[0].text == "@":
+						stat['home']=opponent_team_name
+						stat['away']=team_name
+						if game_status[1].span.text == "W":
+							stat['win'] = "L"
+						else:
+							stat['win'] = "W"
+					else:
+						stat['away']=opponent_team_name
+						stat['home']=team_name
+
+						if game_status[1].span.text == "W":
+							stat['win'] = "W"
+						else:
+							stat['win'] = "L"
+			print stat
+
+				
+
+
+
 
 def main():
 	# get_teams()
-	get_stats()
+	# get_stats()
+	get_games()
 
 main()
