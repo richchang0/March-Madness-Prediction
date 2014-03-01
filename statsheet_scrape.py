@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
-import string
+import string, re
 
 def get_page(url):
 
@@ -83,30 +83,38 @@ def get_games():
 		team_name = line_array[0]
 		url = line_array[1]
 		soup = get_page(url)
+		gameFile = open('games.txt', 'a')
 		for tr in soup.tbody.findAll("tr"):
-			line = ""
+			ret_line = ""
 			if tr["class"][0] not in ['stathead', 'colhead']:
 				game_status = tr.findAll("li", {"class":"game-status"})
-				opponent_team_name = tr.findAll("li", {"class":"team-name"})[0].a.text
+				opponent_team_name= tr.findAll("li", {"class":"team-name"})[0].text
+
+				opponent_team_name = opponent_team_name.replace("*","")
+				opponent_team_name = re.sub(r'^#\d{1,2}[\W_]? ',"", opponent_team_name)
+				opponent_team_name = re.sub(r'\([^\(]*\)',"", opponent_team_name)
 				if len(game_status)>1:
 
 					if game_status[0].text == "@":
-						stat['home']=opponent_team_name
-						stat['away']=team_name
+						ret_line+=opponent_team_name+","
+						ret_line+=team_name+","
 						if game_status[1].span.text == "W":
-							stat['win'] = "L"
+							ret_line+= "L"
 						else:
-							stat['win'] = "W"
+							ret_line+= "W"
 					else:
-						stat['away']=opponent_team_name
-						stat['home']=team_name
+						ret_line+=opponent_team_name+","
+						ret_line+=team_name+","
 
 						if game_status[1].span.text == "W":
-							stat['win'] = "W"
+							ret_line+= "W"
 						else:
-							stat['win'] = "L"
-			print stat
-
+							ret_line+= "L"
+			ret_line+="\n"
+			if ret_line != "\n":
+				print ret_line
+				gameFile.write(ret_line)
+	gameFile.close()
 				
 
 
