@@ -84,13 +84,13 @@ def get_games():
 		url = line_array[1]
 		soup = get_page(url)
 		gameFile = open('games.txt', 'a')
-		for tr in soup.tbody.findAll("tr"):
+		for tr in soup.findAll("tr"):
 			ret_line = ""
 			if tr["class"][0] not in ['stathead', 'colhead']:
 				game_status = tr.findAll("li", {"class":"game-status"})
 				opponent_team_name= tr.findAll("li", {"class":"team-name"})[0].text
 
-				opponent_team_name = opponent_team_name.replace("*","")
+				opponent_team_name = opponent_team_name.replace("*","") 
 				opponent_team_name = re.sub(r'^#\d{1,2}[\W_]? ',"", opponent_team_name)
 				opponent_team_name = re.sub(r'\([^\(]*\)',"", opponent_team_name)
 				if len(game_status)>1:
