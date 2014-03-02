@@ -21,3 +21,23 @@ for line in stats_lines:
 	for i in range(len(mapping)):
 		db_stat[mapping[i]] = array_of_team_stats[i]
 	team_stat_id =team_stats.insert(db_stat)
+
+
+##import games
+
+collection = db['games']
+game_results = db['games'].remove() ##did this so it doesn't keep appending if you rerun it
+game_results = db['games']
+
+game_file = open("games.txt")
+game_lines = game_file.readlines()
+
+for line in game_lines:
+	array_of_game_stats = line.split(",")
+	game_stat = {}
+	game_stat["Home"] = array_of_game_stats[0]
+	game_stat["Away"] = array_of_game_stats[1]
+	game_stat["Result"] = array_of_game_stats[2]
+
+	game_id = game_results.insert(game_stat)
+

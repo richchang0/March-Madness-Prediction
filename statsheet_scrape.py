@@ -103,8 +103,9 @@ def get_games():
 						else:
 							ret_line+= "W"
 					else:
-						ret_line+=opponent_team_name+","
+						print game_status[0].text
 						ret_line+=team_name+","
+						ret_line+=opponent_team_name+","
 
 						if game_status[1].span.text == "W":
 							ret_line+= "W"
@@ -113,7 +114,7 @@ def get_games():
 			ret_line+="\n"
 			if ret_line != "\n":
 				print ret_line
-				gameFile.write(ret_line)
+				# gameFile.write(ret_line)
 	gameFile.close()
 				
 
