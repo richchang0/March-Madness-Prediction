@@ -114,7 +114,7 @@ def get_games():
 			ret_line+="\n"
 			if ret_line != "\n":
 				print ret_line
-				# gameFile.write(ret_line)
+				gameFile.write(ret_line)
 	gameFile.close()
 				
 
