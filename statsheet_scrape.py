@@ -120,8 +120,8 @@ def get_games():
 
 
 def main():
-	# get_teams()
+	get_teams()
 	# get_stats()
-	get_games()
+	# get_games()
 
 main()
