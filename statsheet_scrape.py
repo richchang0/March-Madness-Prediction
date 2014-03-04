@@ -27,7 +27,7 @@ def get_teams():
 			for tr in table.findAll("tr"):
 				tds = tr.findAll("td")
 				if len(tds):
-					outputFile = open('teams_statsheet.txt', 'a')
+					outputFile = open('textfiles/teams_statsheet.txt', 'a')
 					line = str(tds[1].text) + "," + str(tds[1].a['href']) + "," + str(tds[2].text)
 					outputFile.write(line + "\n")
 					outputFile.close()
@@ -36,7 +36,7 @@ def get_teams():
 
 def get_stats():
 
-	teamFile = open('teams_statsheet.txt', 'r')
+	teamFile = open('textfiles/teams_statsheet.txt', 'r')
 	
 	# TargetURL
 	# http://statsheet.com/mcb/teams/syracuse/team_stats?season=2013-2014&type=all
@@ -66,14 +66,14 @@ def get_stats():
 
 			if valueStr != "":
 				valueStr = valueStr[:-1]
-				statFile = open('stats.txt', 'a')
+				statFile = open('textfiles/stats.txt', 'a')
 				statFile.write(teamName + "," + valueStr + "\n")
 				statFile.close()
 
 	teamFile.close()
 
 def get_games():
-	team_file = open('teams.txt', 'r')
+	team_file = open('textfiles/teams.txt', 'r')
 	lines = team_file.readlines()
 
 	for line in lines:
@@ -83,7 +83,7 @@ def get_games():
 		team_name = line_array[0]
 		url = line_array[1]
 		soup = get_page(url)
-		gameFile = open('games.txt', 'a')
+		gameFile = open('textfiles/games.txt', 'a')
 		for tr in soup.findAll("tr"):
 			ret_line = ""
 			if tr["class"][0] not in ['stathead', 'colhead']:
@@ -115,9 +115,6 @@ def get_games():
 				gameFile.write(ret_line)
 	gameFile.close()
 				
-
-
-
 
 def main():
 	# get_teams()

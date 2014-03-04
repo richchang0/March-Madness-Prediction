@@ -15,7 +15,7 @@ def get_page(url):
 def get_teams():
 	url = "http://espn.go.com/mens-college-basketball/teams"
 	soup = get_page(url)
-	teamFile = open("temp.txt", 'w')
+	teamFile = open("textfiles/temp.txt", 'w')
 	
 	for conf_div in soup.findAll("div", { "class" : "mod-teams-list-medium" }):
 		
@@ -37,7 +37,7 @@ def get_teams():
 
 def get_players():
 
-	teamFile = open("teams.txt", 'r')
+	teamFile = open("textfiles/teams.txt", 'r')
 
 	confGroup = ""
 	for line in teamFile:
@@ -63,7 +63,7 @@ def get_players():
 				# Strip trailing ","
 				playerStr = playerStr[:-1]
 
-				playerFile = open("players2.txt", 'a')
+				playerFile = open("textfiles/players2.txt", 'a')
 				playerFile.write(teamName + "," + confGroup + "," + playerStr + "\n")
 				playerFile.close()
 
