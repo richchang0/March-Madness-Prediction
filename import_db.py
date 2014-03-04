@@ -6,9 +6,9 @@ db = client['mm-db']
 
 
 ##import stats
-collection = db['team-stats']
-team_stats = db['team-stats'].remove() ##did this so it doesn't keep appending if you rerun it
-team_stats = db['team-stats']
+collection = db['team_stats']
+team_stats = db['team_stats'].remove() ##did this so it doesn't keep appending if you rerun it
+team_stats = db['team_stats']
 
 stats_file = open('stats.txt')
 stats_lines = stats_file.readlines()
