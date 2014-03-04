@@ -6,7 +6,7 @@ SMU,Southern Methodist
 Illinois-Chicago,UIC
 Miami,Miami (FL)
 Saint Joseph's,St. Joseph's (PA)
-St. Francis U,St. Francis (NY)
+St. Francis U,St. Francis (PA)
 N.J.I.T.,New Jersey Tech
 G. Washington,George Washington
 Loyola,Loyola (MD)

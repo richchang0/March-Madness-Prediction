@@ -92,7 +92,7 @@ def get_games():
 
 				opponent_team_name = opponent_team_name.replace("*","") 
 				opponent_team_name = re.sub(r'^#\d{1,2}[\W_]? ',"", opponent_team_name)
-				opponent_team_name = re.sub(r'\([^\(]*\)',"", opponent_team_name)
+				# opponent_team_name = re.sub(r'\([^\(]*\)',"", opponent_team_name)
 				if len(game_status)>1:
 
 					if game_status[0].text == "@":
@@ -120,8 +120,8 @@ def get_games():
 
 
 def main():
-	get_teams()
+	# get_teams()
 	# get_stats()
-	# get_games()
+	get_games()
 
 main()

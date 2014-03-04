@@ -1,4 +1,4 @@
-Binghamton,Loyola ,L
+Binghamton,Loyola (MD),L
 Brown,Binghamton,W
 Cornell,Binghamton,L
 Binghamton,Navy,L
@@ -138,10 +138,10 @@ Indiana,Stony Brook,W
 Stony Brook,Toledo,L
 Stony Brook,Florida Atlantic,W
 Detroit,Stony Brook,L
-Stony Brook,St. Francis ,L
+Stony Brook,St. Francis (NY),L
 Stony Brook,Fairleigh Dickinson,W
 Stony Brook,La Salle,L
-Loyola ,Stony Brook,L
+Loyola (MD),Stony Brook,L
 Stony Brook,Cornell,W
 Virginia Commonwealth,Stony Brook,W
 Columbia,Stony Brook,W
@@ -157,7 +157,7 @@ Arizona State,UMBC,W
 UMBC,Eastern University,W
 American University,UMBC,W
 UMBC,Mount St. Mary's,W
-UMBC,Loyola ,L
+UMBC,Loyola (MD),L
 Navy,UMBC,W
 Towson,UMBC,W
 UMBC,Maryland-Eastern Shore,W
@@ -225,7 +225,7 @@ Connecticut,Detroit,W
 Connecticut,Boston University,W
 Connecticut,Boston College,W
 Connecticut,Indiana,W
-Connecticut,Loyola ,W
+Connecticut,Loyola (MD),W
 Connecticut,Florida,W
 Connecticut,Stanford,L
 Washington,Connecticut,L
@@ -401,7 +401,7 @@ Temple,Southern Methodist,W
 UCF,Tampa,W
 UCF,Florida State,L
 UCF,Bethune-Cookman,W
-Miami ,UCF,L
+Miami (FL),UCF,L
 Valparaiso,UCF,W
 Florida Atlantic,UCF,W
 UCF,Stetson,W
@@ -413,7 +413,7 @@ UCF,Southern Methodist,L
 Southern Methodist,UCF,W
 Dayton,IPFW,W
 Dayton,St. Francis U,W
-Dayton,St. Francis ,W
+Dayton,St. Francis (NY),W
 Georgia Tech,Dayton,L
 Dayton,Gonzaga,W
 Dayton,Baylor,L
@@ -475,7 +475,7 @@ St. John's,Fordham,W
 Colgate,Fordham,L
 Fordham,Howard,W
 Monmouth,Fordham,W
-Fordham,Loyola ,W
+Fordham,Loyola (IL),W
 Fordham,Harvard,L
 Siena,Fordham,W
 Fordham,Richmond,L
@@ -518,7 +518,7 @@ G. Washington,Radford,W
 G. Washington,Maine,W
 Manhattan,G. Washington,L
 G. Washington,Delaware State,W
-G. Washington,Miami ,W
+G. Washington,Miami (FL),W
 G. Washington,Marquette,L
 G. Washington,Creighton,W
 G. Washington,Rutgers,W
@@ -552,7 +552,7 @@ La Salle,Northern Iowa,L
 La Salle,Stony Brook,W
 Villanova,La Salle,W
 La Salle,Wagner,W
-Miami ,La Salle,W
+Miami (FL),La Salle,W
 Pennsylvania,La Salle,L
 La Salle,George Washington,W
 La Salle,Rhode Island,W
@@ -577,7 +577,7 @@ Massachusetts,Northern Illinois,W
 Ohio,Massachusetts,L
 Massachusetts,Florida State,L
 Massachusetts,Providence,W
-Massachusetts,Miami ,W
+Massachusetts,Miami (OH),W
 Massachusetts,Saint Joseph's,W
 Massachusetts,St. Bonaventure,W
 Elon,Massachusetts,L
@@ -635,7 +635,7 @@ Saint Joseph's,Siena,W
 Saint Joseph's,Washington State,W
 Saint Joseph's,Villanova,L
 Saint Joseph's,Drexel,W
-Loyola ,Saint Joseph's,L
+Loyola (MD),Saint Joseph's,L
 Saint Joseph's,Boston University,W
 Saint Joseph's,Denver,W
 Pennsylvania,Saint Joseph's,L
@@ -731,7 +731,7 @@ Boston College,Duke,L
 Georgia Tech,Boston College,W
 Boston College,Notre Dame,L
 Syracuse,Boston College,L
-Miami ,Boston College,W
+Miami (FL),Boston College,W
 Boston College,Pittsburgh,L
 Wake Forest,Boston College,L
 Clemson,Stetson,W
@@ -777,7 +777,7 @@ Notre Dame,Duke,W
 Duke,Georgia Tech,W
 Duke,Virginia,W
 Duke,North Carolina State,W
-Miami ,Duke,L
+Miami (FL),Duke,L
 Duke,Florida State,W
 Pittsburgh,Duke,L
 Syracuse,Duke,W
@@ -800,13 +800,13 @@ Florida State,Massachusetts,W
 Florida State,Charleston Southern,W
 Florida State,Virginia,L
 Florida State,Maryland,W
-Miami ,Florida State,L
+Miami (FL),Florida State,L
 Virginia,Florida State,W
 Florida State,Notre Dame,W
 North Carolina State,Florida State,W
 Florida State,Virginia Tech,W
 Maryland,Florida State,W
-Florida State,Miami ,L
+Florida State,Miami (FL),L
 Wake Forest,Florida State,L
 Florida State,North Carolina,L
 Pittsburgh,Florida State,L
@@ -826,7 +826,7 @@ Charlotte,Georgia Tech,L
 Maryland,Georgia Tech,W
 Georgia Tech,Notre Dame,W
 Georgia Tech,Pittsburgh,L
-Georgia Tech,Miami ,L
+Georgia Tech,Miami (FL),L
 North Carolina State,Georgia Tech,W
 Georgia Tech,North Carolina,L
 Wake Forest,Georgia Tech,L
@@ -849,39 +849,31 @@ Pittsburgh,Maryland,W
 Maryland,Notre Dame,W
 North Carolina State,Maryland,W
 Maryland,Pittsburgh,L
-Maryland,Miami ,W
+Maryland,Miami (FL),W
 Virginia Tech,Maryland,L
 North Carolina,Maryland,W
 Virginia,Maryland,W
 Maryland,Wake Forest,W
 Maryland,Syracuse,L
-Miami (FL),St. Francis ,L
+Miami (FL),St. Francis (NY),L
 Miami (FL),Georgia Southern,W
 Miami (FL),Texas Southern,W
 Charleston,Miami (FL),L
-Miami (FL),UCF,L
 Miami (FL),George Washington,L
 Cal State Fullerton,Miami (FL),L
 Miami (FL),Arizona State,W
 Nebraska,Miami (FL),W
 Miami (FL),Virginia Tech,L
 Savannah State,Miami (FL),L
-Miami (FL),La Salle,W
-Miami (FL),Loyola ,W
+Miami (FL),Loyola (MD),W
 Syracuse,Miami (FL),W
 North Carolina,Miami (FL),L
-Miami (FL),Florida State,L
-Georgia Tech,Miami (FL),L
-Miami (FL),Duke,L
 Miami (FL),Syracuse,L
-Maryland,Miami (FL),W
 Miami (FL),Norfolk State,W
 Miami (FL),Pittsburgh,L
 Miami (FL),North Carolina State,L
-Florida State,Miami (FL),L
 Virginia Tech,Miami (FL),W
 Miami (FL),Notre Dame,W
-Miami (FL),Boston College,W
 Virginia,Miami (FL),W
 North Carolina State,Miami (FL),L
 North Carolina,Oakland,W
@@ -898,7 +890,6 @@ North Carolina,Davidson,W
 North Carolina,Northern Kentucky,W
 North Carolina,North Carolina-Wilmington,W
 Wake Forest,North Carolina,W
-North Carolina,Miami ,L
 Syracuse,North Carolina,W
 Virginia,North Carolina,W
 North Carolina,North Carolina State,W
@@ -907,6 +898,7 @@ North Carolina,Pittsburgh,W
 North Carolina,Wake Forest,W
 North Carolina State,North Carolina,L
 Virginia Tech,North Carolina,L
+North Carolina,Notre Dame,W
 NC State,Appalachian State,W
 Cincinnati,NC State,W
 NC State,Campbell,W
@@ -929,14 +921,15 @@ NC State,Maryland,W
 NC State,Georgia Tech,W
 NC State,Florida State,W
 North Carolina,NC State,W
-Miami ,NC State,L
+Miami (FL),NC State,L
 NC State,Wake Forest,W
 Syracuse,NC State,W
 Clemson,NC State,W
 Virginia Tech,NC State,L
 NC State,North Carolina,L
-NC State,Miami ,L
-Notre Dame,Miami ,W
+NC State,Miami (FL),L
+Pittsburgh,NC State,L
+Notre Dame,Miami (OH),W
 Notre Dame,Stetson,W
 Notre Dame,Indiana State,L
 Notre Dame,Santa Clara,W
@@ -954,7 +947,6 @@ Notre Dame,Virginia Tech,W
 Wake Forest,Notre Dame,W
 Notre Dame,Virginia,L
 Syracuse,Notre Dame,W
-Miami ,Notre Dame,W
 Virginia,Notre Dame,W
 Notre Dame,Pittsburgh,L
 Pittsburgh,Savannah State,W
@@ -974,12 +966,12 @@ North Carolina State,Pittsburgh,L
 Pittsburgh,Wake Forest,W
 Syracuse,Pittsburgh,W
 Pittsburgh,Virginia,L
-Miami ,Pittsburgh,L
 Pittsburgh,Virginia Tech,W
 Pittsburgh,Syracuse,L
+Pittsburgh,North Carolina State,L
 Syracuse,Cornell,W
 Syracuse,Colgate,W
-Syracuse,St. Francis ,W
+Syracuse,St. Francis (NY),W
 Syracuse,Minnesota,W
 Syracuse,California,W
 Syracuse,Baylor,W
@@ -988,9 +980,7 @@ St. John's,Syracuse,L
 Syracuse,High Point,W
 Syracuse,Villanova,W
 Syracuse,Eastern Michigan,W
-Syracuse,Miami ,W
 Virginia Tech,Syracuse,L
-Miami ,Syracuse,L
 Wake Forest,Syracuse,L
 Syracuse,North Carolina State,W
 Virginia,Syracuse,W
@@ -1011,7 +1001,6 @@ Virginia,Wake Forest,W
 North Carolina State,Virginia,L
 Virginia,Virginia Tech,W
 Virginia Tech,Virginia,L
-Virginia,Miami ,W
 Virginia Tech,USC Upstate,L
 Virginia Tech,West Virginia,W
 Virginia Tech,Western Carolina,W
@@ -1021,12 +1010,10 @@ Virginia Tech,Seton Hall,L
 Virginia Tech,Furman,W
 Virginia Tech,Radford,W
 Virginia Tech,Winthrop,W
-Miami ,Virginia Tech,L
 Virginia Tech,Virginia Commonwealth,L
 Virginia Tech,UNC Greensboro,L
 Virginia Tech,Maryland-Eastern Shore,W
 Virginia Tech,Wake Forest,L
-Virginia Tech,Miami ,W
 Virginia Tech,North Carolina State,L
 Wake Forest,Colgate,W
 Wake Forest,Virginia Military,W
@@ -1103,421 +1090,6 @@ FGCU,Mercer,W
 FGCU,Kennesaw State,W
 Lipscomb,FGCU,W
 Northern Kentucky,FGCU,L
-Jacksonville,Florida College,W
-Gardner-Webb,Jacksonville,W
-Jacksonville,Florida A&M,W
-Jacksonville,Florida,L
-Jacksonville,Trinity Baptist,W
-Florida Atlantic,Jacksonville,W
-Jacksonville,Samford,L
-Jacksonville,South Carolina State,W
-Jacksonville,Mercer,L
-Jacksonville,Kennesaw State,W
-Northern Kentucky,Jacksonville,W
-Lipscomb,Jacksonville,L
-Jacksonville,Stetson,W
-Jacksonville,Florida Gulf Coast,W
-North Florida,Jacksonville,W
-USC Upstate,Jacksonville,W
-East Tennessee State,Jacksonville,W
-Jacksonville,Lipscomb,L
-Jacksonville,Northern Kentucky,W
-Florida Gulf Coast,Jacksonville,W
-Stetson,Jacksonville,W
-Jacksonville,North Florida,L
-Jacksonville,East Tennessee State,W
-Jacksonville,USC Upstate,W
-Kennesaw State,Jacksonville,L
-Mercer,Jacksonville,W
-Kennesaw State,Youngstown State,L
-Kennesaw State,Eastern Kentucky,L
-Kennesaw State,Florida International,L
-Kennesaw State,Warren Wilson,W
-Mississippi State,Kennesaw State,W
-Chattanooga,Kennesaw State,L
-Kennesaw State,IPFW,L
-Kennesaw State,Truett-McConnell,W
-Kent State,Kennesaw State,W
-Georgia Southern,Kennesaw State,W
-Indiana,Kennesaw State,W
-North Florida,Kennesaw State,W
-Kennesaw State,East Tennessee State,L
-Kennesaw State,USC Upstate,W
-Mercer,Kennesaw State,W
-Lipscomb,Kennesaw State,W
-Northern Kentucky,Kennesaw State,W
-Kennesaw State,Stetson,L
-Kennesaw State,Florida Gulf Coast,L
-USC Upstate,Kennesaw State,W
-East Tennessee State,Kennesaw State,W
-Kennesaw State,Mercer,L
-Kennesaw State,Northern Kentucky,W
-Kennesaw State,Lipscomb,L
-Stetson,Kennesaw State,L
-Florida Gulf Coast,Kennesaw State,W
-Kennesaw State,North Florida,L
-Lipscomb,Belmont,L
-Lipscomb,Oakland City,W
-Vanderbilt,Lipscomb,W
-Tennessee State,Lipscomb,L
-Belmont,Lipscomb,W
-Tennessee-Martin,Lipscomb,L
-Georgetown,Lipscomb,W
-Lipscomb,Tennessee Tech,W
-Murray State,Lipscomb,W
-Georgia,Lipscomb,W
-Austin Peay,Lipscomb,L
-Stetson,Lipscomb,W
-Florida Gulf Coast,Lipscomb,W
-Lipscomb,North Florida,L
-East Tennessee State,Lipscomb,L
-USC Upstate,Lipscomb,W
-Lipscomb,Mercer,L
-Northern Kentucky,Lipscomb,L
-North Florida,Lipscomb,L
-Lipscomb,USC Upstate,W
-Lipscomb,East Tennessee State,L
-Mercer,Lipscomb,W
-Lipscomb,Northern Kentucky,W
-Lipscomb,Florida Gulf Coast,W
-Lipscomb,Stetson,W
-Texas,Mercer,W
-Mercer,Reinhardt,W
-Mercer,Seton Hall,W
-Evansville,Mercer,W
-Mercer,Johnson & Wales ,W
-Mercer,Yale,W
-Ohio,Mercer,W
-Valparaiso,Mercer,L
-Oklahoma,Mercer,W
-Mercer,Denver,W
-Mercer,Alcorn State,W
-Ole Miss,Mercer,L
-Mercer,St. Andrews,W
-North Florida,Mercer,W
-Mercer,USC Upstate,W
-Mercer,East Tennessee State,W
-Northern Kentucky,Mercer,L
-Mercer,Florida Gulf Coast,W
-Mercer,Stetson,W
-East Tennessee State,Mercer,L
-USC Upstate,Mercer,W
-Mercer,Northern Kentucky,W
-Florida Gulf Coast,Mercer,W
-Stetson,Mercer,L
-Mercer,North Florida,L
-Florida,North Florida,W
-Arkansas-Little Rock,North Florida,L
-Middle Tennessee,North Florida,W
-North Florida,Southern University,L
-North Florida,Savannah State,W
-North Florida,Webber Int.,W
-Savannah State,North Florida,L
-Ohio State,North Florida,W
-North Florida,Edward Waters,W
-Alabama,North Florida,W
-Indiana,North Florida,W
-Michigan State,North Florida,W
-North Florida,Bethune-Cookman,W
-Northern Kentucky,North Florida,W
-North Florida,Florida Gulf Coast,L
-North Florida,Stetson,W
-East Tennessee State,North Florida,W
-USC Upstate,North Florida,W
-North Florida,Northern Kentucky,W
-Stetson,North Florida,L
-Florida Gulf Coast,North Florida,W
-North Florida,USC Upstate,L
-North Florida,East Tennessee State,L
-Purdue,NKU,W
-Kentucky,NKU,W
-NKU,San Diego,L
-NKU,Morehead State,L
-Tulane,NKU,L
-NKU,Southeast Missouri State,L
-NKU,Texas State,L
-Tennessee-Martin,NKU,W
-NKU,Chattanooga,W
-NKU,Hampton,W
-NKU,Navy,W
-North Carolina,NKU,W
-Florida Gulf Coast,NKU,W
-Stetson,NKU,L
-NKU,Jacksonville,W
-NKU,North Florida,W
-USC Upstate,NKU,W
-East Tennessee State,NKU,W
-NKU,Mercer,L
-NKU,Kennesaw State,W
-NKU,Lipscomb,L
-North Florida,NKU,W
-Jacksonville,NKU,W
-NKU,East Tennessee State,L
-NKU,USC Upstate,L
-Kennesaw State,NKU,W
-Mercer,NKU,W
-Lipscomb,NKU,W
-NKU,Stetson,W
-NKU,Florida Gulf Coast,L
-Florida A&M,Stetson,W
-Florida International,Stetson,W
-Stetson,Wagner,L
-Stetson,Southern Illinois,L
-Stetson,UNC Greensboro,L
-Stetson,Davidson,L
-Stetson,Bethune-Cookman,W
-Stetson,Florida Atlantic,W
-Stetson,Northern Kentucky,L
-Stetson,Florida Gulf Coast,L
-Stetson,East Tennessee State,W
-Stetson,USC Upstate,W
-Florida Gulf Coast,Stetson,W
-East Tennessee State,Stetson,W
-USC Upstate,Stetson,W
-Northern Kentucky,Stetson,W
-Winthrop,USC Upstate,W
-Tennessee,USC Upstate,W
-USC Upstate,Niagara,W
-Kent State,USC Upstate,W
-USC Upstate,Western Carolina,W
-USC Upstate,Bob Jones,W
-USC Upstate,Tennessee State,W
-USC Upstate,UNC Asheville,L
-South Carolina,USC Upstate,L
-Charlotte,USC Upstate,W
-USC Upstate,North Greenville,W
-USC Upstate,Northern Kentucky,W
-Florida Gulf Coast,USC Upstate,W
-Northern Kentucky,USC Upstate,L
-East Tennessee State,USC Upstate,L
-USC Upstate,Florida Gulf Coast,L
-USC Upstate,East Tennessee State,W
-Baylor,Colorado,W
-Baylor,South Carolina,W
-Baylor,Louisiana-Lafayette,W
-Baylor,Charleston Southern,W
-Baylor,Chaminade,W
-Baylor,Dayton,W
-Baylor,Syracuse,L
-Baylor,Hardin-Simmons,W
-Baylor,Kentucky,W
-Baylor,Northwestern State,W
-Baylor,Southern University,W
-Baylor,Oral Roberts,W
-Baylor,Savannah State,W
-Iowa State,Baylor,W
-Baylor,TCU,W
-Texas Tech,Baylor,W
-Baylor,Oklahoma,L
-Kansas,Baylor,W
-Baylor,Texas,L
-Baylor,West Virginia,L
-Oklahoma State,Baylor,L
-Baylor,Kansas,L
-Oklahoma,Baylor,W
-TCU,Baylor,L
-Baylor,Kansas State,W
-Baylor,Oklahoma State,W
-West Virginia,Baylor,L
-Texas,Baylor,W
-Baylor,Texas Tech,W
-Iowa State,North Carolina-Wilmington,W
-Iowa State,Texas A&M-CC,W
-Iowa State,Michigan,W
-Brigham Young,Iowa State,L
-Iowa State,UMKC,W
-Iowa State,Auburn,W
-Iowa State,Northern Iowa,W
-Iowa State,Iowa,W
-Iowa State,George Mason,W
-Iowa State,Akron,W
-Iowa State,Boise State,W
-Iowa State,Northern Illinois,W
-Texas Tech,Iowa State,L
-Oklahoma,Iowa State,W
-Iowa State,Kansas,L
-Texas,Iowa State,W
-Iowa State,Kansas State,W
-Kansas,Iowa State,W
-Iowa State,Oklahoma,W
-Oklahoma State,Iowa State,L
-Iowa State,TCU,W
-West Virginia,Iowa State,W
-Iowa State,Texas Tech,W
-Iowa State,Texas,W
-TCU,Iowa State,L
-Iowa State,West Virginia,W
-Kansas State,Iowa State,W
-Kansas,Louisiana-Monroe,W
-Kansas,Duke,W
-Kansas,Iona,W
-Kansas,Towson,W
-Kansas,Wake Forest,W
-Kansas,Villanova,L
-Kansas,UTEP,W
-Colorado,Kansas,W
-Florida,Kansas,W
-Kansas,New Mexico,W
-Kansas,Georgetown,W
-Kansas,Toledo,W
-Kansas,San Diego State,L
-Oklahoma,Kansas,L
-Kansas,Kansas State,W
-Kansas,Oklahoma State,W
-TCU,Kansas,L
-Texas,Kansas,W
-Kansas,West Virginia,W
-Kansas State,Kansas,W
-Kansas,TCU,W
-Texas Tech,Kansas,L
-Kansas,Texas,W
-Kansas,Oklahoma,W
-Oklahoma State,Kansas,W
-Kansas State,Northern Colorado,L
-Kansas State,Oral Roberts,W
-Kansas State,Long Beach State,W
-Kansas State,Charlotte,L
-Kansas State,Georgetown,L
-Kansas State,Central Arkansas,W
-Kansas State,Ole Miss,W
-Kansas State,South Dakota,W
-Kansas State,Troy,W
-Kansas State,Gonzaga,W
-Kansas State,Tulane,W
-Kansas State,George Washington,W
-Kansas State,Oklahoma State,W
-TCU,Kansas State,L
-Kansas State,Oklahoma,W
-Kansas State,West Virginia,W
-Texas,Kansas State,W
-Kansas State,Texas Tech,W
-West Virginia,Kansas State,W
-Kansas State,Texas,W
-Kansas State,TCU,W
-Oklahoma,Kansas State,W
-Texas Tech,Kansas State,L
-Oklahoma,Alabama,W
-Oklahoma,North Texas,W
-Oklahoma,Idaho,W
-Oklahoma,Seton Hall,W
-Oklahoma,Michigan State,L
-Oklahoma,Arkansas-Little Rock,W
-Oklahoma,Texas A&M-CC,W
-Oklahoma,George Mason,W
-Oklahoma,Tulsa,W
-Oklahoma,Texas-Arlington,W
-Oklahoma,Texas A&M,W
-Oklahoma,Louisiana Tech,L
-Texas,Oklahoma,L
-Oklahoma,TCU,W
-Texas Tech,Oklahoma,L
-Oklahoma,Oklahoma State,W
-West Virginia,Oklahoma,W
-Oklahoma,Texas Tech,L
-Oklahoma State,Oklahoma,L
-Oklahoma,Texas,W
-Oklahoma State,Mississippi Valley State,W
-Oklahoma State,Utah Valley,W
-Oklahoma State,Arkansas-Pine Bluff,W
-Oklahoma State,Purdue,W
-Oklahoma State,Butler,W
-Oklahoma State,Memphis,L
-Oklahoma State,South Carolina,W
-Oklahoma State,Louisiana Tech,W
-Oklahoma State,Delaware State,W
-Oklahoma State,Colorado,W
-Oklahoma State,Robert Morris,W
-Oklahoma State,Texas,W
-West Virginia,Oklahoma State,L
-Oklahoma State,TCU,W
-Oklahoma State,West Virginia,W
-Texas Tech,Oklahoma State,W
-Texas,Oklahoma State,W
-Oklahoma State,Texas Tech,W
-TCU,Oklahoma State,L
-TCU,Southern Methodist,L
-TCU,Longwood,L
-TCU,Abilene Christian,W
-Washington State,TCU,L
-Alaska Anchorage,TCU,L
-TCU,Tulsa,W
-TCU,Harvard,L
-Mississippi State,TCU,L
-TCU,Texas-Pan American,W
-TCU,Grambling State,W
-TCU,Texas Southern,W
-TCU,West Virginia,L
-TCU,Texas Tech,L
-Texas Tech,TCU,W
-TCU,Texas,L
-West Virginia,TCU,W
-Texas,South Alabama,W
-Texas,Stephen F. Austin,W
-Texas,Houston Baptist,W
-Texas,Brigham Young,L
-Texas,DePaul,W
-Texas,Texas-Arlington,W
-Texas,Vanderbilt,W
-Texas,Texas State,W
-Texas,Michigan State,L
-Texas,Rice,W
-Texas,Texas Tech,W
-West Virginia,Texas,L
-Texas,West Virginia,W
-Texas Tech,Houston Baptist,W
-Texas Tech,Northern Arizona,W
-Alabama,Texas Tech,W
-Texas Tech,Texas Southern,W
-Texas Tech,South Dakota State,W
-Texas Tech,Pittsburgh,L
-Texas Tech,Houston,W
-Texas Tech,UTSA,W
-Arizona,Texas Tech,W
-Texas Tech,Central Arkansas,W
-Texas Tech,LSU,L
-Arizona State,Texas Tech,W
-Texas Tech,Mount St. Mary's,W
-Texas Tech,West Virginia,L
-West Virginia,Texas Tech,W
-West Virginia,Mount St. Mary's,W
-West Virginia,Georgia Southern,W
-West Virginia,Presbyterian,W
-West Virginia,Old Dominion,W
-West Virginia,Wisconsin,L
-West Virginia,Loyola ,W
-Missouri,West Virginia,W
-West Virginia,Gonzaga,L
-West Virginia,Marshall,W
-West Virginia,Purdue,L
-West Virginia,William & Mary,W
-Butler,Lamar,W
-Butler,Princeton,W
-Butler,Vanderbilt,W
-Ball State,Butler,L
-Butler,Washington State,W
-Butler,Oklahoma State,L
-Butler,LSU,L
-Butler,North Dakota,W
-Butler,Manchester,W
-Butler,Purdue,W
-Evansville,Butler,L
-Butler,N.J.I.T.,W
-Butler,Villanova,L
-Xavier,Butler,W
-Butler,DePaul,L
-Butler,Georgetown,L
-Creighton,Butler,W
-Butler,Marquette,W
-Providence,Butler,W
-Butler,St. John's,L
-Seton Hall,Butler,L
-Marquette,Butler,W
-Georgetown,Butler,W
-Butler,Xavier,L
-Butler,Creighton,L
-St. John's,Butler,W
-Butler,Providence,L
-Villanova,Butler,W
 Creighton,Alcorn State,W
 Creighton,UMKC,W
 Creighton,Tulsa,W
@@ -1533,12 +1105,14 @@ Creighton,Marquette,W
 Seton Hall,Creighton,L
 DePaul,Creighton,L
 Creighton,Xavier,W
+Creighton,Butler,W
 Providence,Creighton,W
 Villanova,Creighton,L
 Creighton,Georgetown,W
 Creighton,St. John's,W
 Creighton,DePaul,W
 St. John's,Creighton,W
+Butler,Creighton,L
 Creighton,Villanova,W
 Marquette,Creighton,L
 Creighton,Seton Hall,W
@@ -1558,6 +1132,7 @@ Illinois State,DePaul,W
 Northwestern,DePaul,L
 Georgetown,DePaul,W
 Marquette,DePaul,W
+Butler,DePaul,L
 DePaul,St. John's,W
 Villanova,DePaul,W
 DePaul,Xavier,L
@@ -1575,17 +1150,21 @@ Georgetown,Wright State,W
 Georgetown,Northeastern,L
 Georgetown,Kansas State,W
 Georgetown,Virginia Commonwealth,W
+Georgetown,Lipscomb,W
 Georgetown,High Point,W
 Georgetown,Colgate,W
 Georgetown,Elon,W
+Kansas,Georgetown,W
 Georgetown,Florida International,W
 Georgetown,St. John's,W
 Providence,Georgetown,W
+Butler,Georgetown,L
 Xavier,Georgetown,W
 Georgetown,Seton Hall,L
 Georgetown,Marquette,L
 Georgetown,Villanova,L
 Georgetown,Michigan State,W
+Georgetown,Butler,W
 Georgetown,Providence,W
 St. John's,Georgetown,W
 Seton Hall,Georgetown,W
@@ -1605,9 +1184,11 @@ Marquette,New Mexico,L
 Marquette,Samford,W
 Xavier,Marquette,W
 Marquette,Seton Hall,W
+Butler,Marquette,W
 Marquette,Villanova,L
 Marquette,Providence,W
 St. John's,Marquette,W
+Marquette,Butler,W
 Seton Hall,Marquette,L
 Marquette,Xavier,W
 Villanova,Marquette,W
@@ -1622,13 +1203,16 @@ Providence,Yale,W
 Providence,Seton Hall,L
 Villanova,Providence,W
 St. John's,Providence,L
+Providence,Butler,W
 Providence,Xavier,W
 Providence,St. John's,L
 Xavier,Providence,W
 Providence,Villanova,L
+Butler,Providence,L
 Seton Hall,Providence,L
 Seton Hall,Niagara,W
 Seton Hall,Kent State,W
+Mercer,Seton Hall,W
 Seton Hall,Monmouth,W
 Seton Hall,Oklahoma,L
 Seton Hall,Virginia Tech,W
@@ -1640,9 +1224,11 @@ Seton Hall,Eastern Washington,W
 Seton Hall,Lafayette,W
 Seton Hall,Villanova,L
 St. John's,Seton Hall,W
+Seton Hall,Butler,L
 Xavier,Seton Hall,L
 Villanova,Seton Hall,W
 Seton Hall,St. John's,L
+Seton Hall,Xavier,W
 St. John's,Wisconsin,L
 St. John's,Wagner,W
 St. John's,Bucknell,W
@@ -1656,6 +1242,8 @@ St. John's,Columbia,W
 Xavier,St. John's,W
 St. John's,Villanova,L
 St. John's,Dartmouth,W
+Butler,St. John's,L
+St. John's,Butler,W
 Villanova,St. John's,W
 St. John's,Xavier,L
 Villanova,Lafayette,W
@@ -1667,11 +1255,13 @@ Villanova,Kansas,W
 Villanova,Iowa,W
 Villanova,Pennsylvania,W
 Villanova,Rider,W
+Butler,Villanova,L
 Villanova,Xavier,W
+Villanova,Butler,W
 Xavier,Gardner-Webb,W
 Xavier,Tennessee,W
 Xavier,Morehead State,W
-Xavier,Miami ,W
+Xavier,Miami (OH),W
 Xavier,Abilene Christian,W
 Xavier,Iowa,L
 Xavier,Tennessee,L
@@ -1680,6 +1270,8 @@ Xavier,Bowling Green,W
 Xavier,Evansville,W
 Xavier,Cincinnati,W
 Alabama,Xavier,L
+Xavier,Butler,W
+Butler,Xavier,L
 E Washington,Pacific Oregon,W
 Washington,E Washington,W
 E Washington,Walla Walla University,W
@@ -1760,6 +1352,7 @@ Northern Colorado,Montana,W
 North Dakota,Montana,W
 Montana,Weber State,W
 Montana,Southern Utah,W
+Montana,Montana State,W
 Montana State,Cal State Fullerton,L
 UC Riverside,Montana State,W
 Montana State,Cal State Northridge,L
@@ -1791,6 +1384,7 @@ North Dakota,North Dakota State,W
 North Dakota,Cal Poly,L
 Oregon,North Dakota,W
 North Dakota,Pacific,L
+Butler,North Dakota,W
 Bowling Green,North Dakota,W
 North Dakota,Presentation College,W
 North Dakota,South Dakota State,L
@@ -1864,7 +1458,7 @@ N Colorado,Eastern Washington,L
 N Colorado,Portland State,L
 UNLV,Portland State,W
 Portland State,Pacific Lutheran,W
-Portland State,Loyola ,W
+Portland State,Loyola (IL),W
 Portland State,SIU-Edwardsville,W
 Portland State,UC Davis,W
 Boise State,Portland State,W
@@ -1950,9 +1544,9 @@ Campbell,St. Andrews,W
 Georgia Southern,Campbell,L
 North Carolina-Wilmington,Campbell,W
 Campbell,Chowan,L
-Loyola ,Campbell,W
+Loyola (IL),Campbell,W
 Robert Morris,Campbell,W
-Campbell,Johnson & Wales ,W
+Campbell,Johnson & Wales (NC),W
 Campbell,Georgia Southern,W
 Campbell,East Carolina,L
 Campbell,Delaware State,L
@@ -2005,7 +1599,7 @@ Akron,Coast Carolina,W
 Coast Carolina,Guilford,W
 Coast Carolina,Ole Miss,L
 Minnesota,Coast Carolina,W
-Coast Carolina,St. Francis ,W
+Coast Carolina,St. Francis (NY),W
 Coast Carolina,Louisiana-Lafayette,L
 Clemson,Coast Carolina,W
 Coast Carolina,Western Carolina,W
@@ -2032,6 +1626,7 @@ UNC Asheville,Coast Carolina,W
 Coast Carolina,Presbyterian,W
 Coast Carolina,Charleston Southern,W
 Furman,Gardner-Webb,W
+Gardner-Webb,Jacksonville,W
 Gardner-Webb,Allen,W
 Missouri,Gardner-Webb,W
 Northwestern,Gardner-Webb,W
@@ -2108,6 +1703,7 @@ Liberty,Virginia Military,L
 Liberty,Longwood,W
 Liberty,Radford,L
 South Carolina,Longwood,W
+TCU,Longwood,L
 Longwood,Mars Hill,W
 Longwood,Brown,L
 Penn State,Longwood,W
@@ -2132,6 +1728,7 @@ Longwood,Virginia Military,L
 Citadel,Presbyterian,W
 Presbyterian,Toccoa Falls,W
 Old Dominion,Presbyterian,W
+West Virginia,Presbyterian,W
 Presbyterian,Bowling Green,L
 Presbyterian,Georgia Southern,L
 UNC Greensboro,Presbyterian,L
@@ -2177,6 +1774,7 @@ UNC Asheville,Norfolk State,L
 UNC Asheville,East Carolina,L
 Charlotte,UNC Asheville,W
 UNC Asheville,Bluefield College,W
+USC Upstate,UNC Asheville,L
 UNC Asheville,VA Intermont,W
 UNC Asheville,North Carolina-Wilmington,W
 UNC Asheville,Montreat College,W
@@ -2218,6 +1816,7 @@ VMI,Radford,W
 High Point,VMI,W
 Longwood,VMI,L
 Winthrop,Roanoke,W
+Winthrop,USC Upstate,W
 Virginia Commonwealth,Winthrop,W
 East Tennessee State,Winthrop,L
 Winthrop,VA Intermont,W
@@ -2266,9 +1865,11 @@ Indiana,Samford,W
 Indiana,Washington,W
 Indiana,Connecticut,L
 Indiana,Evansville,W
+Indiana,North Florida,W
 Indiana,Oakland,W
 Indiana,Notre Dame,L
 Indiana,Nicholls State,W
+Indiana,Kennesaw State,W
 Indiana,Michigan State,L
 Penn State,Indiana,L
 Indiana,Wisconsin,W
@@ -2293,6 +1894,7 @@ Iowa,UTEP,W
 Iowa,Villanova,L
 Iowa,Drake,W
 Iowa,Fairleigh Dickinson,W
+Iowa State,Iowa,W
 Iowa,Arkansas-Pine Bluff,W
 Iowa,Nebraska,W
 Wisconsin,Iowa,W
@@ -2310,6 +1912,7 @@ Minnesota,Iowa,W
 Iowa,Purdue,W
 Michigan,Massachusetts Lowell,W
 Michigan,South Carolina State,W
+Iowa State,Michigan,W
 Michigan,Long Beach State,W
 Michigan,Florida State,W
 Michigan,Charlotte,L
@@ -2339,6 +1942,8 @@ Michigan State,Virginia Tech,W
 Michigan State,Oklahoma,W
 Michigan State,Mount St. Mary's,W
 Michigan State,Oakland,W
+Michigan State,North Florida,W
+Texas,Michigan State,L
 Michigan State,New Orleans,W
 Penn State,Michigan State,L
 Michigan State,Ohio State,W
@@ -2377,7 +1982,6 @@ Nebraska,Massachusetts,L
 Nebraska,UAB,L
 Nebraska,Georgia,W
 Nebraska,Northern Illinois,W
-Nebraska,Miami ,W
 Nebraska,Arkansas State,W
 Nebraska,Citadel,W
 Ohio State,Nebraska,W
@@ -2407,6 +2011,7 @@ Ohio State,Morgan State,W
 Ohio State,Ohio,W
 Ohio State,American University,W
 Ohio State,Wyoming,W
+Ohio State,North Florida,W
 Ohio State,Central Connecticut State,W
 Ohio State,Bryant University,W
 Ohio State,North Dakota State,W
@@ -2440,6 +2045,7 @@ Purdue,Washington State,L
 Purdue,Eastern Michigan,W
 Purdue,Butler,L
 Purdue,Maryland-Eastern Shore,W
+West Virginia,Purdue,L
 Purdue,Wisconsin,L
 Wisconsin,St. John's,W
 Wisconsin,Florida,W
@@ -2484,7 +2090,7 @@ CS Fullerton,Santa Clara,W
 USC,CS Fullerton,W
 San Jose State,CS Fullerton,W
 CS Fullerton,Marquette,L
-CS Fullerton,Miami ,L
+CS Fullerton,Miami (FL),L
 CS Fullerton,Charleston,L
 Pepperdine,CS Fullerton,L
 CS Fullerton,Seattle,L
@@ -2594,7 +2200,7 @@ Portland,UC Davis,W
 UC Davis,Holy Names,W
 Utah,UC Davis,W
 UC Davis,SIU-Edwardsville,W
-UC Davis,Loyola ,W
+UC Davis,Loyola (IL),W
 UC Davis,Sacramento State,L
 UC Davis,Idaho,L
 Seattle,UC Davis,W
@@ -2678,7 +2284,6 @@ Long Beach State,UC Santa Barbara,L
 UC Santa Barbara,Cal State Northridge,L
 UC Santa Barbara,Cal State Fullerton,W
 Charleston,Charlotte,W
-Charleston,Miami ,L
 Charleston,Furman,W
 Charleston,San Diego State,L
 Charleston,Arizona State,L
@@ -2843,6 +2448,7 @@ Northeastern,Towson,L
 William & Mary,Northeastern,W
 Towson,Navy,W
 Towson,Morgan State,W
+Kansas,Towson,W
 Towson,Citadel,W
 Towson,Abilene Christian,W
 Stephen F. Austin,Towson,W
@@ -2873,6 +2479,7 @@ Charlotte,Northeastern,W
 Charlotte,Michigan,W
 Charlotte,Davidson,L
 Appalachian State,Charlotte,L
+Charlotte,USC Upstate,W
 Charlotte,North Carolina A&T,W
 UTEP,Charlotte,L
 UTSA,Charlotte,W
@@ -2917,7 +2524,7 @@ East Carolina,Louisiana Tech,W
 East Carolina,Rice,W
 Marshall,East Carolina,W
 Florida Atl,Ave Maria,W
-Florida Atl,St. Francis ,L
+Florida Atl,St. Francis (NY),L
 Duke,Florida Atl,W
 Boston College,Florida Atl,W
 Detroit,Florida Atl,W
@@ -2989,6 +2596,7 @@ Louisiana Tech,Northwestern State,W
 Louisiana Tech,Oklahoma State,L
 Louisiana Tech,McNeese State,W
 Louisiana-Monroe,Louisiana Tech,L
+Oklahoma,Louisiana Tech,L
 Louisiana Tech,Florida Atlantic,W
 Louisiana Tech,Florida International,W
 Tulane,Louisiana Tech,L
@@ -3028,6 +2636,7 @@ Marshall,UAB,L
 Marshall,Middle Tennessee,L
 Old Dominion,Marshall,W
 Middle Tennessee,Southern University,W
+Middle Tennessee,North Florida,W
 Middle Tennessee,Akron,W
 Middle Tennessee,Arkansas-Little Rock,W
 Florida,Middle Tennessee,W
@@ -3052,6 +2661,7 @@ Middle Tennessee,Tulane,W
 Middle Tennessee,Southern Miss,W
 Middle Tennessee,Rice,W
 North Texas,Northwood University,W
+Oklahoma,North Texas,W
 North Texas,Nicholls State,W
 North Texas,Columbia,L
 North Texas,Idaho,L
@@ -3092,7 +2702,7 @@ Old Dominion,UTSA,W
 Old Dominion,UTEP,L
 Tulsa,Old Dominion,W
 Old Dominion,Rice,W
-Rice,St. Thomas ,W
+Rice,St. Thomas (TX),W
 Rice,Southeastern Louisiana,L
 Texas A&M,Rice,W
 Texas A&M-CC,Rice,L
@@ -3103,6 +2713,7 @@ Houston Baptist,Rice,W
 Rice,South Alabama,W
 Rice,Northwood University,W
 Rice,Houston,L
+Texas,Rice,W
 Rice,Harvard,L
 Rice,Florida International,L
 Rice,Florida Atlantic,L
@@ -3119,7 +2730,7 @@ Southern Miss,Houston Baptist,W
 Southern Miss,William Carey,W
 Southern Miss,Morehead State,W
 Southern Miss,Georgia State,W
-Southern Miss,St. Catherine ,W
+Southern Miss,St. Catherine (Mn),W
 Western Kentucky,Southern Miss,W
 Southern Miss,Coppin State,W
 Southern Miss,Arkansas-Little Rock,W
@@ -3132,7 +2743,7 @@ Southern Miss,Florida International,W
 Florida Atlantic,Southern Miss,L
 Tulane,N.J.I.T.,W
 Southern University,Tulane,L
-Tulane,Loyola ,W
+Tulane,Loyola (IL),W
 Tulane,Cedarville,W
 Tulane,Northern Kentucky,L
 Tulane,Colgate,L
@@ -3156,7 +2767,9 @@ Tulsa,TCU,L
 Tulsa,Green Bay,L
 Tulsa,Texas Southern,W
 Tulsa,Arkansas-Little Rock,W
+Oklahoma,Tulsa,W
 Tulsa,Grand Canyon,W
+TCU,Tulsa,W
 Tulsa,Cal State Fullerton,W
 Tulsa,UAB,L
 Florida Atlantic,Tulsa,L
@@ -3200,6 +2813,7 @@ UTSA,McMurry,L
 UTSA,Texas-Pan American,L
 UTSA,Texas A&M-CC,W
 Nicholls State,UTSA,W
+Texas Tech,UTSA,W
 UTSA,Huston-Tillotson,W
 Texas-Pan American,UTSA,L
 UTSA,Cal State Bakersfield,L
@@ -3216,7 +2830,8 @@ N.J.I.T.,Albany,L
 N.J.I.T.,Massachusetts Lowell,W
 N.J.I.T.,LIU Brooklyn,L
 N.J.I.T.,Holy Cross,L
-St. Francis ,N.J.I.T.,W
+St. Francis (NY),N.J.I.T.,W
+Butler,N.J.I.T.,W
 St. Francis U,N.J.I.T.,L
 N.J.I.T.,City College of New,W
 North Carolina Central,N.J.I.T.,W
@@ -3292,7 +2907,7 @@ Eastern Michigan,Green Bay,W
 South Dakota,Green Bay,L
 Green Bay,Tennessee Tech,W
 Green Bay,Fairfield,W
-Green Bay,St. Francis ,W
+Green Bay,St. Francis (ILL),W
 Green Bay,Youngstown State,W
 Chicago State,Green Bay,L
 Milwaukee,Green Bay,L
@@ -3314,7 +2929,7 @@ UIC,San Diego,W
 UIC,Louisiana Tech,L
 UIC,Wagner,W
 UIC,Southern Methodist,L
-Loyola ,UIC,W
+Loyola (IL),UIC,W
 Southeast Missouri State,UIC,L
 UIC,Purdue-Calumet,W
 UC Riverside,UIC,W
@@ -3336,7 +2951,7 @@ UIC,Detroit,L
 UIC,Oakland,L
 UIC,Milwaukee,W
 UIC,Wright State,L
-Loyola ,Milwaukee,W
+Loyola (IL),Milwaukee,W
 Davidson,Milwaukee,L
 Milwaukee,San Jose State,W
 Milwaukee,James Madison,W
@@ -3362,7 +2977,7 @@ UCLA,Oakland,W
 California,Oakland,W
 Gonzaga,Oakland,W
 Oakland,Louisiana-Lafayette,L
-Oakland,St. Francis ,L
+Oakland,St. Francis (NY),L
 Western Michigan,Oakland,W
 Oakland,Rochester College,W
 Oakland,Ohio,W
@@ -3383,6 +2998,7 @@ Valparaiso,Murray State,W
 Valparaiso,North Park,W
 Ohio,Valparaiso,W
 Evansville,Valparaiso,W
+Valparaiso,Mercer,L
 Valparaiso,Cincinnati Christian,W
 Ball State,Valparaiso,L
 Valparaiso,Loyola Marymount,W
@@ -3403,7 +3019,7 @@ Wright State,Western Carolina,W
 Morehead State,Wright State,W
 North Carolina A&T,Wright State,W
 Virginia Military,Wright State,W
-Miami ,Wright State,W
+Miami (OH),Wright State,W
 Wright State,Eastern Illinois,W
 Wright State,UMKC,W
 Wright State,Bowling Green,W
@@ -3417,7 +3033,7 @@ Youngstown St,Eastern Kentucky,W
 Youngstown St,Warren Wilson,W
 Massachusetts,Youngstown St,W
 Youngstown St,Thiel College,W
-Youngstown St,Westminster ,W
+Youngstown St,Westminster (PA),W
 Kent State,Youngstown St,W
 Youngstown St,Austin Peay,L
 Youngstown St,Robert Morris,W
@@ -3475,7 +3091,7 @@ Columbia,Massachusetts Lowell,W
 Columbia,Fairleigh Dickinson,W
 Columbia,St. John's,L
 Colgate,Columbia,L
-Columbia,St. Francis ,W
+Columbia,St. Francis (NY),W
 Columbia,Central Pennsylvania College,W
 Columbia,Cornell,W
 Cornell,Columbia,L
@@ -3487,7 +3103,7 @@ Columbia,Dartmouth,W
 Columbia,Yale,W
 Dartmouth,Columbia,L
 Harvard,Columbia,W
-Cornell,Loyola ,L
+Cornell,Loyola (MD),L
 Colgate,Cornell,W
 Cornell,Siena,L
 Western Michigan,Cornell,W
@@ -3541,6 +3157,7 @@ Pennsylvania,Princeton,W
 Yale,Pennsylvania,W
 Pennsylvania,Yale,L
 Princeton,Florida A&M,W
+Butler,Princeton,W
 Princeton,Lafayette,W
 Bucknell,Princeton,L
 Princeton,Fairleigh Dickinson,W
@@ -3552,6 +3169,7 @@ Yale,Princeton,W
 Princeton,Yale,W
 Yale,Central Connecticut State,W
 Yale,Sacred Heart,W
+Mercer,Yale,W
 Lafayette,Yale,L
 Yale,Bryant University,L
 Albany,Yale,W
@@ -3563,7 +3181,7 @@ Canisius,Metro State,L
 Canisius,St. Peter's,W
 Canisius,Siena,W
 Buffalo,Canisius,L
-St. Francis ,Canisius,W
+St. Francis (NY),Canisius,W
 Holy Cross,Canisius,L
 Canisius,Lamar,W
 St. Peter's,Canisius,L
@@ -3585,7 +3203,7 @@ Canisius,Fairfield,W
 Rider,Canisius,L
 Manhattan,Canisius,W
 Fairfield,Sacred Heart,W
-Loyola ,Fairfield,W
+Loyola (MD),Fairfield,W
 Fairfield,Holy Cross,L
 Fairfield,Louisville,L
 Fairfield,Richmond,L
@@ -3610,6 +3228,7 @@ Niagara,Fairfield,L
 St. Peter's,Fairfield,W
 Fairfield,Marist,W
 Iona,Wofford,W
+Kansas,Iona,W
 Florida Gulf Coast,Iona,L
 Iona,Marist,W
 Nevada,Iona,W
@@ -3668,7 +3287,7 @@ Marist,Quinnipiac,W
 Monmouth,Mississippi Valley State,W
 Monmouth,North Carolina A&T,W
 Monmouth,Rider,L
-St. Francis ,Monmouth,L
+St. Francis (NY),Monmouth,L
 Monmouth,Wagner,L
 Monmouth,Siena,W
 Monmouth,Quinnipiac,L
@@ -3738,7 +3357,7 @@ South Carolina,Akron,W
 Akron,Coppin State,W
 Ball State,Akron,L
 Ohio,Akron,L
-Akron,Miami ,W
+Akron,Miami (OH),W
 Akron,Toledo,L
 Eastern Michigan,Akron,L
 Central Michigan,Akron,L
@@ -3750,17 +3369,18 @@ Western Michigan,Akron,W
 Akron,Northern Illinois,W
 Buffalo,Akron,W
 Akron,Ohio,L
-Miami ,Akron,W
+Miami (OH),Akron,W
 Akron,Bowling Green,W
 Indiana State,Ball State,W
 Ball State,Taylor University,W
 Ball State,Southeast Missouri State,W
+Ball State,Butler,L
 Utah,Ball State,W
 Southern Illinois,Ball State,W
 Ball State,Oakland City,W
 Kent State,Ball State,W
 Ohio,Ball State,W
-Ball State,Miami ,L
+Ball State,Miami (OH),L
 Ball State,Buffalo,W
 Western Michigan,Ball State,W
 Ball State,Northern Illinois,L
@@ -3783,13 +3403,13 @@ Bowling Green,Northern Illinois,L
 Bowling Green,Central Michigan,W
 Western Michigan,Bowling Green,L
 Ohio,Bowling Green,L
-Bowling Green,Miami ,L
+Bowling Green,Miami (OH),L
 Eastern Michigan,Bowling Green,W
 Bowling Green,Buffalo,W
 Toledo,Bowling Green,W
 Kent State,Bowling Green,W
 Bowling Green,Toledo,L
-Miami ,Bowling Green,W
+Miami (OH),Bowling Green,W
 Bowling Green,Kent State,W
 Texas A&M,Buffalo,W
 Buffalo,West Virginia Wesleyan,W
@@ -3803,11 +3423,11 @@ Buffalo,Kent State,W
 Northern Illinois,Buffalo,L
 Buffalo,Western Michigan,W
 Central Michigan,Buffalo,L
-Miami ,Buffalo,L
+Miami (OH),Buffalo,L
 Buffalo,Ohio,L
 Kent State,Buffalo,L
 Ohio,Buffalo,L
-Buffalo,Miami ,W
+Buffalo,Miami (OH),W
 Cent Michigan,Manchester,W
 Bradley,Cent Michigan,W
 Cent Michigan,Pepperdine,L
@@ -3820,11 +3440,11 @@ SIU-Edwardsville,Cent Michigan,L
 Dayton,Cent Michigan,W
 Jacksonville State,Cent Michigan,W
 Cent Michigan,Marygrove College,W
-Cent Michigan,Miami ,L
+Cent Michigan,Miami (OH),L
 Toledo,Cent Michigan,W
 Bowling Green,Cent Michigan,W
 Cent Michigan,Eastern Michigan,L
-Miami ,Cent Michigan,W
+Miami (OH),Cent Michigan,W
 Cent Michigan,Akron,L
 Ohio,Cent Michigan,W
 Western Michigan,Cent Michigan,W
@@ -3837,7 +3457,7 @@ Cent Michigan,Northern Illinois,W
 Eastern Michigan,Cent Michigan,W
 Ball State,Cent Michigan,W
 E Michigan,Albion,W
-E Michigan,Concordia ,W
+E Michigan,Concordia (MI),W
 E Michigan,Robert Morris,W
 E Michigan,Cleveland State,W
 E Michigan,Texas-Arlington,W
@@ -3856,7 +3476,7 @@ Central Michigan,E Michigan,L
 E Michigan,Akron,L
 E Michigan,Ohio,L
 E Michigan,Bowling Green,W
-Miami ,E Michigan,W
+Miami (OH),E Michigan,W
 Akron,E Michigan,W
 E Michigan,Kent State,W
 Ball State,E Michigan,L
@@ -3867,7 +3487,9 @@ E Michigan,Central Michigan,W
 E Michigan,Northern Illinois,W
 Kent State,Ohio Northern,W
 Kent State,Western Carolina,W
+Kent State,USC Upstate,W
 Kent State,Youngstown State,W
+Kent State,Kennesaw State,W
 Kent State,Bucknell,L
 Kent State,Ohio,L
 Northern Illinois,Kent State,L
@@ -3877,44 +3499,32 @@ Kent State,Northern Illinois,L
 Central Michigan,Kent State,W
 Eastern Michigan,Kent State,W
 Kent State,Central Michigan,W
-Miami ,Kent State,L
+Miami (OH),Kent State,L
 Ohio,Kent State,L
-Notre Dame,Miami (OH),W
 Arizona State,Miami (OH),W
-Xavier,Miami (OH),W
 Miami (OH),Wilmington OH,L
 Miami (OH),IPFW,W
 Evansville,Miami (OH),W
-Miami (OH),Wright State,W
 UMKC,Miami (OH),W
 Tennessee State,Miami (OH),L
 Miami (OH),Southern Illinois,W
-Massachusetts,Miami (OH),W
 Central Michigan,Miami (OH),L
 Miami (OH),Western Michigan,L
-Akron,Miami (OH),W
-Ball State,Miami (OH),L
 Miami (OH),Central Michigan,W
-Bowling Green,Miami (OH),L
 Miami (OH),Toledo,L
 Miami (OH),Eastern Michigan,W
 Northern Illinois,Miami (OH),W
 Ohio,Miami (OH),W
-Miami (OH),Buffalo,L
 Western Michigan,Miami (OH),W
-Miami (OH),Kent State,L
-Miami (OH),Bowling Green,W
-Miami (OH),Akron,W
-Buffalo,Miami (OH),W
 N Illinois,Nebraska-Omaha,L
 N Illinois,James Madison,L
 N Illinois,San Jose State,W
 N Illinois,Milwaukee,L
-N Illinois,St. Josephs ,W
+N Illinois,St. Josephs (IND),W
 Nebraska,N Illinois,W
 N Illinois,Dartmouth,W
 Massachusetts,N Illinois,W
-Loyola ,N Illinois,L
+Loyola (IL),N Illinois,L
 UC Riverside,N Illinois,L
 Iowa State,N Illinois,W
 N Illinois,Bethune-Cookman,W
@@ -3926,7 +3536,7 @@ Toledo,N Illinois,W
 N Illinois,Buffalo,L
 Kent State,N Illinois,L
 Ball State,N Illinois,L
-N Illinois,Miami ,W
+N Illinois,Miami (OH),W
 N Illinois,Western Michigan,L
 N Illinois,Central Michigan,W
 Akron,N Illinois,W
@@ -3937,6 +3547,7 @@ Eastern Michigan,N Illinois,W
 Ohio,Northern Iowa,W
 Morgan State,Ohio,L
 Ohio,Heidelberg,W
+Ohio,Mercer,W
 Ohio,Evansville,W
 Ohio,Alabama A&M,W
 Northern Illinois,Ohio,L
@@ -3944,7 +3555,6 @@ Eastern Michigan,Ohio,L
 Ohio,Central Michigan,W
 Ohio,Toledo,W
 Western Michigan,Ohio,W
-Ohio,Miami ,W
 Toledo,Ohio,W
 Ohio,Western Michigan,L
 Toledo,Northwest Ohio,W
@@ -3955,10 +3565,10 @@ Robert Morris,Toledo,L
 Toledo,Sam Houston State,W
 Arkansas State,Toledo,L
 Toledo,Coppin State,W
+Kansas,Toledo,W
 Western Michigan,Toledo,W
 Toledo,Central Michigan,W
 Toledo,Northern Illinois,W
-Miami ,Toledo,L
 Eastern Michigan,Toledo,W
 Northern Illinois,Toledo,W
 Toledo,Western Michigan,W
@@ -3970,22 +3580,22 @@ Missouri,Western Michigan,W
 Drake,Western Michigan,W
 Western Michigan,Prairie View A&M,W
 Western Michigan,Siena Heights,W
-Miami ,Western Michigan,L
 Eastern Michigan,Western Michigan,W
 Western Michigan,Central Michigan,W
 Northern Illinois,Western Michigan,L
-Western Michigan,Miami ,W
 Western Michigan,Eastern Michigan,W
 Bethune-Cookman,Trinity Baptist,W
-Bethune-Cookman,Trinity ,W
+Bethune-Cookman,Trinity (FL),W
 Bethune-Cookman,Florida International,L
 New Mexico State,Bethune-Cookman,W
 Colorado State,Bethune-Cookman,W
 Bethune-Cookman,Prairie View A&M,L
 Northern Colorado,Bethune-Cookman,W
+Stetson,Bethune-Cookman,W
 Norfolk State,Bethune-Cookman,W
 Hampton,Bethune-Cookman,W
 Youngstown State,Bethune-Cookman,W
+North Florida,Bethune-Cookman,W
 Northern Illinois,Bethune-Cookman,W
 Bethune-Cookman,North Carolina A&T,L
 Bethune-Cookman,North Carolina Central,L
@@ -4022,11 +3632,13 @@ Florida A&M,Coppin State,W
 Morgan State,Coppin State,W
 Coppin State,Norfolk State,L
 Coppin State,Maryland-Eastern Shore,L
+Coppin State,Howard,W
 Delaware State,Cairn University,W
 George Washington,Delaware State,W
 Delaware State,Baptist Bible Colleg,W
 Delaware State,Howard,L
-Delaware State,St. Francis ,L
+Oklahoma State,Delaware State,W
+Delaware State,St. Francis (NY),L
 Delaware State,Hampton,L
 Delaware State,Norfolk State,L
 North Carolina Central,Delaware State,W
@@ -4037,34 +3649,35 @@ Delaware State,Savannah State,W
 Florida A&M,Delaware State,W
 Delaware State,Maryland-Eastern Shore,W
 Delaware State,Morgan State,W
-Rutgers,Florida A&M;,W
-Princeton,Florida A&M;,W
-Florida A&M;,Stetson,W
-Toledo,Florida A&M;,W
-Jacksonville,Florida A&M;,W
-UAB,Florida A&M;,W
-Florida A&M;,Florida Memorial,W
-Norfolk State,Florida A&M;,W
-Hampton,Florida A&M;,W
-Mississippi State,Florida A&M;,W
-South Florida,Florida A&M;,W
-Florida A&M;,Florida Gulf Coast,L
-Florida A&M;,Sacred Heart,W
-Florida A&M;,Florida International,W
-Auburn,Florida A&M;,W
-Florida A&M;,North Carolina Central,W
-Florida A&M;,North Carolina A&T,W
-South Carolina State,Florida A&M;,L
-Savannah State,Florida A&M;,W
-Florida A&M;,Howard,L
-Florida A&M;,South Carolina State,L
-Florida A&M;,Savannah State,W
-North Carolina A&T,Florida A&M;,W
-North Carolina Central,Florida A&M;,W
-Florida A&M;,Coppin State,W
-Florida A&M;,Delaware State,W
-Bethune-Cookman,Florida A&M;,L
-Florida A&M;,Edward Waters,W
+Rutgers,Florida A&M,W
+Princeton,Florida A&M,W
+Florida A&M,Stetson,W
+Toledo,Florida A&M,W
+Jacksonville,Florida A&M,W
+UAB,Florida A&M,W
+Florida A&M,Florida Memorial,W
+Norfolk State,Florida A&M,W
+Hampton,Florida A&M,W
+Mississippi State,Florida A&M,W
+South Florida,Florida A&M,W
+Florida A&M,Florida Gulf Coast,L
+Florida A&M,Sacred Heart,W
+Florida A&M,Florida International,W
+Auburn,Florida A&M,W
+Florida A&M,North Carolina Central,W
+Florida A&M,North Carolina A&T,W
+South Carolina State,Florida A&M,L
+Savannah State,Florida A&M,W
+Florida A&M,Howard,L
+Florida A&M,South Carolina State,L
+Florida A&M,Savannah State,W
+North Carolina A&T,Florida A&M,W
+North Carolina Central,Florida A&M,W
+Florida A&M,Coppin State,W
+Florida A&M,Delaware State,W
+Bethune-Cookman,Florida A&M,L
+Florida A&M,Edward Waters,W
+Morgan State,Florida A&M,L
 Missouri State,Hampton,W
 Hampton,Liberty,L
 Hampton,Arkansas-Pine Bluff,W
@@ -4111,6 +3724,7 @@ Maryland-Eastern Shore,Norfolk State,L
 Maryland-Eastern Shore,North Carolina A&T,W
 Maryland-Eastern Shore,North Carolina Central,L
 Maryland-Eastern Shore,Morgan State,L
+Norfolk State,Maryland-Eastern Shore,W
 Morgan State,San Diego,L
 Morgan State,La Salle,L
 Morgan State,Vanderbilt,L
@@ -4122,6 +3736,7 @@ Norfolk State,Morgan State,L
 North Carolina A&T,Morgan State,W
 North Carolina Central,Morgan State,W
 Morgan State,Norfolk State,L
+Morgan State,Florida A&M,L
 Texas Southern,Norfolk State,W
 Norfolk State,Newberry,W
 Norfolk State,Virginia Union,W
@@ -4136,38 +3751,38 @@ Norfolk State,Seattle,L
 Norfolk State,Mount St. Mary's,L
 South Carolina State,Norfolk State,W
 Savannah State,Norfolk State,L
-Miami ,Norfolk State,W
-North Carolina A&T;,Greensboro,W
-Utah Valley,North Carolina A&T;,W
-Rhode Island,North Carolina A&T;,W
-Georgia Tech,North Carolina A&T;,W
-Ole Miss,North Carolina A&T;,W
-North Carolina A&T;,Longwood,W
-Monmouth,North Carolina A&T;,W
-North Carolina A&T;,Wright State,W
-Radford,North Carolina A&T;,W
-East Carolina,North Carolina A&T;,W
-Eastern Kentucky,North Carolina A&T;,W
-Saint Louis,North Carolina A&T;,W
-North Carolina A&T;,Georgia Southern,L
-Charlotte,North Carolina A&T;,W
-Bethune-Cookman,North Carolina A&T;,L
-Florida A&M,North Carolina A&T;,W
-North Carolina A&T;,N.J.I.T.,W
-North Carolina A&T;,Delaware State,W
-North Carolina Central,North Carolina A&T;,W
-North Carolina A&T;,Morgan State,W
-North Carolina A&T;,Coppin State,L
-Maryland-Eastern Shore,North Carolina A&T;,W
-Howard,North Carolina A&T;,W
-North Carolina A&T;,Florida A&M,W
-North Carolina A&T;,Bethune-Cookman,L
-Savannah State,North Carolina A&T;,W
-South Carolina State,North Carolina A&T;,W
-North Carolina A&T;,North Carolina Central,L
-North Carolina A&T;,Savannah State,L
+North Carolina A&T,Greensboro,W
+Utah Valley,North Carolina A&T,W
+Rhode Island,North Carolina A&T,W
+Georgia Tech,North Carolina A&T,W
+Ole Miss,North Carolina A&T,W
+North Carolina A&T,Longwood,W
+Monmouth,North Carolina A&T,W
+North Carolina A&T,Wright State,W
+Radford,North Carolina A&T,W
+East Carolina,North Carolina A&T,W
+Eastern Kentucky,North Carolina A&T,W
+Saint Louis,North Carolina A&T,W
+North Carolina A&T,Georgia Southern,L
+Charlotte,North Carolina A&T,W
+Bethune-Cookman,North Carolina A&T,L
+Florida A&M,North Carolina A&T,W
+North Carolina A&T,N.J.I.T.,W
+North Carolina A&T,Delaware State,W
+North Carolina Central,North Carolina A&T,W
+North Carolina A&T,Morgan State,W
+North Carolina A&T,Coppin State,L
+Maryland-Eastern Shore,North Carolina A&T,W
+Howard,North Carolina A&T,W
+North Carolina A&T,Florida A&M,W
+North Carolina A&T,Bethune-Cookman,L
+Savannah State,North Carolina A&T,W
+South Carolina State,North Carolina A&T,W
+North Carolina A&T,North Carolina Central,L
+North Carolina A&T,Savannah State,L
+North Carolina A&T,South Carolina State,W
 Cincinnati,North Carolina Cent,W
-North Carolina Cent,Johnson & Wales ,W
+North Carolina Cent,Johnson & Wales (NC),W
 Campbell,North Carolina Cent,L
 North Carolina State,North Carolina Cent,L
 North Carolina Cent,Appalachian State,W
@@ -4194,22 +3809,26 @@ Savannah State,North Carolina Cent,L
 North Carolina A&T,North Carolina Cent,L
 N.J.I.T.,North Carolina Cent,L
 North Carolina Cent,South Carolina State,W
+North Carolina Cent,Savannah State,W
 Robert Morris,Savannah State,W
 Savannah State,TENN Temple,W
 Savannah State,Flanatl,W
+North Florida,Savannah State,W
 Savannah State,Lamar,L
 Savannah State,Grand Canyon,L
 Utah,Savannah State,W
+Savannah State,North Florida,L
 Northern Iowa,Savannah State,W
 Arkansas,Savannah State,W
-Savannah State,Miami ,L
 Florida,Savannah State,W
+Baylor,Savannah State,W
 Savannah State,Florida A&M,W
 Florida A&M,Savannah State,W
 Savannah State,North Carolina A&T,W
 Savannah State,North Carolina Central,L
 South Carolina State,Savannah State,L
 North Carolina A&T,Savannah State,L
+North Carolina Central,Savannah State,W
 Marshall,Southern Carolina St,W
 Southern Carolina St,St. Andrews,W
 Michigan,Southern Carolina St,W
@@ -4237,6 +3856,84 @@ Southern Carolina St,North Carolina Central,L
 Southern Carolina St,North Carolina A&T,W
 Southern Carolina St,Savannah State,L
 North Carolina Central,Southern Carolina St,W
+North Carolina A&T,Southern Carolina St,W
+Bradley,Jacksonville State,W
+Bradley,Alabama State,W
+Bradley,Central Michigan,W
+Bradley,Chicago State,W
+Arizona State,Bradley,W
+Bradley,Texas-Pan American,W
+Bradley,IUPUI,L
+Bradley,IPFW,L
+Bradley,Portland,L
+Bradley,Pacific,L
+Northern Iowa,Bradley,W
+Bradley,Drake,W
+Bradley,Missouri State,L
+Indiana State,Bradley,W
+Wichita State,Bradley,W
+Bradley,Southern Illinois,W
+Bradley,Northern Iowa,W
+Evansville,Bradley,W
+Bradley,Illinois State,W
+Missouri State,Bradley,W
+Loyola (IL),Bradley,L
+Bradley,Evansville,W
+Bradley,Indiana State,L
+Illinois State,Bradley,W
+Southern Illinois,Bradley,W
+Bradley,Loyola (IL),W
+Bradley,Wichita State,L
+Drake,Bradley,W
+Illinois-Chicago,Drake,L
+Drake,Iowa Wesleyan,W
+Saint Mary's,Drake,W
+Drake,Nebraska-Omaha,W
+Fresno State,Drake,L
+Drake,Northern Arizona,W
+Drake,Cal State Bakersfield,W
+Drake,Iowa,L
+Drake,New Mexico State,L
+Drake,Albany,W
+IUPUI,Drake,L
+Drake,Evansville,W
+Drake,Indiana State,L
+Northern Iowa,Drake,W
+Loyola (IL),Drake,W
+Drake,Illinois State,L
+Southern Illinois,Drake,L
+Drake,Wichita State,L
+Drake,Missouri State,W
+Illinois State,Drake,W
+Drake,Southern Illinois,L
+Indiana State,Drake,W
+Missouri State,Drake,W
+Drake,Loyola (IL),W
+Drake,Northern Iowa,W
+Wichita State,Drake,W
+Evansville,Drake,W
+Evansville,Martin Methodist,W
+IUPUI,Evansville,L
+Evansville,Mercer,W
+Evansville,Anderson IND,W
+Murray State,Evansville,W
+Evansville,Jackson State,L
+Evansville,Butler,L
+Evansville,Grambling State,W
+Evansville,Indiana State,L
+Evansville,Northern Iowa,L
+Southern Illinois,Evansville,L
+Illinois State,Evansville,W
+Evansville,Loyola (IL),W
+Missouri State,Evansville,W
+Northern Iowa,Evansville,W
+Wichita State,Evansville,W
+Evansville,Missouri State,L
+Evansville,Illinois State,W
+Evansville,Wichita State,L
+Indiana State,Evansville,W
+Evansville,Southern Illinois,L
+Loyola (IL),Evansville,L
 Virginia Commonwealth,Illinois State,W
 Illinois State,Vermont,L
 Illinois State,Sonoma State,W
@@ -4246,17 +3943,11 @@ Illinois State,Tennessee State,W
 Missouri State,Illinois State,W
 Illinois State,Southern Illinois,W
 Wichita State,Illinois State,W
-Illinois State,Loyola ,W
-Illinois State,Evansville,W
-Drake,Illinois State,L
+Illinois State,Loyola (IL),W
 Illinois State,Wichita State,L
 Indiana State,Illinois State,W
-Bradley,Illinois State,W
-Illinois State,Drake,W
 Illinois State,Northern Iowa,W
-Loyola ,Illinois State,W
-Evansville,Illinois State,W
-Illinois State,Bradley,W
+Loyola (IL),Illinois State,W
 Illinois State,Missouri State,W
 Northern Iowa,Illinois State,W
 Illinois State,Indiana State,W
@@ -4270,52 +3961,31 @@ Eastern Illinois,Indiana State,L
 UMKC,Indiana State,L
 Indiana State,IUPUI,W
 Indiana State,Belmont,W
-Indiana State,Loyola ,W
-Evansville,Indiana State,L
-Drake,Indiana State,L
-Indiana State,Bradley,W
+Indiana State,Loyola (IL),W
 Indiana State,Missouri State,W
 Wichita State,Indiana State,W
-Loyola ,Indiana State,L
+Loyola (IL),Indiana State,L
 Southern Illinois,Indiana State,W
 Northern Iowa,Indiana State,L
 Indiana State,Wichita State,L
-Indiana State,Drake,W
-Bradley,Indiana State,L
 Indiana State,Southern Illinois,W
-Indiana State,Evansville,W
 Missouri State,Indiana State,W
 Indiana State,Northern Iowa,L
-Loyola (IL),Milwaukee,W
 Tennessee Tech,Loyola (IL),W
-Tulane,Loyola (IL),W
 Loyola (IL),Rockhurst,W
-Portland State,Loyola (IL),W
 Loyola (IL),UC Davis,L
 Loyola (IL),SIU-Edwardsville,W
 Mississippi State,Loyola (IL),W
 Loyola (IL),Illinois-Chicago,W
-Loyola (IL),Campbell,W
 Loyola (IL),Northern Illinois,L
-Fordham,Loyola (IL),W
-Indiana State,Loyola (IL),W
 Loyola (IL),Missouri State,W
 Loyola (IL),Southern Illinois,L
-Illinois State,Loyola (IL),W
-Loyola (IL),Drake,W
-Evansville,Loyola (IL),W
-Loyola (IL),Indiana State,L
 Loyola (IL),Northern Iowa,W
 Wichita State,Loyola (IL),W
 Southern Illinois,Loyola (IL),W
-Loyola (IL),Bradley,L
-Loyola (IL),Illinois State,W
 Northern Iowa,Loyola (IL),W
-Drake,Loyola (IL),W
 Loyola (IL),Wichita State,L
-Bradley,Loyola (IL),W
 Missouri State,Loyola (IL),W
-Loyola (IL),Evansville,L
 Missouri State,Grambling State,W
 Missouri State,Texas A&M,W
 Missouri State,Virginia,L
@@ -4323,19 +3993,11 @@ Missouri State,Cameron,W
 Oral Roberts,Missouri State,L
 Missouri State,Alabama A&M,W
 Missouri State,Southeast Missouri State,W
-Loyola ,Missouri State,W
-Bradley,Missouri State,L
 Missouri State,Wichita State,L
 Northern Iowa,Missouri State,W
-Missouri State,Evansville,W
 Missouri State,Southern Illinois,W
-Drake,Missouri State,W
-Missouri State,Bradley,W
-Evansville,Missouri State,L
 Southern Illinois,Missouri State,W
-Missouri State,Drake,W
 Missouri State,Northern Iowa,L
-Missouri State,Loyola ,W
 Wichita State,Missouri State,W
 Northern Iowa,Coe College,W
 Northern Iowa,Loyola Marymount,W
@@ -4343,17 +4005,9 @@ Northern Iowa,Maryland,L
 Northern Iowa,La Salle,W
 Northern Iowa,Iowa State,L
 Northern Iowa,Virginia Commonwealth,W
-Northern Iowa,Bradley,W
 Wichita State,Northern Iowa,W
-Evansville,Northern Iowa,L
-Northern Iowa,Drake,W
 Southern Illinois,Northern Iowa,W
-Bradley,Northern Iowa,W
-Loyola ,Northern Iowa,W
-Northern Iowa,Evansville,W
 Northern Iowa,Wichita State,L
-Northern Iowa,Loyola ,W
-Drake,Northern Iowa,W
 Northern Iowa,Southern Illinois,W
 Missouri,S Illinois,W
 S Illinois,Saint Louis,L
@@ -4367,17 +4021,17 @@ S Illinois,Western Kentucky,L
 Murray State,S Illinois,W
 S Illinois,Ball State,W
 S Illinois,SIU-Edwardsville,W
-Miami ,S Illinois,W
+Miami (OH),S Illinois,W
 S Illinois,Wichita State,L
 Illinois State,S Illinois,W
-Loyola ,S Illinois,L
+Loyola (IL),S Illinois,L
 S Illinois,Evansville,L
 S Illinois,Northern Iowa,W
 Bradley,S Illinois,W
 S Illinois,Drake,L
 Missouri State,S Illinois,W
 S Illinois,Indiana State,W
-S Illinois,Loyola ,W
+S Illinois,Loyola (IL),W
 Drake,S Illinois,L
 S Illinois,Missouri State,W
 Wichita State,S Illinois,W
@@ -4397,15 +4051,7 @@ Alabama,Wichita State,L
 Wichita State,North Carolina Central,W
 Wichita State,Davidson,W
 Southern Illinois,Wichita State,L
-Wichita State,Bradley,W
-Drake,Wichita State,L
-Wichita State,Loyola ,W
-Wichita State,Evansville,W
 Wichita State,Southern Illinois,W
-Evansville,Wichita State,L
-Loyola ,Wichita State,L
-Wichita State,Drake,W
-Bradley,Wichita State,L
 Air Force,Army,W
 Virginia Military,Air Force,W
 Air Force,Jackson State,L
@@ -4482,7 +4128,6 @@ UNLV,Colorado State,W
 Fresno State,Cal State Northridge,W
 Pacific,Fresno State,W
 Fresno State,San Diego Christian,W
-Fresno State,Drake,L
 Fresno State,Cal State Bakersfield,W
 Fresno State,Northern Arizona,W
 Utah,Fresno State,W
@@ -4549,6 +4194,7 @@ San Diego,San Diego State,L
 San Diego State,Washington,W
 San Diego State,McNeese State,W
 San Diego State,St. Katherine,W
+Kansas,San Diego State,L
 San Diego State,UNLV,W
 San Jose State,San Diego State,L
 Utah State,San Diego State,L
@@ -4620,7 +4266,7 @@ Bryant,Robert Morris,L
 Bryant,Sacred Heart,W
 Fairleigh Dickinson,Bryant,L
 Bryant,LIU Brooklyn,W
-Bryant,St. Francis ,W
+Bryant,St. Francis (NY),W
 Robert Morris,Bryant,W
 Sacred Heart,Bryant,L
 Central Connecticut State,Bryant,L
@@ -4629,7 +4275,7 @@ Wagner,Bryant,W
 Bryant,Fairleigh Dickinson,L
 Bryant,Central Connecticut State,W
 Mount St. Mary's,Bryant,W
-St. Francis ,Bryant,W
+St. Francis (NY),Bryant,W
 LIU Brooklyn,Bryant,L
 Cent Conn St,Yale,L
 Purdue,Cent Conn St,W
@@ -4646,7 +4292,7 @@ Cent Conn St,Albertus Magnus,W
 Coastal Carolina,Cent Conn St,W
 Cent Conn St,Wagner,L
 Cent Conn St,St. Francis U,L
-Cent Conn St,St. Francis ,L
+Cent Conn St,St. Francis (NY),L
 Cent Conn St,LIU Brooklyn,L
 Wagner,Cent Conn St,L
 Fairleigh Dickinson,Cent Conn St,W
@@ -4655,7 +4301,7 @@ Robert Morris,Cent Conn St,L
 Cent Conn St,Bryant University,L
 Cent Conn St,Fairleigh Dickinson,W
 Cent Conn St,Sacred Heart,W
-St. Francis ,Cent Conn St,L
+St. Francis (NY),Cent Conn St,L
 Cent Conn St,Mount St. Mary's,L
 Bryant University,Cent Conn St,W
 LIU Brooklyn,Cent Conn St,L
@@ -4678,7 +4324,7 @@ Fair Dickinson,Mount St. Mary's,W
 Sacred Heart,Fair Dickinson,W
 LIU Brooklyn,Fair Dickinson,L
 Fair Dickinson,Bryant University,L
-Fair Dickinson,St. Francis ,W
+Fair Dickinson,St. Francis (NY),W
 Fair Dickinson,Central Connecticut State,W
 Mount St. Mary's,Fair Dickinson,W
 St. Francis U,Fair Dickinson,W
@@ -4689,7 +4335,7 @@ Bryant University,Fair Dickinson,L
 Fair Dickinson,Sacred Heart,W
 Fair Dickinson,Wagner,L
 Fair Dickinson,Robert Morris,L
-St. Francis ,Fair Dickinson,W
+St. Francis (NY),Fair Dickinson,W
 LIU Brooklyn,Eastern Washington,L
 LIU Brooklyn,Boston University,L
 Lehigh,LIU Brooklyn,W
@@ -4697,7 +4343,7 @@ LIU Brooklyn,Lamar,W
 LIU Brooklyn,Temple,L
 Sam Houston State,LIU Brooklyn,W
 Texas State,LIU Brooklyn,L
-St. Francis ,LIU Brooklyn,W
+St. Francis (NY),LIU Brooklyn,W
 Wagner,LIU Brooklyn,W
 LIU Brooklyn,Fairleigh Dickinson,L
 Central Connecticut State,LIU Brooklyn,L
@@ -4707,7 +4353,7 @@ LIU Brooklyn,Wagner,L
 Mount St. Mary's,LIU Brooklyn,W
 LIU Brooklyn,Robert Morris,L
 LIU Brooklyn,St. Francis U,L
-LIU Brooklyn,St. Francis ,W
+LIU Brooklyn,St. Francis (NY),W
 Robert Morris,LIU Brooklyn,W
 St. Francis U,LIU Brooklyn,W
 Sacred Heart,LIU Brooklyn,L
@@ -4722,12 +4368,12 @@ Mount St Mary's,American University,W
 Mount St Mary's,Bucknell,W
 Michigan State,Mount St Mary's,W
 Mount St Mary's,Binghamton,L
-Mount St Mary's,Loyola ,W
+Mount St Mary's,Loyola (MD),W
 Penn State,Mount St Mary's,W
 Texas Tech,Mount St Mary's,W
 Norfolk State,Mount St Mary's,L
 Fairleigh Dickinson,Mount St Mary's,W
-Mount St Mary's,St. Francis ,W
+Mount St Mary's,St. Francis (NY),W
 Mount St Mary's,Wagner,W
 Mount St Mary's,Robert Morris,L
 St. Francis U,Mount St Mary's,L
@@ -4747,6 +4393,7 @@ Eastern Michigan,Robert Morris,W
 Kentucky,Robert Morris,W
 Robert Morris,Texas-Arlington,W
 Youngstown State,Robert Morris,W
+Oklahoma State,Robert Morris,W
 Alabama,Robert Morris,W
 Sacred Heart,Robert Morris,L
 Bryant University,Robert Morris,L
@@ -4756,10 +4403,10 @@ Robert Morris,Sacred Heart,W
 Robert Morris,Wagner,W
 Robert Morris,Bryant University,W
 Robert Morris,Central Connecticut State,L
-St. Francis ,Robert Morris,L
+St. Francis (NY),Robert Morris,L
 St. Francis U,Robert Morris,L
 Robert Morris,Mount St. Mary's,W
-Robert Morris,St. Francis ,W
+Robert Morris,St. Francis (NY),W
 Fairleigh Dickinson,Robert Morris,L
 Wagner,Robert Morris,W
 Holy Cross,Sacred Heart,W
@@ -4770,9 +4417,9 @@ Sacred Heart,Radford,L
 Sacred Heart,Florida A&M,L
 Sacred Heart,Fairleigh Dickinson,W
 Bryant University,Sacred Heart,W
-St. Francis ,Sacred Heart,W
+St. Francis (NY),Sacred Heart,W
 St. Francis U,Sacred Heart,W
-Sacred Heart,St. Francis ,L
+Sacred Heart,St. Francis (NY),L
 Sacred Heart,Bryant University,L
 Sacred Heart,Mount St. Mary's,L
 Sacred Heart,Wagner,L
@@ -4781,7 +4428,7 @@ Wagner,Sacred Heart,W
 Fairleigh Dickinson,Sacred Heart,W
 Mount St. Mary's,Sacred Heart,L
 Sacred Heart,Central Connecticut State,L
-Miami ,St Francis (NY),L
+Miami (FL),St Francis (NY),L
 Florida Atlantic,St Francis (NY),L
 Dayton,St Francis (NY),W
 Syracuse,St Francis (NY),W
@@ -4833,11 +4480,11 @@ St Francis (PA),Mount St. Mary's,L
 St Francis (PA),Sacred Heart,W
 St Francis (PA),Central Connecticut State,W
 St Francis (PA),Fairleigh Dickinson,W
-St. Francis ,St Francis (PA),W
+St. Francis (NY),St Francis (PA),W
 LIU Brooklyn,St Francis (PA),L
 St Francis (PA),Robert Morris,L
 Fairleigh Dickinson,St Francis (PA),L
-St Francis (PA),St. Francis ,L
+St Francis (PA),St. Francis (NY),L
 St Francis (PA),LIU Brooklyn,W
 Wagner,St Francis (PA),W
 Mount St. Mary's,St Francis (PA),W
@@ -4850,7 +4497,7 @@ Central Connecticut State,Wagner,L
 Mount St. Mary's,Wagner,W
 St. Francis U,Wagner,L
 Wagner,Central Connecticut State,L
-St. Francis ,Wagner,W
+St. Francis (NY),Wagner,W
 Wagner,Fairleigh Dickinson,W
 Wagner,Bryant University,W
 Wagner,Mount St. Mary's,W
@@ -4865,6 +4512,7 @@ Youngstown State,Austin Peay,L
 Austin Peay,East Tennessee State,L
 Samford,Austin Peay,W
 Vanderbilt,Austin Peay,W
+Austin Peay,Lipscomb,L
 East Tennessee State,Austin Peay,W
 Austin Peay,Dalton State,W
 Austin Peay,Tennessee-Martin,W
@@ -4883,6 +4531,8 @@ Morehead State,Austin Peay,W
 Austin Peay,Eastern Kentucky,L
 Southeast Missouri State,Austin Peay,W
 Tennessee-Martin,Austin Peay,L
+Lipscomb,Belmont,L
+Belmont,Lipscomb,W
 Belmont,Holy Cross,W
 Belmont,Hofstra,W
 Belmont,Brescia,W
@@ -5021,7 +4671,7 @@ Murray State,Brescia,W
 Murray State,Bethel TENN,W
 Auburn,Murray State,W
 Saint Mary's,Murray State,W
-Murray State,Evansville,W
+Murray State,Lipscomb,W
 Murray State,Southern Illinois,W
 Western Kentucky,Murray State,W
 Murray State,Southeast Missouri State,W
@@ -5041,14 +4691,14 @@ SIU Edwardsville,Saint Louis,L
 SIU Edwardsville,Central Arkansas,W
 SIU Edwardsville,UC Davis,L
 SIU Edwardsville,Portland State,L
-SIU Edwardsville,Loyola ,L
+SIU Edwardsville,Loyola (IL),L
 Oregon State,SIU Edwardsville,W
 SIU Edwardsville,Texas-Pan American,W
 SIU Edwardsville,Central Michigan,L
 IPFW,SIU Edwardsville,W
 Chicago State,SIU Edwardsville,W
 Southern Illinois,SIU Edwardsville,W
-SIU Edwardsville,Robert Morris ,W
+SIU Edwardsville,Robert Morris (IL-Spr),W
 SIU Edwardsville,Morehead State,L
 SIU Edwardsville,Eastern Kentucky,W
 Jacksonville State,SIU Edwardsville,W
@@ -5108,7 +4758,7 @@ Tenn St,Alabama A&M,L
 Drexel,Tenn St,W
 Tenn St,Fisk,W
 Illinois State,Tenn St,W
-Tenn St,Miami ,L
+Tenn St,Miami (OH),L
 Eastern Illinois,Tenn St,W
 Tenn St,Tennessee Tech,L
 Tenn St,Jacksonville State,W
@@ -5127,7 +4777,7 @@ Tenn St,SIU-Edwardsville,W
 Morehead State,Tenn St,L
 Eastern Kentucky,Tenn St,W
 South Florida,Tenn Tech,W
-Tenn Tech,Loyola ,W
+Tenn Tech,Loyola (IL),W
 Tenn Tech,Texas-Pan American,L
 Texas A&M-CC,Tenn Tech,L
 Tenn Tech,IPFW,L
@@ -5192,6 +4842,7 @@ Arizona,Long Beach State,W
 Arizona,Fairleigh Dickinson,W
 Arizona,Drexel,W
 Arizona,Duke,W
+Arizona,Texas Tech,W
 Arizona,New Mexico State,W
 Arizona,Southern University,W
 Arizona,Northern Arizona,W
@@ -5211,12 +4862,11 @@ Utah,Arizona,L
 Colorado,Arizona,L
 Arizona,California,W
 Arizona,Stanford,W
-Arizona State,Miami ,W
-Arizona State,Bradley,W
 Arizona State,Creighton,L
 Arizona State,Charleston,W
-Arizona State,Miami ,L
+Arizona State,Miami (FL),L
 Arizona State,Grambling State,W
+Arizona State,Texas Tech,W
 Arizona State,Washington,L
 Arizona State,Washington State,W
 USC,Arizona State,L
@@ -5252,6 +4902,7 @@ Colorado,Baylor,L
 Colorado,Tennessee-Martin,W
 Colorado,Jackson State,W
 Colorado,Arkansas State,W
+Colorado,Kansas,W
 Colorado,Elon,W
 Colorado,Oklahoma State,L
 Colorado,Georgia,W
@@ -5400,7 +5051,7 @@ San Francisco,American U,W
 Maryland-Eastern Shore,American U,L
 Bucknell,American U,L
 Holy Cross,American U,L
-American U,Loyola ,W
+American U,Loyola (MD),W
 Colgate,American U,L
 Lehigh,American U,L
 American U,Lafayette,W
@@ -5408,7 +5059,7 @@ American U,Boston University,W
 Army,American U,L
 American U,Navy,W
 American U,Holy Cross,W
-Loyola ,American U,W
+Loyola (MD),American U,W
 American U,Colgate,L
 American U,Lehigh,W
 Lafayette,American U,W
@@ -5419,10 +5070,10 @@ American U,Bucknell,L
 Army,Air Force,L
 Army,Citadel,W
 Army,Houston Baptist,L
-Army,St. Francis ,W
+Army,St. Francis (NY),W
 Army,US Coast Guard,W
 Lafayette,Army,L
-Army,Loyola ,W
+Army,Loyola (MD),W
 Lehigh,Army,L
 Navy,Army,L
 Army,Holy Cross,L
@@ -5430,7 +5081,7 @@ Army,Bucknell,W
 Colgate,Army,L
 Army,American University,L
 Boston University,Army,W
-Loyola ,Army,L
+Loyola (MD),Army,L
 Army,Lehigh,W
 Army,Navy,L
 Holy Cross,Army,W
@@ -5457,7 +5108,7 @@ Lehigh,Boston U,L
 Boston U,Navy,W
 Lafayette,Boston U,L
 Boston U,Colgate,W
-Boston U,Loyola ,W
+Boston U,Loyola (MD),W
 American University,Boston U,W
 Bucknell,Boston U,L
 Boston U,Army,W
@@ -5465,7 +5116,7 @@ Boston U,Lehigh,L
 Navy,Boston U,L
 Boston U,Lafayette,W
 Colgate,Boston U,L
-Loyola ,Boston U,L
+Loyola (MD),Boston U,L
 Boston U,American University,W
 Boston U,Bucknell,L
 Army,Boston U,L
@@ -5478,14 +5129,14 @@ Bucknell,Colgate,W
 Lafayette,Bucknell,L
 Bucknell,Holy Cross,W
 Navy,Bucknell,W
-Bucknell,Loyola ,W
+Bucknell,Loyola (MD),W
 Bucknell,Boston University,L
 Lehigh,Bucknell,W
 Colgate,Bucknell,L
 Bucknell,Lafayette,L
 Holy Cross,Bucknell,W
 Bucknell,Navy,W
-Loyola ,Bucknell,L
+Loyola (MD),Bucknell,L
 Boston University,Bucknell,L
 Bucknell,Lehigh,W
 American University,Bucknell,L
@@ -5497,13 +5148,13 @@ Holy Cross,Colgate,W
 Colgate,American University,L
 Boston University,Colgate,W
 Colgate,Navy,W
-Loyola ,Colgate,W
+Loyola (MD),Colgate,W
 Lafayette,Colgate,L
 Colgate,Holy Cross,L
 American University,Colgate,L
 Colgate,Boston University,L
 Navy,Colgate,W
-Colgate,Loyola ,W
+Colgate,Loyola (MD),W
 Colgate,Lafayette,W
 Lehigh,Colgate,L
 Holy Cross,Harvard,L
@@ -5515,82 +5166,63 @@ Holy Cross,American University,L
 Holy Cross,Lehigh,W
 Lafayette,Holy Cross,L
 Navy,Holy Cross,L
-Holy Cross,Loyola ,W
+Holy Cross,Loyola (MD),W
 American University,Holy Cross,W
 Lehigh,Holy Cross,L
 Holy Cross,Lafayette,L
 Holy Cross,Navy,W
-Loyola ,Holy Cross,L
+Loyola (MD),Holy Cross,L
 Holy Cross,Boston University,L
 Lafayette,Immaculata,W
-St. Francis ,Lafayette,W
+St. Francis (NY),Lafayette,W
 Navy,Lafayette,W
 Lafayette,Boston University,L
-Loyola ,Lafayette,W
+Loyola (MD),Lafayette,W
 American University,Lafayette,W
 Lehigh,Lafayette,W
 Lafayette,Navy,W
 Boston University,Lafayette,W
-Lafayette,Loyola ,W
+Lafayette,Loyola (MD),W
 Lafayette,American University,W
 Lafayette,Lehigh,W
+Loyola (MD),Lafayette,L
 Lehigh,Texas Southern,W
 South Dakota State,Lehigh,W
 St. Francis U,Lehigh,L
 Bryant University,Lehigh,W
 Lehigh,Boston University,L
-Loyola ,Lehigh,W
+Loyola (MD),Lehigh,W
 Lehigh,American University,L
 Navy,Lehigh,L
 Boston University,Lehigh,L
-Lehigh,Loyola ,W
+Lehigh,Loyola (MD),W
 American University,Lehigh,W
 Lehigh,Navy,W
-Binghamton,Loyola (MD),L
-Cornell,Loyola (MD),L
-Loyola (MD),Fairfield,W
-UMBC,Loyola (MD),L
-Connecticut,Loyola (MD),W
 West Virginia,Loyola (MD),W
 Loyola (MD),Catholic,W
 Mount St. Mary's,Loyola (MD),W
-Loyola (MD),Stony Brook,L
-Loyola (MD),Saint Joseph's,L
-Miami ,Loyola (MD),W
 Loyola (MD),Navy,W
-Army,Loyola (MD),W
 American University,Loyola (MD),W
-Loyola (MD),Lehigh,W
-Loyola (MD),Lafayette,W
 Boston University,Loyola (MD),W
-Bucknell,Loyola (MD),W
-Loyola (MD),Colgate,W
-Holy Cross,Loyola (MD),W
-Loyola (MD),Army,L
 Loyola (MD),American University,W
-Lehigh,Loyola (MD),W
-Lafayette,Loyola (MD),W
 Loyola (MD),Boston University,L
-Loyola (MD),Bucknell,L
-Colgate,Loyola (MD),W
-Loyola (MD),Holy Cross,L
 Navy,Loyola (MD),L
 St. Francis U,Navy,W
 Navy,Goucher,W
 Navy,Citadel,W
 Bryant University,Navy,W
 Northern Kentucky,Navy,W
-Loyola ,Navy,W
 Boston University,Navy,W
 American University,Navy,W
 Navy,Boston University,L
 Navy,American University,L
-Navy,Loyola ,L
 Alabama,Oklahoma,L
+Alabama,Texas Tech,W
 Alabama,Stillman,W
 Alabama,Georgia State,W
 Alabama,Duke,L
 Alabama,Drexel,L
+Alabama,North Florida,W
 Alabama,Charleston Southern,W
 Alabama,Vanderbilt,W
 Georgia,Alabama,W
@@ -5636,6 +5268,7 @@ Auburn,Nicholls State,W
 Auburn,Northwestern State,L
 Auburn,Jacksonville State,W
 Auburn,Tennessee State,W
+Iowa State,Auburn,W
 Auburn,Illinois,L
 Auburn,Arkansas-Pine Bluff,W
 Auburn,Florida A&M,W
@@ -5652,8 +5285,11 @@ Auburn,Mississippi State,W
 Florida,Auburn,W
 Auburn,Vanderbilt,L
 Auburn,South Carolina,W
+Florida,North Florida,W
 Florida,Arkansas-Little Rock,W
 Florida,Southern University,W
+Jacksonville,Florida,L
+Florida,Kansas,W
 Florida,Memphis,W
 Florida,Fresno State,W
 Florida,South Carolina,W
@@ -5673,6 +5309,7 @@ Georgia,Temple,L
 Georgia,Nebraska,L
 Georgia,Appalachian State,W
 Georgia,Chattanooga,W
+Georgia,Lipscomb,W
 Georgia,Western Carolina,W
 George Washington,Georgia,W
 Missouri,Georgia,L
@@ -5710,6 +5347,7 @@ LSU,Saint Joseph's,W
 LSU,Memphis,L
 LSU,Butler,W
 LSU,Louisiana-Monroe,W
+Texas Tech,LSU,L
 LSU,McNeese State,W
 LSU,Tennessee,L
 South Carolina,LSU,L
@@ -5724,7 +5362,7 @@ Mississippi St,Kennesaw State,W
 Mississippi St,Mississippi Valley State,W
 Utah State,Mississippi St,W
 Mississippi St,Jackson State,W
-Mississippi St,Loyola ,W
+Mississippi St,Loyola (IL),W
 Mississippi St,TCU,L
 Mississippi St,Southeastern Louisiana,W
 Mississippi St,Florida A&M,W
@@ -5754,6 +5392,7 @@ Missouri,Hawaii,W
 Missouri,IUPUI,W
 Missouri,Northwestern,W
 Missouri,Nevada,W
+Missouri,West Virginia,W
 Missouri,Illinois,L
 North Carolina State,Missouri,L
 Missouri,Long Beach State,W
@@ -5769,7 +5408,9 @@ Ole Miss,Mississippi Valley State,W
 Ole Miss,North Carolina A&T,W
 Ole Miss,Georgia Tech,W
 Ole Miss,Penn State,W
+Kansas State,Ole Miss,W
 Ole Miss,Louisiana-Monroe,W
+Ole Miss,Mercer,L
 Western Kentucky,Ole Miss,L
 Mississippi State,Ole Miss,W
 South Carolina,Ole Miss,L
@@ -5778,7 +5419,10 @@ Ole Miss,Mississippi State,W
 Tennessee,Ole Miss,W
 Ole Miss,South Carolina,W
 Texas A&M,Ole Miss,W
+Baylor,South Carolina,W
 South Carolina,Florida International,W
+Oklahoma State,South Carolina,W
+South Carolina,USC Upstate,L
 South Carolina,Saint Mary's,W
 South Carolina,Boise State,L
 South Carolina,South Carolina State,W
@@ -5786,6 +5430,7 @@ Texas A&M,South Carolina,W
 South Carolina,Texas A&M,W
 Tennessee,South Carolina,W
 South Carolina,Vanderbilt,W
+Tennessee,USC Upstate,W
 Tennessee,Citadel,W
 Tennessee,Tennessee State,W
 Tennessee,UTEP,L
@@ -5799,39 +5444,42 @@ Vanderbilt,Tennessee,W
 Texas A&M,Tennessee,W
 Mississippi State,Tennessee,L
 Tennessee,Vanderbilt,W
-Texas A&M;,Buffalo,W
-Texas A&M;,Mississippi Valley State,W
-Texas A&M;,Rice,W
-Texas A&M;,Prairie View A&M,W
-Texas A&M;,Sam Houston State,W
-Texas A&M;,Arkansas-Pine Bluff,W
-Texas A&M;,Missouri State,L
-Texas A&M;,Southern Methodist,L
-Texas A&M;,Houston,W
-Texas A&M;,McNeese State,W
-Texas A&M;,Oklahoma,L
-Texas A&M;,North Texas,L
-Texas A&M;,Texas-Pan American,W
-Texas A&M;,Arkansas,W
-Tennessee,Texas A&M;,L
-Texas A&M;,South Carolina,W
-Mississippi State,Texas A&M;,W
-Kentucky,Texas A&M;,W
-Texas A&M;,Vanderbilt,L
-South Carolina,Texas A&M;,W
-Florida,Texas A&M;,W
-Texas A&M;,Mississippi State,W
-Georgia,Texas A&M;,W
-Texas A&M;,LSU,W
-Vanderbilt,Texas A&M;,W
-Texas A&M;,Alabama,W
-Texas A&M;,Tennessee,W
-LSU,Texas A&M;,W
-Texas A&M;,Ole Miss,W
+Texas A&M,Buffalo,W
+Texas A&M,Mississippi Valley State,W
+Texas A&M,Rice,W
+Texas A&M,Prairie View A&M,W
+Texas A&M,Sam Houston State,W
+Texas A&M,Arkansas-Pine Bluff,W
+Texas A&M,Missouri State,L
+Texas A&M,Southern Methodist,L
+Texas A&M,Houston,W
+Texas A&M,McNeese State,W
+Texas A&M,Oklahoma,L
+Texas A&M,North Texas,L
+Texas A&M,Texas-Pan American,W
+Texas A&M,Arkansas,W
+Tennessee,Texas A&M,L
+Texas A&M,South Carolina,W
+Mississippi State,Texas A&M,W
+Kentucky,Texas A&M,W
+Texas A&M,Vanderbilt,L
+South Carolina,Texas A&M,W
+Florida,Texas A&M,W
+Texas A&M,Mississippi State,W
+Georgia,Texas A&M,W
+Texas A&M,LSU,W
+Vanderbilt,Texas A&M,W
+Texas A&M,Alabama,W
+Texas A&M,Tennessee,W
+LSU,Texas A&M,W
+Texas A&M,Ole Miss,W
 Vanderbilt,Georgia State,W
+Vanderbilt,Lipscomb,W
+Butler,Vanderbilt,W
 Vanderbilt,Providence,L
 Vanderbilt,Morgan State,W
 Vanderbilt,Loyola Marymount,W
+Texas,Vanderbilt,W
 Texas A&M,Vanderbilt,L
 Vanderbilt,Mississippi State,W
 Vanderbilt,Texas A&M,W
@@ -5866,6 +5514,7 @@ Samford,Appalachian St,L
 Chattanooga,Appalachian St,W
 Chattanooga,Covenant,W
 Chattanooga,Montreat College,W
+Chattanooga,Kennesaw State,L
 Chattanooga,Morehead State,L
 Chattanooga,IUPUI,W
 Chattanooga,Hiwassee College,W
@@ -5923,7 +5572,8 @@ Davidson,Virginia,L
 Davidson,Georgia,W
 Davidson,Clemson,L
 Davidson,New Mexico,L
-Davidson,Johnson & Wales ,W
+Stetson,Davidson,L
+Davidson,Johnson & Wales (NC),W
 Davidson,Niagara,L
 Wofford,Davidson,L
 Furman,Davidson,L
@@ -5978,7 +5628,7 @@ Wofford,Furman,W
 Furman,Appalachian State,W
 Furman,Georgia Southern,L
 Ga. Southern,Columbia Internatl,W
-Miami ,Ga. Southern,W
+Miami (FL),Ga. Southern,W
 Ga. Southern,Toccoa Falls,W
 West Virginia,Ga. Southern,W
 Old Dominion,Ga. Southern,W
@@ -6018,6 +5668,7 @@ Samford,Campbellsville,W
 Samford,Kentucky State,W
 Samford,Tennessee-Martin,L
 Florida Gulf Coast,Samford,W
+Jacksonville,Samford,L
 Samford,Wofford,L
 Georgia Southern,Samford,W
 Western Carolina,Samford,W
@@ -6056,7 +5707,7 @@ Western Carolina,Appalachian State,W
 Appalachian State,Western Carolina,L
 Western Carolina,Citadel,W
 Wofford,Emory & Henry,W
-Wofford,Johnson & Wales ,W
+Wofford,Johnson & Wales (NC),W
 Virginia Commonwealth,Wofford,W
 Wofford,Citadel,W
 Georgia Southern,Wofford,L
@@ -6064,6 +5715,7 @@ Wofford,Georgia Southern,W
 Citadel,Wofford,L
 Wofford,Hiwassee College,W
 Appalachian State,Wofford,L
+TCU,Abilene Christian,W
 Abilene Christian,West New Mexico,W
 Abilene Christian,Northern New Mexico,W
 Abilene Christian,West Alabama,L
@@ -6113,7 +5765,9 @@ Houston Baptist,Cent Arkansas,W
 Cent Arkansas,Oral Roberts,L
 Cent Arkansas,Sam Houston State,W
 Cent Arkansas,Lamar,W
+Texas Tech,Houston Baptist,W
 Houston Baptist,Crowley's Ridge College,W
+Texas,Houston Baptist,W
 Houston Baptist,Wright State,L
 Houston Baptist,Southern Miss,L
 South Alabama,Houston Baptist,W
@@ -6136,7 +5790,7 @@ Houston Baptist,Texas A&M-CC,L
 Houston Baptist,Arlington Baptist,W
 Texas A&M-CC,Houston Baptist,W
 Northwood University,Incarnate Word,L
-Trinity University (,Incarnate Word,L
+Trinity University,Incarnate Word,L
 Huston-Tillotson,Incarnate Word,L
 Incarnate Word,Northwood University,W
 Southwestern,Incarnate Word,L
@@ -6157,6 +5811,7 @@ Stephen F. Austin,Incarnate Word,W
 Incarnate Word,Texas A&M-CC,W
 McNeese State,Incarnate Word,W
 Nicholls State,Incarnate Word,L
+Butler,Lamar,W
 Washington State,Lamar,W
 Lamar,Savannah State,W
 Lamar,Grand Canyon,L
@@ -6246,11 +5901,13 @@ Lamar,Northwestern St,L
 Stephen F. Austin,Northwestern St,W
 Southeastern Louisiana,Northwestern St,L
 New Orleans,Northwestern St,L
+Kansas State,Oral Roberts,W
 Oral Roberts,Texas State,W
 Oral Roberts,Georgia Southern,W
 Oral Roberts,Bowling Green,W
 Oral Roberts,Cameron,W
 Oral Roberts,Dallas Baptist,W
+Baylor,Oral Roberts,W
 Oral Roberts,Texas A&M-CC,L
 Oral Roberts,Central Arkansas,W
 Oral Roberts,Stephen F. Austin,L
@@ -6343,61 +6000,61 @@ Sam Houston State,SF Austin,L
 SF Austin,Northwestern State,W
 New Orleans,SF Austin,L
 Southeastern Louisiana,SF Austin,L
-Texas A&M-CC;,Huston-Tillotson,W
-Iowa State,Texas A&M-CC;,W
-Texas A&M-CC;,IPFW,W
-Texas A&M-CC;,Tennessee Tech,L
-Texas A&M-CC;,Texas-Pan American,W
-Texas A&M-CC;,Rice,L
-UTSA,Texas A&M-CC;,W
-Texas A&M-CC;,Central Michigan,L
-Houston,Texas A&M-CC;,W
-Oklahoma,Texas A&M-CC;,W
-Texas A&M-CC;,Texas Permian Basin,L
-Texas A&M-CC;,Cal State Northridge,L
-Minnesota,Texas A&M-CC;,W
-Central Arkansas,Texas A&M-CC;,L
-Oral Roberts,Texas A&M-CC;,L
-Texas A&M-CC;,Northwestern State,W
-Texas A&M-CC;,Stephen F. Austin,L
-McNeese State,Texas A&M-CC;,L
-Nicholls State,Texas A&M-CC;,L
-Texas A&M-CC;,Southeastern Louisiana,W
-Texas A&M-CC;,New Orleans,L
-Sam Houston State,Texas A&M-CC;,W
-Lamar,Texas A&M-CC;,L
-Incarnate Word,Texas A&M-CC;,W
-Abilene Christian,Texas A&M-CC;,L
-Texas A&M-CC;,Central Arkansas,W
-Texas A&M-CC;,Oral Roberts,W
-Houston Baptist,Texas A&M-CC;,L
-Texas A&M-CC;,Houston Baptist,W
-New Mexico,Alabama A&M;,W
-Alabama A&M;,Alabama Huntsvlle,W
-Western Michigan,Alabama A&M;,W
-Eastern Kentucky,Alabama A&M;,W
-Alabama A&M;,Jacksonville State,L
-Tennessee State,Alabama A&M;,L
-Alabama A&M;,Oakwood,W
-Ohio,Alabama A&M;,W
-Missouri State,Alabama A&M;,W
-UAB,Alabama A&M;,W
-Jackson State,Alabama A&M;,L
-Grambling State,Alabama A&M;,L
-Alabama A&M;,Arkansas-Pine Bluff,L
-Alabama A&M;,Mississippi Valley State,W
-Alabama State,Alabama A&M;,W
-Southern University,Alabama A&M;,W
-Alcorn State,Alabama A&M;,W
-Alabama A&M;,Texas Southern,W
-Alabama A&M;,Prairie View A&M,W
-Arkansas-Pine Bluff,Alabama A&M;,W
-Mississippi Valley State,Alabama A&M;,L
-Alabama A&M;,Alabama State,W
-Alabama A&M;,Southern University,L
-Alabama A&M;,Alcorn State,L
-Prairie View A&M,Alabama A&M;,L
-Bradley,Alabama State,W
+Texas A&M-CC,Huston-Tillotson,W
+Iowa State,Texas A&M-CC,W
+Texas A&M-CC,IPFW,W
+Texas A&M-CC,Tennessee Tech,L
+Texas A&M-CC,Texas-Pan American,W
+Texas A&M-CC,Rice,L
+UTSA,Texas A&M-CC,W
+Texas A&M-CC,Central Michigan,L
+Houston,Texas A&M-CC,W
+Oklahoma,Texas A&M-CC,W
+Texas A&M-CC,Texas Permian Basin,L
+Texas A&M-CC,Cal State Northridge,L
+Minnesota,Texas A&M-CC,W
+Central Arkansas,Texas A&M-CC,L
+Oral Roberts,Texas A&M-CC,L
+Texas A&M-CC,Northwestern State,W
+Texas A&M-CC,Stephen F. Austin,L
+McNeese State,Texas A&M-CC,L
+Nicholls State,Texas A&M-CC,L
+Texas A&M-CC,Southeastern Louisiana,W
+Texas A&M-CC,New Orleans,L
+Sam Houston State,Texas A&M-CC,W
+Lamar,Texas A&M-CC,L
+Incarnate Word,Texas A&M-CC,W
+Abilene Christian,Texas A&M-CC,L
+Texas A&M-CC,Central Arkansas,W
+Texas A&M-CC,Oral Roberts,W
+Houston Baptist,Texas A&M-CC,L
+Texas A&M-CC,Houston Baptist,W
+New Mexico,Alabama A&M,W
+Alabama A&M,Alabama Huntsvlle,W
+Western Michigan,Alabama A&M,W
+Eastern Kentucky,Alabama A&M,W
+Alabama A&M,Jacksonville State,L
+Tennessee State,Alabama A&M,L
+Alabama A&M,Oakwood,W
+Ohio,Alabama A&M,W
+Missouri State,Alabama A&M,W
+UAB,Alabama A&M,W
+Jackson State,Alabama A&M,L
+Grambling State,Alabama A&M,L
+Alabama A&M,Arkansas-Pine Bluff,L
+Alabama A&M,Mississippi Valley State,W
+Alabama State,Alabama A&M,W
+Southern University,Alabama A&M,W
+Alcorn State,Alabama A&M,W
+Alabama A&M,Texas Southern,W
+Alabama A&M,Prairie View A&M,W
+Arkansas-Pine Bluff,Alabama A&M,W
+Mississippi Valley State,Alabama A&M,L
+Alabama A&M,Alabama State,W
+Alabama A&M,Southern University,L
+Alabama A&M,Alcorn State,L
+Prairie View A&M,Alabama A&M,L
+Texas Southern,Alabama A&M,W
 Alabama State,Mobile,W
 Jacksonville State,Alabama State,L
 Alabama State,Chicago State,W
@@ -6421,12 +6078,14 @@ Alabama A&M,Alabama State,W
 Alabama State,Alcorn State,W
 Alabama State,Southern University,L
 Texas Southern,Alabama State,W
+Prairie View A&M,Alabama State,L
 Alcorn State,Tougaloo,W
 Alcorn State,Mississippi College,W
 Alcorn State,Dillard,W
 Saint Mary's,Alcorn State,W
 Troy,Alcorn State,W
 Jacksonville State,Alcorn State,W
+Mercer,Alcorn State,W
 Alcorn State,Denver,L
 Alcorn State,Western Illinois,L
 Texas Southern,Alcorn State,W
@@ -6471,6 +6130,7 @@ Alcorn State,AR-Pine Bluff,W
 AR-Pine Bluff,Prairie View A&M,W
 AR-Pine Bluff,Texas Southern,L
 Grambling State,AR-Pine Bluff,L
+Jackson State,AR-Pine Bluff,L
 DePaul,Grambling St,W
 Marquette,Grambling St,W
 Missouri State,Grambling St,W
@@ -6495,10 +6155,10 @@ Texas Southern,Grambling St,W
 Prairie View A&M,Grambling St,L
 Grambling St,Jackson State,L
 Grambling St,Arkansas-Pine Bluff,L
+Grambling St,Mississippi Valley State,W
 Jackson State,Arkansas State,L
 Tennessee-Martin,Jackson State,L
 Mississippi State,Jackson State,W
-Evansville,Jackson State,L
 Jackson State,Louisiana-Lafayette,W
 Jackson State,Alabama A&M,L
 Southern University,Jackson State,W
@@ -6512,6 +6172,7 @@ Prairie View A&M,Jackson State,W
 Texas Southern,Jackson State,L
 Grambling State,Jackson State,L
 Jackson State,Mississippi Valley State,W
+Jackson State,Arkansas-Pine Bluff,L
 Oklahoma State,Miss Valley St,W
 Texas A&M,Miss Valley St,W
 Miss Valley St,Champion Baptist College,W
@@ -6541,33 +6202,35 @@ Southern University,Miss Valley St,W
 Miss Valley St,Texas Southern,L
 Miss Valley St,Prairie View A&M,W
 Jackson State,Miss Valley St,W
-Mississippi State,PV A&M;,W
-PV A&M;,Schreiner,W
-PV A&M;,Sam Houston State,L
-Texas A&M,PV A&M;,W
-Colorado State,PV A&M;,W
-New Mexico State,PV A&M;,W
-PV A&M;,Bethune-Cookman,W
-Northern Colorado,PV A&M;,W
-Brigham Young,PV A&M;,W
-UCLA,PV A&M;,W
-Western Michigan,PV A&M;,W
-Wisconsin,PV A&M;,W
-PV A&M;,Southern University,L
-PV A&M;,Alcorn State,W
-Texas Southern,PV A&M;,W
-Jackson State,PV A&M;,L
-Grambling State,PV A&M;,L
-PV A&M;,Arkansas-Pine Bluff,W
-PV A&M;,Mississippi Valley State,L
-Alabama State,PV A&M;,W
-Alabama A&M,PV A&M;,W
-PV A&M;,Texas Southern,W
-PV A&M;,Jackson State,W
-PV A&M;,Grambling State,L
-Arkansas-Pine Bluff,PV A&M;,W
-Mississippi Valley State,PV A&M;,W
-PV A&M;,Alabama A&M,L
+Grambling State,Miss Valley St,W
+Mississippi State,PV A&M,W
+PV A&M,Schreiner,W
+PV A&M,Sam Houston State,L
+Texas A&M,PV A&M,W
+Colorado State,PV A&M,W
+New Mexico State,PV A&M,W
+PV A&M,Bethune-Cookman,W
+Northern Colorado,PV A&M,W
+Brigham Young,PV A&M,W
+UCLA,PV A&M,W
+Western Michigan,PV A&M,W
+Wisconsin,PV A&M,W
+PV A&M,Southern University,L
+PV A&M,Alcorn State,W
+Texas Southern,PV A&M,W
+Jackson State,PV A&M,L
+Grambling State,PV A&M,L
+PV A&M,Arkansas-Pine Bluff,W
+PV A&M,Mississippi Valley State,L
+Alabama State,PV A&M,W
+Alabama A&M,PV A&M,W
+PV A&M,Texas Southern,W
+PV A&M,Jackson State,W
+PV A&M,Grambling State,L
+Arkansas-Pine Bluff,PV A&M,W
+Mississippi Valley State,PV A&M,W
+PV A&M,Alabama A&M,L
+PV A&M,Alabama State,L
 Marquette,Southern,W
 Middle Tennessee,Southern,W
 Southern,Tulane,L
@@ -6598,11 +6261,12 @@ Alabama A&M,Southern,L
 Alabama State,Southern,L
 Alcorn State,Southern,L
 Texas Southern,Wiley,W
-Miami ,Texas Southern,W
 Florida International,Texas Southern,W
+Texas Tech,Texas Southern,W
 Texas Southern,Lehigh,L
 Texas Southern,Howard,W
 Cal State Fullerton,Texas Southern,W
+TCU,Texas Southern,W
 Texas Southern,Southern University,L
 Texas Southern,Prairie View A&M,W
 Grambling State,Texas Southern,L
@@ -6613,10 +6277,12 @@ Prairie View A&M,Texas Southern,W
 Texas Southern,Grambling State,W
 Mississippi Valley State,Texas Southern,L
 Arkansas-Pine Bluff,Texas Southern,L
+Texas Southern,Alabama A&M,W
 Denver,Harvard,L
 Denver,Pepperdine,L
 Denver,Alaska Anchorage,W
 Denver,Southern University,W
+Mercer,Denver,W
 Denver,Alcorn State,W
 Denver,St. Francis U,W
 South Dakota,Denver,W
@@ -6638,9 +6304,8 @@ Texas A&M-CC,IPFW,W
 IPFW,Texas-Pan American,W
 IPFW,Tennessee Tech,W
 IPFW,Purdue-Calumet,W
+Kennesaw State,IPFW,L
 Eastern Illinois,IPFW,L
-Miami ,IPFW,W
-Bradley,IPFW,L
 IPFW,SIU-Edwardsville,W
 IPFW,Eastern Illinois,W
 IPFW,Eastern Kentucky,L
@@ -6658,16 +6323,13 @@ IUPUI,IPFW,L
 Western Illinois,IPFW,L
 Nebraska-Omaha,IPFW,L
 Utah Valley,IUPUI,W
-IUPUI,Evansville,L
 IUPUI,Southeast Missouri State,L
 IUPUI,Indiana-Northwest,W
 IUPUI,Gardner-Webb,L
 IUPUI,Chattanooga,L
-Bradley,IUPUI,L
 IUPUI,North Carolina Central,W
 IUPUI,Cincinnati Christian,W
 Southeast Missouri State,IUPUI,W
-IUPUI,Drake,L
 IUPUI,Judson College,W
 IUPUI,South Dakota State,L
 IUPUI,North Dakota State,L
@@ -6741,6 +6403,7 @@ North Dakota St,Denver,W
 Texas State,South Dakota,L
 South Dakota,Graceland University,W
 South Dakota,Utah Valley,W
+Kansas State,South Dakota,W
 Youngstown State,South Dakota,W
 South Dakota,Cal State Northridge,W
 South Dakota,Iowa Wesleyan,W
@@ -6756,7 +6419,7 @@ South Dakota State,South Dakota,W
 San Diego,South Dakota St,W
 South Dakota St,Loyola Marymount,L
 South Dakota St,Montana,L
-South Dakota St,Southwest St ,W
+South Dakota St,Southwest St (MN),W
 Texas Tech,South Dakota St,W
 South Dakota St,Howard,W
 South Dakota St,Lehigh,W
@@ -6920,6 +6583,7 @@ Georgia State,UL Monroe,W
 Western Kentucky,UL Monroe,W
 UL Monroe,South Alabama,W
 UL Monroe,Troy,L
+Texas,South Alabama,W
 South Alabama,William Carey,W
 South Alabama,Spring Hill,W
 South Alabama,Gonzaga,L
@@ -6944,6 +6608,7 @@ Texas State,Tulane,W
 Texas State,Northern Kentucky,W
 Texas State,Southeast Missouri State,L
 Texas State,Cedarville,W
+Texas,Texas State,W
 Texas State,Texas-Tyler,W
 Texas State,Arkansas-Little Rock,L
 Louisiana-Monroe,Texas State,L
@@ -6986,6 +6651,7 @@ TX-Arlington,Georgia State,L
 TX-Arlington,Western Kentucky,W
 Troy,LaGrange College,W
 Central Arkansas,Troy,W
+Kansas State,Troy,W
 Troy,UC Santa Barbara,L
 Troy,Western Illinois,L
 Troy,Belhaven,W
@@ -7047,6 +6713,7 @@ Gonzaga,Dayton,L
 Gonzaga,Chaminade,W
 Gonzaga,Arkansas,W
 Gonzaga,New Mexico State,W
+West Virginia,Gonzaga,L
 Gonzaga,South Alabama,W
 Gonzaga,Kansas State,L
 Gonzaga,Santa Clara,W
@@ -7156,7 +6823,6 @@ San Diego,Portland,W
 Brigham Young,Portland,W
 Saint Mary's,Portland,W
 Saint Mary's,North Dakota State,W
-Saint Mary's,Drake,W
 Saint Mary's,Eastern Washington,W
 Saint Mary's,American University,W
 Saint Mary's,South Carolina,L
@@ -7239,7 +6905,6 @@ CSU Bakersfield,Texas-Pan American,L
 CSU Bakersfield,New Mexico State,L
 Chicago State,Urbana,W
 Chicago State,Jacksonville State,W
-Bradley,Chicago State,W
 Chicago State,Southern Illinois,W
 Chicago State,Wisc. Parkside,W
 Chicago State,SIU-Edwardsville,W
@@ -7278,6 +6943,7 @@ Grand Canyon,Cal State Bakersfield,W
 Seattle,Grand Canyon,L
 Idaho,Grand Canyon,W
 Grand Canyon,UMKC,L
+Oklahoma,Idaho,W
 Idaho,NW Nazarene,W
 Idaho,North Texas,W
 Idaho,Columbia,L
@@ -7387,8 +7053,8 @@ Utah Valley,TX-Pan American,W
 UMKC,Emporia State,L
 Nebraska-Omaha,UMKC,W
 Tennessee-Martin,UMKC,L
+Iowa State,UMKC,W
 UMKC,Youngstown State,W
-UMKC,Miami ,W
 UMKC,South Dakota State,L
 Seattle,UMKC,L
 UMKC,Texas-Pan American,L
@@ -7401,6 +7067,7 @@ Texas-Pan American,UMKC,W
 UMKC,Cal State Bakersfield,L
 UMKC,Utah Valley,W
 Utah Valley,North Carolina A&T,W
+Oklahoma State,Utah Valley,W
 Tennessee Tech,Utah Valley,W
 Utah Valley,St. Katherine,W
 Utah Valley,Haskell,W
