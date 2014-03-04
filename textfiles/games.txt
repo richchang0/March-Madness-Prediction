@@ -1,0 +1,7082 @@
+Binghamton,Loyola (MD),L
+Brown,Binghamton,W
+Cornell,Binghamton,L
+Binghamton,Navy,L
+Binghamton,Radford,L
+St. Peter's,Binghamton,W
+Binghamton,Colgate,L
+Mount St. Mary's,Binghamton,L
+Syracuse,Binghamton,W
+Monmouth,Binghamton,W
+Buffalo,Binghamton,W
+Binghamton,Bryant University,W
+Saint Joseph's,Binghamton,W
+Maine,Binghamton,W
+Binghamton,New Hampshire,W
+Binghamton,Massachusetts Lowell,L
+Stony Brook,Binghamton,W
+Albany,Binghamton,W
+Binghamton,Hartford,L
+Vermont,Binghamton,W
+Binghamton,UMBC,L
+Massachusetts Lowell,Binghamton,W
+Binghamton,Stony Brook,L
+Binghamton,Maine,W
+New Hampshire,Binghamton,L
+Binghamton,Albany,L
+UMBC,Binghamton,L
+Hartford,Binghamton,W
+Binghamton,Vermont,L
+Hartford,Quinnipiac,L
+Florida Gulf Coast,Hartford,W
+Fairfield,Hartford,L
+Hartford,Fairleigh Dickinson,W
+Louisville,Hartford,W
+Hartford,Hofstra,L
+Hartford,Holy Cross,L
+Hartford,Yale,L
+La Salle,Hartford,W
+Hartford,Holy Cross,W
+Central Connecticut State,Hartford,W
+Sacred Heart,Hartford,L
+Hartford,St. Peter's,W
+Washington,Hartford,W
+Albany,Hartford,W
+Dartmouth,Hartford,L
+Hartford,Maine,W
+Hartford,Stony Brook,L
+New Hampshire,Hartford,L
+Hartford,Massachusetts Lowell,W
+UMBC,Hartford,W
+Hartford,Vermont,L
+Stony Brook,Hartford,W
+Hartford,Albany,W
+Maine,Hartford,L
+Hartford,New Hampshire,W
+Massachusetts Lowell,Hartford,L
+Vermont,Hartford,W
+Hartford,UMBC,W
+Rhode Island,Maine,W
+Maine,Fisher College,W
+George Washington,Maine,W
+Maine,N.J.I.T.,L
+Maine,Quinnipiac,L
+Maine,Dartmouth,L
+N.J.I.T.,Maine,W
+Connecticut,Maine,W
+Maine,Army,L
+Providence,Maine,W
+Maine,Middle Tennessee,W
+Chattanooga,Maine,W
+UMBC,Maine,W
+Maine,Vermont,L
+Maine,Albany,L
+Maine,Massachusetts Lowell,L
+Stony Brook,Maine,W
+New Hampshire,Maine,L
+Maine,UMBC,W
+Vermont,Maine,W
+Albany,Maine,W
+Maine,Stony Brook,L
+Massachusetts Lowell,Maine,W
+Maine,New Hampshire,W
+Michigan,UMass Lowell,W
+Boston University,UMass Lowell,W
+Dartmouth,UMass Lowell,W
+UMass Lowell,Brown,L
+Rhode Island,UMass Lowell,W
+Cincinnati,UMass Lowell,W
+UMass Lowell,Mount Ida College,W
+St. Bonaventure,UMass Lowell,W
+N.J.I.T.,UMass Lowell,W
+Columbia,UMass Lowell,W
+UMass Lowell,Vermont,L
+UMass Lowell,Duquesne,L
+UMass Lowell,UMBC,W
+Binghamton,UMass Lowell,L
+UMass Lowell,Albany,W
+Stony Brook,UMass Lowell,W
+Hartford,UMass Lowell,W
+Maine,UMass Lowell,L
+UMass Lowell,New Hampshire,L
+UMass Lowell,Binghamton,W
+UMass Lowell,N.J.I.T.,W
+Albany,UMass Lowell,W
+UMBC,UMass Lowell,L
+Vermont,UMass Lowell,W
+UMass Lowell,Stony Brook,L
+UMass Lowell,Hartford,L
+New Hampshire,UMass Lowell,L
+UMass Lowell,Maine,W
+New Hampshire,Suffolk University,W
+Duquesne,New Hampshire,L
+New Hampshire,N.J.I.T.,L
+Marquette,New Hampshire,W
+New Hampshire,Bryant University,L
+New Hampshire,Holy Cross,L
+Central Connecticut State,New Hampshire,W
+Yale,New Hampshire,W
+New Hampshire,Stony Brook,L
+New Hampshire,Dartmouth,L
+Rhode Island,New Hampshire,W
+Towson,New Hampshire,W
+New Hampshire,Sacred Heart,L
+Brown,New Hampshire,W
+New Hampshire,UMBC,W
+Vermont,New Hampshire,W
+New Hampshire,Albany,W
+Massachusetts Lowell,New Hampshire,L
+UMBC,New Hampshire,W
+Stony Brook,New Hampshire,L
+New Hampshire,Vermont,L
+New Hampshire,Massachusetts Lowell,L
+Albany,New Hampshire,W
+Stony Brook,Marist,W
+Stony Brook,Haverford,W
+Stony Brook,Northeastern,W
+Indiana,Stony Brook,W
+Stony Brook,Toledo,L
+Stony Brook,Florida Atlantic,W
+Detroit,Stony Brook,L
+Stony Brook,St. Francis (NY),L
+Stony Brook,Fairleigh Dickinson,W
+Stony Brook,La Salle,L
+Loyola (MD),Stony Brook,L
+Stony Brook,Cornell,W
+Virginia Commonwealth,Stony Brook,W
+Columbia,Stony Brook,W
+Stony Brook,Massachusetts Lowell,W
+UMBC,Stony Brook,L
+Stony Brook,Vermont,W
+Albany,Stony Brook,W
+Massachusetts Lowell,Stony Brook,L
+Stony Brook,UMBC,W
+Vermont,Stony Brook,W
+Stony Brook,Albany,W
+Arizona State,UMBC,W
+UMBC,Eastern University,W
+American University,UMBC,W
+UMBC,Mount St. Mary's,W
+UMBC,Loyola (MD),L
+Navy,UMBC,W
+Towson,UMBC,W
+UMBC,Maryland-Eastern Shore,W
+Duquesne,UMBC,W
+Lehigh,UMBC,W
+Coppin State,UMBC,W
+George Washington,UMBC,W
+UMBC,Navy,W
+Massachusetts Lowell,UMBC,W
+Albany,UMBC,W
+UMBC,Vermont,L
+UMBC,Massachusetts Lowell,L
+UMBC,Albany,W
+Vermont,UMBC,W
+Vermont,Saint Joseph's,L
+Vermont,Siena,W
+Bryant University,Vermont,W
+Providence,Vermont,W
+Wagner,Vermont,W
+Duke,Vermont,W
+Vermont,Illinois State,W
+San Francisco,Vermont,W
+Vermont,Sonoma State,W
+Vermont,Quinnipiac,L
+Massachusetts Lowell,Vermont,L
+Harvard,Vermont,W
+Vermont,Lyndon State,W
+Dartmouth,Vermont,L
+Yale,Vermont,L
+Vermont,Albany,W
+Albany,Vermont,L
+Vermont,Massachusetts Lowell,W
+Cincinnati,North Carolina Central,W
+Cincinnati,North Carolina State,W
+Cincinnati,Appalachian State,W
+Cincinnati,Campbell,W
+Cincinnati,Massachusetts Lowell,W
+Cincinnati,Kennesaw State,W
+Cincinnati,USC Upstate,W
+New Mexico,Cincinnati,W
+Cincinnati,Xavier,L
+Cincinnati,Pittsburgh,W
+Cincinnati,Middle Tennessee,W
+Cincinnati,Chicago State,W
+Cincinnati,Nebraska,W
+Cincinnati,Southern Methodist,W
+Memphis,Cincinnati,L
+Houston,Cincinnati,L
+Cincinnati,Rutgers,W
+Cincinnati,Temple,W
+South Florida,Cincinnati,L
+Cincinnati,UCF,W
+Temple,Cincinnati,L
+Louisville,Cincinnati,L
+Cincinnati,South Florida,W
+Cincinnati,Connecticut,W
+Southern Methodist,Cincinnati,W
+Cincinnati,Houston,W
+UCF,Cincinnati,L
+Cincinnati,Louisville,L
+Connecticut,Cincinnati,W
+Connecticut,Maryland,W
+Connecticut,Yale,W
+Connecticut,Detroit,W
+Connecticut,Boston University,W
+Connecticut,Boston College,W
+Connecticut,Indiana,W
+Connecticut,Loyola (MD),W
+Connecticut,Florida,W
+Connecticut,Stanford,L
+Washington,Connecticut,L
+Connecticut,Eastern Washington,W
+Houston,Connecticut,W
+Southern Methodist,Connecticut,W
+Connecticut,Harvard,W
+Connecticut,UCF,W
+Memphis,Connecticut,L
+Connecticut,Louisville,L
+Connecticut,Temple,W
+Rutgers,Connecticut,L
+Connecticut,Houston,W
+UCF,Connecticut,L
+Connecticut,South Florida,W
+Connecticut,Memphis,W
+Temple,Connecticut,L
+Connecticut,Southern Methodist,L
+South Florida,Connecticut,L
+Houston,Texas State,W
+Texas-Pan American,Houston,L
+Houston,UTSA,W
+Houston,Lehigh,W
+Houston,Howard,W
+Houston,Stanford,L
+Houston,Texas Tech,L
+Houston,Texas A&M-CC,W
+Texas A&M,Houston,W
+Houston,San Jose State,L
+Houston,Alcorn State,W
+Louisiana-Lafayette,Houston,W
+Houston,Rice,W
+South Florida,Houston,L
+Louisville,Houston,W
+Houston,Rutgers,W
+Memphis,Houston,W
+Houston,Southern Methodist,L
+Rutgers,Houston,W
+Houston,Louisville,L
+Houston,Temple,W
+Southern Methodist,Houston,W
+Houston,UCF,W
+Houston,Memphis,W
+Temple,Houston,L
+Louisville,Charleston,W
+Louisville,Hofstra,W
+Louisville,Cornell,W
+Louisville,Fairfield,W
+Louisville,North Carolina,L
+Louisville,Southern Miss,W
+Louisville,UMKC,W
+Louisville,Louisiana-Lafayette,W
+Louisville,Western Kentucky,W
+Louisville,Missouri State,W
+Florida International,Louisville,L
+Kentucky,Louisville,W
+UCF,Louisville,L
+Rutgers,Louisville,L
+Louisville,Memphis,L
+Louisville,Southern Methodist,W
+South Florida,Louisville,L
+Louisville,UCF,W
+Temple,Louisville,L
+Louisville,Rutgers,W
+Louisville,South Florida,W
+Louisville,Temple,W
+Memphis,Louisville,W
+Memphis,Austin Peay,W
+Oklahoma State,Memphis,W
+Memphis,Nicholls State,W
+Memphis,Siena,W
+Memphis,LSU,W
+Memphis,Oklahoma State,W
+Memphis,Northwestern State,W
+Memphis,Arkansas-Little Rock,W
+Memphis,Florida,L
+Memphis,Southeast Missouri State,W
+Memphis,Jackson State,W
+South Florida,Memphis,L
+Temple,Memphis,L
+Memphis,Le Moyne-Owen,W
+Memphis,South Florida,W
+UCF,Memphis,L
+Southern Methodist,Memphis,W
+Memphis,Rutgers,W
+Memphis,Gonzaga,W
+Memphis,UCF,W
+Rutgers,Memphis,L
+Memphis,Temple,W
+Rutgers,Florida A&M,W
+UAB,Rutgers,W
+Rutgers,Yale,W
+Rutgers,Canisius,W
+Rutgers,Drexel,L
+Rutgers,William & Mary,L
+Rutgers,Stillman,W
+Rutgers,Fairleigh Dickinson,L
+George Washington,Rutgers,W
+Rutgers,Seton Hall,L
+Rutgers,Princeton,L
+Rutgers,UNC Greensboro,W
+Rutgers,Army,W
+Rutgers,Temple,W
+Rutgers,UCF,W
+Southern Methodist,Rutgers,W
+Temple,Rutgers,W
+South Florida,Rutgers,L
+Rutgers,Southern Methodist,L
+UCF,Rutgers,W
+Rutgers,South Florida,W
+South Florida,Tennessee Tech,W
+South Florida,Bethune-Cookman,W
+Bowling Green,South Florida,L
+South Florida,Stetson,W
+South Florida,Oklahoma State,L
+South Florida,Detroit,L
+George Mason,South Florida,L
+South Florida,Alabama,W
+South Florida,Florida Gulf Coast,W
+South Florida,Florida A&M,W
+South Florida,Mississippi State,L
+South Florida,Santa Clara,L
+Bradley,South Florida,L
+Temple,South Florida,L
+Southern Methodist,South Florida,W
+South Florida,Southern Methodist,W
+UCF,South Florida,L
+South Florida,UCF,L
+SMU,TCU,W
+SMU,Rhode Island,W
+Arkansas,SMU,W
+SMU,Texas State,W
+SMU,Arkansas-Pine Bluff,W
+SMU,Sam Houston State,W
+SMU,Virginia,L
+SMU,Texas A&M,W
+SMU,McNeese State,W
+Illinois-Chicago,SMU,L
+SMU,Texas-Pan American,W
+Wyoming,SMU,L
+Cincinnati,SMU,W
+SMU,Connecticut,W
+Louisville,SMU,W
+SMU,South Florida,W
+UCF,SMU,L
+SMU,Hofstra,W
+SMU,Rutgers,W
+Houston,SMU,L
+South Florida,SMU,W
+SMU,Memphis,W
+SMU,Temple,W
+SMU,Cincinnati,W
+Rutgers,SMU,L
+Temple,SMU,W
+SMU,Houston,W
+Connecticut,SMU,L
+SMU,UCF,W
+Pennsylvania,Temple,L
+Temple,Kent State,L
+Towson,Temple,W
+Temple,Clemson,L
+Temple,Georgia,W
+Temple,UAB,W
+Temple,Saint Joseph's,W
+Temple,Texas,L
+Temple,Texas Southern,L
+Temple,LIU Brooklyn,W
+UCF,Temple,W
+Temple,La Salle,L
+Temple,Villanova,L
+Southern Methodist,Temple,W
+Temple,Southern Methodist,W
+UCF,Tampa,W
+UCF,Florida State,L
+UCF,Bethune-Cookman,W
+Miami (FL),UCF,L
+Valparaiso,UCF,W
+Florida Atlantic,UCF,W
+UCF,Stetson,W
+UCF,Howard,W
+UCF,Jacksonville,W
+UCF,Rio Grande,W
+UCF,Valparaiso,W
+UCF,Southern Methodist,L
+Southern Methodist,UCF,W
+Dayton,IPFW,W
+Dayton,St. Francis U,W
+Dayton,St. Francis (NY),W
+Georgia Tech,Dayton,L
+Dayton,Gonzaga,W
+Dayton,Baylor,L
+Dayton,California,W
+Dayton,Delaware State,W
+Illinois State,Dayton,W
+Dayton,Central Michigan,W
+Dayton,Iona,W
+Dayton,USC,L
+Dayton,Murray State,W
+Dayton,Winthrop,W
+Ole Miss,Dayton,L
+Dayton,Saint Louis,L
+Fordham,Dayton,L
+Richmond,Dayton,W
+Dayton,Virginia Commonwealth,L
+Rhode Island,Dayton,W
+Dayton,Saint Joseph's,L
+Dayton,George Washington,W
+George Mason,Dayton,L
+St. Bonaventure,Dayton,L
+Dayton,Rhode Island,W
+Dayton,La Salle,W
+Dayton,Duquesne,W
+Saint Joseph's,Dayton,W
+Dayton,Massachusetts,W
+Duquesne,Abilene Christian,W
+West Virginia,Duquesne,W
+Duquesne,Albany,W
+Duquesne,Pittsburgh,L
+Duquesne,Penn State,L
+Duquesne,Robert Morris,L
+St. Francis U,Duquesne,L
+Massachusetts Lowell,Duquesne,L
+Texas-Pan American,Duquesne,L
+Duquesne,Appalachian State,W
+Duquesne,Fordham,W
+Duquesne,La Salle,L
+Saint Joseph's,Duquesne,W
+Virginia Commonwealth,Duquesne,W
+Duquesne,Saint Louis,L
+Duquesne,St. Bonaventure,W
+N.J.I.T.,Duquesne,L
+La Salle,Duquesne,W
+George Washington,Duquesne,W
+Duquesne,George Mason,L
+Duquesne,Richmond,L
+Rhode Island,Duquesne,L
+St. Bonaventure,Duquesne,W
+Duquesne,Dayton,L
+Saint Louis,Duquesne,L
+Fordham,St. Francis U,W
+Syracuse,Fordham,W
+Fordham,Lehigh,W
+Fordham,Sacred Heart,L
+Manhattan,Fordham,L
+Fordham,Furman,W
+St. John's,Fordham,W
+Colgate,Fordham,L
+Fordham,Howard,W
+Monmouth,Fordham,W
+Fordham,Loyola (IL),W
+Fordham,Harvard,L
+Siena,Fordham,W
+Fordham,Richmond,L
+Saint Louis,Fordham,W
+Fordham,George Mason,W
+Massachusetts,Fordham,W
+Virginia Commonwealth,Fordham,W
+Fordham,Rhode Island,W
+George Washington,Fordham,W
+Fordham,St. Bonaventure,L
+Richmond,Fordham,W
+Saint Joseph's,Fordham,W
+Fordham,Virginia Commonwealth,L
+Fordham,La Salle,L
+George Mason,American University,W
+Lamar,George Mason,L
+George Mason,Northern Iowa,W
+George Mason,St. Francis U,W
+Iona,George Mason,W
+Princeton,George Mason,W
+George Mason,Rhode Island,W
+George Mason,Oklahoma,L
+George Mason,Iowa State,L
+George Mason,Oregon State,L
+George Mason,Saint Mary's,W
+George Mason,Pennsylvania,W
+Old Dominion,George Mason,W
+Virginia Commonwealth,George Mason,W
+George Mason,Saint Joseph's,L
+George Mason,Massachusetts,L
+Rhode Island,George Mason,W
+George Mason,George Washington,L
+Saint Louis,George Mason,W
+Massachusetts,George Mason,L
+George Mason,St. Bonaventure,L
+George Mason,Saint Louis,L
+George Mason,Richmond,W
+George Washington,George Mason,W
+G. Washington,Radford,W
+G. Washington,Maine,W
+Manhattan,G. Washington,L
+G. Washington,Delaware State,W
+G. Washington,Miami (FL),W
+G. Washington,Marquette,L
+G. Washington,Creighton,W
+G. Washington,Rutgers,W
+G. Washington,Maryland,W
+G. Washington,Boston University,W
+G. Washington,UMBC,W
+Hofstra,G. Washington,L
+Kansas State,G. Washington,W
+G. Washington,Georgia,W
+La Salle,G. Washington,W
+G. Washington,Rhode Island,W
+G. Washington,Virginia Commonwealth,W
+St. Bonaventure,G. Washington,L
+George Mason,G. Washington,L
+G. Washington,La Salle,W
+Dayton,G. Washington,W
+G. Washington,Duquesne,W
+G. Washington,Fordham,W
+Virginia Commonwealth,G. Washington,W
+G. Washington,Massachusetts,L
+Richmond,G. Washington,L
+Saint Louis,G. Washington,W
+G. Washington,George Mason,W
+La Salle,Manhattan,L
+La Salle,Quinnipiac,W
+La Salle,Siena,W
+Penn State,La Salle,W
+La Salle,Morgan State,W
+La Salle,Providence,L
+La Salle,Northern Iowa,L
+La Salle,Stony Brook,W
+Villanova,La Salle,W
+La Salle,Wagner,W
+Miami (FL),La Salle,W
+Pennsylvania,La Salle,L
+La Salle,George Washington,W
+La Salle,Rhode Island,W
+La Salle,Temple,W
+St. Bonaventure,La Salle,W
+La Salle,Virginia Commonwealth,L
+George Washington,La Salle,W
+Massachusetts,La Salle,W
+La Salle,Saint Louis,L
+La Salle,Saint Joseph's,L
+Richmond,La Salle,W
+La Salle,St. Bonaventure,W
+Massachusetts,Boston College,W
+Massachusetts,LSU,W
+Massachusetts,Youngstown State,W
+Massachusetts,Nebraska,W
+Massachusetts,New Mexico,W
+Massachusetts,Clemson,W
+Eastern Michigan,Massachusetts,L
+Massachusetts,Brigham Young,W
+Massachusetts,Northern Illinois,W
+Ohio,Massachusetts,L
+Massachusetts,Florida State,L
+Massachusetts,Providence,W
+Massachusetts,Miami (OH),W
+Massachusetts,Saint Joseph's,W
+Massachusetts,St. Bonaventure,W
+Elon,Massachusetts,L
+Richmond,Massachusetts,W
+St. Bonaventure,Massachusetts,W
+Saint Joseph's,Massachusetts,W
+Rhode Island,Massachusetts,L
+George Washington,Massachusetts,L
+Massachusetts,Virginia Commonwealth,W
+Massachusetts,Rhode Island,W
+Southern Methodist,Rhode Island,W
+Rhode Island,North Carolina A&T,W
+Rhode Island,Metro State,W
+Arizona,Rhode Island,W
+Rhode Island,Massachusetts Lowell,W
+Rhode Island,UNC Asheville,W
+Rhode Island,McNeese State,W
+Rhode Island,Providence,L
+Detroit,Rhode Island,W
+Rhode Island,Southern Miss,L
+Brown,Rhode Island,L
+LSU,Rhode Island,L
+Rhode Island,Saint Louis,L
+George Washington,Rhode Island,W
+Saint Joseph's,Rhode Island,W
+Virginia Commonwealth,Rhode Island,W
+Rhode Island,Saint Joseph's,L
+St. Bonaventure,Rhode Island,L
+Rhode Island,Richmond,W
+Richmond,Delaware,W
+Richmond,Belmont,W
+Richmond,Minnesota,L
+Richmond,Hofstra,W
+Richmond,North Carolina,L
+Richmond,Fairfield,W
+Air Force,Richmond,L
+Richmond,James Madison,W
+William & Mary,Richmond,L
+Wake Forest,Richmond,W
+Richmond,Coppin State,W
+Richmond,Ohio,L
+Richmond,Old Dominion,W
+Northeastern,Richmond,L
+Florida,Richmond,W
+St. Bonaventure,Richmond,W
+Richmond,Saint Joseph's,W
+Saint Louis,Richmond,W
+Virginia Commonwealth,Richmond,W
+Richmond,St. Bonaventure,W
+Richmond,George Washington,L
+Saint Joseph's,Marist,W
+Saint Joseph's,Creighton,L
+Saint Joseph's,LSU,L
+Saint Joseph's,Siena,W
+Saint Joseph's,Washington State,W
+Saint Joseph's,Villanova,L
+Saint Joseph's,Drexel,W
+Loyola (MD),Saint Joseph's,L
+Saint Joseph's,Boston University,W
+Saint Joseph's,Denver,W
+Pennsylvania,Saint Joseph's,L
+Saint Joseph's,Saint Louis,L
+Saint Joseph's,Virginia Commonwealth,W
+St. Bonaventure,Saint Joseph's,L
+Saint Louis,Southeast Missouri State,W
+SIU-Edwardsville,Saint Louis,L
+Southern Illinois,Saint Louis,L
+Saint Louis,Oral Roberts,W
+Saint Louis,Bowling Green,W
+Saint Louis,Wisconsin,L
+Saint Louis,Old Dominion,W
+Saint Louis,Wichita State,L
+Saint Louis,Rockhurst,W
+Valparaiso,Saint Louis,L
+Saint Louis,Wofford,W
+Saint Louis,Indiana State,W
+Saint Louis,North Carolina A&T,W
+Vanderbilt,Saint Louis,L
+Saint Louis,Yale,W
+Saint Louis,St. Bonaventure,W
+Saint Louis,Virginia Commonwealth,W
+Saint Louis,George Washington,W
+Virginia Commonwealth,Saint Louis,W
+St. Bonaventure,South Dakota,W
+St. Bonaventure,Abilene Christian,W
+St. Bonaventure,Canisius,W
+Siena,St. Bonaventure,W
+St. Bonaventure,Southern Illinois,W
+St. Bonaventure,Wagner,W
+St. Bonaventure,Louisiana Tech,L
+St. Bonaventure,Massachusetts Lowell,W
+Buffalo,St. Bonaventure,W
+Iona,St. Bonaventure,L
+Wake Forest,St. Bonaventure,W
+Niagara,St. Bonaventure,L
+St. Bonaventure,Delaware,W
+St. Bonaventure,Cornell,W
+St. Bonaventure,George Washington,L
+VCU,Illinois State,W
+Virginia,VCU,L
+VCU,Winthrop,W
+VCU,Florida State,L
+VCU,Long Beach State,W
+VCU,Georgetown,L
+VCU,Northeastern,W
+Belmont,VCU,L
+VCU,Eastern Kentucky,W
+VCU,Old Dominion,W
+Northern Iowa,VCU,W
+VCU,Wofford,W
+VCU,Virginia Tech,W
+VCU,Boston College,W
+VCU,Stony Brook,W
+VCU,George Mason,W
+George Washington,VCU,W
+VCU,Duquesne,W
+Dayton,VCU,L
+La Salle,VCU,L
+VCU,Fordham,W
+VCU,Richmond,W
+VCU,Rhode Island,W
+Saint Joseph's,VCU,W
+VCU,George Washington,W
+Saint Louis,VCU,W
+Massachusetts,VCU,W
+Fordham,VCU,L
+VCU,Saint Louis,W
+Providence,Boston College,W
+Boston College,Massachusetts,L
+Boston College,Toledo,L
+Boston College,Florida Atlantic,W
+Boston College,Connecticut,L
+Boston College,Washington,W
+Boston College,Sacred Heart,W
+Purdue,Boston College,W
+USC,Boston College,W
+Boston College,Maryland,L
+Boston College,Philadelphia Univers,W
+Auburn,Boston College,W
+Boston College,Virginia Commonwealth,L
+Harvard,Boston College,W
+Boston College,Clemson,L
+Virginia Tech,Boston College,L
+Boston College,Syracuse,L
+North Carolina,Boston College,W
+Boston College,Georgia Tech,L
+Boston College,Virginia Tech,W
+Notre Dame,Boston College,W
+Virginia,Boston College,W
+Boston College,Duke,L
+Georgia Tech,Boston College,W
+Boston College,Notre Dame,L
+Syracuse,Boston College,L
+Miami (FL),Boston College,W
+Boston College,Pittsburgh,L
+Wake Forest,Boston College,L
+Clemson,Stetson,W
+Clemson,Delaware State,W
+Clemson,South Carolina,W
+Clemson,Temple,W
+Clemson,Davidson,W
+Clemson,Massachusetts,L
+Clemson,Coastal Carolina,W
+Clemson,South Carolina State,W
+Arkansas,Clemson,W
+Clemson,Furman,W
+Auburn,Clemson,W
+Clemson,Virginia Military,W
+Clemson,Florida State,L
+Clemson,Duke,W
+Virginia Tech,Clemson,L
+Clemson,Wake Forest,W
+Pittsburgh,Clemson,W
+North Carolina,Clemson,W
+Florida State,Clemson,L
+Clemson,Georgia Tech,W
+Syracuse,Clemson,W
+Notre Dame,Clemson,W
+Clemson,Virginia,L
+Clemson,North Carolina State,W
+Georgia Tech,Clemson,L
+Wake Forest,Clemson,W
+Clemson,Maryland,W
+Duke,Davidson,W
+Duke,Kansas,L
+Duke,Florida Atlantic,W
+Duke,UNC Asheville,W
+Duke,East Carolina,W
+Duke,Alabama,W
+Duke,Arizona,L
+Duke,Michigan,W
+Duke,Gardner-Webb,W
+Duke,UCLA,W
+Duke,Eastern Michigan,W
+Duke,Elon,W
+Notre Dame,Duke,W
+Duke,Georgia Tech,W
+Duke,Virginia,W
+Duke,North Carolina State,W
+Miami (FL),Duke,L
+Duke,Florida State,W
+Pittsburgh,Duke,L
+Syracuse,Duke,W
+Duke,Wake Forest,W
+Duke,Maryland,W
+Georgia Tech,Duke,L
+North Carolina,Duke,W
+Duke,Syracuse,W
+Duke,Virginia Tech,W
+Florida State,Jacksonville,W
+Florida State,Tennessee-Martin,W
+Florida State,Virginia Commonwealth,W
+Florida State,Michigan,L
+Florida State,Northeastern,W
+Florida,Florida State,W
+Minnesota,Florida State,W
+Florida State,Jacksonville State,W
+Florida State,Charlotte,W
+Florida State,Massachusetts,W
+Florida State,Charleston Southern,W
+Florida State,Virginia,L
+Florida State,Maryland,W
+Miami (FL),Florida State,L
+Virginia,Florida State,W
+Florida State,Notre Dame,W
+North Carolina State,Florida State,W
+Florida State,Virginia Tech,W
+Maryland,Florida State,W
+Florida State,Miami (FL),L
+Wake Forest,Florida State,L
+Florida State,North Carolina,L
+Pittsburgh,Florida State,L
+Florida State,Georgia Tech,W
+Georgia Tech,Presbyterian,W
+Georgia Tech,Delaware State,W
+Georgia,Georgia Tech,L
+Georgia Tech,North Carolina A&T,W
+Georgia Tech,Mississippi Valley State,W
+Georgia Tech,Ole Miss,L
+Georgia Tech,St. John's,L
+Georgia Tech,Illinois,W
+Georgia Tech,East Tennessee State,W
+Georgia Tech,Kennesaw State,W
+Vanderbilt,Georgia Tech,W
+Charlotte,Georgia Tech,L
+Maryland,Georgia Tech,W
+Georgia Tech,Notre Dame,W
+Georgia Tech,Pittsburgh,L
+Georgia Tech,Miami (FL),L
+North Carolina State,Georgia Tech,W
+Georgia Tech,North Carolina,L
+Wake Forest,Georgia Tech,L
+Georgia Tech,Virginia,L
+Notre Dame,Georgia Tech,W
+Maryland,Connecticut,L
+Maryland,Abilene Christian,W
+Maryland,Oregon State,L
+Maryland,Marist,W
+Maryland,Northern Iowa,W
+Maryland,Providence,W
+Maryland,Morgan State,W
+Ohio State,Maryland,W
+Maryland,George Washington,L
+Maryland,Florida Atlantic,W
+Maryland,Boston University,L
+Maryland,Tulsa,W
+Maryland,North Carolina Central,W
+Pittsburgh,Maryland,W
+Maryland,Notre Dame,W
+North Carolina State,Maryland,W
+Maryland,Pittsburgh,L
+Maryland,Miami (FL),W
+Virginia Tech,Maryland,L
+North Carolina,Maryland,W
+Virginia,Maryland,W
+Maryland,Wake Forest,W
+Maryland,Syracuse,L
+Miami (FL),St. Francis (NY),L
+Miami (FL),Georgia Southern,W
+Miami (FL),Texas Southern,W
+Charleston,Miami (FL),L
+Miami (FL),George Washington,L
+Cal State Fullerton,Miami (FL),L
+Miami (FL),Arizona State,W
+Nebraska,Miami (FL),W
+Miami (FL),Virginia Tech,L
+Savannah State,Miami (FL),L
+Miami (FL),Loyola (MD),W
+Syracuse,Miami (FL),W
+North Carolina,Miami (FL),L
+Miami (FL),Syracuse,L
+Miami (FL),Norfolk State,W
+Miami (FL),Pittsburgh,L
+Miami (FL),North Carolina State,L
+Virginia Tech,Miami (FL),W
+Miami (FL),Notre Dame,W
+Virginia,Miami (FL),W
+North Carolina State,Miami (FL),L
+North Carolina,Oakland,W
+North Carolina,Holy Cross,W
+North Carolina,Belmont,L
+North Carolina,Richmond,W
+North Carolina,Louisville,W
+UAB,North Carolina,W
+Michigan State,North Carolina,L
+North Carolina,UNC Greensboro,W
+North Carolina,Kentucky,W
+North Carolina,Texas,L
+North Carolina,Davidson,W
+North Carolina,Northern Kentucky,W
+North Carolina,North Carolina-Wilmington,W
+Wake Forest,North Carolina,W
+Syracuse,North Carolina,W
+Virginia,North Carolina,W
+North Carolina,North Carolina State,W
+Notre Dame,North Carolina,L
+North Carolina,Pittsburgh,W
+North Carolina,Wake Forest,W
+North Carolina State,North Carolina,L
+Virginia Tech,North Carolina,L
+North Carolina,Notre Dame,W
+NC State,Appalachian State,W
+Cincinnati,NC State,W
+NC State,Campbell,W
+NC State,North Carolina Central,L
+NC State,Florida Gulf Coast,W
+NC State,Eastern Kentucky,W
+NC State,Northwestern,W
+NC State,Long Beach State,W
+NC State,Detroit,W
+Tennessee,NC State,L
+NC State,East Carolina,W
+NC State,Missouri,L
+UNC Greensboro,NC State,L
+NC State,Pittsburgh,L
+Notre Dame,NC State,L
+NC State,Virginia,L
+Wake Forest,NC State,W
+Duke,NC State,W
+NC State,Maryland,W
+NC State,Georgia Tech,W
+NC State,Florida State,W
+North Carolina,NC State,W
+Miami (FL),NC State,L
+NC State,Wake Forest,W
+Syracuse,NC State,W
+Clemson,NC State,W
+Virginia Tech,NC State,L
+NC State,North Carolina,L
+NC State,Miami (FL),L
+Pittsburgh,NC State,L
+Notre Dame,Miami (OH),W
+Notre Dame,Stetson,W
+Notre Dame,Indiana State,L
+Notre Dame,Santa Clara,W
+Notre Dame,Army,W
+Notre Dame,Cornell,W
+Iowa,Notre Dame,W
+Notre Dame,Delaware,W
+Notre Dame,Bryant University,W
+Notre Dame,North Dakota State,L
+Notre Dame,Indiana,W
+Notre Dame,Ohio State,L
+Notre Dame,Canisius,W
+Notre Dame,North Carolina State,L
+Notre Dame,Virginia Tech,W
+Wake Forest,Notre Dame,W
+Notre Dame,Virginia,L
+Syracuse,Notre Dame,W
+Virginia,Notre Dame,W
+Notre Dame,Pittsburgh,L
+Pittsburgh,Savannah State,W
+Pittsburgh,Fresno State,W
+Pittsburgh,Howard,W
+Pittsburgh,Lehigh,W
+Pittsburgh,Texas Tech,W
+Pittsburgh,Stanford,W
+Pittsburgh,Duquesne,W
+Pittsburgh,Penn State,W
+Pittsburgh,Loyola Marymount,W
+Pittsburgh,Youngstown State,W
+Pittsburgh,Cincinnati,L
+Pittsburgh,Cal Poly,W
+Pittsburgh,Albany,W
+North Carolina State,Pittsburgh,L
+Pittsburgh,Wake Forest,W
+Syracuse,Pittsburgh,W
+Pittsburgh,Virginia,L
+Pittsburgh,Virginia Tech,W
+Pittsburgh,Syracuse,L
+Pittsburgh,North Carolina State,L
+Syracuse,Cornell,W
+Syracuse,Colgate,W
+Syracuse,St. Francis (NY),W
+Syracuse,Minnesota,W
+Syracuse,California,W
+Syracuse,Baylor,W
+Syracuse,Indiana,W
+St. John's,Syracuse,L
+Syracuse,High Point,W
+Syracuse,Villanova,W
+Syracuse,Eastern Michigan,W
+Virginia Tech,Syracuse,L
+Wake Forest,Syracuse,L
+Syracuse,North Carolina State,W
+Virginia,Syracuse,W
+Virginia,James Madison,W
+Virginia,Virginia Commonwealth,L
+Virginia,Davidson,W
+Virginia,Navy,W
+Virginia,Liberty,W
+Virginia,Hampton,W
+Virginia,Southern Methodist,W
+Virginia,Missouri State,W
+Virginia,Wisconsin,L
+Green Bay,Virginia,W
+Virginia,Northern Iowa,W
+Virginia,Norfolk State,W
+Tennessee,Virginia,W
+Virginia,Wake Forest,W
+North Carolina State,Virginia,L
+Virginia,Virginia Tech,W
+Virginia Tech,Virginia,L
+Virginia Tech,USC Upstate,L
+Virginia Tech,West Virginia,W
+Virginia Tech,Western Carolina,W
+Virginia Tech,Virginia Military,W
+Virginia Tech,Michigan State,L
+Virginia Tech,Seton Hall,L
+Virginia Tech,Furman,W
+Virginia Tech,Radford,W
+Virginia Tech,Winthrop,W
+Virginia Tech,Virginia Commonwealth,L
+Virginia Tech,UNC Greensboro,L
+Virginia Tech,Maryland-Eastern Shore,W
+Virginia Tech,Wake Forest,L
+Virginia Tech,North Carolina State,L
+Wake Forest,Colgate,W
+Wake Forest,Virginia Military,W
+Wake Forest,Presbyterian,W
+Wake Forest,Jacksonville,W
+Wake Forest,Citadel,W
+Wake Forest,Kansas,L
+Wake Forest,USC,W
+Wake Forest,Tennessee,L
+Wake Forest,Tulane,W
+Wake Forest,UNC Greensboro,W
+Xavier,Wake Forest,W
+Wake Forest,North Carolina State,W
+North Carolina State,Wake Forest,W
+Charlotte,East Tenn St,W
+East Tenn St,Morehead State,L
+Western Kentucky,East Tenn St,W
+East Tenn St,Winthrop,L
+East Tenn St,Samford,W
+East Tenn St,Stephen F. Austin,W
+Tennessee Tech,East Tenn St,W
+East Tenn St,Marshall,W
+Austin Peay,East Tenn St,L
+Georgia Tech,East Tenn St,W
+East Tenn St,Tusculum,W
+East Tenn St,Austin Peay,W
+East Tenn St,Valparaiso,W
+Kennesaw State,East Tenn St,L
+Mercer,East Tenn St,W
+East Tenn St,Lipscomb,L
+East Tenn St,Northern Kentucky,W
+Stetson,East Tenn St,W
+Florida Gulf Coast,East Tenn St,W
+East Tenn St,North Florida,W
+East Tenn St,Jacksonville,W
+East Tenn St,Mercer,L
+East Tenn St,Kennesaw State,W
+Northern Kentucky,East Tenn St,L
+Lipscomb,East Tenn St,L
+East Tenn St,USC Upstate,L
+East Tenn St,Florida Gulf Coast,W
+East Tenn St,Stetson,W
+Jacksonville,East Tenn St,W
+North Florida,East Tenn St,L
+USC Upstate,East Tenn St,W
+Nebraska,FGCU,W
+FGCU,Hartford,W
+Furman,FGCU,L
+FGCU,Eckerd College,W
+FGCU,Ave Maria,W
+North Carolina State,FGCU,W
+FGCU,Iona,L
+Florida International,FGCU,W
+FGCU,Samford,W
+South Florida,FGCU,W
+Mississippi State,FGCU,W
+FGCU,Florida A&M,W
+FGCU,Radford,L
+FGCU,Northern Kentucky,W
+FGCU,Lipscomb,W
+Stetson,FGCU,L
+North Florida,FGCU,L
+Jacksonville,FGCU,W
+FGCU,USC Upstate,W
+FGCU,East Tennessee State,W
+Mercer,FGCU,W
+Kennesaw State,FGCU,L
+FGCU,Stetson,W
+FGCU,Jacksonville,W
+FGCU,North Florida,W
+East Tennessee State,FGCU,W
+USC Upstate,FGCU,L
+FGCU,Mercer,W
+FGCU,Kennesaw State,W
+Lipscomb,FGCU,W
+Northern Kentucky,FGCU,L
+Creighton,Alcorn State,W
+Creighton,UMKC,W
+Creighton,Tulsa,W
+Creighton,Arizona State,W
+Creighton,San Diego State,L
+Creighton,George Washington,L
+Long Beach State,Creighton,L
+Creighton,Nebraska,W
+Creighton,Arkansas-Pine Bluff,W
+Creighton,California,W
+Creighton,Chicago State,W
+Creighton,Marquette,W
+Seton Hall,Creighton,L
+DePaul,Creighton,L
+Creighton,Xavier,W
+Creighton,Butler,W
+Providence,Creighton,W
+Villanova,Creighton,L
+Creighton,Georgetown,W
+Creighton,St. John's,W
+Creighton,DePaul,W
+St. John's,Creighton,W
+Butler,Creighton,L
+Creighton,Villanova,W
+Marquette,Creighton,L
+Creighton,Seton Hall,W
+Xavier,Creighton,W
+DePaul,Grambling State,W
+DePaul,Southern Miss,L
+DePaul,Wright State,W
+Milwaukee,DePaul,L
+DePaul,Wichita State,L
+DePaul,Texas,L
+DePaul,Oregon State,W
+DePaul,Arizona State,L
+DePaul,Florida Atlantic,W
+DePaul,Chicago State,W
+DePaul,Houston Baptist,W
+Illinois State,DePaul,W
+Northwestern,DePaul,L
+Georgetown,DePaul,W
+Marquette,DePaul,W
+Butler,DePaul,L
+DePaul,St. John's,W
+Villanova,DePaul,W
+DePaul,Xavier,L
+Seton Hall,DePaul,W
+DePaul,Providence,L
+DePaul,Georgetown,L
+DePaul,Villanova,L
+Providence,DePaul,W
+Xavier,DePaul,W
+DePaul,Marquette,L
+DePaul,Seton Hall,W
+St. John's,DePaul,W
+Georgetown,Oregon,L
+Georgetown,Wright State,W
+Georgetown,Northeastern,L
+Georgetown,Kansas State,W
+Georgetown,Virginia Commonwealth,W
+Georgetown,Lipscomb,W
+Georgetown,High Point,W
+Georgetown,Colgate,W
+Georgetown,Elon,W
+Kansas,Georgetown,W
+Georgetown,Florida International,W
+Georgetown,St. John's,W
+Providence,Georgetown,W
+Butler,Georgetown,L
+Xavier,Georgetown,W
+Georgetown,Seton Hall,L
+Georgetown,Marquette,L
+Georgetown,Villanova,L
+Georgetown,Michigan State,W
+Georgetown,Butler,W
+Georgetown,Providence,W
+St. John's,Georgetown,W
+Seton Hall,Georgetown,W
+Georgetown,Xavier,W
+Marquette,Georgetown,W
+Marquette,Southern University,W
+Marquette,Grambling State,W
+Marquette,Ohio State,L
+Arizona State,Marquette,W
+Cal State Fullerton,Marquette,L
+Marquette,George Washington,W
+Marquette,San Diego State,L
+Wisconsin,Marquette,W
+Marquette,IUPUI,W
+Marquette,Ball State,W
+Marquette,New Mexico,L
+Marquette,Samford,W
+Xavier,Marquette,W
+Marquette,Seton Hall,W
+Butler,Marquette,W
+Marquette,Villanova,L
+Marquette,Providence,W
+St. John's,Marquette,W
+Marquette,Butler,W
+Seton Hall,Marquette,L
+Marquette,Xavier,W
+Villanova,Marquette,W
+Providence,Brown,W
+Providence,Marist,W
+Providence,Vanderbilt,W
+Providence,La Salle,W
+Providence,Maryland,L
+Providence,Fairfield,W
+Providence,Kentucky,L
+Providence,Yale,W
+Providence,Seton Hall,L
+Villanova,Providence,W
+St. John's,Providence,L
+Providence,Butler,W
+Providence,Xavier,W
+Providence,St. John's,L
+Xavier,Providence,W
+Providence,Villanova,L
+Butler,Providence,L
+Seton Hall,Providence,L
+Seton Hall,Niagara,W
+Seton Hall,Kent State,W
+Mercer,Seton Hall,W
+Seton Hall,Monmouth,W
+Seton Hall,Oklahoma,L
+Seton Hall,Virginia Tech,W
+Seton Hall,Fairleigh Dickinson,L
+Seton Hall,LIU Brooklyn,W
+Seton Hall,N.J.I.T.,W
+Seton Hall,St. Peter's,L
+Seton Hall,Eastern Washington,W
+Seton Hall,Lafayette,W
+Seton Hall,Villanova,L
+St. John's,Seton Hall,W
+Seton Hall,Butler,L
+Xavier,Seton Hall,L
+Villanova,Seton Hall,W
+Seton Hall,St. John's,L
+Seton Hall,Xavier,W
+St. John's,Wisconsin,L
+St. John's,Wagner,W
+St. John's,Bucknell,W
+St. John's,Monmouth,W
+St. John's,Longwood,W
+St. John's,Penn State,L
+St. John's,Georgia Tech,W
+St. John's,San Francisco,W
+St. John's,Youngstown State,W
+St. John's,Columbia,W
+Xavier,St. John's,W
+St. John's,Villanova,L
+St. John's,Dartmouth,W
+Butler,St. John's,L
+St. John's,Butler,W
+Villanova,St. John's,W
+St. John's,Xavier,L
+Villanova,Lafayette,W
+Villanova,Mount St. Mary's,W
+Villanova,Towson,W
+Villanova,Delaware,W
+Villanova,USC,W
+Villanova,Kansas,W
+Villanova,Iowa,W
+Villanova,Pennsylvania,W
+Villanova,Rider,W
+Butler,Villanova,L
+Villanova,Xavier,W
+Villanova,Butler,W
+Xavier,Gardner-Webb,W
+Xavier,Tennessee,W
+Xavier,Morehead State,W
+Xavier,Miami (OH),W
+Xavier,Abilene Christian,W
+Xavier,Iowa,L
+Xavier,Tennessee,L
+Xavier,USC,L
+Xavier,Bowling Green,W
+Xavier,Evansville,W
+Xavier,Cincinnati,W
+Alabama,Xavier,L
+Xavier,Butler,W
+Butler,Xavier,L
+E Washington,Pacific Oregon,W
+Washington,E Washington,W
+E Washington,Walla Walla University,W
+E Washington,Boston University,W
+E Washington,LIU Brooklyn,W
+UC Irvine,E Washington,W
+E Washington,Seattle,W
+Saint Mary's,E Washington,W
+E Washington,UC Irvine,L
+Seton Hall,E Washington,W
+Connecticut,E Washington,W
+Weber State,E Washington,W
+Idaho State,E Washington,W
+E Washington,Montana,W
+E Washington,Montana State,W
+Northern Arizona,E Washington,W
+Sacramento State,E Washington,W
+E Washington,Southern Utah,W
+Portland State,E Washington,W
+E Washington,North Dakota,L
+E Washington,Northern Colorado,W
+Montana State,E Washington,L
+Montana,E Washington,W
+E Washington,Sacramento State,W
+E Washington,Northern Arizona,W
+Southern Utah,E Washington,L
+E Washington,Portland State,L
+Northern Colorado,E Washington,L
+North Dakota,E Washington,W
+Idaho State,Evergreen State,W
+Arizona State,Idaho State,W
+San Francisco,Idaho State,L
+Cal State Bakersfield,Idaho State,W
+Idaho State,Carroll College Montana,W
+Utah,Idaho State,W
+Washington,Idaho State,W
+Idaho,Idaho State,W
+Idaho State,Cal State Bakersfield,L
+Idaho State,Portland State,W
+Idaho State,Eastern Washington,W
+North Dakota,Idaho State,W
+Northern Colorado,Idaho State,W
+Idaho State,Southern Utah,W
+Weber State,Idaho State,W
+Idaho State,Montana,L
+Idaho State,Montana State,W
+Sacramento State,Idaho State,W
+Northern Arizona,Idaho State,W
+Idaho State,Northern Colorado,W
+Idaho State,North Dakota,L
+Southern Utah,Idaho State,L
+Idaho State,Weber State,W
+Montana State,Idaho State,W
+Montana,Idaho State,W
+Idaho State,Northern Arizona,L
+Idaho State,Sacramento State,W
+Minnesota,Montana,W
+South Dakota State,Montana,L
+Montana,San Francisco,L
+Washington,Montana,W
+Hawaii,Montana,W
+Montana,Idaho,W
+Montana,St. Martins,W
+Montana,Montana-Western,W
+Idaho,Montana,L
+Montana,Northern Arizona,L
+Montana,Sacramento State,W
+Eastern Washington,Montana,W
+Portland State,Montana,W
+Montana,North Dakota,W
+Montana,Northern Colorado,L
+Weber State,Montana,W
+Southern Utah,Montana,L
+Montana State,Montana,L
+Montana,Portland State,W
+Montana,Eastern Washington,W
+Northern Colorado,Montana,W
+North Dakota,Montana,W
+Montana,Weber State,W
+Montana,Southern Utah,W
+Montana,Montana State,W
+Montana State,Cal State Fullerton,L
+UC Riverside,Montana State,W
+Montana State,Cal State Northridge,L
+Central Michigan,Montana State,L
+Montana State,Austin Peay,L
+Montana State,Cal State Northridge,W
+Wyoming,Montana State,W
+Montana State,Walla Walla University,W
+Portland,Montana State,L
+Montana State,SW Christian Univ,W
+UTEP,Montana State,W
+Montana State,Sacramento State,W
+Montana State,Northern Arizona,W
+Portland State,Montana State,L
+Eastern Washington,Montana State,W
+Montana State,Northern Colorado,W
+Montana State,North Dakota,L
+Weber State,Montana State,W
+Southern Utah,Montana State,L
+Montana State,Eastern Washington,L
+Montana State,Portland State,W
+North Dakota,Montana State,L
+Northern Colorado,Montana State,W
+Montana State,Weber State,L
+Montana State,Southern Utah,W
+North Dakota,Minne Morris,W
+Wisconsin,North Dakota,W
+North Dakota,North Dakota State,W
+North Dakota,Cal Poly,L
+Oregon,North Dakota,W
+North Dakota,Pacific,L
+Butler,North Dakota,W
+Bowling Green,North Dakota,W
+North Dakota,Presentation College,W
+North Dakota,South Dakota State,L
+Northern Colorado,North Dakota,W
+North Dakota,Southern Utah,W
+North Dakota,Weber State,L
+North Dakota,Sacramento State,W
+North Dakota,Northern Arizona,W
+Eastern Washington,North Dakota,L
+Portland State,North Dakota,W
+Weber State,North Dakota,W
+Sacramento State,North Dakota,W
+Northern Arizona,North Dakota,L
+North Dakota,Portland State,W
+North Dakota,Eastern Washington,W
+UTSA,N Arizona,L
+Texas Tech,N Arizona,W
+USC,N Arizona,W
+Loyola Marymount,N Arizona,W
+N Arizona,San Diego Christian,W
+N Arizona,Cal State Bakersfield,L
+N Arizona,Drake,L
+Fresno State,N Arizona,W
+N Arizona,Hawaii,L
+N Arizona,Grand Canyon,W
+Arizona,N Arizona,W
+Montana,N Arizona,L
+Montana State,N Arizona,W
+N Arizona,Sacramento State,W
+Southern Utah,N Arizona,L
+N Arizona,Eastern Washington,W
+N Arizona,Portland State,W
+Northern Colorado,N Arizona,W
+North Dakota,N Arizona,W
+N Arizona,Weber State,L
+N Arizona,Idaho State,W
+Sacramento State,N Arizona,W
+N Arizona,Southern Utah,W
+Portland State,N Arizona,L
+Eastern Washington,N Arizona,W
+N Arizona,Northern Colorado,L
+N Arizona,North Dakota,L
+Idaho State,N Arizona,L
+Weber State,N Arizona,L
+Kansas State,N Colorado,L
+N Colorado,CO Christian,W
+New Mexico State,N Colorado,W
+Colorado State,N Colorado,W
+N Colorado,Bethune-Cookman,W
+N Colorado,Prairie View A&M,W
+N Colorado,Colorado College,W
+N Colorado,UC Riverside,W
+Wyoming,N Colorado,W
+N Colorado,North Dakota,W
+N Colorado,Southern Utah,W
+N Colorado,Weber State,W
+N Colorado,Idaho State,W
+Montana State,N Colorado,W
+Montana,N Colorado,L
+N Colorado,Northern Arizona,W
+N Colorado,Sacramento State,W
+Portland State,N Colorado,W
+Eastern Washington,N Colorado,W
+Idaho State,N Colorado,W
+Weber State,N Colorado,W
+N Colorado,Montana,W
+N Colorado,Montana State,W
+Northern Arizona,N Colorado,L
+Sacramento State,N Colorado,W
+N Colorado,Eastern Washington,L
+N Colorado,Portland State,L
+UNLV,Portland State,W
+Portland State,Pacific Lutheran,W
+Portland State,Loyola (IL),W
+Portland State,SIU-Edwardsville,W
+Portland State,UC Davis,W
+Boise State,Portland State,W
+Portland State,Portland,L
+Portland State,Idaho,L
+Portland State,Evergreen State,W
+Weber State,Portland State,W
+Sacramento State,Portland State,L
+Northern Arizona,Portland State,W
+Portland State,Southern Utah,W
+Portland State,Eastern Washington,W
+Portland State,Northern Colorado,W
+Portland State,Northern Arizona,L
+Portland State,Sacramento State,L
+Southern Utah,Portland State,L
+Eastern Washington,Portland State,L
+Northern Colorado,Portland State,L
+Sacramento St,UC Santa Cruz,W
+Cal State Bakersfield,Sacramento St,W
+UCLA,Sacramento St,W
+UC Davis,Sacramento St,L
+Sacramento St,UC Irvine,L
+UTEP,Sacramento St,W
+Sacramento St,William Jessup,W
+Cal State Fullerton,Sacramento St,W
+Sacramento St,UC Riverside,W
+Montana State,Sacramento St,W
+Montana,Sacramento St,W
+Northern Arizona,Sacramento St,W
+Southern Utah,Sacramento St,L
+Sacramento St,Portland State,L
+Sacramento St,Eastern Washington,W
+North Dakota,Sacramento St,W
+Northern Colorado,Sacramento St,W
+Sacramento St,Idaho State,W
+Sacramento St,Weber State,W
+Sacramento St,Northern Arizona,W
+Sacramento St,Southern Utah,W
+Eastern Washington,Sacramento St,W
+Portland State,Sacramento St,L
+Sacramento St,North Dakota,W
+Sacramento St,Northern Colorado,W
+Weber State,Sacramento St,W
+Idaho State,Sacramento St,W
+Southern Utah,Arizona Christian,W
+Utah State,Southern Utah,W
+California,Southern Utah,W
+Southern Utah,UC Riverside,L
+Portland,Southern Utah,W
+Cal State Northridge,Southern Utah,W
+Southern Utah,UNLV,L
+San Diego State,Southern Utah,W
+San Diego,Southern Utah,W
+Northern Colorado,Southern Utah,W
+Southern Utah,Sacramento State,L
+Southern Utah,Northern Arizona,L
+Weber State,Southern Utah,W
+Eastern Washington,Southern Utah,W
+Northern Arizona,Southern Utah,W
+Sacramento State,Southern Utah,W
+Southern Utah,Weber State,L
+Southern Utah,Eastern Washington,L
+Brigham Young,Weber State,W
+Colorado State,Weber State,W
+Weber State,Utah State,L
+Weber State,San Jose State,W
+Utah Valley,Weber State,W
+Weber State,St. Katherine,W
+UCLA,Weber State,W
+Weber State,Northern New Mexico,W
+Weber State,Eastern Washington,W
+Northern Colorado,Weber State,W
+Northern Arizona,Weber State,L
+Sacramento State,Weber State,W
+Weber State,Northern Colorado,W
+Weber State,Sacramento State,W
+Weber State,Northern Arizona,L
+Campbell,Shenandoah,W
+Appalachian State,Campbell,L
+North Carolina State,Campbell,W
+Campbell,North Carolina Central,L
+Campbell,St. Andrews,W
+Georgia Southern,Campbell,L
+North Carolina-Wilmington,Campbell,W
+Campbell,Chowan,L
+Loyola (IL),Campbell,W
+Robert Morris,Campbell,W
+Campbell,Johnson & Wales (NC),W
+Campbell,Georgia Southern,W
+Campbell,East Carolina,L
+Campbell,Delaware State,L
+Campbell,High Point,W
+Longwood,Campbell,L
+Liberty,Campbell,W
+Campbell,Virginia Military,W
+Campbell,Radford,W
+Gardner-Webb,Campbell,W
+Campbell,Charleston Southern,W
+Campbell,Coastal Carolina,L
+UNC Asheville,Campbell,W
+Winthrop,Campbell,W
+Campbell,Presbyterian,W
+Campbell,Longwood,L
+Virginia Military,Campbell,W
+Campbell,Liberty,L
+Radford,Campbell,W
+High Point,Campbell,W
+Charl Southern,Johnson Univ,W
+Delaware,Charl Southern,L
+Charl Southern,North Carolina-Wilmington,L
+New Mexico,Charl Southern,W
+Baylor,Charl Southern,W
+Charl Southern,Trinity Baptist,W
+Charl Southern,Delaware,L
+Alabama,Charl Southern,W
+Western Carolina,Charl Southern,W
+Central Arkansas,Charl Southern,L
+Charl Southern,St. Andrews,W
+Florida State,Charl Southern,W
+Charl Southern,Columbia Internatl,W
+Charl Southern,Coastal Carolina,W
+Winthrop,Charl Southern,W
+Charl Southern,Presbyterian,W
+Charl Southern,UNC Asheville,L
+Gardner-Webb,Charl Southern,L
+Charl Southern,Longwood,L
+Campbell,Charl Southern,W
+Charl Southern,Liberty,W
+Charl Southern,Radford,L
+Virginia Military,Charl Southern,W
+Charl Southern,Winthrop,W
+High Point,Charl Southern,W
+UNC Asheville,Charl Southern,W
+Presbyterian,Charl Southern,L
+Charl Southern,Gardner-Webb,L
+Coastal Carolina,Charl Southern,W
+Akron,Coast Carolina,W
+Coast Carolina,Guilford,W
+Coast Carolina,Ole Miss,L
+Minnesota,Coast Carolina,W
+Coast Carolina,St. Francis (NY),W
+Coast Carolina,Louisiana-Lafayette,L
+Clemson,Coast Carolina,W
+Coast Carolina,Western Carolina,W
+Coast Carolina,NC Wesleyan,W
+Coast Carolina,Reinhardt,W
+South Carolina State,Coast Carolina,W
+Central Connecticut State,Coast Carolina,L
+Coast Carolina,South Carolina State,L
+Coast Carolina,Central Connecticut State,W
+Charleston Southern,Coast Carolina,W
+Gardner-Webb,Coast Carolina,L
+Coast Carolina,UNC Asheville,W
+Coast Carolina,Winthrop,L
+Presbyterian,Coast Carolina,L
+Radford,Coast Carolina,L
+Coast Carolina,Liberty,W
+Campbell,Coast Carolina,L
+Coast Carolina,High Point,L
+Coast Carolina,Longwood,W
+Virginia Military,Coast Carolina,L
+Coast Carolina,Gardner-Webb,W
+Winthrop,Coast Carolina,W
+UNC Asheville,Coast Carolina,W
+Coast Carolina,Presbyterian,W
+Coast Carolina,Charleston Southern,W
+Furman,Gardner-Webb,W
+Gardner-Webb,Jacksonville,W
+Gardner-Webb,Allen,W
+Missouri,Gardner-Webb,W
+Northwestern,Gardner-Webb,W
+Gardner-Webb,IUPUI,W
+Gardner-Webb,Morehead State,W
+Gardner-Webb,Wofford,L
+Citadel,Gardner-Webb,L
+Gardner-Webb,Clearwater Christian,W
+Georgia,Gardner-Webb,W
+Gardner-Webb,Hiwassee College,W
+Delaware State,Gardner-Webb,W
+Gardner-Webb,UNC Asheville,L
+Gardner-Webb,Coastal Carolina,L
+Winthrop,Gardner-Webb,L
+Presbyterian,Gardner-Webb,L
+Gardner-Webb,Charleston Southern,L
+Longwood,Gardner-Webb,L
+Radford,Gardner-Webb,L
+Gardner-Webb,Virginia Military,L
+Gardner-Webb,High Point,W
+Liberty,Gardner-Webb,L
+Coastal Carolina,Gardner-Webb,W
+Gardner-Webb,Presbyterian,W
+Gardner-Webb,Winthrop,W
+Charleston Southern,Gardner-Webb,L
+UNC Asheville,Gardner-Webb,W
+UNC Greensboro,High Point,W
+High Point,Ferrum,W
+Eastern Kentucky,High Point,W
+William & Mary,High Point,L
+High Point,Wofford,W
+High Point,Stephen F. Austin,L
+High Point,James Madison,L
+Morgan State,High Point,W
+Arkansas,High Point,W
+Wofford,High Point,W
+High Point,Lees McRae,W
+High Point,Radford,L
+High Point,Longwood,W
+Liberty,High Point,L
+Virginia Military,High Point,W
+High Point,UNC Asheville,W
+Presbyterian,High Point,L
+High Point,Winthrop,W
+Coastal Carolina,High Point,L
+Radford,High Point,L
+High Point,Charleston Southern,W
+High Point,Liberty,W
+Longwood,High Point,L
+High Point,Virginia Military,W
+Liberty,Randolph College,W
+William & Mary,Liberty,W
+Liberty,Western Carolina,L
+Liberty,North Carolina-Wilmington,L
+Missouri State,Liberty,W
+Liberty,Hampton,W
+Liberty,Sam Houston State,W
+Liberty,Greensboro,W
+Austin Peay,Liberty,W
+Liberty,Howard,W
+Furman,Liberty,W
+Liberty,Southeastern University,W
+Delaware,Liberty,W
+Liberty,Princeton,L
+Radford,Liberty,W
+Virginia Military,Liberty,L
+Longwood,Liberty,W
+Liberty,Presbyterian,W
+Coastal Carolina,Liberty,W
+Charleston Southern,Liberty,W
+Liberty,Winthrop,L
+UNC Asheville,Liberty,W
+Liberty,Virginia Military,L
+Liberty,Longwood,W
+Liberty,Radford,L
+South Carolina,Longwood,W
+TCU,Longwood,L
+Longwood,Mars Hill,W
+Longwood,Brown,L
+Penn State,Longwood,W
+Longwood,North Carolina A&T,L
+Longwood,Mississippi Valley State,L
+Longwood,W. Virginia Tech,W
+Longwood,Eastern Kentucky,L
+Longwood,Bluefield,W
+Longwood,VA Intermont,W
+Dartmouth,Longwood,W
+Ohio,Longwood,W
+Louisiana Tech,Longwood,W
+Virginia Military,Longwood,W
+Radford,Longwood,W
+Charleston Southern,Longwood,L
+Longwood,UNC Asheville,L
+Presbyterian,Longwood,W
+Coastal Carolina,Longwood,W
+Longwood,Winthrop,L
+Longwood,Radford,L
+Longwood,Virginia Military,L
+Citadel,Presbyterian,W
+Presbyterian,Toccoa Falls,W
+Old Dominion,Presbyterian,W
+West Virginia,Presbyterian,W
+Presbyterian,Bowling Green,L
+Presbyterian,Georgia Southern,L
+UNC Greensboro,Presbyterian,L
+Presbyterian,Montreat College,W
+Presbyterian,Furman,L
+Presbyterian,Tennessee-Martin,L
+Presbyterian,Appalachian State,W
+Samford,Presbyterian,W
+Marshall,Presbyterian,W
+Presbyterian,Winthrop,L
+UNC Asheville,Presbyterian,W
+Charleston Southern,Presbyterian,W
+Presbyterian,Coastal Carolina,L
+Virginia Military,Presbyterian,W
+Presbyterian,Radford,L
+Presbyterian,UNC Asheville,W
+Presbyterian,Charleston Southern,L
+Coastal Carolina,Presbyterian,W
+Winthrop,Presbyterian,W
+George Washington,Radford,W
+Radford,Chattanooga,W
+Radford,Brevard College,W
+Cornell,Radford,L
+Radford,Central Pennsylvania College,W
+Radford,North Carolina A&T,W
+Santa Clara,Radford,W
+UNLV,Radford,W
+Radford,Sacred Heart,W
+Radford,Florida Gulf Coast,W
+Radford,Houghton College,W
+Radford,Citadel,W
+Hampton,Radford,W
+Radford,Virginia Military,L
+Radford,Coastal Carolina,L
+Winthrop,Radford,L
+Charleston Southern,Radford,L
+Radford,UNC Asheville,W
+Virginia Military,Radford,W
+Kentucky,UNC Asheville,W
+Western Carolina,UNC Asheville,W
+Charleston,UNC Asheville,L
+UNC Asheville,Norfolk State,L
+UNC Asheville,East Carolina,L
+Charlotte,UNC Asheville,W
+UNC Asheville,Bluefield College,W
+USC Upstate,UNC Asheville,L
+UNC Asheville,VA Intermont,W
+UNC Asheville,North Carolina-Wilmington,W
+UNC Asheville,Montreat College,W
+UNC Asheville,Ohio,L
+Coastal Carolina,UNC Asheville,W
+Charleston Southern,UNC Asheville,L
+UNC Asheville,Winthrop,W
+UNC Asheville,Virginia Military,L
+UNC Asheville,Charleston Southern,W
+UNC Asheville,Coastal Carolina,W
+Winthrop,UNC Asheville,W
+VMI,Citadel,W
+VMI,Air Force,W
+Wake Forest,VMI,W
+VMI,Bluefield,W
+Virginia Tech,VMI,W
+VMI,Bridgewater,W
+William & Mary,VMI,W
+Elon,VMI,W
+VMI,Wright State,W
+VMI,VU of Lynchburg,W
+East Carolina,VMI,W
+Clemson,VMI,W
+VMI,Washington Coll,W
+VMI,Longwood,W
+VMI,Liberty,L
+Radford,VMI,L
+Campbell,VMI,W
+VMI,High Point,W
+Winthrop,VMI,W
+UNC Asheville,VMI,L
+VMI,Presbyterian,W
+Gardner-Webb,VMI,L
+VMI,Charleston Southern,W
+VMI,Coastal Carolina,L
+Liberty,VMI,L
+VMI,Campbell,W
+VMI,Radford,W
+High Point,VMI,W
+Longwood,VMI,L
+Winthrop,Roanoke,W
+Winthrop,USC Upstate,W
+Virginia Commonwealth,Winthrop,W
+East Tennessee State,Winthrop,L
+Winthrop,VA Intermont,W
+Winthrop,James Madison,W
+Winthrop,Appalachian State,W
+North Carolina Central,Winthrop,W
+Winthrop,Wofford,L
+Hampton,Winthrop,W
+Winthrop,Charleston Southern,W
+Coastal Carolina,Winthrop,L
+Winthrop,Virginia Military,W
+Winthrop,Barber-Scotia,W
+Charleston Southern,Winthrop,W
+Winthrop,Coastal Carolina,W
+Illinois,Alabama State,W
+Illinois,Jacksonville State,W
+Illinois,Valparaiso,W
+Illinois,Bradley,W
+Illinois,Chicago State,W
+UNLV,Illinois,L
+Illinois,IPFW,W
+Illinois,Auburn,W
+Illinois,Dartmouth,W
+Illinois,Oregon,L
+Illinois,Missouri,W
+Illinois,Illinois-Chicago,W
+Illinois,Indiana,W
+Illinois,Penn State,W
+Wisconsin,Illinois,W
+Northwestern,Illinois,W
+Illinois,Purdue,L
+Illinois,Michigan State,L
+Ohio State,Illinois,W
+Indiana,Illinois,W
+Illinois,Iowa,L
+Illinois,Wisconsin,L
+Penn State,Illinois,L
+Nebraska,Illinois,W
+Illinois,Ohio State,L
+Minnesota,Illinois,L
+Illinois,Nebraska,W
+Michigan State,Illinois,L
+Indiana,Chicago State,W
+Indiana,LIU Brooklyn,W
+Indiana,Samford,W
+Indiana,Washington,W
+Indiana,Connecticut,L
+Indiana,Evansville,W
+Indiana,North Florida,W
+Indiana,Oakland,W
+Indiana,Notre Dame,L
+Indiana,Nicholls State,W
+Indiana,Kennesaw State,W
+Indiana,Michigan State,L
+Penn State,Indiana,L
+Indiana,Wisconsin,W
+Indiana,Northwestern,L
+Michigan State,Indiana,W
+Nebraska,Indiana,W
+Indiana,Michigan,W
+Minnesota,Indiana,W
+Indiana,Penn State,L
+Purdue,Indiana,W
+Northwestern,Indiana,L
+Wisconsin,Indiana,W
+Indiana,Iowa,W
+Indiana,Ohio State,W
+Iowa,North Carolina-Wilmington,W
+Iowa,Nebraska-Omaha,W
+Iowa,Maryland-Eastern Shore,W
+Iowa,Abilene Christian,W
+Iowa,Pennsylvania,W
+Iowa,Xavier,W
+Iowa,UTEP,W
+Iowa,Villanova,L
+Iowa,Drake,W
+Iowa,Fairleigh Dickinson,W
+Iowa State,Iowa,W
+Iowa,Arkansas-Pine Bluff,W
+Iowa,Nebraska,W
+Wisconsin,Iowa,W
+Iowa,Northwestern,W
+Ohio State,Iowa,L
+Iowa,Minnesota,W
+Michigan,Iowa,W
+Northwestern,Iowa,L
+Iowa,Michigan State,L
+Iowa,Ohio State,L
+Iowa,Michigan,W
+Penn State,Iowa,L
+Iowa,Wisconsin,L
+Minnesota,Iowa,W
+Iowa,Purdue,W
+Michigan,Massachusetts Lowell,W
+Michigan,South Carolina State,W
+Iowa State,Michigan,W
+Michigan,Long Beach State,W
+Michigan,Florida State,W
+Michigan,Charlotte,L
+Michigan,Coppin State,W
+Michigan,Houston Baptist,W
+Michigan,Arizona,L
+Michigan,Stanford,W
+Michigan,Holy Cross,W
+Minnesota,Michigan,L
+Michigan,Northwestern,W
+Nebraska,Michigan,L
+Michigan,Penn State,W
+Wisconsin,Michigan,L
+Michigan State,Michigan,L
+Michigan,Purdue,W
+Michigan,Nebraska,W
+Ohio State,Michigan,L
+Michigan,Wisconsin,L
+Michigan,Michigan State,W
+Purdue,Michigan,L
+Michigan,Minnesota,W
+Michigan State,McNeese State,W
+Michigan State,Kentucky,W
+Michigan State,Columbia,W
+Michigan State,Portland,W
+Michigan State,Virginia Tech,W
+Michigan State,Oklahoma,W
+Michigan State,Mount St. Mary's,W
+Michigan State,Oakland,W
+Michigan State,North Florida,W
+Texas,Michigan State,L
+Michigan State,New Orleans,W
+Penn State,Michigan State,L
+Michigan State,Ohio State,W
+Michigan State,Minnesota,W
+Northwestern,Michigan State,L
+Michigan State,Georgetown,L
+Michigan State,Penn State,W
+Wisconsin,Michigan State,W
+Michigan State,Northwestern,W
+Michigan State,Nebraska,L
+Purdue,Michigan State,L
+Minnesota,Lehigh,W
+Minnesota,Coastal Carolina,W
+Minnesota,Wofford,W
+Minnesota,Syracuse,L
+Minnesota,Arkansas,L
+Chaminade,Minnesota,L
+Minnesota,New Orleans,W
+Minnesota,South Dakota State,W
+Minnesota,Nebraska-Omaha,W
+Minnesota,Texas A&M-CC,W
+Minnesota,Purdue,W
+Penn State,Minnesota,L
+Minnesota,Ohio State,W
+Minnesota,Wisconsin,W
+Nebraska,Minnesota,W
+Minnesota,Northwestern,L
+Purdue,Minnesota,W
+Wisconsin,Minnesota,W
+Northwestern,Minnesota,L
+Ohio State,Minnesota,W
+Nebraska,Florida Gulf Coast,W
+Nebraska,Western Illinois,W
+Nebraska,South Carolina State,W
+Nebraska,Massachusetts,L
+Nebraska,UAB,L
+Nebraska,Georgia,W
+Nebraska,Northern Illinois,W
+Nebraska,Arkansas State,W
+Nebraska,Citadel,W
+Ohio State,Nebraska,W
+Purdue,Nebraska,W
+Nebraska,Ohio State,W
+Penn State,Nebraska,W
+Northwestern,Nebraska,L
+Nebraska,Penn State,W
+Nebraska,Purdue,W
+Nebraska,Northwestern,W
+Northwestern,Eastern Illinois,W
+Stanford,Northwestern,W
+Northwestern,Illinois State,L
+Illinois-Chicago,Northwestern,L
+Northwestern,IUPUI,W
+Northwestern,Missouri,L
+Northwestern,UCLA,L
+North Carolina State,Northwestern,W
+Northwestern,Western Michigan,W
+Northwestern,Mississippi Valley State,W
+Northwestern,Brown,W
+Northwestern,Wisconsin,L
+Northwestern,Purdue,W
+Wisconsin,Northwestern,L
+Ohio State,Northwestern,W
+Ohio State,Morgan State,W
+Ohio State,Ohio,W
+Ohio State,American University,W
+Ohio State,Wyoming,W
+Ohio State,North Florida,W
+Ohio State,Central Connecticut State,W
+Ohio State,Bryant University,W
+Ohio State,North Dakota State,W
+Ohio State,Delaware,W
+Ohio State,Notre Dame,W
+Ohio State,Louisiana-Monroe,W
+Purdue,Ohio State,L
+Ohio State,Penn State,L
+Wisconsin,Ohio State,L
+Ohio State,Purdue,W
+Penn State,Ohio State,W
+Penn State,Wagner,W
+Penn State,Bucknell,L
+Pennsylvania,Penn State,L
+Penn State,Monmouth,W
+Penn State,St. John's,W
+Penn State,Ole Miss,L
+Penn State,Marshall,W
+Penn State,Princeton,L
+Penn State,Mount St. Mary's,W
+Purdue,Penn State,W
+Penn State,Purdue,W
+Penn State,Wisconsin,L
+Purdue,Northern Kentucky,W
+Purdue,Central Connecticut State,W
+Purdue,Rider,W
+Purdue,Eastern Illinois,W
+Purdue,Siena,W
+Purdue,Oklahoma State,L
+Purdue,Washington State,L
+Purdue,Eastern Michigan,W
+Purdue,Butler,L
+Purdue,Maryland-Eastern Shore,W
+West Virginia,Purdue,L
+Purdue,Wisconsin,L
+Wisconsin,St. John's,W
+Wisconsin,Florida,W
+Green Bay,Wisconsin,L
+Wisconsin,Bowling Green,W
+Wisconsin,Oral Roberts,W
+Wisconsin,Saint Louis,W
+Wisconsin,West Virginia,W
+Wisconsin,Milwaukee,W
+Wisconsin,Eastern Kentucky,W
+Wisconsin,Prairie View A&M,W
+Arizona,Cal Poly,W
+Cal Poly,Nevada,L
+Fresno State,Cal Poly,W
+Cal Poly,Bethesda Univ,W
+Cal Poly,North Dakota,W
+Cal Poly,Pacific,L
+Oregon,Cal Poly,W
+Cal Poly,Santa Clara,W
+Cal Poly,Cal Dom Hills,W
+Loyola Marymount,Cal Poly,W
+Stanford,Cal Poly,W
+Delaware,Cal Poly,W
+Cal Poly,Hawaii,W
+UC Santa Barbara,Cal Poly,L
+Cal Poly,Cal State Northridge,W
+Cal Poly,Long Beach State,L
+Cal State Fullerton,Cal Poly,L
+UC Riverside,Cal Poly,W
+Cal Poly,UC Davis,L
+Cal Poly,UC Irvine,L
+Hawaii,Cal Poly,W
+Cal State Northridge,Cal Poly,L
+Long Beach State,Cal Poly,W
+Cal Poly,Cal State Fullerton,L
+Cal Poly,UC Riverside,W
+UC Davis,Cal Poly,W
+UC Irvine,Cal Poly,W
+Montana State,CS Fullerton,L
+Seattle,CS Fullerton,W
+CS Fullerton,Santa Clara,W
+USC,CS Fullerton,W
+San Jose State,CS Fullerton,W
+CS Fullerton,Marquette,L
+CS Fullerton,Miami (FL),L
+CS Fullerton,Charleston,L
+Pepperdine,CS Fullerton,L
+CS Fullerton,Seattle,L
+CS Fullerton,Texas Southern,W
+CS Fullerton,Sacramento State,W
+UNLV,CS Fullerton,W
+Tulsa,CS Fullerton,W
+CS Fullerton,UC Riverside,W
+UC Irvine,CS Fullerton,W
+UC Davis,CS Fullerton,W
+CS Fullerton,Cal Poly,L
+CS Fullerton,UC Santa Barbara,W
+Long Beach State,CS Fullerton,W
+UC Riverside,CS Fullerton,W
+Cal State Northridge,CS Fullerton,W
+CS Fullerton,UC Davis,W
+CS Fullerton,Hawaii,L
+Cal Poly,CS Fullerton,L
+UC Santa Barbara,CS Fullerton,W
+CS Fullerton,Cal State Northridge,W
+CS Fullerton,Long Beach State,W
+CS Northridge,Hope International,W
+USC,CS Northridge,W
+Fresno State,CS Northridge,W
+CS Northridge,Montana State,W
+CS Northridge,Austin Peay,W
+Central Michigan,CS Northridge,W
+Montana State,CS Northridge,W
+CS Northridge,La Sierra University,W
+CS Northridge,Southern Utah,W
+CS Northridge,Seattle,L
+Texas A&M-CC,CS Northridge,L
+CS Northridge,Idaho,W
+CS Northridge,Morgan State,W
+Stephen F. Austin,CS Northridge,W
+South Dakota,CS Northridge,W
+CS Northridge,UC Davis,W
+CS Northridge,Hawaii,W
+Cal Poly,CS Northridge,W
+CS Northridge,UC Santa Barbara,L
+UC Irvine,CS Northridge,W
+Long Beach State,CS Northridge,W
+CS Northridge,UC Riverside,W
+Hawaii,CS Northridge,W
+UC Davis,CS Northridge,W
+CS Northridge,Cal State Fullerton,W
+CS Northridge,Cal Poly,L
+UC Santa Barbara,CS Northridge,L
+Idaho,CS Northridge,W
+CS Northridge,UC Irvine,W
+Cal State Fullerton,CS Northridge,W
+UC Riverside,CS Northridge,W
+Hawaii,Tennessee State,W
+Hawaii,Western Michigan,W
+Hawaii,New Mexico State,L
+Hawaii,Missouri,L
+Hawaii,Hawaii Hilo,W
+Hawaii,New Orleans,W
+Northern Arizona,Hawaii,L
+Hawaii,Chaminade,W
+Hawaii,Boise State,L
+Hawaii,Saint Mary's,W
+Hawaii,Oregon State,W
+Hawaii,Norfolk State,W
+Hawaii,Nebraska-Omaha,W
+Cal State Northridge,Hawaii,W
+Hawaii,UC Riverside,W
+UC Davis,Hawaii,L
+UC Irvine,Hawaii,L
+Hawaii,Long Beach State,L
+Hawaii,Cal State Northridge,W
+Hawaii,UC Santa Barbara,L
+UC Riverside,Hawaii,L
+Cal State Fullerton,Hawaii,L
+Hawaii,UC Irvine,L
+Hawaii,UC Davis,W
+Long Beach State,Hawaii,W
+Long Beach St,Hawaii Pacific,W
+Arizona,Long Beach St,W
+Long Beach St,Loyola Marymount,L
+Kansas State,Long Beach St,W
+Long Beach St,Michigan,L
+Long Beach St,Virginia Commonwealth,L
+Long Beach St,Kansas State,L
+Washington,Long Beach St,W
+Long Beach St,Creighton,L
+North Carolina State,Long Beach St,W
+Long Beach St,USC,W
+Long Beach St,Mont St Billings,W
+Nevada,Long Beach St,L
+Missouri,Long Beach St,W
+Long Beach St,UC Irvine,L
+Long Beach St,UC Davis,W
+UC Santa Barbara,Long Beach St,W
+Cal Poly,Long Beach St,L
+Long Beach St,Cal State Northridge,W
+Hawaii,Long Beach St,L
+Long Beach St,Cal State Fullerton,W
+UC Irvine,Long Beach St,W
+UC Riverside,Long Beach St,L
+Long Beach St,UC Santa Barbara,L
+Long Beach St,Cal Poly,W
+UC Davis,Long Beach St,L
+Long Beach St,Hawaii,W
+Cal State Fullerton,Long Beach St,W
+Portland,UC Davis,W
+UC Davis,Holy Names,W
+Utah,UC Davis,W
+UC Davis,SIU-Edwardsville,W
+UC Davis,Loyola (IL),W
+UC Davis,Sacramento State,L
+UC Davis,Idaho,L
+Seattle,UC Davis,W
+UC Davis,Nevada,L
+Stanford,UC Davis,W
+San Jose State,UC Davis,W
+UC Davis,Air Force,W
+UC Davis,Furman,L
+UC Davis,Simpson University,W
+Cal State Northridge,UC Davis,W
+Long Beach State,UC Davis,W
+UC Davis,UC Riverside,L
+UC Davis,Cal State Fullerton,W
+UC Santa Barbara,UC Davis,W
+UC Davis,Cal State Northridge,W
+UC Davis,UC Irvine,L
+Cal State Fullerton,UC Davis,W
+UC Davis,Long Beach State,L
+UC Davis,UC Santa Barbara,L
+UC Irvine,Fresno State,L
+Pacific,UC Irvine,W
+Washington,UC Irvine,L
+UC Irvine,Pacifica College,W
+UC Irvine,LIU Brooklyn,W
+UC Irvine,Boston University,L
+UC Irvine,Eastern Washington,W
+Sacramento State,UC Irvine,L
+California,UC Irvine,W
+UC Irvine,Pepperdine,L
+Eastern Washington,UC Irvine,L
+Oregon,UC Irvine,W
+Denver,UC Irvine,L
+Arizona State,UC Irvine,W
+UC Irvine,Morgan State,W
+UC Irvine,San Diego Christian,W
+Long Beach State,UC Irvine,L
+UC Riverside,UC Irvine,L
+UC Irvine,Cal State Fullerton,W
+UC Irvine,Cal State Northridge,W
+UC Santa Barbara,UC Irvine,W
+UC Irvine,Long Beach State,W
+UC Irvine,UC Riverside,W
+Cal State Northridge,UC Irvine,W
+UC Irvine,UC Santa Barbara,W
+San Diego State,UC Riverside,W
+UC Riverside,Pepperdine,L
+Seattle,UC Riverside,W
+UC Riverside,Loyola Marymount,L
+UC Riverside,La Verne,W
+Air Force,UC Riverside,W
+Northern Colorado,UC Riverside,W
+UC Riverside,Illinois-Chicago,W
+UC Riverside,Northern Illinois,L
+Sacramento State,UC Riverside,W
+UC Riverside,Waldorf College,W
+North Texas,UC Riverside,W
+Cal State Fullerton,UC Riverside,W
+UC Riverside,UC Santa Barbara,L
+Cal State Northridge,UC Riverside,W
+UC Riverside,Cal State Fullerton,W
+UC Riverside,Long Beach State,L
+UC Santa Barbara,UC Riverside,W
+UC Riverside,Cal State Northridge,W
+UC Santa Barbara,Hawaii Pacific,W
+UNLV,UC Santa Barbara,L
+UC Santa Barbara,Utah State,L
+Colorado,UC Santa Barbara,W
+UC Santa Barbara,South Dakota State,W
+UCLA,UC Santa Barbara,W
+UC Santa Barbara,California,W
+San Diego,UC Santa Barbara,L
+UC Santa Barbara,Troy,W
+Utah State,UC Santa Barbara,W
+UC Santa Barbara,Western Illinois,W
+Seattle,UC Santa Barbara,L
+UC Santa Barbara,Masters College,W
+UC Santa Barbara,Long Beach State,W
+Cal State Northridge,UC Santa Barbara,L
+Cal State Fullerton,UC Santa Barbara,W
+Long Beach State,UC Santa Barbara,L
+UC Santa Barbara,Cal State Northridge,L
+UC Santa Barbara,Cal State Fullerton,W
+Charleston,Charlotte,W
+Charleston,Furman,W
+Charleston,San Diego State,L
+Charleston,Arizona State,L
+Charleston,Cal State Fullerton,W
+Charleston,Coker,W
+Charleston,Marist,L
+Old Dominion,Charleston,L
+Charleston,Kent State,L
+Citadel,Charleston,L
+Davidson,Charleston,L
+Charleston,Howard,W
+Charleston,James Madison,W
+Hofstra,Charleston,W
+Northeastern,Charleston,L
+Charleston,Towson,L
+Charleston,North Carolina-Wilmington,W
+James Madison,Charleston,W
+William & Mary,Charleston,W
+Charleston,Hofstra,W
+Delaware,Charleston,W
+Towson,Charleston,W
+Charleston,Drexel,W
+Charleston,Northeastern,L
+Charleston,William & Mary,W
+North Carolina-Wilmington,Charleston,W
+Drexel,Charleston,W
+Charleston,Delaware,L
+Delaware,Charleston Southern,L
+Hampton,Delaware,L
+Army,Delaware,L
+Delaware State,Delaware,L
+Delaware,Robert Morris,W
+Charleston Southern,Delaware,L
+North Dakota State,Delaware,W
+Delaware,Bryant University,W
+Delaware,Hofstra,W
+James Madison,Delaware,L
+Delaware,William & Mary,W
+Northeastern,Delaware,L
+Drexel,Delaware,L
+Delaware,Towson,W
+William & Mary,Delaware,L
+Delaware,North Carolina-Wilmington,W
+Delaware,Northeastern,W
+Delaware,James Madison,W
+Towson,Delaware,W
+Hofstra,Delaware,L
+Delaware,Drexel,L
+North Carolina-Wilmington,Delaware,L
+UCLA,Drexel,W
+Illinois State,Drexel,L
+Drexel,Elon,W
+Drexel,Arizona,L
+Drexel,Alabama,W
+Drexel,Cleveland State,W
+Drexel,Tennessee State,W
+Davidson,Drexel,L
+Drexel,St. Francis U,W
+Drexel,Buffalo,L
+Southern Miss,Drexel,W
+William & Mary,Drexel,W
+Drexel,Northeastern,W
+Drexel,Towson,L
+North Carolina-Wilmington,Drexel,L
+Drexel,William & Mary,L
+Hofstra,Drexel,L
+Towson,Drexel,W
+Drexel,North Carolina-Wilmington,W
+Drexel,James Madison,W
+Drexel,Hofstra,W
+James Madison,Drexel,W
+Northeastern,Drexel,W
+Hofstra,Monmouth,L
+Hofstra,Fairleigh Dickinson,W
+Hofstra,Hartford,W
+Hofstra,Belmont,L
+Hofstra,Manhattan,L
+Hofstra,Sacred Heart,L
+Hofstra,Central Connecticut State,W
+Siena,Hofstra,W
+Hofstra,George Washington,L
+Hofstra,N.J.I.T.,W
+Tulane,Hofstra,W
+Fairleigh Dickinson,Hofstra,W
+North Carolina-Wilmington,Hofstra,L
+Southern Methodist,Hofstra,W
+Hofstra,William & Mary,W
+Hofstra,Northeastern,L
+Towson,Hofstra,W
+Northeastern,Hofstra,W
+Hofstra,North Carolina-Wilmington,W
+James Madison,Hofstra,W
+Hofstra,Towson,L
+William & Mary,Hofstra,W
+Hofstra,James Madison,W
+Northern Illinois,James Madison,L
+James Madison,Milwaukee,L
+James Madison,San Jose State,W
+James Madison,Detroit,L
+Valparaiso,James Madison,W
+James Madison,Sam Houston State,L
+Stephen F. Austin,James Madison,W
+UNC Greensboro,James Madison,W
+James Madison,Hampton,W
+James Madison,Ball State,W
+North Carolina-Wilmington,James Madison,L
+James Madison,Northeastern,L
+William & Mary,James Madison,W
+Northeastern,James Madison,L
+James Madison,William & Mary,L
+Towson,James Madison,W
+James Madison,North Carolina-Wilmington,W
+James Madison,Towson,L
+Iowa,UNC-Wilmington,W
+Iowa State,UNC-Wilmington,W
+Charleston Southern,UNC-Wilmington,L
+UNC-Wilmington,Wingate,W
+Liberty,UNC-Wilmington,L
+Western Kentucky,UNC-Wilmington,W
+Marshall,UNC-Wilmington,W
+UNC-Wilmington,Campbellsville,W
+UNC-Wilmington,Stephen F. Austin,L
+East Carolina,UNC-Wilmington,L
+UNC-Wilmington,Campbell,W
+UNC-Wilmington,Manhattan,L
+UNC-Wilmington,Old Dominion,L
+UNC Asheville,UNC-Wilmington,W
+North Carolina,UNC-Wilmington,W
+UNC-Wilmington,James Madison,L
+Northeastern,UNC-Wilmington,W
+Towson,UNC-Wilmington,W
+UNC-Wilmington,Hofstra,L
+UNC-Wilmington,Drexel,L
+Charleston,UNC-Wilmington,W
+Delaware,UNC-Wilmington,W
+Drexel,UNC-Wilmington,W
+UNC-Wilmington,William & Mary,L
+Hofstra,UNC-Wilmington,W
+UNC-Wilmington,Towson,W
+UNC-Wilmington,Northeastern,W
+James Madison,UNC-Wilmington,W
+William & Mary,UNC-Wilmington,W
+UNC-Wilmington,Charleston,W
+UNC-Wilmington,Delaware,L
+Northeastern,Boston University,L
+Northeastern,Central Connecticut State,W
+Northeastern,Georgetown,W
+Northeastern,Charlotte,L
+Northeastern,Florida State,L
+Virginia Commonwealth,Northeastern,W
+Northeastern,Harvard,L
+Northeastern,UAB,L
+Fairfield,Northeastern,W
+Northeastern,Milwaukee,W
+Tulane,Northeastern,W
+Vanderbilt,Northeastern,W
+Northeastern,North Carolina-Wilmington,W
+Towson,Northeastern,L
+Northeastern,William & Mary,L
+North Carolina-Wilmington,Northeastern,W
+Northeastern,Towson,L
+William & Mary,Northeastern,W
+Towson,Navy,W
+Towson,Morgan State,W
+Kansas,Towson,W
+Towson,Citadel,W
+Towson,Abilene Christian,W
+Stephen F. Austin,Towson,W
+Towson,Sam Houston State,L
+Towson,Central Pennsylvania College,W
+Oregon State,Towson,W
+North Dakota State,Towson,W
+Coppin State,Towson,L
+Towson,North Carolina-Wilmington,W
+North Carolina-Wilmington,Towson,W
+William & Mary,Towson,L
+Towson,William & Mary,W
+Hampton,William & Mary,W
+Wichita State,William & Mary,W
+William & Mary,Virginia Military,W
+Howard,William & Mary,L
+Wofford,William & Mary,L
+William & Mary,Goucher,W
+William & Mary,West Virginia,L
+William & Mary,Old Dominion,W
+Western Illinois,William & Mary,L
+North Carolina-Wilmington,William & Mary,L
+William & Mary,North Carolina-Wilmington,W
+Charlotte,East Tennessee State,W
+Charlotte,Elon,W
+Charlotte,Kansas State,W
+Charlotte,Northeastern,W
+Charlotte,Michigan,W
+Charlotte,Davidson,L
+Appalachian State,Charlotte,L
+Charlotte,USC Upstate,W
+Charlotte,North Carolina A&T,W
+UTEP,Charlotte,L
+UTSA,Charlotte,W
+Charlotte,Tulsa,W
+Charlotte,North Texas,W
+Louisiana Tech,Charlotte,W
+Rice,Charlotte,W
+Charlotte,Florida Atlantic,W
+Charlotte,Florida International,W
+Tulane,Charlotte,W
+Southern Miss,Charlotte,W
+Charlotte,Marshall,L
+Charlotte,Middle Tennessee,L
+Charlotte,UAB,L
+East Carolina,Charlotte,W
+Charlotte,Old Dominion,W
+East Carolina,NC Wesleyan,W
+UNC Greensboro,East Carolina,L
+East Carolina,Chowan,W
+East Carolina,Norfolk State,W
+East Carolina,McNeese State,W
+East Carolina,UNC Asheville,W
+East Carolina,North Carolina-Wilmington,L
+East Carolina,Fayetteville St.,W
+East Carolina,Mount Olive,W
+East Carolina,North Carolina A&T,W
+East Carolina,Virginia Military,W
+North Carolina State,East Carolina,W
+East Carolina,Georgia State,L
+East Carolina,Old Dominion,L
+Florida Atlantic,East Carolina,W
+Florida International,East Carolina,W
+East Carolina,Tulane,L
+East Carolina,Southern Miss,L
+Middle Tennessee,East Carolina,W
+UAB,East Carolina,L
+East Carolina,UTEP,L
+East Carolina,UTSA,W
+Tulsa,East Carolina,W
+North Texas,East Carolina,W
+East Carolina,Louisiana Tech,W
+East Carolina,Rice,W
+Marshall,East Carolina,W
+Florida Atl,Ave Maria,W
+Florida Atl,St. Francis (NY),L
+Duke,Florida Atl,W
+Boston College,Florida Atl,W
+Detroit,Florida Atl,W
+Florida Atl,Stony Brook,L
+Florida Atl,Toledo,L
+Florida Atl,UCF,W
+Florida Atl,Jacksonville,W
+DePaul,Florida Atl,W
+Maryland,Florida Atl,W
+Stetson,Florida Atl,W
+Florida Atl,Elon,L
+Florida Atl,Warner Southern,W
+Louisiana Tech,Florida Atl,W
+Rice,Florida Atl,L
+Florida Atl,East Carolina,W
+Florida Atl,Old Dominion,L
+Florida Atl,Harvard,W
+Florida International,Florida Atl,W
+Charlotte,Florida Atl,W
+Marshall,Florida Atl,L
+Florida Atl,Middle Tennessee,L
+Florida Atl,UAB,W
+UTEP,Florida Atl,L
+UTSA,Florida Atl,W
+Florida Atl,Tulsa,L
+Florida Atl,North Texas,L
+Tulane,Florida Atl,W
+Florida Atl,Southern Miss,L
+FIU,Eastern Kentucky,L
+FIU,Youngstown State,L
+Kennesaw State,FIU,L
+FIU,Warren Wilson,W
+FIU,Florida College,W
+FIU,Texas Southern,W
+FIU,Stetson,W
+Bethune-Cookman,FIU,L
+South Carolina,FIU,W
+FIU,Georgia State,W
+FIU,Nova Southeast,L
+FIU,Florida Gulf Coast,W
+FIU,Louisville,L
+Georgetown,FIU,W
+Florida A&M,FIU,W
+Rice,FIU,L
+Louisiana Tech,FIU,W
+FIU,Old Dominion,L
+FIU,East Carolina,W
+FIU,Florida Atlantic,W
+Marshall,FIU,W
+Charlotte,FIU,W
+FIU,UAB,W
+FIU,Middle Tennessee,L
+UTSA,FIU,L
+UTEP,FIU,W
+FIU,North Texas,L
+FIU,Tulsa,L
+Southern Miss,FIU,W
+FIU,Tulane,W
+Saint Mary's,Louisiana Tech,W
+Louisiana Tech,Centenary,W
+Central Arkansas,Louisiana Tech,L
+Louisiana Tech,UNC Greensboro,W
+Louisiana Tech,Illinois-Chicago,W
+Louisiana Tech,St. Bonaventure,W
+Jackson State,Louisiana Tech,L
+Louisiana Tech,Louisiana-Lafayette,L
+Louisiana Tech,Southern University,W
+Louisiana Tech,Northwestern State,W
+Louisiana Tech,Oklahoma State,L
+Louisiana Tech,McNeese State,W
+Louisiana-Monroe,Louisiana Tech,L
+Oklahoma,Louisiana Tech,L
+Louisiana Tech,Florida Atlantic,W
+Louisiana Tech,Florida International,W
+Tulane,Louisiana Tech,L
+Southern Miss,Louisiana Tech,W
+Louisiana Tech,Marshall,W
+UTEP,Louisiana Tech,W
+UTSA,Louisiana Tech,L
+Louisiana Tech,Tulsa,W
+Louisiana Tech,North Texas,W
+Louisiana Tech,Rice,W
+Old Dominion,Louisiana Tech,L
+Louisiana Tech,Middle Tennessee,W
+UAB,Louisiana Tech,L
+Marshall,South Carolina State,W
+Marshall,Rio Grande,W
+Morehead State,Marshall,W
+Marshall,Stephen F. Austin,L
+Marshall,North Carolina-Wilmington,W
+Marshall,Western Kentucky,W
+East Tennessee State,Marshall,W
+Vanderbilt,Marshall,W
+Marshall,West Virginia,L
+Marshall,Alice Lloyd College,W
+Marshall,Arkansas State,L
+South Carolina,Marshall,W
+Akron,Marshall,W
+UTSA,Marshall,W
+UTEP,Marshall,W
+Marshall,North Texas,L
+Marshall,Tulsa,L
+Rice,Marshall,L
+Marshall,Florida International,W
+Marshall,Florida Atlantic,L
+Southern Miss,Marshall,W
+Tulane,Marshall,W
+Marshall,UAB,L
+Marshall,Middle Tennessee,L
+Old Dominion,Marshall,W
+Middle Tennessee,Southern University,W
+Middle Tennessee,North Florida,W
+Middle Tennessee,Akron,W
+Middle Tennessee,Arkansas-Little Rock,W
+Florida,Middle Tennessee,W
+Murray State,Middle Tennessee,L
+Middle Tennessee,South Alabama,W
+Middle Tennessee,Belmont,L
+Middle Tennessee,Fisk,W
+Ole Miss,Middle Tennessee,W
+Middle Tennessee,TENN Temple,W
+Middle Tennessee,Maine,L
+Middle Tennessee,Grand Canyon,W
+Tennessee State,Middle Tennessee,L
+Middle Tennessee,UAB,W
+Middle Tennessee,UTEP,L
+Middle Tennessee,UTSA,W
+Tulsa,Middle Tennessee,W
+North Texas,Middle Tennessee,L
+Middle Tennessee,Old Dominion,W
+Florida Atlantic,Middle Tennessee,L
+Florida International,Middle Tennessee,L
+Middle Tennessee,Tulane,W
+Middle Tennessee,Southern Miss,W
+Middle Tennessee,Rice,W
+North Texas,Northwood University,W
+Oklahoma,North Texas,W
+North Texas,Nicholls State,W
+North Texas,Columbia,L
+North Texas,Idaho,L
+Portland,North Texas,L
+North Texas,Incarnate Word,W
+North Texas,Southeastern Louisiana,W
+Brigham Young,North Texas,W
+North Texas,Stephen F. Austin,L
+North Texas,Central Arkansas,W
+North Texas,Wayland Baptist Univ,W
+Texas A&M,North Texas,L
+North Texas,Southern Miss,L
+North Texas,Tulane,L
+North Texas,UAB,W
+Tulsa,North Texas,W
+Rice,North Texas,W
+North Texas,Old Dominion,L
+Florida International,North Texas,L
+Florida Atlantic,North Texas,L
+UTSA,North Texas,L
+North Texas,UTEP,L
+Old Dominion,Missouri State,L
+Old Dominion,Howard,W
+Old Dominion,Murray State,W
+Old Dominion,Georgia Southern,W
+Old Dominion,West Virginia,L
+Old Dominion,Saint Louis,L
+Old Dominion,North Carolina Central,L
+Virginia Commonwealth,Old Dominion,W
+Georgia State,Old Dominion,W
+North Carolina-Wilmington,Old Dominion,L
+Florida International,Old Dominion,L
+Florida Atlantic,Old Dominion,L
+Old Dominion,Southern Miss,L
+Old Dominion,Tulane,W
+UAB,Old Dominion,W
+Old Dominion,UTSA,W
+Old Dominion,UTEP,L
+Tulsa,Old Dominion,W
+Old Dominion,Rice,W
+Rice,St. Thomas (TX),W
+Rice,Southeastern Louisiana,L
+Texas A&M,Rice,W
+Texas A&M-CC,Rice,L
+Rice,Princeton,L
+Rice,Rider,L
+Santa Clara,Rice,L
+Houston Baptist,Rice,W
+Rice,South Alabama,W
+Rice,Northwood University,W
+Rice,Houston,L
+Texas,Rice,W
+Rice,Harvard,L
+Rice,Florida International,L
+Rice,Florida Atlantic,L
+Southern Miss,Rice,W
+Tulane,Rice,W
+UTSA,Rice,W
+UTEP,Rice,W
+Rice,Tulsa,L
+Rice,UAB,L
+Southern Miss,Jackson State,W
+North Dakota State,Southern Miss,L
+South Alabama,Southern Miss,L
+Southern Miss,Houston Baptist,W
+Southern Miss,William Carey,W
+Southern Miss,Morehead State,W
+Southern Miss,Georgia State,W
+Southern Miss,St. Catherine (Mn),W
+Western Kentucky,Southern Miss,W
+Southern Miss,Coppin State,W
+Southern Miss,Arkansas-Little Rock,W
+Tulsa,Southern Miss,W
+Southern Miss,Tulane,W
+UAB,Southern Miss,W
+Southern Miss,UTSA,W
+Southern Miss,UTEP,W
+Southern Miss,Florida International,W
+Florida Atlantic,Southern Miss,L
+Tulane,N.J.I.T.,W
+Southern University,Tulane,L
+Tulane,Loyola (IL),W
+Tulane,Cedarville,W
+Tulane,Northern Kentucky,L
+Tulane,Colgate,L
+Tulane,Texas State,L
+Tulane,Southeast Missouri State,L
+Tulane,Jackson State,W
+Tulane,Washington,L
+Tulane,Alabama State,W
+Tulane,Kansas State,L
+Tulsa,Tulane,W
+UAB,Tulane,L
+Tulane,UTEP,L
+Tulane,UTSA,W
+Tulane,Florida Atlantic,W
+Florida International,Tulane,W
+Tulsa,Oral Roberts,L
+Missouri State,Tulsa,W
+Tulsa,Wichita State,L
+Tulsa,Indiana State,W
+Tulsa,TCU,L
+Tulsa,Green Bay,L
+Tulsa,Texas Southern,W
+Tulsa,Arkansas-Little Rock,W
+Oklahoma,Tulsa,W
+Tulsa,Grand Canyon,W
+TCU,Tulsa,W
+Tulsa,Cal State Fullerton,W
+Tulsa,UAB,L
+Florida Atlantic,Tulsa,L
+Florida International,Tulsa,L
+UTEP,Tulsa,L
+Tulsa,UTSA,W
+UAB,Columbus State,W
+UAB,Troy,W
+UAB,New Mexico,L
+UAB,Nebraska,W
+UAB,Temple,L
+UAB,Florida A&M,W
+UAB,Georgia Southern,W
+UAB,Chattanooga,W
+LSU,UAB,W
+UAB,Alabama A&M,W
+UAB,Newberry,W
+UAB,UTSA,W
+UAB,UTEP,L
+Florida International,UAB,W
+Florida Atlantic,UAB,W
+UTEP,Loyola NO,W
+New Mexico State,UTEP,W
+UTEP,West Alabama,W
+UTEP,Colorado State,W
+UTEP,New Mexico State,L
+UTEP,Tennessee,W
+UTEP,Iowa,L
+UTEP,Kansas,L
+UTEP,Sacramento State,W
+UTEP,New Orleans,L
+UTEP,Northwestern State,W
+Washington State,UTEP,L
+UTEP,Western Illinois,W
+UTEP,Denver,W
+UTEP,UTSA,W
+UTEP,Florida Atlantic,L
+UTEP,Florida International,W
+UTSA,Northern Arizona,L
+UTSA,McMurry,L
+UTSA,Texas-Pan American,L
+UTSA,Texas A&M-CC,W
+Nicholls State,UTSA,W
+Texas Tech,UTSA,W
+UTSA,Huston-Tillotson,W
+Texas-Pan American,UTSA,L
+UTSA,Cal State Bakersfield,L
+UTSA,Georgia State,L
+UTSA,Cameron,W
+Arkansas,UTSA,W
+UTSA,Florida International,L
+UTSA,Florida Atlantic,W
+Albany,N.J.I.T.,W
+Army,N.J.I.T.,L
+N.J.I.T.,Lafayette,W
+N.J.I.T.,Central Connecticut State,L
+N.J.I.T.,Albany,L
+N.J.I.T.,Massachusetts Lowell,W
+N.J.I.T.,LIU Brooklyn,L
+N.J.I.T.,Holy Cross,L
+St. Francis (NY),N.J.I.T.,W
+Butler,N.J.I.T.,W
+St. Francis U,N.J.I.T.,L
+N.J.I.T.,City College of New,W
+North Carolina Central,N.J.I.T.,W
+North Carolina A&T,N.J.I.T.,W
+Pennsylvania,N.J.I.T.,W
+Delaware State,N.J.I.T.,L
+Massachusetts Lowell,N.J.I.T.,W
+N.J.I.T.,Wheelock College,W
+N.J.I.T.,Maine-Fort Kent,W
+Maryland-Eastern Shore,N.J.I.T.,L
+N.J.I.T.,Fisher College,W
+N.J.I.T.,North Carolina Central,L
+Cleveland State,Iona,W
+San Francisco,Cleveland State,W
+Texas-Arlington,Cleveland State,L
+Eastern Michigan,Cleveland State,W
+Cleveland State,Robert Morris,W
+Kentucky,Cleveland State,W
+Cleveland State,Ball State,W
+Cleveland State,Akron,L
+Cleveland State,Western Carolina,W
+Cleveland State,Notre Dame College,W
+Toledo,Cleveland State,W
+Cleveland State,Laroche,W
+Kent State,Cleveland State,L
+Green Bay,Cleveland State,W
+Milwaukee,Cleveland State,L
+Cleveland State,Detroit,W
+Youngstown State,Cleveland State,W
+Cleveland State,Oakland,W
+Cleveland State,Wright State,L
+Illinois-Chicago,Cleveland State,L
+Cleveland State,Valparaiso,W
+Eastern Illinois,Cleveland State,L
+Detroit,Cleveland State,L
+Oakland,Cleveland State,L
+Wright State,Cleveland State,L
+Cleveland State,Illinois-Chicago,W
+Cleveland State,Green Bay,L
+Cleveland State,Milwaukee,W
+Cleveland State,Youngstown State,W
+Valparaiso,Cleveland State,L
+South Alabama,Detroit,W
+Detroit,Mich Dearborn,W
+Detroit,Florida Atlantic,W
+Detroit,Toledo,L
+Toledo,Detroit,W
+North Carolina State,Detroit,W
+Akron,Detroit,W
+Bowling Green,Detroit,W
+Detroit,INDIANA TECH,W
+Detroit,Bethune-Cookman,W
+Detroit,Wright State,W
+Detroit,Oakland,L
+Detroit,Valparaiso,L
+Youngstown State,Detroit,W
+Milwaukee,Detroit,L
+Green Bay,Detroit,W
+Detroit,Illinois-Chicago,W
+Valparaiso,Detroit,L
+Detroit,Youngstown State,W
+Oakland,Detroit,W
+Illinois-Chicago,Detroit,L
+Wright State,Detroit,W
+Detroit,Milwaukee,L
+Detroit,Green Bay,L
+Green Bay,Northern Michigan,W
+Green Bay,MINN Duluth,W
+Green Bay,Pepperdine,W
+Green Bay,Harvard,L
+Green Bay,Tulsa,W
+Eastern Michigan,Green Bay,W
+South Dakota,Green Bay,L
+Green Bay,Tennessee Tech,W
+Green Bay,Fairfield,W
+Green Bay,St. Francis (ILL),W
+Green Bay,Youngstown State,W
+Chicago State,Green Bay,L
+Milwaukee,Green Bay,L
+Wright State,Green Bay,L
+Illinois-Chicago,Green Bay,L
+Green Bay,Oakland,W
+Valparaiso,Green Bay,W
+Green Bay,Wright State,W
+Green Bay,Illinois-Chicago,W
+Green Bay,Milwaukee,L
+Youngstown State,Green Bay,L
+Green Bay,Valparaiso,W
+Oakland,Green Bay,L
+UIC,Drake,L
+UIC,Roosevelt,W
+UIC,Eastern Illinois,L
+UIC,Northwestern,L
+UIC,San Diego,W
+UIC,Louisiana Tech,L
+UIC,Wagner,W
+UIC,Southern Methodist,L
+Loyola (IL),UIC,W
+Southeast Missouri State,UIC,L
+UIC,Purdue-Calumet,W
+UC Riverside,UIC,W
+Colorado State,UIC,W
+UIC,Illinois,L
+Valparaiso,UIC,W
+UIC,Youngstown State,L
+Wright State,UIC,W
+UIC,Milwaukee,L
+UIC,Green Bay,L
+UIC,Cleveland State,L
+Oakland,UIC,W
+Detroit,UIC,W
+UIC,Valparaiso,L
+Green Bay,UIC,W
+Cleveland State,UIC,W
+Youngstown State,UIC,W
+UIC,Detroit,L
+UIC,Oakland,L
+UIC,Milwaukee,W
+UIC,Wright State,L
+Loyola (IL),Milwaukee,W
+Davidson,Milwaukee,L
+Milwaukee,San Jose State,W
+Milwaukee,James Madison,W
+Northern Illinois,Milwaukee,L
+Tennessee Tech,Milwaukee,L
+Milwaukee,Judson College,W
+UMKC,Milwaukee,L
+Milwaukee,Northern Iowa,W
+Milwaukee,Bradley,W
+Milwaukee,Northeastern,L
+Milwaukee,Alabama State,W
+Milwaukee,Youngstown State,W
+Oakland,Milwaukee,L
+Illinois-Chicago,Milwaukee,L
+Valparaiso,Milwaukee,W
+Wright State,Milwaukee,W
+Milwaukee,Wright State,W
+Milwaukee,Oakland,W
+Milwaukee,Valparaiso,L
+Youngstown State,Milwaukee,W
+Milwaukee,Illinois-Chicago,L
+UCLA,Oakland,W
+California,Oakland,W
+Gonzaga,Oakland,W
+Oakland,Louisiana-Lafayette,L
+Oakland,St. Francis (NY),L
+Western Michigan,Oakland,W
+Oakland,Rochester College,W
+Oakland,Ohio,W
+Oakland,Michigan State,L
+Oakland,Illinois State,W
+Oakland,Eastern Michigan,L
+Oakland,Robert Morris,W
+Oakland,Defiance,W
+Wright State,Oakland,W
+Oakland,Valparaiso,W
+Oakland,Illinois-Chicago,W
+Oakland,Youngstown State,W
+Valparaiso,Oakland,W
+Oakland,Wright State,L
+Illinois-Chicago,Oakland,L
+Youngstown State,Oakland,L
+Valparaiso,Murray State,W
+Valparaiso,North Park,W
+Ohio,Valparaiso,W
+Evansville,Valparaiso,W
+Valparaiso,Mercer,L
+Valparaiso,Cincinnati Christian,W
+Ball State,Valparaiso,L
+Valparaiso,Loyola Marymount,W
+Valparaiso,Southeastern University,W
+East Tennessee State,Valparaiso,W
+Valparaiso,Illinois-Chicago,W
+Valparaiso,Wright State,L
+Youngstown State,Valparaiso,L
+Illinois-Chicago,Valparaiso,L
+Valparaiso,Youngstown State,W
+Wright State,Valparaiso,W
+Wright State,Mt St Joseph,W
+Wright State,Manchester,W
+Wright State,Houston Baptist,W
+South Alabama,Wright State,W
+Wright State,Alcorn State,W
+Wright State,Western Carolina,W
+Morehead State,Wright State,W
+North Carolina A&T,Wright State,W
+Virginia Military,Wright State,W
+Miami (OH),Wright State,W
+Wright State,Eastern Illinois,W
+Wright State,UMKC,W
+Wright State,Bowling Green,W
+Wright State,Illinois-Chicago,W
+Youngstown State,Wright State,W
+Wright State,Youngstown State,W
+Illinois-Chicago,Wright State,L
+Kennesaw State,Youngstown St,L
+Youngstown St,Florida International,W
+Youngstown St,Eastern Kentucky,W
+Youngstown St,Warren Wilson,W
+Massachusetts,Youngstown St,W
+Youngstown St,Thiel College,W
+Youngstown St,Westminster (PA),W
+Kent State,Youngstown St,W
+Youngstown St,Austin Peay,L
+Youngstown St,Robert Morris,W
+UMKC,Youngstown St,W
+Pittsburgh,Youngstown St,W
+Youngstown St,Bethune-Cookman,W
+St. John's,Youngstown St,W
+Youngstown St,South Dakota,W
+Milwaukee,Youngstown St,W
+Green Bay,Youngstown St,W
+Illinois-Chicago,Youngstown St,L
+Youngstown St,Cleveland State,W
+Youngstown St,Detroit,W
+Youngstown St,Valparaiso,L
+Youngstown St,Wright State,W
+Oakland,Youngstown St,W
+Wright State,Youngstown St,W
+Detroit,Youngstown St,W
+Youngstown St,Green Bay,L
+Youngstown St,Illinois-Chicago,W
+Youngstown St,Milwaukee,W
+Valparaiso,Youngstown St,W
+Cleveland State,Youngstown St,W
+Youngstown St,Oakland,L
+Sacred Heart,Brown,L
+Massachusetts Lowell,Brown,L
+Bryant University,Brown,W
+Brown,Central Connecticut State,W
+American University,Brown,L
+Brown,Albany,L
+Niagara,Brown,W
+Brown,Daniel Webster,W
+Yale,Brown,W
+Brown,Yale,W
+Brown,Cornell,W
+Brown,Columbia,W
+Harvard,Brown,W
+Dartmouth,Brown,L
+Brown,Princeton,L
+Brown,Pennsylvania,W
+Columbia,Brown,W
+Cornell,Brown,L
+Pennsylvania,Brown,L
+Princeton,Brown,W
+Columbia,Maryland-Eastern Shore,W
+Columbia,Manhattan,L
+Columbia,North Texas,W
+Portland,Columbia,W
+Columbia,Idaho,W
+Columbia,American University,W
+Elon,Columbia,W
+Columbia,Army,W
+Bucknell,Columbia,W
+Columbia,Massachusetts Lowell,W
+Columbia,Fairleigh Dickinson,W
+Columbia,St. John's,L
+Colgate,Columbia,L
+Columbia,St. Francis (NY),W
+Columbia,Central Pennsylvania College,W
+Columbia,Cornell,W
+Cornell,Columbia,L
+Yale,Columbia,W
+Princeton,Columbia,L
+Pennsylvania,Columbia,W
+Columbia,Harvard,L
+Columbia,Dartmouth,W
+Columbia,Yale,W
+Dartmouth,Columbia,L
+Harvard,Columbia,W
+Cornell,Loyola (MD),L
+Colgate,Cornell,W
+Cornell,Siena,L
+Western Michigan,Cornell,W
+Cornell,St. Francis U,L
+St. Peter's,Cornell,W
+Cornell,Oberlin College,W
+Yale,Cornell,W
+Pennsylvania,Cornell,W
+Princeton,Cornell,W
+Cornell,Dartmouth,W
+Cornell,Harvard,L
+Cornell,Yale,L
+Harvard,Cornell,W
+Dartmouth,Cornell,W
+Dartmouth,Lyndon State,W
+Dartmouth,Bryant University,L
+Dartmouth,Massachusetts Lowell,W
+Northern Illinois,Dartmouth,W
+IPFW,Dartmouth,W
+Dartmouth,Jacksonville State,W
+Dartmouth,Lesley University,W
+Harvard,Dartmouth,W
+Dartmouth,Harvard,L
+Dartmouth,Pennsylvania,W
+Dartmouth,Princeton,W
+Dartmouth,Yale,L
+Princeton,Dartmouth,W
+Pennsylvania,Dartmouth,W
+Harvard,Holy Cross,W
+Harvard,MIT,W
+Harvard,Howard,W
+Harvard,Bryant University,W
+Colorado,Harvard,W
+Harvard,Denver,W
+Harvard,Green Bay,W
+Harvard,TCU,W
+Boston University,Harvard,L
+Florida Atlantic,Harvard,W
+Harvard,Princeton,W
+Harvard,Pennsylvania,W
+Harvard,Yale,L
+Pennsylvania,Harvard,L
+Princeton,Harvard,L
+Monmouth,Pennsylvania,L
+Pennsylvania,Niagara,W
+Lafayette,Pennsylvania,W
+Pennsylvania,Wagner,L
+Marist,Pennsylvania,W
+Rider,Pennsylvania,W
+Pennsylvania,Princeton,W
+Yale,Pennsylvania,W
+Pennsylvania,Yale,L
+Princeton,Florida A&M,W
+Butler,Princeton,W
+Princeton,Lafayette,W
+Bucknell,Princeton,L
+Princeton,Fairleigh Dickinson,W
+Princeton,Pacific,W
+Princeton,Portland,L
+Princeton,Kent State,W
+Princeton,Kean College,W
+Yale,Princeton,W
+Princeton,Yale,W
+Yale,Central Connecticut State,W
+Yale,Sacred Heart,W
+Mercer,Yale,W
+Lafayette,Yale,L
+Yale,Bryant University,L
+Albany,Yale,W
+Yale,Baruch,W
+Canisius,South Dakota,W
+Canisius,Elon,W
+Canisius,Georgia State,W
+Canisius,Metro State,L
+Canisius,St. Peter's,W
+Canisius,Siena,W
+Buffalo,Canisius,L
+St. Francis (NY),Canisius,W
+Holy Cross,Canisius,L
+Canisius,Lamar,W
+St. Peter's,Canisius,L
+Marist,Canisius,W
+Canisius,Rider,W
+Canisius,Monmouth,W
+Iona,Canisius,L
+Monmouth,Canisius,W
+Canisius,Niagara,W
+Canisius,Marist,W
+Quinnipiac,Canisius,L
+Fairfield,Canisius,L
+Canisius,Manhattan,L
+Canisius,Iona,L
+Niagara,Canisius,L
+Siena,Canisius,L
+Canisius,Quinnipiac,L
+Canisius,Fairfield,W
+Rider,Canisius,L
+Manhattan,Canisius,W
+Fairfield,Sacred Heart,W
+Loyola (MD),Fairfield,W
+Fairfield,Holy Cross,L
+Fairfield,Louisville,L
+Fairfield,Richmond,L
+Quinnipiac,Fairfield,W
+Fairfield,Iona,L
+Bucknell,Fairfield,L
+Marist,Fairfield,W
+Manhattan,Fairfield,W
+Fairfield,St. Peter's,L
+Iona,Fairfield,W
+Fairfield,Niagara,L
+Fairfield,Manhattan,W
+Belmont,Fairfield,W
+Monmouth,Fairfield,W
+Fairfield,Siena,L
+Rider,Fairfield,W
+Fairfield,Monmouth,W
+Siena,Fairfield,W
+Fairfield,Quinnipiac,L
+Fairfield,Rider,L
+Niagara,Fairfield,L
+St. Peter's,Fairfield,W
+Fairfield,Marist,W
+Iona,Wofford,W
+Kansas,Iona,W
+Florida Gulf Coast,Iona,L
+Iona,Marist,W
+Nevada,Iona,W
+Northern Iowa,Iona,W
+Iona,Niagara,W
+Quinnipiac,Iona,W
+Siena,Iona,L
+Iona,Siena,W
+Iona,Quinnipiac,W
+St. Peter's,Iona,L
+Iona,Manhattan,W
+Monmouth,Iona,L
+Niagara,Iona,L
+Iona,St. Peter's,W
+Iona,Monmouth,W
+Rider,Iona,L
+Marist,Iona,L
+Manhattan,Iona,W
+Iona,Rider,W
+Manhattan,George Washington,L
+Illinois State,Manhattan,L
+Marist,Manhattan,L
+Manhattan,Monmouth,W
+North Carolina-Wilmington,Manhattan,L
+South Carolina,Manhattan,L
+Manhattan,Buffalo,W
+St. Peter's,Manhattan,L
+Quinnipiac,Manhattan,W
+Manhattan,Marist,W
+Manhattan,Siena,W
+Manhattan,Rider,W
+Manhattan,Quinnipiac,L
+Manhattan,St. Peter's,W
+Niagara,Manhattan,L
+Rider,Manhattan,L
+Manhattan,Niagara,W
+Monmouth,Manhattan,L
+Siena,Manhattan,W
+Marist,Elon,L
+Marist,Maryland,L
+Marist,Loyola Marymount,L
+Marist,Morgan State,L
+Marist,Bucknell,W
+Siena,Marist,W
+Marist,Rider,L
+Marist,St. Peter's,W
+Niagara,Marist,W
+Marist,Monmouth,W
+Marist,Niagara,W
+Rider,Marist,L
+Quinnipiac,Marist,W
+Marist,Siena,W
+Monmouth,Marist,L
+St. Peter's,Marist,W
+Marist,Quinnipiac,W
+Monmouth,Mississippi Valley State,W
+Monmouth,North Carolina A&T,W
+Monmouth,Rider,L
+St. Francis (NY),Monmouth,L
+Monmouth,Wagner,L
+Monmouth,Siena,W
+Monmouth,Quinnipiac,L
+Niagara,Monmouth,L
+Quinnipiac,Monmouth,W
+Rider,Monmouth,W
+St. Peter's,Monmouth,W
+Monmouth,St. Peter's,L
+Monmouth,Niagara,W
+Siena,Monmouth,W
+Niagara,Buffalo,W
+Niagara,USC Upstate,L
+Niagara,Western Carolina,L
+Kent State,Niagara,W
+Northwestern State,Niagara,W
+Arkansas State,Niagara,W
+Niagara,Siena,L
+Niagara,St. Peter's,W
+Niagara,Davidson,W
+Rider,Niagara,W
+Niagara,Rider,L
+Quinnipiac,Niagara,W
+Siena,Niagara,W
+Niagara,Quinnipiac,L
+St. Peter's,Niagara,W
+Quinnipiac,Hartford,W
+Quinnipiac,Albany,W
+Quinnipiac,Hampton,W
+Quinnipiac,Boston University,L
+Rider,Quinnipiac,W
+Lehigh,Quinnipiac,W
+Oregon State,Quinnipiac,W
+St. Peter's,Quinnipiac,W
+Siena,Quinnipiac,L
+Quinnipiac,Rider,W
+Quinnipiac,St. Peter's,W
+Quinnipiac,Siena,L
+Lehigh,Rider,W
+Central Connecticut State,Rider,L
+Rider,Albany,L
+Rider,Rice,W
+Rider,North Dakota State,L
+Rider,Wagner,W
+Siena,Rider,W
+Rider,St. Peter's,L
+St. Peter's,Rider,L
+Rider,Siena,L
+Siena,Albany,L
+Siena,Memphis,L
+Siena,Saint Joseph's,L
+Siena,Purdue,L
+Siena,St. Peter's,W
+St. Peter's,Siena,W
+LIU Brooklyn,St. Peter's,W
+St. Peter's,Hampton,L
+Kent State,St. Peter's,W
+Fairleigh Dickinson,St. Peter's,L
+Boston University,St. Peter's,W
+Akron,Coastal Carolina,W
+Saint Mary's,Akron,W
+Akron,Bethune-Cookman,W
+Akron,Oral Roberts,W
+Akron,Oregon State,W
+Akron,Iowa State,L
+Akron,South Carolina,L
+South Carolina,Akron,W
+Akron,Coppin State,W
+Ball State,Akron,L
+Ohio,Akron,L
+Akron,Miami (OH),W
+Akron,Toledo,L
+Eastern Michigan,Akron,L
+Central Michigan,Akron,L
+Akron,Ball State,W
+Kent State,Akron,W
+Akron,Eastern Michigan,W
+Bowling Green,Akron,L
+Western Michigan,Akron,W
+Akron,Northern Illinois,W
+Buffalo,Akron,W
+Akron,Ohio,L
+Miami (OH),Akron,W
+Akron,Bowling Green,W
+Indiana State,Ball State,W
+Ball State,Taylor University,W
+Ball State,Southeast Missouri State,W
+Ball State,Butler,L
+Utah,Ball State,W
+Southern Illinois,Ball State,W
+Ball State,Oakland City,W
+Kent State,Ball State,W
+Ohio,Ball State,W
+Ball State,Miami (OH),L
+Ball State,Buffalo,W
+Western Michigan,Ball State,W
+Ball State,Northern Illinois,L
+Buffalo,Ball State,W
+Ball State,Toledo,L
+Ball State,Eastern Michigan,L
+Ball State,Bowling Green,L
+Central Michigan,Ball State,W
+Toledo,Ball State,W
+Ball State,Western Michigan,L
+Ball State,Central Michigan,W
+Bowling Green,Earlham,W
+Bowling Green,Presbyterian,W
+Bowling Green,Oral Roberts,L
+Bowling Green,Western Kentucky,W
+Morehead State,Bowling Green,L
+Bowling Green,IPFW,L
+Bowling Green,Eastern Michigan,L
+Bowling Green,Northern Illinois,L
+Bowling Green,Central Michigan,W
+Western Michigan,Bowling Green,L
+Ohio,Bowling Green,L
+Bowling Green,Miami (OH),L
+Eastern Michigan,Bowling Green,W
+Bowling Green,Buffalo,W
+Toledo,Bowling Green,W
+Kent State,Bowling Green,W
+Bowling Green,Toledo,L
+Miami (OH),Bowling Green,W
+Bowling Green,Kent State,W
+Texas A&M,Buffalo,W
+Buffalo,West Virginia Wesleyan,W
+Buffalo,Robert Morris,W
+Buffalo,Delaware State,W
+Buffalo,Manhattan,L
+Buffalo,Northern Illinois,W
+Buffalo,Eastern Michigan,W
+Toledo,Buffalo,W
+Buffalo,Kent State,W
+Northern Illinois,Buffalo,L
+Buffalo,Western Michigan,W
+Central Michigan,Buffalo,L
+Miami (OH),Buffalo,L
+Buffalo,Ohio,L
+Kent State,Buffalo,L
+Ohio,Buffalo,L
+Buffalo,Miami (OH),W
+Cent Michigan,Manchester,W
+Bradley,Cent Michigan,W
+Cent Michigan,Pepperdine,L
+Cent Michigan,Austin Peay,W
+Cent Michigan,Montana State,L
+Cent Michigan,Cal State Northridge,W
+Texas A&M-CC,Cent Michigan,L
+Cent Michigan,Jacksonville State,W
+SIU-Edwardsville,Cent Michigan,L
+Dayton,Cent Michigan,W
+Jacksonville State,Cent Michigan,W
+Cent Michigan,Marygrove College,W
+Cent Michigan,Miami (OH),L
+Toledo,Cent Michigan,W
+Bowling Green,Cent Michigan,W
+Cent Michigan,Eastern Michigan,L
+Miami (OH),Cent Michigan,W
+Cent Michigan,Akron,L
+Ohio,Cent Michigan,W
+Western Michigan,Cent Michigan,W
+Cent Michigan,Kent State,W
+Cent Michigan,Buffalo,L
+Northern Illinois,Cent Michigan,W
+Kent State,Cent Michigan,W
+Cent Michigan,Ball State,W
+Cent Michigan,Northern Illinois,W
+Eastern Michigan,Cent Michigan,W
+Ball State,Cent Michigan,W
+E Michigan,Albion,W
+E Michigan,Concordia (MI),W
+E Michigan,Robert Morris,W
+E Michigan,Cleveland State,W
+E Michigan,Texas-Arlington,W
+Kentucky,E Michigan,W
+E Michigan,Massachusetts,L
+Purdue,E Michigan,W
+E Michigan,Green Bay,W
+Oakland,E Michigan,L
+Duke,E Michigan,W
+Syracuse,E Michigan,W
+E Michigan,Rochester,W
+Bowling Green,E Michigan,L
+Buffalo,E Michigan,W
+E Michigan,Western Michigan,W
+Central Michigan,E Michigan,L
+E Michigan,Akron,L
+E Michigan,Ohio,L
+E Michigan,Bowling Green,W
+Miami (OH),E Michigan,W
+Akron,E Michigan,W
+E Michigan,Kent State,W
+Ball State,E Michigan,L
+E Michigan,Toledo,W
+Northern Illinois,E Michigan,W
+Western Michigan,E Michigan,W
+E Michigan,Central Michigan,W
+E Michigan,Northern Illinois,W
+Kent State,Ohio Northern,W
+Kent State,Western Carolina,W
+Kent State,USC Upstate,W
+Kent State,Youngstown State,W
+Kent State,Kennesaw State,W
+Kent State,Bucknell,L
+Kent State,Ohio,L
+Northern Illinois,Kent State,L
+Kent State,Western Michigan,L
+Toledo,Kent State,W
+Kent State,Northern Illinois,L
+Central Michigan,Kent State,W
+Eastern Michigan,Kent State,W
+Kent State,Central Michigan,W
+Miami (OH),Kent State,L
+Ohio,Kent State,L
+Arizona State,Miami (OH),W
+Miami (OH),Wilmington OH,L
+Miami (OH),IPFW,W
+Evansville,Miami (OH),W
+UMKC,Miami (OH),W
+Tennessee State,Miami (OH),L
+Miami (OH),Southern Illinois,W
+Central Michigan,Miami (OH),L
+Miami (OH),Western Michigan,L
+Miami (OH),Central Michigan,W
+Miami (OH),Toledo,L
+Miami (OH),Eastern Michigan,W
+Northern Illinois,Miami (OH),W
+Ohio,Miami (OH),W
+Western Michigan,Miami (OH),W
+N Illinois,Nebraska-Omaha,L
+N Illinois,James Madison,L
+N Illinois,San Jose State,W
+N Illinois,Milwaukee,L
+N Illinois,St. Josephs (IND),W
+Nebraska,N Illinois,W
+N Illinois,Dartmouth,W
+Massachusetts,N Illinois,W
+Loyola (IL),N Illinois,L
+UC Riverside,N Illinois,L
+Iowa State,N Illinois,W
+N Illinois,Bethune-Cookman,W
+Buffalo,N Illinois,W
+Bowling Green,N Illinois,L
+N Illinois,Kent State,L
+N Illinois,Ohio,L
+Toledo,N Illinois,W
+N Illinois,Buffalo,L
+Kent State,N Illinois,L
+Ball State,N Illinois,L
+N Illinois,Miami (OH),W
+N Illinois,Western Michigan,L
+N Illinois,Central Michigan,W
+Akron,N Illinois,W
+N Illinois,Eastern Michigan,W
+Central Michigan,N Illinois,W
+N Illinois,Toledo,W
+Eastern Michigan,N Illinois,W
+Ohio,Northern Iowa,W
+Morgan State,Ohio,L
+Ohio,Heidelberg,W
+Ohio,Mercer,W
+Ohio,Evansville,W
+Ohio,Alabama A&M,W
+Northern Illinois,Ohio,L
+Eastern Michigan,Ohio,L
+Ohio,Central Michigan,W
+Ohio,Toledo,W
+Western Michigan,Ohio,W
+Toledo,Ohio,W
+Ohio,Western Michigan,L
+Toledo,Northwest Ohio,W
+Toledo,Florida A&M,W
+Toledo,Stony Brook,W
+Toledo,Florida Atlantic,W
+Robert Morris,Toledo,L
+Toledo,Sam Houston State,W
+Arkansas State,Toledo,L
+Toledo,Coppin State,W
+Kansas,Toledo,W
+Western Michigan,Toledo,W
+Toledo,Central Michigan,W
+Toledo,Northern Illinois,W
+Eastern Michigan,Toledo,W
+Northern Illinois,Toledo,W
+Toledo,Western Michigan,W
+Western Michigan,New Mexico State,W
+Western Michigan,Tennessee State,W
+Western Michigan,Alabama A&M,W
+Western Michigan,North Dakota State,L
+Missouri,Western Michigan,W
+Drake,Western Michigan,W
+Western Michigan,Prairie View A&M,W
+Western Michigan,Siena Heights,W
+Eastern Michigan,Western Michigan,W
+Western Michigan,Central Michigan,W
+Northern Illinois,Western Michigan,L
+Western Michigan,Eastern Michigan,W
+Bethune-Cookman,Trinity Baptist,W
+Bethune-Cookman,Trinity (FL),W
+Bethune-Cookman,Florida International,L
+New Mexico State,Bethune-Cookman,W
+Colorado State,Bethune-Cookman,W
+Bethune-Cookman,Prairie View A&M,L
+Northern Colorado,Bethune-Cookman,W
+Stetson,Bethune-Cookman,W
+Norfolk State,Bethune-Cookman,W
+Hampton,Bethune-Cookman,W
+Youngstown State,Bethune-Cookman,W
+North Florida,Bethune-Cookman,W
+Northern Illinois,Bethune-Cookman,W
+Bethune-Cookman,North Carolina A&T,L
+Bethune-Cookman,North Carolina Central,L
+Savannah State,Bethune-Cookman,W
+South Carolina State,Bethune-Cookman,W
+Bethune-Cookman,Maryland-Eastern Shore,W
+Bethune-Cookman,Howard,W
+Bethune-Cookman,Savannah State,L
+Bethune-Cookman,South Carolina State,W
+North Carolina Central,Bethune-Cookman,W
+North Carolina A&T,Bethune-Cookman,L
+Bethune-Cookman,Delaware State,L
+Bethune-Cookman,Florida A&M,L
+Morgan State,Bethune-Cookman,W
+California,Coppin State,W
+Oregon State,Coppin State,L
+Coppin State,Wagner,L
+Coppin State,Ohio Valley,W
+Gonzaga,Coppin State,W
+Delaware State,Coppin State,L
+Coppin State,Southern Miss,L
+Coppin State,Jacksonville State,L
+Coppin State,Savannah State,L
+Coppin State,South Carolina State,W
+Hampton,Coppin State,L
+Norfolk State,Coppin State,W
+North Carolina Central,Coppin State,W
+North Carolina A&T,Coppin State,L
+Coppin State,Hampton,L
+Coppin State,Delaware State,W
+Maryland-Eastern Shore,Coppin State,L
+Coppin State,Morgan State,L
+Florida A&M,Coppin State,W
+Morgan State,Coppin State,W
+Coppin State,Norfolk State,L
+Coppin State,Maryland-Eastern Shore,L
+Coppin State,Howard,W
+Delaware State,Cairn University,W
+George Washington,Delaware State,W
+Delaware State,Baptist Bible Colleg,W
+Delaware State,Howard,L
+Oklahoma State,Delaware State,W
+Delaware State,St. Francis (NY),L
+Delaware State,Hampton,L
+Delaware State,Norfolk State,L
+North Carolina Central,Delaware State,W
+North Carolina A&T,Delaware State,W
+Morgan State,Delaware State,W
+Delaware State,South Carolina State,W
+Delaware State,Savannah State,W
+Florida A&M,Delaware State,W
+Delaware State,Maryland-Eastern Shore,W
+Delaware State,Morgan State,W
+Rutgers,Florida A&M,W
+Princeton,Florida A&M,W
+Florida A&M,Stetson,W
+Toledo,Florida A&M,W
+Jacksonville,Florida A&M,W
+UAB,Florida A&M,W
+Florida A&M,Florida Memorial,W
+Norfolk State,Florida A&M,W
+Hampton,Florida A&M,W
+Mississippi State,Florida A&M,W
+South Florida,Florida A&M,W
+Florida A&M,Florida Gulf Coast,L
+Florida A&M,Sacred Heart,W
+Florida A&M,Florida International,W
+Auburn,Florida A&M,W
+Florida A&M,North Carolina Central,W
+Florida A&M,North Carolina A&T,W
+South Carolina State,Florida A&M,L
+Savannah State,Florida A&M,W
+Florida A&M,Howard,L
+Florida A&M,South Carolina State,L
+Florida A&M,Savannah State,W
+North Carolina A&T,Florida A&M,W
+North Carolina Central,Florida A&M,W
+Florida A&M,Coppin State,W
+Florida A&M,Delaware State,W
+Bethune-Cookman,Florida A&M,L
+Florida A&M,Edward Waters,W
+Morgan State,Florida A&M,L
+Missouri State,Hampton,W
+Hampton,Liberty,L
+Hampton,Arkansas-Pine Bluff,W
+Hampton,Florida A&M,W
+Northern Kentucky,Hampton,W
+Hampton,James Madison,L
+North Carolina Central,Hampton,W
+Hampton,Morgan State,L
+Savannah State,Hampton,L
+South Carolina State,Hampton,L
+Morgan State,Hampton,W
+Hampton,Howard,W
+Hampton,Maryland-Eastern Shore,W
+Norfolk State,Hampton,L
+Howard,Hampton,L
+Maryland-Eastern Shore,Hampton,L
+Hampton,Norfolk State,W
+Howard,Washington Coll,W
+Howard,Gwynedd-Mercy College,W
+South Dakota State,Howard,W
+Howard,Texas Southern,L
+American University,Howard,W
+Morgan State,Howard,W
+Howard,Delaware State,W
+USC,Howard,W
+Howard,Savannah State,L
+Howard,Maryland-Eastern Shore,W
+Florida A&M,Howard,L
+Howard,North Carolina Central,L
+Howard,North Carolina A&T,W
+Norfolk State,Howard,W
+Maryland-Eastern Shore,Howard,W
+Howard,Norfolk State,L
+Maryland-Eastern Shore,Salisbury,W
+Maryland-Eastern Shore,Mount St. Mary's,W
+Navy,Maryland-Eastern Shore,W
+Oregon State,Maryland-Eastern Shore,W
+Maryland-Eastern Shore,Wilmington University,L
+Maryland-Eastern Shore,American University,L
+Mississippi State,Maryland-Eastern Shore,W
+Savannah State,Maryland-Eastern Shore,W
+South Carolina State,Maryland-Eastern Shore,W
+Maryland-Eastern Shore,Norfolk State,L
+Maryland-Eastern Shore,North Carolina A&T,W
+Maryland-Eastern Shore,North Carolina Central,L
+Maryland-Eastern Shore,Morgan State,L
+Norfolk State,Maryland-Eastern Shore,W
+Morgan State,San Diego,L
+Morgan State,La Salle,L
+Morgan State,Vanderbilt,L
+Morgan State,Marist,W
+Cal State Northridge,Morgan State,W
+Oregon,Morgan State,W
+Morgan State,South Carolina State,W
+Norfolk State,Morgan State,L
+North Carolina A&T,Morgan State,W
+North Carolina Central,Morgan State,W
+Morgan State,Norfolk State,L
+Morgan State,Florida A&M,L
+Texas Southern,Norfolk State,W
+Norfolk State,Newberry,W
+Norfolk State,Virginia Union,W
+Norfolk State,East Carolina,L
+Norfolk State,UNC Asheville,W
+Norfolk State,Fairleigh Dickinson,W
+Norfolk State,Stillman,W
+LIU Brooklyn,Norfolk State,W
+Norfolk State,Florida A&M,W
+Boston University,Norfolk State,L
+Norfolk State,Seattle,L
+Norfolk State,Mount St. Mary's,L
+South Carolina State,Norfolk State,W
+Savannah State,Norfolk State,L
+North Carolina A&T,Greensboro,W
+Utah Valley,North Carolina A&T,W
+Rhode Island,North Carolina A&T,W
+Georgia Tech,North Carolina A&T,W
+Ole Miss,North Carolina A&T,W
+North Carolina A&T,Longwood,W
+Monmouth,North Carolina A&T,W
+North Carolina A&T,Wright State,W
+Radford,North Carolina A&T,W
+East Carolina,North Carolina A&T,W
+Eastern Kentucky,North Carolina A&T,W
+Saint Louis,North Carolina A&T,W
+North Carolina A&T,Georgia Southern,L
+Charlotte,North Carolina A&T,W
+Bethune-Cookman,North Carolina A&T,L
+Florida A&M,North Carolina A&T,W
+North Carolina A&T,N.J.I.T.,W
+North Carolina A&T,Delaware State,W
+North Carolina Central,North Carolina A&T,W
+North Carolina A&T,Morgan State,W
+North Carolina A&T,Coppin State,L
+Maryland-Eastern Shore,North Carolina A&T,W
+Howard,North Carolina A&T,W
+North Carolina A&T,Florida A&M,W
+North Carolina A&T,Bethune-Cookman,L
+Savannah State,North Carolina A&T,W
+South Carolina State,North Carolina A&T,W
+North Carolina A&T,North Carolina Central,L
+North Carolina A&T,Savannah State,L
+North Carolina A&T,South Carolina State,W
+Cincinnati,North Carolina Cent,W
+North Carolina Cent,Johnson & Wales (NC),W
+Campbell,North Carolina Cent,L
+North Carolina State,North Carolina Cent,L
+North Carolina Cent,Appalachian State,W
+North Carolina Cent,Barber-Scotia,W
+Old Dominion,North Carolina Cent,L
+IUPUI,North Carolina Cent,W
+North Carolina Cent,Winthrop,W
+Wichita State,North Carolina Cent,W
+Maryland,North Carolina Cent,W
+North Carolina Cent,Hampton,W
+Florida A&M,North Carolina Cent,W
+Bethune-Cookman,North Carolina Cent,L
+North Carolina Cent,N.J.I.T.,W
+North Carolina Cent,Delaware State,W
+North Carolina Cent,North Carolina A&T,W
+North Carolina Cent,Coppin State,W
+North Carolina Cent,Morgan State,W
+Howard,North Carolina Cent,L
+Maryland-Eastern Shore,North Carolina Cent,L
+North Carolina Cent,Bethune-Cookman,W
+North Carolina Cent,Florida A&M,W
+South Carolina State,North Carolina Cent,L
+Savannah State,North Carolina Cent,L
+North Carolina A&T,North Carolina Cent,L
+N.J.I.T.,North Carolina Cent,L
+North Carolina Cent,South Carolina State,W
+North Carolina Cent,Savannah State,W
+Robert Morris,Savannah State,W
+Savannah State,TENN Temple,W
+Savannah State,Flanatl,W
+North Florida,Savannah State,W
+Savannah State,Lamar,L
+Savannah State,Grand Canyon,L
+Utah,Savannah State,W
+Savannah State,North Florida,L
+Northern Iowa,Savannah State,W
+Arkansas,Savannah State,W
+Florida,Savannah State,W
+Baylor,Savannah State,W
+Savannah State,Florida A&M,W
+Florida A&M,Savannah State,W
+Savannah State,North Carolina A&T,W
+Savannah State,North Carolina Central,L
+South Carolina State,Savannah State,L
+North Carolina A&T,Savannah State,L
+North Carolina Central,Savannah State,W
+Marshall,Southern Carolina St,W
+Southern Carolina St,St. Andrews,W
+Michigan,Southern Carolina St,W
+Nebraska,Southern Carolina St,W
+Nebraska-Omaha,Southern Carolina St,W
+Southern Carolina St,Voorhees,W
+Southern Carolina St,Nebraska-Omaha,L
+Clemson,Southern Carolina St,W
+Southern Carolina St,Georgia Southern,L
+Southern Carolina St,Coastal Carolina,W
+Jacksonville,Southern Carolina St,W
+Coastal Carolina,Southern Carolina St,L
+South Carolina,Southern Carolina St,W
+Southern Carolina St,Maryland-Eastern Shore,W
+Morgan State,Southern Carolina St,W
+Coppin State,Southern Carolina St,W
+Southern Carolina St,Florida A&M,L
+Southern Carolina St,Bethune-Cookman,W
+Southern Carolina St,Norfolk State,W
+Southern Carolina St,Hampton,L
+Florida A&M,Southern Carolina St,L
+Bethune-Cookman,Southern Carolina St,W
+Delaware State,Southern Carolina St,W
+Southern Carolina St,North Carolina Central,L
+Southern Carolina St,North Carolina A&T,W
+Southern Carolina St,Savannah State,L
+North Carolina Central,Southern Carolina St,W
+North Carolina A&T,Southern Carolina St,W
+Bradley,Jacksonville State,W
+Bradley,Alabama State,W
+Bradley,Central Michigan,W
+Bradley,Chicago State,W
+Arizona State,Bradley,W
+Bradley,Texas-Pan American,W
+Bradley,IUPUI,L
+Bradley,IPFW,L
+Bradley,Portland,L
+Bradley,Pacific,L
+Northern Iowa,Bradley,W
+Bradley,Drake,W
+Bradley,Missouri State,L
+Indiana State,Bradley,W
+Wichita State,Bradley,W
+Bradley,Southern Illinois,W
+Bradley,Northern Iowa,W
+Evansville,Bradley,W
+Bradley,Illinois State,W
+Missouri State,Bradley,W
+Loyola (IL),Bradley,L
+Bradley,Evansville,W
+Bradley,Indiana State,L
+Illinois State,Bradley,W
+Southern Illinois,Bradley,W
+Bradley,Loyola (IL),W
+Bradley,Wichita State,L
+Drake,Bradley,W
+Illinois-Chicago,Drake,L
+Drake,Iowa Wesleyan,W
+Saint Mary's,Drake,W
+Drake,Nebraska-Omaha,W
+Fresno State,Drake,L
+Drake,Northern Arizona,W
+Drake,Cal State Bakersfield,W
+Drake,Iowa,L
+Drake,New Mexico State,L
+Drake,Albany,W
+IUPUI,Drake,L
+Drake,Evansville,W
+Drake,Indiana State,L
+Northern Iowa,Drake,W
+Loyola (IL),Drake,W
+Drake,Illinois State,L
+Southern Illinois,Drake,L
+Drake,Wichita State,L
+Drake,Missouri State,W
+Illinois State,Drake,W
+Drake,Southern Illinois,L
+Indiana State,Drake,W
+Missouri State,Drake,W
+Drake,Loyola (IL),W
+Drake,Northern Iowa,W
+Wichita State,Drake,W
+Evansville,Drake,W
+Evansville,Martin Methodist,W
+IUPUI,Evansville,L
+Evansville,Mercer,W
+Evansville,Anderson IND,W
+Murray State,Evansville,W
+Evansville,Jackson State,L
+Evansville,Butler,L
+Evansville,Grambling State,W
+Evansville,Indiana State,L
+Evansville,Northern Iowa,L
+Southern Illinois,Evansville,L
+Illinois State,Evansville,W
+Evansville,Loyola (IL),W
+Missouri State,Evansville,W
+Northern Iowa,Evansville,W
+Wichita State,Evansville,W
+Evansville,Missouri State,L
+Evansville,Illinois State,W
+Evansville,Wichita State,L
+Indiana State,Evansville,W
+Evansville,Southern Illinois,L
+Loyola (IL),Evansville,L
+Virginia Commonwealth,Illinois State,W
+Illinois State,Vermont,L
+Illinois State,Sonoma State,W
+San Francisco,Illinois State,L
+Illinois State,Chicago State,W
+Illinois State,Tennessee State,W
+Missouri State,Illinois State,W
+Illinois State,Southern Illinois,W
+Wichita State,Illinois State,W
+Illinois State,Loyola (IL),W
+Illinois State,Wichita State,L
+Indiana State,Illinois State,W
+Illinois State,Northern Iowa,W
+Loyola (IL),Illinois State,W
+Illinois State,Missouri State,W
+Northern Iowa,Illinois State,W
+Illinois State,Indiana State,W
+Southern Illinois,Illinois State,W
+Belmont,Indiana State,W
+Indiana State,Truman State,W
+Indiana State,Tulsa,L
+Alaska Anchorage,Indiana State,L
+Indiana State,Pepperdine,W
+Eastern Illinois,Indiana State,L
+UMKC,Indiana State,L
+Indiana State,IUPUI,W
+Indiana State,Belmont,W
+Indiana State,Loyola (IL),W
+Indiana State,Missouri State,W
+Wichita State,Indiana State,W
+Loyola (IL),Indiana State,L
+Southern Illinois,Indiana State,W
+Northern Iowa,Indiana State,L
+Indiana State,Wichita State,L
+Indiana State,Southern Illinois,W
+Missouri State,Indiana State,W
+Indiana State,Northern Iowa,L
+Tennessee Tech,Loyola (IL),W
+Loyola (IL),Rockhurst,W
+Loyola (IL),UC Davis,L
+Loyola (IL),SIU-Edwardsville,W
+Mississippi State,Loyola (IL),W
+Loyola (IL),Illinois-Chicago,W
+Loyola (IL),Northern Illinois,L
+Loyola (IL),Missouri State,W
+Loyola (IL),Southern Illinois,L
+Loyola (IL),Northern Iowa,W
+Wichita State,Loyola (IL),W
+Southern Illinois,Loyola (IL),W
+Northern Iowa,Loyola (IL),W
+Loyola (IL),Wichita State,L
+Missouri State,Loyola (IL),W
+Missouri State,Grambling State,W
+Missouri State,Texas A&M,W
+Missouri State,Virginia,L
+Missouri State,Cameron,W
+Oral Roberts,Missouri State,L
+Missouri State,Alabama A&M,W
+Missouri State,Southeast Missouri State,W
+Missouri State,Wichita State,L
+Northern Iowa,Missouri State,W
+Missouri State,Southern Illinois,W
+Southern Illinois,Missouri State,W
+Missouri State,Northern Iowa,L
+Wichita State,Missouri State,W
+Northern Iowa,Coe College,W
+Northern Iowa,Loyola Marymount,W
+Northern Iowa,Maryland,L
+Northern Iowa,La Salle,W
+Northern Iowa,Iowa State,L
+Northern Iowa,Virginia Commonwealth,W
+Wichita State,Northern Iowa,W
+Southern Illinois,Northern Iowa,W
+Northern Iowa,Wichita State,L
+Northern Iowa,Southern Illinois,W
+Missouri,S Illinois,W
+S Illinois,Saint Louis,L
+Austin Peay,S Illinois,W
+S Illinois,Missouri Rolla,W
+S Illinois,St. Bonaventure,L
+S Illinois,Stetson,W
+S Illinois,San Diego,L
+Chicago State,S Illinois,W
+S Illinois,Western Kentucky,L
+Murray State,S Illinois,W
+S Illinois,Ball State,W
+S Illinois,SIU-Edwardsville,W
+Miami (OH),S Illinois,W
+S Illinois,Wichita State,L
+Illinois State,S Illinois,W
+Loyola (IL),S Illinois,L
+S Illinois,Evansville,L
+S Illinois,Northern Iowa,W
+Bradley,S Illinois,W
+S Illinois,Drake,L
+Missouri State,S Illinois,W
+S Illinois,Indiana State,W
+S Illinois,Loyola (IL),W
+Drake,S Illinois,L
+S Illinois,Missouri State,W
+Wichita State,S Illinois,W
+Indiana State,S Illinois,W
+S Illinois,Bradley,W
+Evansville,S Illinois,L
+Northern Iowa,S Illinois,W
+S Illinois,Illinois State,W
+Wichita State,Emporia State,W
+Wichita State,Western Kentucky,W
+Wichita State,Tennessee State,W
+Wichita State,DePaul,W
+Wichita State,Brigham Young,W
+Wichita State,Oral Roberts,W
+Wichita State,Tennessee,W
+Alabama,Wichita State,L
+Wichita State,North Carolina Central,W
+Wichita State,Davidson,W
+Southern Illinois,Wichita State,L
+Wichita State,Southern Illinois,W
+Air Force,Army,W
+Virginia Military,Air Force,W
+Air Force,Jackson State,L
+Air Force,Arkansas-Pine Bluff,W
+Air Force,CO Christian,W
+Air Force,Colorado,L
+Air Force,South Dakota,W
+Air Force,Western State,W
+Air Force,Utah State,W
+UNLV,Air Force,L
+Fresno State,Air Force,W
+Air Force,San Diego State,L
+Air Force,San Jose State,W
+Colorado State,Air Force,W
+Air Force,Wyoming,L
+Boise State,Air Force,W
+Nevada,Air Force,W
+Air Force,Fresno State,L
+Air Force,Colorado State,L
+San Jose State,Air Force,L
+San Diego State,Air Force,W
+Air Force,Nevada,L
+Wyoming,Air Force,L
+Air Force,UNLV,L
+Boise State,Texas-Arlington,W
+Boise State,Simpson University,W
+Boise State,Seattle,W
+New Orleans,Boise State,L
+Boise State,Idaho,W
+Boise State,Utah,W
+Boise State,Carroll College Montana,W
+Kentucky,Boise State,W
+Boise State,Saint Mary's,L
+Boise State,South Carolina,W
+Boise State,Iowa State,L
+Boise State,Fresno State,W
+San Diego State,Boise State,W
+Boise State,Wyoming,L
+Nevada,Boise State,L
+Boise State,Utah State,W
+New Mexico,Boise State,W
+Boise State,San Jose State,W
+UNLV,Boise State,W
+Boise State,San Diego State,L
+Utah State,Boise State,W
+Boise State,New Mexico,W
+Colorado State,Boise State,L
+Boise State,UNLV,W
+Fresno State,Boise State,W
+Wyoming,Boise State,L
+Colorado State,Colorado CS,W
+Gonzaga,Colorado State,W
+Colorado State,Northern Colorado,W
+Colorado State,Prairie View A&M,W
+Colorado State,New Mexico State,W
+Colorado State,Colorado,L
+Colorado State,Southwestern Oklahoma State,W
+Colorado State,Denver,L
+Colorado State,Illinois-Chicago,W
+Colorado State,Lamar,W
+Colorado State,San Diego State,L
+New Mexico,Colorado State,W
+San Jose State,Colorado State,L
+Colorado State,Fresno State,W
+Utah State,Colorado State,W
+Colorado State,New Mexico,L
+Nevada,Colorado State,W
+San Diego State,Colorado State,W
+Colorado State,UNLV,W
+Colorado State,Utah State,L
+Fresno State,Colorado State,W
+Colorado State,Wyoming,W
+UNLV,Colorado State,W
+Fresno State,Cal State Northridge,W
+Pacific,Fresno State,W
+Fresno State,San Diego Christian,W
+Fresno State,Cal State Bakersfield,W
+Fresno State,Northern Arizona,W
+Utah,Fresno State,W
+California,Fresno State,W
+Fresno State,Florida,L
+Fresno State,California Merced,W
+Fresno State,UNLV,L
+San Diego State,Fresno State,W
+Fresno State,New Mexico,L
+Fresno State,Nevada,L
+UNLV,Fresno State,W
+Fresno State,Wyoming,W
+Fresno State,San Jose State,W
+Nevada,Fresno State,L
+Wyoming,Fresno State,W
+Utah State,Fresno State,L
+Fresno State,San Diego State,L
+Nevada,Pacific,L
+San Francisco,Nevada,L
+Cal State Bakersfield,Nevada,W
+Nevada,Chattanooga,W
+Nevada,Morehead State,L
+Nevada,UCLA,L
+Nevada,Missouri,L
+California,Nevada,W
+Nevada,Nebraska-Omaha,L
+Nevada,Long Beach State,L
+San Jose State,Nevada,L
+Nevada,Wyoming,W
+UNLV,Nevada,L
+Nevada,Utah State,W
+Wyoming,Nevada,W
+Utah State,Nevada,W
+San Diego State,Nevada,W
+New Mexico,Nevada,W
+Nevada,San Jose State,L
+Nevada,New Mexico,L
+New Mexico,Alabama A&M,W
+New Mexico,Charleston Southern,W
+New Mexico,UAB,W
+New Mexico,Massachusetts,L
+New Mexico,Davidson,W
+New Mexico,San Diego,W
+New Mexico State,New Mexico,L
+New Mexico,Kansas,L
+New Mexico,New Mexico State,L
+New Mexico,Marquette,W
+New Mexico,Grand Canyon,W
+Wyoming,New Mexico,L
+San Jose State,New Mexico,L
+New Mexico,UNLV,L
+Utah State,New Mexico,L
+New Mexico,San Jose State,W
+New Mexico,Wyoming,W
+UNLV,New Mexico,L
+New Mexico,San Diego State,W
+New Mexico,Utah State,W
+San Diego State,Arizona,L
+San Diego State,San Diego Christian,W
+San Diego State,Charleston,W
+San Diego State,Creighton,W
+San Diego State,Marquette,W
+San Diego,San Diego State,L
+San Diego State,Washington,W
+San Diego State,McNeese State,W
+San Diego State,St. Katherine,W
+Kansas,San Diego State,L
+San Diego State,UNLV,W
+San Jose State,San Diego State,L
+Utah State,San Diego State,L
+Wyoming,San Diego State,W
+San Diego State,Utah State,W
+San Diego State,San Jose State,W
+Santa Clara,San Jose State,W
+San Jose State,Milwaukee,L
+Northern Illinois,San Jose State,W
+San Jose State,James Madison,L
+Pepperdine,San Jose State,L
+San Jose State,Cal State Fullerton,W
+Portland,San Jose State,W
+San Jose State,Westminster UT,W
+San Jose State,Pacifica College,W
+Utah State,San Jose State,W
+Wyoming,San Jose State,W
+San Jose State,UNLV,L
+San Jose State,Wyoming,L
+San Jose State,Utah State,L
+UNLV,Nebraska-Omaha,W
+UNLV,Arizona State,L
+UNLV,Tennessee-Martin,W
+Arizona,UNLV,W
+UNLV,Sacred Heart,W
+UNLV,Santa Clara,W
+UNLV,Mississippi State,W
+UNLV,Cal State Fullerton,W
+UNLV,Utah State,W
+UNLV,Wyoming,W
+Utah State,UNLV,L
+Utah State,USC,W
+Utah State,Mississippi State,W
+Utah State,Brigham Young,L
+Utah State,Pacific,L
+Utah State,Utah Valley,W
+Utah State,Western Illinois,W
+Utah State,Troy,W
+Utah State,San Diego Christian,W
+Wyoming,Utah State,W
+Wyoming,Tennessee-Martin,W
+Colorado,Wyoming,W
+Wyoming,Arkansas State,W
+Wyoming,Jackson State,W
+Wyoming,South Dakota,W
+Wyoming,Black Hills State,W
+South Dakota,Wyoming,L
+Denver,Wyoming,W
+Wyoming,Southern Methodist,L
+Wyoming,Northern Colorado,W
+Wyoming,Western State,W
+Gonzaga,Bryant,W
+Dartmouth,Bryant,L
+Bryant,Vermont,W
+Harvard,Bryant,W
+New Hampshire,Bryant,L
+Bryant,Brown,W
+Bryant,Salve Regina,W
+Yale,Bryant,L
+Bryant,North Dakota State,L
+Notre Dame,Bryant,W
+Ohio State,Bryant,W
+Bryant,Navy,W
+Bryant,Delaware,L
+Binghamton,Bryant,W
+Bryant,Lehigh,W
+Bryant,St. Francis U,W
+Bryant,Robert Morris,L
+Bryant,Sacred Heart,W
+Fairleigh Dickinson,Bryant,L
+Bryant,LIU Brooklyn,W
+Bryant,St. Francis (NY),W
+Robert Morris,Bryant,W
+Sacred Heart,Bryant,L
+Central Connecticut State,Bryant,L
+Bryant,Mount St. Mary's,W
+Wagner,Bryant,W
+Bryant,Fairleigh Dickinson,L
+Bryant,Central Connecticut State,W
+Mount St. Mary's,Bryant,W
+St. Francis (NY),Bryant,W
+LIU Brooklyn,Bryant,L
+Cent Conn St,Yale,L
+Purdue,Cent Conn St,W
+Northeastern,Cent Conn St,W
+Cent Conn St,Rider,L
+N.J.I.T.,Cent Conn St,L
+Brown,Cent Conn St,W
+Cent Conn St,New Hampshire,W
+Ohio State,Cent Conn St,W
+Cent Conn St,Hartford,W
+Hofstra,Cent Conn St,W
+Cent Conn St,Coastal Carolina,L
+Cent Conn St,Albertus Magnus,W
+Coastal Carolina,Cent Conn St,W
+Cent Conn St,Wagner,L
+Cent Conn St,St. Francis U,L
+Cent Conn St,St. Francis (NY),L
+Cent Conn St,LIU Brooklyn,L
+Wagner,Cent Conn St,L
+Fairleigh Dickinson,Cent Conn St,W
+St. Francis U,Cent Conn St,W
+Robert Morris,Cent Conn St,L
+Cent Conn St,Bryant University,L
+Cent Conn St,Fairleigh Dickinson,W
+Cent Conn St,Sacred Heart,W
+St. Francis (NY),Cent Conn St,L
+Cent Conn St,Mount St. Mary's,L
+Bryant University,Cent Conn St,W
+LIU Brooklyn,Cent Conn St,L
+Sacred Heart,Cent Conn St,L
+Fair Dickinson,Caldwell College,W
+Hofstra,Fair Dickinson,W
+Hartford,Fair Dickinson,W
+Arizona,Fair Dickinson,W
+Fair Dickinson,Metro State,L
+Fair Dickinson,St. Peter's,L
+Fair Dickinson,Norfolk State,L
+Rutgers,Fair Dickinson,L
+Seton Hall,Fair Dickinson,L
+Stony Brook,Fair Dickinson,W
+Princeton,Fair Dickinson,W
+Iowa,Fair Dickinson,W
+Columbia,Fair Dickinson,W
+Fair Dickinson,Hofstra,W
+Fair Dickinson,Mount St. Mary's,W
+Sacred Heart,Fair Dickinson,W
+LIU Brooklyn,Fair Dickinson,L
+Fair Dickinson,Bryant University,L
+Fair Dickinson,St. Francis (NY),W
+Fair Dickinson,Central Connecticut State,W
+Mount St. Mary's,Fair Dickinson,W
+St. Francis U,Fair Dickinson,W
+Wagner,Fair Dickinson,W
+Central Connecticut State,Fair Dickinson,W
+Fair Dickinson,St. Francis U,L
+Bryant University,Fair Dickinson,L
+Fair Dickinson,Sacred Heart,W
+Fair Dickinson,Wagner,L
+Fair Dickinson,Robert Morris,L
+St. Francis (NY),Fair Dickinson,W
+LIU Brooklyn,Eastern Washington,L
+LIU Brooklyn,Boston University,L
+Lehigh,LIU Brooklyn,W
+LIU Brooklyn,Lamar,W
+LIU Brooklyn,Temple,L
+Sam Houston State,LIU Brooklyn,W
+Texas State,LIU Brooklyn,L
+St. Francis (NY),LIU Brooklyn,W
+Wagner,LIU Brooklyn,W
+LIU Brooklyn,Fairleigh Dickinson,L
+Central Connecticut State,LIU Brooklyn,L
+Bryant University,LIU Brooklyn,W
+LIU Brooklyn,Mount St. Mary's,W
+LIU Brooklyn,Wagner,L
+Mount St. Mary's,LIU Brooklyn,W
+LIU Brooklyn,Robert Morris,L
+LIU Brooklyn,St. Francis U,L
+LIU Brooklyn,St. Francis (NY),W
+Robert Morris,LIU Brooklyn,W
+St. Francis U,LIU Brooklyn,W
+Sacred Heart,LIU Brooklyn,L
+LIU Brooklyn,Central Connecticut State,L
+LIU Brooklyn,Bryant University,L
+West Virginia,Mount St Mary's,W
+Villanova,Mount St Mary's,W
+Brigham Young,Mount St Mary's,W
+UMBC,Mount St Mary's,W
+Maryland-Eastern Shore,Mount St Mary's,W
+Mount St Mary's,American University,W
+Mount St Mary's,Bucknell,W
+Michigan State,Mount St Mary's,W
+Mount St Mary's,Binghamton,L
+Mount St Mary's,Loyola (MD),W
+Penn State,Mount St Mary's,W
+Texas Tech,Mount St Mary's,W
+Norfolk State,Mount St Mary's,L
+Fairleigh Dickinson,Mount St Mary's,W
+Mount St Mary's,St. Francis (NY),W
+Mount St Mary's,Wagner,W
+Mount St Mary's,Robert Morris,L
+St. Francis U,Mount St Mary's,L
+LIU Brooklyn,Mount St Mary's,W
+Mount St Mary's,Fairleigh Dickinson,W
+Mount St Mary's,LIU Brooklyn,W
+Sacred Heart,Mount St Mary's,L
+Bryant University,Mount St Mary's,W
+Robert Morris,Mount St Mary's,W
+Central Connecticut State,Mount St Mary's,L
+Wagner,Mount St Mary's,W
+Mount St Mary's,Bryant University,W
+Mount St Mary's,Sacred Heart,L
+Mount St Mary's,St. Francis U,W
+Lafayette,Robert Morris,L
+Eastern Michigan,Robert Morris,W
+Kentucky,Robert Morris,W
+Robert Morris,Texas-Arlington,W
+Youngstown State,Robert Morris,W
+Oklahoma State,Robert Morris,W
+Alabama,Robert Morris,W
+Sacred Heart,Robert Morris,L
+Bryant University,Robert Morris,L
+Robert Morris,St. Francis U,W
+Mount St. Mary's,Robert Morris,L
+Robert Morris,Sacred Heart,W
+Robert Morris,Wagner,W
+Robert Morris,Bryant University,W
+Robert Morris,Central Connecticut State,L
+St. Francis (NY),Robert Morris,L
+St. Francis U,Robert Morris,L
+Robert Morris,Mount St. Mary's,W
+Robert Morris,St. Francis (NY),W
+Fairleigh Dickinson,Robert Morris,L
+Wagner,Robert Morris,W
+Holy Cross,Sacred Heart,W
+Lehigh,Sacred Heart,W
+Sacred Heart,Lafayette,L
+Santa Clara,Sacred Heart,W
+Sacred Heart,Radford,L
+Sacred Heart,Florida A&M,L
+Sacred Heart,Fairleigh Dickinson,W
+Bryant University,Sacred Heart,W
+St. Francis (NY),Sacred Heart,W
+St. Francis U,Sacred Heart,W
+Sacred Heart,St. Francis (NY),L
+Sacred Heart,Bryant University,L
+Sacred Heart,Mount St. Mary's,L
+Sacred Heart,Wagner,L
+Central Connecticut State,Sacred Heart,W
+Wagner,Sacred Heart,W
+Fairleigh Dickinson,Sacred Heart,W
+Mount St. Mary's,Sacred Heart,L
+Sacred Heart,Central Connecticut State,L
+Miami (FL),St Francis (NY),L
+Florida Atlantic,St Francis (NY),L
+Dayton,St Francis (NY),W
+Syracuse,St Francis (NY),W
+Coastal Carolina,St Francis (NY),W
+St Francis (NY),Oakland,W
+St Francis (NY),Mount St. Vincent,W
+Stony Brook,St Francis (NY),L
+Army,St Francis (NY),W
+St Francis (NY),Monmouth,L
+St Francis (NY),Canisius,W
+St Francis (NY),Lafayette,W
+St Francis (NY),N.J.I.T.,W
+Delaware State,St Francis (NY),L
+Columbia,St Francis (NY),W
+St Francis (NY),LIU Brooklyn,W
+Mount St. Mary's,St Francis (NY),W
+Central Connecticut State,St Francis (NY),L
+St Francis (NY),Sacred Heart,W
+Fairleigh Dickinson,St Francis (NY),W
+Bryant University,St Francis (NY),W
+Sacred Heart,St Francis (NY),L
+St Francis (NY),Wagner,W
+St Francis (NY),St. Francis U,W
+St Francis (NY),Robert Morris,L
+St Francis (NY),LIU Brooklyn,L
+St Francis (NY),Central Connecticut State,L
+St. Francis U,St Francis (NY),L
+Robert Morris,St Francis (NY),W
+St Francis (NY),Bryant University,W
+St Francis (NY),Fairleigh Dickinson,W
+Fordham,St Francis (PA),W
+St Francis (PA),Navy,W
+Dayton,St Francis (PA),W
+Bucknell,St Francis (PA),W
+George Mason,St Francis (PA),W
+Colgate,St Francis (PA),W
+St Francis (PA),American University,L
+St Francis (PA),Lehigh,L
+Cornell,St Francis (PA),L
+St Francis (PA),Duquesne,L
+Drexel,St Francis (PA),W
+Denver,St Francis (PA),W
+St Francis (PA),N.J.I.T.,L
+Bryant University,St Francis (PA),W
+Central Connecticut State,St Francis (PA),L
+Robert Morris,St Francis (PA),W
+St Francis (PA),Wagner,L
+St Francis (PA),Mount St. Mary's,L
+St Francis (PA),Sacred Heart,W
+St Francis (PA),Central Connecticut State,W
+St Francis (PA),Fairleigh Dickinson,W
+St. Francis (NY),St Francis (PA),W
+LIU Brooklyn,St Francis (PA),L
+St Francis (PA),Robert Morris,L
+Fairleigh Dickinson,St Francis (PA),L
+St Francis (PA),St. Francis (NY),L
+St Francis (PA),LIU Brooklyn,W
+Wagner,St Francis (PA),W
+Mount St. Mary's,St Francis (PA),W
+Wagner,Chestnut Hill Colleg,W
+Wagner,Stetson,W
+Wagner,St. Bonaventure,L
+Wagner,Illinois-Chicago,L
+Wagner,Lafayette,L
+Central Connecticut State,Wagner,L
+Mount St. Mary's,Wagner,W
+St. Francis U,Wagner,L
+Wagner,Central Connecticut State,L
+St. Francis (NY),Wagner,W
+Wagner,Fairleigh Dickinson,W
+Wagner,Bryant University,W
+Wagner,Mount St. Mary's,W
+Fairleigh Dickinson,Wagner,L
+Wagner,St. Francis U,W
+Austin Peay,Oakland City,W
+Austin Peay,Southern Illinois,W
+Central Michigan,Austin Peay,W
+Austin Peay,Cal State Northridge,L
+Austin Peay,Montana State,W
+Youngstown State,Austin Peay,L
+Austin Peay,East Tennessee State,L
+Samford,Austin Peay,W
+Vanderbilt,Austin Peay,W
+Austin Peay,Lipscomb,L
+East Tennessee State,Austin Peay,W
+Austin Peay,Dalton State,W
+Austin Peay,Tennessee-Martin,W
+Austin Peay,Southeast Missouri State,W
+Murray State,Austin Peay,W
+SIU-Edwardsville,Austin Peay,W
+Eastern Illinois,Austin Peay,W
+Austin Peay,Jacksonville State,L
+Austin Peay,Tennessee Tech,W
+Austin Peay,Murray State,L
+Tennessee State,Austin Peay,L
+Belmont,Austin Peay,W
+Austin Peay,Eastern Illinois,W
+Austin Peay,SIU-Edwardsville,L
+Morehead State,Austin Peay,W
+Austin Peay,Eastern Kentucky,L
+Southeast Missouri State,Austin Peay,W
+Tennessee-Martin,Austin Peay,L
+Lipscomb,Belmont,L
+Belmont,Lipscomb,W
+Belmont,Holy Cross,W
+Belmont,Hofstra,W
+Belmont,Brescia,W
+Belmont,Virginia Commonwealth,L
+South Dakota State,Belmont,W
+Denver,Belmont,W
+Kentucky,Belmont,W
+Belmont,Jacksonville State,W
+Belmont,Tennessee Tech,W
+Southeast Missouri State,Belmont,L
+Tennessee-Martin,Belmont,L
+Eastern Kentucky,Belmont,W
+Tennessee State,Belmont,L
+Belmont,Morehead State,W
+Belmont,Eastern Kentucky,W
+Morehead State,Belmont,L
+Tennessee Tech,Belmont,W
+Belmont,Murray State,W
+Belmont,Tennessee State,W
+Belmont,Eastern Illinois,W
+SIU-Edwardsville,Belmont,L
+Jacksonville State,Belmont,L
+Northwestern,E Illinois,W
+E Illinois,Olivet Nazarene,W
+Illinois-Chicago,E Illinois,L
+Purdue,E Illinois,W
+E Illinois,Roosevelt,W
+E Illinois,IPFW,L
+Western Kentucky,E Illinois,W
+Western Illinois,E Illinois,W
+E Illinois,Indiana State,L
+Wright State,E Illinois,W
+IPFW,E Illinois,W
+E Illinois,Tennessee State,W
+E Illinois,Eastern Kentucky,L
+E Illinois,Morehead State,L
+Tennessee Tech,E Illinois,W
+Jacksonville State,E Illinois,L
+E Illinois,Murray State,L
+E Illinois,Austin Peay,W
+Tennessee-Martin,E Illinois,W
+Southeast Missouri State,E Illinois,L
+E Illinois,Cleveland State,L
+E Illinois,SIU-Edwardsville,W
+E Illinois,Tennessee-Martin,W
+E Illinois,Southeast Missouri State,L
+Austin Peay,E Illinois,W
+Murray State,E Illinois,W
+Belmont,E Illinois,W
+E Illinois,Chicago State,W
+SIU-Edwardsville,E Illinois,L
+E Kentucky,Florida International,W
+Kennesaw State,E Kentucky,L
+E Kentucky,Youngstown State,L
+E Kentucky,Warren Wilson,W
+E Kentucky,High Point,W
+E Kentucky,Alabama A&M,W
+E Kentucky,Brescia,W
+North Carolina State,E Kentucky,W
+Virginia Commonwealth,E Kentucky,W
+Longwood,E Kentucky,L
+Wisconsin,E Kentucky,W
+E Kentucky,North Carolina A&T,W
+IPFW,E Kentucky,L
+Eastern Illinois,E Kentucky,L
+SIU-Edwardsville,E Kentucky,W
+E Kentucky,Murray State,L
+Morehead State,E Kentucky,L
+E Kentucky,Belmont,W
+E Kentucky,Jacksonville State,W
+Tennessee State,E Kentucky,L
+Belmont,E Kentucky,W
+E Kentucky,Tennessee-Martin,W
+E Kentucky,Southeast Missouri State,W
+E Kentucky,Chattanooga,W
+E Kentucky,Morehead State,L
+Tennessee Tech,E Kentucky,W
+Jacksonville State,E Kentucky,L
+Austin Peay,E Kentucky,L
+E Kentucky,Tennessee Tech,W
+E Kentucky,Tennessee State,W
+Bradley,Jacksonville St,W
+Illinois,Jacksonville St,W
+Chicago State,Jacksonville St,W
+Jacksonville St,Alabama State,L
+Auburn,Jacksonville St,W
+Jacksonville St,Dalton State,W
+Alabama A&M,Jacksonville St,L
+Jacksonville St,Fort Valley State,W
+Central Michigan,Jacksonville St,W
+Florida State,Jacksonville St,W
+Jacksonville St,Alcorn State,W
+Dartmouth,Jacksonville St,W
+Jacksonville St,Central Michigan,W
+Jacksonville St,Arkansas-Little Rock,L
+Jacksonville St,Coppin State,W
+Jacksonville St,Tennessee-Martin,W
+Belmont,Jacksonville St,W
+Tennessee State,Jacksonville St,W
+Jacksonville St,SIU-Edwardsville,W
+Jacksonville St,Eastern Illinois,L
+Jacksonville St,Tennessee State,W
+Eastern Kentucky,Jacksonville St,W
+Austin Peay,Jacksonville St,L
+Murray State,Jacksonville St,W
+Morehead State,Jacksonville St,W
+Jacksonville St,Tennessee Tech,L
+Jacksonville St,Morehead State,L
+Jacksonville St,Eastern Kentucky,L
+Southeast Missouri State,Jacksonville St,W
+Tennessee Tech,Jacksonville St,W
+Jacksonville St,Belmont,L
+Morehead State,Mid-Continent Colleg,W
+East Tennessee State,Morehead State,L
+Northern Kentucky,Morehead State,L
+UCLA,Morehead State,W
+Morehead State,Chattanooga,W
+Morehead State,Gardner-Webb,L
+Morehead State,South Dakota,W
+Tennessee,Morehead State,W
+Morehead State,Asbury,W
+SIU-Edwardsville,Morehead State,L
+Eastern Illinois,Morehead State,L
+Morehead State,Eastern Kentucky,L
+Morehead State,Southeast Missouri State,W
+Morehead State,Tennessee-Martin,W
+Tennessee State,Morehead State,L
+Morehead State,Jacksonville State,W
+Eastern Kentucky,Morehead State,L
+Jacksonville State,Morehead State,L
+Tennessee Tech,Morehead State,L
+Murray State,Morehead State,W
+Morehead State,Tennessee State,L
+Morehead State,Tennessee Tech,L
+Murray State,Brescia,W
+Murray State,Bethel TENN,W
+Auburn,Murray State,W
+Saint Mary's,Murray State,W
+Murray State,Lipscomb,W
+Murray State,Southern Illinois,W
+Western Kentucky,Murray State,W
+Murray State,Southeast Missouri State,W
+Murray State,Tennessee-Martin,W
+Eastern Kentucky,Murray State,L
+Eastern Illinois,Murray State,L
+SIU-Edwardsville,Murray State,W
+Murray State,Tennessee Tech,W
+Murray State,Jacksonville State,W
+Tennessee State,Murray State,L
+Murray State,SIU-Edwardsville,W
+Murray State,Eastern Illinois,W
+Tennessee-Martin,Murray State,L
+Southeast Missouri State,Murray State,W
+Arkansas,SIU Edwardsville,W
+SIU Edwardsville,Saint Louis,L
+SIU Edwardsville,Central Arkansas,W
+SIU Edwardsville,UC Davis,L
+SIU Edwardsville,Portland State,L
+SIU Edwardsville,Loyola (IL),L
+Oregon State,SIU Edwardsville,W
+SIU Edwardsville,Texas-Pan American,W
+SIU Edwardsville,Central Michigan,L
+IPFW,SIU Edwardsville,W
+Chicago State,SIU Edwardsville,W
+Southern Illinois,SIU Edwardsville,W
+SIU Edwardsville,Robert Morris (IL-Spr),W
+SIU Edwardsville,Morehead State,L
+SIU Edwardsville,Eastern Kentucky,W
+Jacksonville State,SIU Edwardsville,W
+Tennessee Tech,SIU Edwardsville,W
+SIU Edwardsville,Austin Peay,W
+SIU Edwardsville,Murray State,W
+Southeast Missouri State,SIU Edwardsville,W
+Tennessee-Martin,SIU Edwardsville,L
+SIU Edwardsville,Crowley's Ridge College,W
+Eastern Illinois,SIU Edwardsville,W
+SIU Edwardsville,Southeast Missouri State,W
+SIU Edwardsville,Tennessee-Martin,W
+Murray State,SIU Edwardsville,W
+Austin Peay,SIU Edwardsville,L
+Tennessee State,SIU Edwardsville,W
+SIU Edwardsville,Belmont,L
+SIU Edwardsville,Eastern Illinois,L
+Saint Louis,SE Missouri St,W
+SE Missouri St,Central Baptist Coll,W
+IUPUI,SE Missouri St,L
+Ball State,SE Missouri St,W
+SE Missouri St,Mid-Continent Colleg,W
+SE Missouri St,Northern Kentucky,W
+SE Missouri St,Tulane,W
+SE Missouri St,Texas State,W
+Southeastern Louisiana,SE Missouri St,L
+SE Missouri St,Illinois-Chicago,L
+Memphis,SE Missouri St,W
+SE Missouri St,IUPUI,W
+Missouri State,SE Missouri St,W
+Murray State,SE Missouri St,W
+Austin Peay,SE Missouri St,W
+SE Missouri St,Belmont,L
+SE Missouri St,Tennessee State,W
+Morehead State,SE Missouri St,W
+Tennessee Tech,SE Missouri St,L
+SE Missouri St,SIU-Edwardsville,W
+SE Missouri St,Eastern Illinois,L
+SE Missouri St,UMKC,W
+Eastern Kentucky,SE Missouri St,W
+SIU-Edwardsville,SE Missouri St,W
+Eastern Illinois,SE Missouri St,L
+SE Missouri St,Tennessee-Martin,L
+SE Missouri St,Jacksonville State,W
+Tennessee-Martin,SE Missouri St,L
+SE Missouri St,Austin Peay,W
+SE Missouri St,Murray State,W
+Hawaii,Tenn St,W
+Tenn St,New Mexico State,L
+Tenn St,Western Michigan,L
+Wichita State,Tenn St,W
+Tenn St,Lipscomb,L
+Tennessee,Tenn St,W
+Auburn,Tenn St,W
+USC Upstate,Tenn St,W
+Tenn St,Alabama A&M,L
+Drexel,Tenn St,W
+Tenn St,Fisk,W
+Illinois State,Tenn St,W
+Tenn St,Miami (OH),L
+Eastern Illinois,Tenn St,W
+Tenn St,Tennessee Tech,L
+Tenn St,Jacksonville State,W
+Tenn St,Middle Tennessee,L
+Southeast Missouri State,Tenn St,W
+Tennessee-Martin,Tenn St,W
+Jacksonville State,Tenn St,W
+Tenn St,Belmont,L
+Tenn St,Eastern Kentucky,L
+Tenn St,Morehead State,L
+Tennessee Tech,Tenn St,L
+Tenn St,Austin Peay,L
+Tenn St,Murray State,L
+Belmont,Tenn St,W
+Tenn St,SIU-Edwardsville,W
+Morehead State,Tenn St,L
+Eastern Kentucky,Tenn St,W
+South Florida,Tenn Tech,W
+Tenn Tech,Loyola (IL),W
+Tenn Tech,Texas-Pan American,L
+Texas A&M-CC,Tenn Tech,L
+Tenn Tech,IPFW,L
+Tenn Tech,Indiana-Kokomo,W
+Tenn Tech,Milwaukee,L
+Tenn Tech,East Tennessee State,W
+Tenn Tech,Utah Valley,W
+Lipscomb,Tenn Tech,W
+Tennessee,Tenn Tech,W
+Lamar,Tenn Tech,L
+Green Bay,Tenn Tech,W
+Tenn Tech,Hillsdale,W
+Utah Valley,Tenn Tech,W
+Tennessee State,Tenn Tech,L
+Belmont,Tenn Tech,W
+Tenn Tech,Eastern Illinois,W
+Tenn Tech,SIU-Edwardsville,W
+Tenn Tech,Southeast Missouri State,L
+Murray State,Tenn Tech,W
+Austin Peay,Tenn Tech,W
+Tenn Tech,Tennessee State,L
+Tenn Tech,Belmont,W
+Jacksonville State,Tenn Tech,L
+Tenn Tech,Eastern Kentucky,W
+Tenn Tech,Morehead State,L
+Tennessee-Martin,Tenn Tech,L
+Tenn Tech,Jacksonville State,W
+Eastern Kentucky,Tenn Tech,W
+Morehead State,Tenn Tech,L
+Wyoming,UT Martin,W
+Colorado,UT Martin,W
+Arkansas State,UT Martin,W
+UT Martin,Rochester College,W
+Florida State,UT Martin,W
+UT Martin,UMKC,L
+UT Martin,Jackson State,L
+UT Martin,Lipscomb,L
+UT Martin,Bethel TENN,W
+UNLV,UT Martin,W
+Samford,UT Martin,L
+UT Martin,Northern Kentucky,W
+Presbyterian,UT Martin,L
+Arkansas,UT Martin,W
+UT Martin,Southeastern Louisiana,L
+Jacksonville State,UT Martin,W
+Austin Peay,UT Martin,W
+Murray State,UT Martin,W
+UT Martin,Belmont,L
+UT Martin,Tennessee State,W
+Morehead State,UT Martin,W
+UT Martin,Eastern Illinois,W
+UT Martin,SIU-Edwardsville,L
+Eastern Kentucky,UT Martin,W
+Eastern Illinois,UT Martin,W
+SIU-Edwardsville,UT Martin,W
+Southeast Missouri State,UT Martin,L
+UT Martin,Tennessee Tech,L
+UT Martin,Southeast Missouri State,L
+UT Martin,Murray State,L
+UT Martin,Austin Peay,L
+Arizona,Long Beach State,W
+Arizona,Fairleigh Dickinson,W
+Arizona,Drexel,W
+Arizona,Duke,W
+Arizona,Texas Tech,W
+Arizona,New Mexico State,W
+Arizona,Southern University,W
+Arizona,Northern Arizona,W
+Arizona,Washington State,W
+Arizona,Washington,W
+UCLA,Arizona,L
+USC,Arizona,L
+Arizona,Arizona State,W
+Arizona,Colorado,W
+Arizona,Utah,W
+Stanford,Arizona,L
+California,Arizona,W
+Arizona,Oregon,W
+Arizona,Oregon State,W
+Arizona State,Arizona,W
+Utah,Arizona,L
+Colorado,Arizona,L
+Arizona,California,W
+Arizona,Stanford,W
+Arizona State,Creighton,L
+Arizona State,Charleston,W
+Arizona State,Miami (FL),L
+Arizona State,Grambling State,W
+Arizona State,Texas Tech,W
+Arizona State,Washington,L
+Arizona State,Washington State,W
+USC,Arizona State,L
+UCLA,Arizona State,W
+Arizona State,Utah,W
+Arizona State,Colorado,W
+California,Arizona State,L
+Stanford,Arizona State,W
+Arizona State,Oregon State,W
+Arizona State,Oregon,W
+Colorado,Arizona State,W
+Utah,Arizona State,W
+Arizona State,Stanford,W
+Arizona State,California,W
+California,Denver,W
+California,Arkansas,W
+California,Syracuse,L
+California,Dayton,L
+California,Furman,W
+Stanford,California,L
+Oregon,California,L
+Oregon State,California,L
+California,Washington,W
+California,Washington State,W
+USC,California,W
+UCLA,California,W
+California,Stanford,L
+Washington State,California,L
+Washington,California,L
+California,UCLA,L
+California,USC,W
+Colorado,Baylor,L
+Colorado,Tennessee-Martin,W
+Colorado,Jackson State,W
+Colorado,Arkansas State,W
+Colorado,Kansas,W
+Colorado,Elon,W
+Colorado,Oklahoma State,L
+Colorado,Georgia,W
+Colorado,Oregon State,W
+Colorado,Oregon,W
+Washington State,Colorado,L
+Washington,Colorado,W
+Colorado,UCLA,L
+Colorado,USC,W
+Colorado,Utah,W
+Colorado,Washington State,W
+Colorado,Washington,W
+UCLA,Colorado,W
+USC,Colorado,L
+Utah,Colorado,W
+Oregon,Georgetown,W
+Oregon,Western Carolina,W
+Oregon,Utah Valley,W
+Oregon,San Francisco,W
+Oregon,Pacific,W
+Ole Miss,Oregon,L
+Oregon,Illinois,W
+Oregon,Brigham Young,W
+Utah,Oregon,L
+Oregon,Stanford,L
+Oregon State,Oregon,W
+Washington,Oregon,W
+Washington State,Oregon,L
+Oregon,UCLA,L
+Oregon,USC,W
+Oregon,Oregon State,W
+Oregon,Washington,W
+Oregon,Washington State,W
+UCLA,Oregon,L
+USC,Oregon,L
+Oregon State,Portland,W
+Oregon State,SIU-Edwardsville,W
+Oregon State,Arkansas-Pine Bluff,W
+Oregon State,Akron,L
+Oregon State,George Mason,W
+Utah,Oregon State,W
+Oregon State,Stanford,W
+Washington State,Oregon State,L
+Washington,Oregon State,W
+Oregon State,USC,W
+Oregon State,UCLA,W
+Oregon State,Washington State,W
+Oregon State,Washington,L
+USC,Oregon State,L
+UCLA,Oregon State,W
+Stanford,Bucknell,W
+Stanford,Brigham Young,L
+Denver,Stanford,L
+Stanford,Texas Southern,W
+Stanford,Houston,W
+Stanford,Pittsburgh,L
+Stanford,South Dakota State,W
+Stanford,Michigan,L
+Stanford,Washington State,W
+Stanford,Washington,W
+UCLA,Stanford,W
+USC,Stanford,L
+Washington,Stanford,W
+Washington State,Stanford,L
+Stanford,USC,W
+Stanford,UCLA,W
+UCLA,Sacramento State,W
+UCLA,Chattanooga,W
+UCLA,Nevada,W
+UCLA,Northwestern,W
+Missouri,UCLA,W
+UCLA,Prairie View A&M,W
+UCLA,Duke,L
+UCLA,Alabama,W
+UCLA,USC,W
+Utah,UCLA,W
+USC,UCLA,L
+UCLA,Utah,W
+USC,Cal State Northridge,W
+USC,Northern Arizona,W
+USC,Cal State Fullerton,W
+USC,West Alabama,W
+USC,Villanova,L
+USC,Wake Forest,L
+USC,Xavier,W
+USC,Cal State Bakersfield,W
+Long Beach State,USC,W
+Utah,USC,W
+USC,Utah,L
+Utah,Evergreen State,W
+Utah,Grand Canyon,W
+Utah,Lamar,W
+Utah,Brigham Young,W
+Utah,Texas State,W
+Utah,St. Katherine,W
+Washington,Utah,W
+Washington State,Utah,W
+Utah,Washington,W
+Utah,Washington State,W
+Washington,Seattle,W
+Washington,Eastern Washington,W
+Washington,Indiana,L
+Washington,Boston College,L
+Washington,Long Beach State,W
+Washington,Mississippi Valley State,W
+Washington State,Washington,W
+Washington,Washington State,W
+Washington St,Cal State Bakersfield,W
+Washington St,Lamar,W
+Gonzaga,Washington St,W
+Washington St,TCU,L
+Washington St,Butler,L
+Washington St,Purdue,W
+Washington St,Saint Joseph's,L
+Idaho,Washington St,L
+Washington St,Pepperdine,W
+Washington St,San Francisco St.,W
+Washington St,UTEP,L
+Washington St,Mississippi Valley State,W
+Arizona,Washington St,W
+Arizona State,Washington St,W
+Washington St,Colorado,L
+Washington St,Utah,W
+Stanford,Washington St,W
+California,Washington St,W
+Washington St,Oregon State,L
+Washington St,Oregon,L
+Washington St,Washington,W
+Colorado,Washington St,W
+Utah,Washington St,W
+Washington St,California,L
+Washington St,Stanford,L
+Oregon State,Washington St,W
+Oregon,Washington St,W
+Washington,Washington St,W
+George Mason,American U,W
+American U,UMBC,W
+Ohio State,American U,W
+Mount St. Mary's,American U,W
+Columbia,American U,W
+St. Francis U,American U,L
+American U,Howard,W
+American U,Brown,L
+Saint Mary's,American U,W
+San Francisco,American U,W
+Maryland-Eastern Shore,American U,L
+Bucknell,American U,L
+Holy Cross,American U,L
+American U,Loyola (MD),W
+Colgate,American U,L
+Lehigh,American U,L
+American U,Lafayette,W
+American U,Boston University,W
+Army,American U,L
+American U,Navy,W
+American U,Holy Cross,W
+Loyola (MD),American U,W
+American U,Colgate,L
+American U,Lehigh,W
+Lafayette,American U,W
+Boston University,American U,W
+American U,Army,W
+Navy,American U,L
+American U,Bucknell,L
+Army,Air Force,L
+Army,Citadel,W
+Army,Houston Baptist,L
+Army,St. Francis (NY),W
+Army,US Coast Guard,W
+Lafayette,Army,L
+Army,Loyola (MD),W
+Lehigh,Army,L
+Navy,Army,L
+Army,Holy Cross,L
+Army,Bucknell,W
+Colgate,Army,L
+Army,American University,L
+Boston University,Army,W
+Loyola (MD),Army,L
+Army,Lehigh,W
+Army,Navy,L
+Holy Cross,Army,W
+Bucknell,Army,W
+Army,Colgate,W
+American University,Army,W
+Army,Boston University,L
+Army,Lafayette,W
+Boston U,Northeastern,W
+Boston U,Massachusetts Lowell,W
+Connecticut,Boston U,W
+Boston U,Eastern Washington,L
+UC Irvine,Boston U,L
+Boston U,LIU Brooklyn,W
+Boston U,St. Peter's,W
+Quinnipiac,Boston U,L
+Boston U,Harvard,L
+George Washington,Boston U,W
+Boston U,Norfolk State,L
+Maryland,Boston U,L
+Saint Joseph's,Boston U,W
+Boston U,Holy Cross,W
+Lehigh,Boston U,L
+Boston U,Navy,W
+Lafayette,Boston U,L
+Boston U,Colgate,W
+Boston U,Loyola (MD),W
+American University,Boston U,W
+Bucknell,Boston U,L
+Boston U,Army,W
+Boston U,Lehigh,L
+Navy,Boston U,L
+Boston U,Lafayette,W
+Colgate,Boston U,L
+Loyola (MD),Boston U,L
+Boston U,American University,W
+Boston U,Bucknell,L
+Army,Boston U,L
+Holy Cross,Boston U,L
+Bucknell,St. Francis U,W
+Albany,Bucknell,L
+Mount St. Mary's,Bucknell,W
+Bucknell,American University,L
+Bucknell,Colgate,W
+Lafayette,Bucknell,L
+Bucknell,Holy Cross,W
+Navy,Bucknell,W
+Bucknell,Loyola (MD),W
+Bucknell,Boston University,L
+Lehigh,Bucknell,W
+Colgate,Bucknell,L
+Bucknell,Lafayette,L
+Holy Cross,Bucknell,W
+Bucknell,Navy,W
+Loyola (MD),Bucknell,L
+Boston University,Bucknell,L
+Bucknell,Lehigh,W
+American University,Bucknell,L
+Colgate,St. Francis U,W
+Albany,Colgate,L
+Colgate,Ursinus,W
+Colgate,Lehigh,L
+Holy Cross,Colgate,W
+Colgate,American University,L
+Boston University,Colgate,W
+Colgate,Navy,W
+Loyola (MD),Colgate,W
+Lafayette,Colgate,L
+Colgate,Holy Cross,L
+American University,Colgate,L
+Colgate,Boston University,L
+Navy,Colgate,W
+Colgate,Loyola (MD),W
+Colgate,Lafayette,W
+Lehigh,Colgate,L
+Holy Cross,Harvard,L
+Holy Cross,Belmont,L
+Holy Cross,Hartford,W
+Holy Cross,Albany,W
+Boston University,Holy Cross,W
+Holy Cross,American University,L
+Holy Cross,Lehigh,W
+Lafayette,Holy Cross,L
+Navy,Holy Cross,L
+Holy Cross,Loyola (MD),W
+American University,Holy Cross,W
+Lehigh,Holy Cross,L
+Holy Cross,Lafayette,L
+Holy Cross,Navy,W
+Loyola (MD),Holy Cross,L
+Holy Cross,Boston University,L
+Lafayette,Immaculata,W
+St. Francis (NY),Lafayette,W
+Navy,Lafayette,W
+Lafayette,Boston University,L
+Loyola (MD),Lafayette,W
+American University,Lafayette,W
+Lehigh,Lafayette,W
+Lafayette,Navy,W
+Boston University,Lafayette,W
+Lafayette,Loyola (MD),W
+Lafayette,American University,W
+Lafayette,Lehigh,W
+Loyola (MD),Lafayette,L
+Lehigh,Texas Southern,W
+South Dakota State,Lehigh,W
+St. Francis U,Lehigh,L
+Bryant University,Lehigh,W
+Lehigh,Boston University,L
+Loyola (MD),Lehigh,W
+Lehigh,American University,L
+Navy,Lehigh,L
+Boston University,Lehigh,L
+Lehigh,Loyola (MD),W
+American University,Lehigh,W
+Lehigh,Navy,W
+West Virginia,Loyola (MD),W
+Loyola (MD),Catholic,W
+Mount St. Mary's,Loyola (MD),W
+Loyola (MD),Navy,W
+American University,Loyola (MD),W
+Boston University,Loyola (MD),W
+Loyola (MD),American University,W
+Loyola (MD),Boston University,L
+Navy,Loyola (MD),L
+St. Francis U,Navy,W
+Navy,Goucher,W
+Navy,Citadel,W
+Bryant University,Navy,W
+Northern Kentucky,Navy,W
+Boston University,Navy,W
+American University,Navy,W
+Navy,Boston University,L
+Navy,American University,L
+Alabama,Oklahoma,L
+Alabama,Texas Tech,W
+Alabama,Stillman,W
+Alabama,Georgia State,W
+Alabama,Duke,L
+Alabama,Drexel,L
+Alabama,North Florida,W
+Alabama,Charleston Southern,W
+Alabama,Vanderbilt,W
+Georgia,Alabama,W
+Alabama,Mississippi State,W
+Missouri,Alabama,W
+Alabama,Florida,L
+Alabama,LSU,W
+Auburn,Alabama,W
+Alabama,Tennessee,L
+Arkansas,Alabama,W
+Florida,Alabama,W
+Alabama,Ole Miss,W
+South Carolina,Alabama,W
+Texas A&M,Alabama,W
+Alabama,Missouri,W
+Ole Miss,Alabama,W
+Alabama,Auburn,W
+Arkansas,SIU-Edwardsville,W
+Arkansas,Louisiana-Lafayette,W
+Arkansas,Southern Methodist,W
+Arkansas,California,L
+Arkansas,Minnesota,W
+Arkansas,Gonzaga,L
+Arkansas,Southeastern Louisiana,W
+Arkansas,Tennessee-Martin,W
+Arkansas,South Alabama,W
+Texas A&M,Arkansas,W
+Arkansas,Florida,L
+Arkansas,Kentucky,W
+Georgia,Arkansas,W
+Tennessee,Arkansas,W
+Arkansas,Auburn,W
+Arkansas,Missouri,L
+LSU,Arkansas,W
+Vanderbilt,Arkansas,L
+Missouri,Arkansas,W
+Arkansas,LSU,W
+Arkansas,South Carolina,W
+Mississippi State,Arkansas,L
+Kentucky,Arkansas,L
+Arkansas,Georgia,W
+Auburn,Nicholls State,W
+Auburn,Northwestern State,L
+Auburn,Jacksonville State,W
+Auburn,Tennessee State,W
+Iowa State,Auburn,W
+Auburn,Illinois,L
+Auburn,Arkansas-Pine Bluff,W
+Auburn,Florida A&M,W
+Ole Miss,Auburn,W
+Auburn,Missouri,L
+Tennessee,Auburn,W
+Auburn,Florida,L
+Mississippi State,Auburn,W
+Auburn,Georgia,W
+South Carolina,Auburn,L
+LSU,Auburn,W
+Auburn,Kentucky,L
+Auburn,Mississippi State,W
+Florida,Auburn,W
+Auburn,Vanderbilt,L
+Auburn,South Carolina,W
+Florida,North Florida,W
+Florida,Arkansas-Little Rock,W
+Florida,Southern University,W
+Jacksonville,Florida,L
+Florida,Kansas,W
+Florida,Memphis,W
+Florida,Fresno State,W
+Florida,South Carolina,W
+Florida,Georgia,W
+Florida,Tennessee,W
+Mississippi State,Florida,L
+Florida,Texas A&M,W
+Florida,Missouri,W
+Tennessee,Florida,L
+Kentucky,Florida,L
+Ole Miss,Florida,L
+Vanderbilt,Florida,L
+Florida,LSU,W
+Georgia,Wofford,W
+Georgia,Davidson,L
+Georgia,Temple,L
+Georgia,Nebraska,L
+Georgia,Appalachian State,W
+Georgia,Chattanooga,W
+Georgia,Lipscomb,W
+Georgia,Western Carolina,W
+George Washington,Georgia,W
+Missouri,Georgia,L
+Georgia,South Carolina,W
+Kentucky,Georgia,W
+Georgia,Vanderbilt,L
+Georgia,LSU,W
+Georgia,Texas A&M,W
+Mississippi State,Georgia,L
+Georgia,Ole Miss,W
+Tennessee,Georgia,W
+South Carolina,Georgia,L
+Georgia,Missouri,W
+Kentucky,Northern Kentucky,W
+Kentucky,Michigan State,L
+Kentucky,Texas-Arlington,W
+Kentucky,Eastern Michigan,W
+Kentucky,Providence,W
+Kentucky,Baylor,L
+Kentucky,Mississippi State,W
+Vanderbilt,Kentucky,L
+Kentucky,Tennessee,W
+Kentucky,Texas A&M,W
+LSU,Kentucky,W
+Missouri,Kentucky,L
+Kentucky,Ole Miss,W
+Mississippi State,Kentucky,L
+Ole Miss,Kentucky,L
+Kentucky,LSU,W
+South Carolina,Kentucky,W
+LSU,Northwestern State,W
+LSU,New Orleans,W
+LSU,Southeastern Louisiana,W
+LSU,Saint Joseph's,W
+LSU,Memphis,L
+LSU,Butler,W
+LSU,Louisiana-Monroe,W
+Texas Tech,LSU,L
+LSU,McNeese State,W
+LSU,Tennessee,L
+South Carolina,LSU,L
+Ole Miss,LSU,W
+LSU,Vanderbilt,W
+LSU,Missouri,W
+Texas A&M,LSU,W
+LSU,Mississippi State,W
+LSU,Texas A&M,W
+Mississippi St,Prairie View A&M,W
+Mississippi St,Kennesaw State,W
+Mississippi St,Mississippi Valley State,W
+Utah State,Mississippi St,W
+Mississippi St,Jackson State,W
+Mississippi St,Loyola (IL),W
+Mississippi St,TCU,L
+Mississippi St,Southeastern Louisiana,W
+Mississippi St,Florida A&M,W
+Mississippi St,Florida Gulf Coast,W
+Mississippi St,South Florida,W
+Mississippi St,UNLV,L
+Mississippi St,Maryland-Eastern Shore,W
+Kentucky,Mississippi St,W
+Mississippi St,Ole Miss,W
+Alabama,Mississippi St,W
+Mississippi St,Texas A&M,W
+Mississippi St,Auburn,W
+Ole Miss,Mississippi St,W
+Mississippi St,Florida,L
+Vanderbilt,Mississippi St,W
+Texas A&M,Mississippi St,W
+Mississippi St,Kentucky,L
+Mississippi St,Georgia,L
+Auburn,Mississippi St,W
+LSU,Mississippi St,W
+Mississippi St,Arkansas,L
+Mississippi St,Tennessee,L
+Missouri,Mississippi St,W
+Missouri,Southeastern Louisiana,W
+Missouri,Southern Illinois,W
+Missouri,Hawaii,W
+Missouri,IUPUI,W
+Missouri,Northwestern,W
+Missouri,Nevada,W
+Missouri,West Virginia,W
+Missouri,Illinois,L
+North Carolina State,Missouri,L
+Missouri,Long Beach State,W
+Vanderbilt,Missouri,W
+Missouri,South Carolina,W
+Ole Miss,Missouri,W
+Missouri,Tennessee,W
+Missouri,Vanderbilt,W
+Missouri,Mississippi State,W
+Ole Miss,Troy,W
+Coastal Carolina,Ole Miss,L
+Ole Miss,Mississippi Valley State,W
+Ole Miss,North Carolina A&T,W
+Ole Miss,Georgia Tech,W
+Ole Miss,Penn State,W
+Kansas State,Ole Miss,W
+Ole Miss,Louisiana-Monroe,W
+Ole Miss,Mercer,L
+Western Kentucky,Ole Miss,L
+Mississippi State,Ole Miss,W
+South Carolina,Ole Miss,L
+Vanderbilt,Ole Miss,L
+Ole Miss,Mississippi State,W
+Tennessee,Ole Miss,W
+Ole Miss,South Carolina,W
+Texas A&M,Ole Miss,W
+Baylor,South Carolina,W
+South Carolina,Florida International,W
+Oklahoma State,South Carolina,W
+South Carolina,USC Upstate,L
+South Carolina,Saint Mary's,W
+South Carolina,Boise State,L
+South Carolina,South Carolina State,W
+Texas A&M,South Carolina,W
+South Carolina,Texas A&M,W
+Tennessee,South Carolina,W
+South Carolina,Vanderbilt,W
+Tennessee,USC Upstate,W
+Tennessee,Citadel,W
+Tennessee,Tennessee State,W
+Tennessee,UTEP,L
+Tennessee,Xavier,W
+Tennessee,Wake Forest,W
+Tennessee,Tennessee Tech,W
+Tennessee,North Carolina State,L
+Tennessee,Tusculum,W
+Tennessee,Texas A&M,L
+Vanderbilt,Tennessee,W
+Texas A&M,Tennessee,W
+Mississippi State,Tennessee,L
+Tennessee,Vanderbilt,W
+Texas A&M,Buffalo,W
+Texas A&M,Mississippi Valley State,W
+Texas A&M,Rice,W
+Texas A&M,Prairie View A&M,W
+Texas A&M,Sam Houston State,W
+Texas A&M,Arkansas-Pine Bluff,W
+Texas A&M,Missouri State,L
+Texas A&M,Southern Methodist,L
+Texas A&M,Houston,W
+Texas A&M,McNeese State,W
+Texas A&M,Oklahoma,L
+Texas A&M,North Texas,L
+Texas A&M,Texas-Pan American,W
+Texas A&M,Arkansas,W
+Tennessee,Texas A&M,L
+Texas A&M,South Carolina,W
+Mississippi State,Texas A&M,W
+Kentucky,Texas A&M,W
+Texas A&M,Vanderbilt,L
+South Carolina,Texas A&M,W
+Florida,Texas A&M,W
+Texas A&M,Mississippi State,W
+Georgia,Texas A&M,W
+Texas A&M,LSU,W
+Vanderbilt,Texas A&M,W
+Texas A&M,Alabama,W
+Texas A&M,Tennessee,W
+LSU,Texas A&M,W
+Texas A&M,Ole Miss,W
+Vanderbilt,Georgia State,W
+Vanderbilt,Lipscomb,W
+Butler,Vanderbilt,W
+Vanderbilt,Providence,L
+Vanderbilt,Morgan State,W
+Vanderbilt,Loyola Marymount,W
+Texas,Vanderbilt,W
+Texas A&M,Vanderbilt,L
+Vanderbilt,Mississippi State,W
+Vanderbilt,Texas A&M,W
+North Carolina State,Appalachian St,W
+Appalachian St,Campbell,L
+Cincinnati,Appalachian St,W
+Appalachian St,Lees McRae,W
+North Carolina Central,Appalachian St,W
+Georgia,Appalachian St,W
+Appalachian St,North Greenville,W
+Appalachian St,Charlotte,L
+Winthrop,Appalachian St,W
+Presbyterian,Appalachian St,W
+Appalachian St,Milligan,W
+Appalachian St,Bluefield College,W
+Duquesne,Appalachian St,W
+Elon,Appalachian St,W
+Appalachian St,UNC Greensboro,L
+Davidson,Appalachian St,W
+Appalachian St,Chattanooga,L
+Appalachian St,Georgia Southern,W
+Citadel,Appalachian St,L
+UNC Greensboro,Appalachian St,W
+Appalachian St,Elon,L
+Appalachian St,Citadel,W
+Western Carolina,Appalachian St,W
+Appalachian St,Samford,W
+Appalachian St,Wofford,L
+Appalachian St,Western Carolina,L
+Furman,Appalachian St,W
+Samford,Appalachian St,L
+Chattanooga,Appalachian St,W
+Chattanooga,Covenant,W
+Chattanooga,Montreat College,W
+Chattanooga,Kennesaw State,L
+Chattanooga,Morehead State,L
+Chattanooga,IUPUI,W
+Chattanooga,Hiwassee College,W
+Northern Kentucky,Chattanooga,W
+Chattanooga,Grand Canyon,W
+Furman,Chattanooga,L
+Citadel,Chattanooga,L
+Chattanooga,Samford,W
+Chattanooga,Wofford,W
+Appalachian State,Chattanooga,L
+Wofford,Chattanooga,L
+Chattanooga,Elon,W
+Chattanooga,UNC Greensboro,W
+Davidson,Chattanooga,W
+Chattanooga,Furman,W
+Eastern Kentucky,Chattanooga,W
+Samford,Chattanooga,W
+Chattanooga,Western Carolina,W
+Chattanooga,Georgia Southern,L
+UNC Greensboro,Chattanooga,W
+Western Carolina,Chattanooga,L
+Chattanooga,Appalachian State,W
+Virginia Military,The Citadel,W
+The Citadel,Army,L
+The Citadel,Presbyterian,W
+The Citadel,North Greenville,W
+Tennessee,The Citadel,W
+Wake Forest,The Citadel,W
+The Citadel,Montreat College,W
+Towson,The Citadel,W
+The Citadel,West Alabama,L
+Navy,The Citadel,W
+The Citadel,Gardner-Webb,L
+The Citadel,Brevard College,W
+Nebraska,The Citadel,W
+The Citadel,Charleston,L
+Radford,The Citadel,W
+The Citadel,Chattanooga,L
+Wofford,The Citadel,W
+Elon,The Citadel,W
+UNC Greensboro,The Citadel,W
+The Citadel,Furman,L
+The Citadel,Appalachian State,L
+The Citadel,Western Carolina,L
+Georgia Southern,The Citadel,W
+Davidson,The Citadel,W
+Appalachian State,The Citadel,W
+The Citadel,Wofford,L
+Furman,The Citadel,W
+The Citadel,Davidson,L
+Western Carolina,The Citadel,W
+The Citadel,Samford,W
+The Citadel,Georgia Southern,W
+Davidson,Virginia,L
+Davidson,Georgia,W
+Davidson,Clemson,L
+Davidson,New Mexico,L
+Stetson,Davidson,L
+Davidson,Johnson & Wales (NC),W
+Davidson,Niagara,L
+Wofford,Davidson,L
+Furman,Davidson,L
+Davidson,Appalachian State,W
+Davidson,Elon,L
+UNC Greensboro,Davidson,L
+Western Carolina,Davidson,L
+Davidson,Georgia Southern,W
+Davidson,Citadel,W
+Samford,Davidson,L
+Davidson,Furman,W
+Georgia Southern,Davidson,L
+Citadel,Davidson,L
+Davidson,Wofford,W
+Davidson,UNC Greensboro,W
+Elon,Davidson,L
+Elon,Wash & Lee,W
+Elon,Drexel,L
+Elon,Canisius,L
+Elon,Metro State,L
+Elon,Georgia State,W
+Elon,Virginia Military,W
+Elon,Central Pennsylvania College,W
+Florida Atlantic,Elon,L
+Elon,Duke,L
+Western Carolina,Elon,W
+Elon,Appalachian State,W
+Elon,Citadel,W
+Samford,Elon,W
+Elon,Western Carolina,W
+Appalachian State,Elon,L
+Elon,UNC Greensboro,W
+Elon,Georgia Southern,W
+Elon,Samford,W
+UNC Greensboro,Elon,L
+Georgia Southern,Elon,L
+Furman,Elon,L
+Elon,Wofford,L
+Furman,Sewanee,W
+Furman,Florida Gulf Coast,L
+Furman,Brevard College,W
+Furman,Mars Hill,L
+UNC Greensboro,Furman,W
+Samford,Furman,W
+Georgia Southern,Furman,W
+Citadel,Furman,L
+Furman,Wofford,L
+Furman,Samford,L
+Western Carolina,Furman,W
+Furman,Citadel,W
+Wofford,Furman,W
+Furman,Appalachian State,W
+Furman,Georgia Southern,L
+Ga. Southern,Columbia Internatl,W
+Miami (FL),Ga. Southern,W
+Ga. Southern,Toccoa Falls,W
+West Virginia,Ga. Southern,W
+Old Dominion,Ga. Southern,W
+Ga. Southern,Oral Roberts,L
+Ga. Southern,Presbyterian,W
+Ga. Southern,Campbell,L
+Ga. Southern,Brewton Parker,W
+South Carolina State,Ga. Southern,L
+UAB,Ga. Southern,W
+Ga. Southern,Kennesaw State,W
+Georgia State,Ga. Southern,W
+North Carolina A&T,Ga. Southern,L
+Campbell,Ga. Southern,W
+Ga. Southern,Samford,W
+Ga. Southern,Western Carolina,L
+Ga. Southern,Furman,W
+Appalachian State,Ga. Southern,W
+Ga. Southern,Wofford,L
+Davidson,Ga. Southern,W
+Ga. Southern,Citadel,W
+UNC Greensboro,Ga. Southern,L
+Wofford,Ga. Southern,W
+Elon,Ga. Southern,W
+Ga. Southern,UNC Greensboro,L
+Ga. Southern,Davidson,L
+Chattanooga,Ga. Southern,L
+Ga. Southern,Elon,L
+Furman,Ga. Southern,L
+Citadel,Ga. Southern,W
+Samford,Martin Methodist,W
+Texas-Arlington,Samford,W
+Louisiana-Monroe,Samford,W
+East Tennessee State,Samford,W
+Western Kentucky,Samford,W
+Stephen F. Austin,Samford,W
+Samford,Campbellsville,W
+Samford,Kentucky State,W
+Samford,Tennessee-Martin,L
+Florida Gulf Coast,Samford,W
+Jacksonville,Samford,L
+Samford,Wofford,L
+Georgia Southern,Samford,W
+Western Carolina,Samford,W
+Samford,UNC Greensboro,W
+Wofford,Samford,W
+Appalachian State,Samford,W
+Citadel,Samford,W
+Samford,Appalachian State,L
+Samford,Western Carolina,W
+UNC Greensboro,Chowan,W
+UNC Greensboro,Greensboro,W
+UNC Greensboro,Louisiana Tech,L
+UNC Greensboro,San Diego,L
+UNC Greensboro,Stetson,W
+UNC Greensboro,Claflin,W
+UNC Greensboro,North Carolina State,L
+Western Carolina,UNC Greensboro,W
+Appalachian State,UNC Greensboro,L
+UNC Greensboro,Citadel,W
+UNC Greensboro,Appalachian State,W
+UNC Greensboro,Georgia Southern,L
+Georgia Southern,UNC Greensboro,L
+UNC Greensboro,Western Carolina,L
+Wofford,UNC Greensboro,L
+Western Carolina,Wittenberg,W
+Western Carolina,Niagara,W
+Western Carolina,USC Upstate,L
+Western Carolina,Limestone,W
+Coastal Carolina,Western Carolina,W
+Western Carolina,Charleston Southern,W
+Western Carolina,Milligan,W
+Georgia Southern,Western Carolina,L
+Wofford,Western Carolina,W
+Citadel,Western Carolina,L
+Western Carolina,Appalachian State,W
+Appalachian State,Western Carolina,L
+Western Carolina,Citadel,W
+Wofford,Emory & Henry,W
+Wofford,Johnson & Wales (NC),W
+Virginia Commonwealth,Wofford,W
+Wofford,Citadel,W
+Georgia Southern,Wofford,L
+Wofford,Georgia Southern,W
+Citadel,Wofford,L
+Wofford,Hiwassee College,W
+Appalachian State,Wofford,L
+TCU,Abilene Christian,W
+Abilene Christian,West New Mexico,W
+Abilene Christian,Northern New Mexico,W
+Abilene Christian,West Alabama,L
+Abilene Christian,Hillsdale Free Will Baptist,W
+Abilene Christian,Bacone,W
+Abilene Christian,Open Bible,W
+New Orleans,Abilene Christian,W
+Southeastern Louisiana,Abilene Christian,W
+Abilene Christian,Oral Roberts,L
+Abilene Christian,Central Arkansas,W
+Abilene Christian,Lamar,L
+Abilene Christian,Sam Houston State,L
+Stephen F. Austin,Abilene Christian,W
+Northwestern State,Abilene Christian,W
+Abilene Christian,Houston Baptist,W
+Abilene Christian,Texas A&M-CC,L
+Incarnate Word,Abilene Christian,W
+Abilene Christian,Dallas Christian,W
+Abilene Christian,Arlington Baptist,W
+Abilene Christian,SW Adventist,W
+Nicholls State,Abilene Christian,W
+McNeese State,Abilene Christian,W
+Cent Arkansas,Hendrix College,W
+SIU-Edwardsville,Cent Arkansas,W
+Cent Arkansas,Louisiana Tech,L
+Arkansas State,Cent Arkansas,W
+Cent Arkansas,Troy,W
+Kansas State,Cent Arkansas,W
+Texas Tech,Cent Arkansas,W
+North Texas,Cent Arkansas,W
+Cent Arkansas,Charleston Southern,L
+Cent Arkansas,Nebraska-Omaha,L
+Cent Arkansas,Ecclesia,W
+Cent Arkansas,Texas A&M-CC,L
+Cent Arkansas,Houston Baptist,W
+Oral Roberts,Cent Arkansas,W
+Incarnate Word,Cent Arkansas,W
+Abilene Christian,Cent Arkansas,W
+Cent Arkansas,Northwestern State,L
+Cent Arkansas,Stephen F. Austin,L
+McNeese State,Cent Arkansas,L
+Nicholls State,Cent Arkansas,W
+Cent Arkansas,Southeastern Louisiana,W
+Cent Arkansas,New Orleans,L
+Texas A&M-CC,Cent Arkansas,W
+Houston Baptist,Cent Arkansas,W
+Cent Arkansas,Oral Roberts,L
+Cent Arkansas,Sam Houston State,W
+Cent Arkansas,Lamar,W
+Texas Tech,Houston Baptist,W
+Houston Baptist,Crowley's Ridge College,W
+Texas,Houston Baptist,W
+Houston Baptist,Wright State,L
+Houston Baptist,Southern Miss,L
+South Alabama,Houston Baptist,W
+Houston Baptist,Texas-Arlington,L
+Pepperdine,Houston Baptist,W
+Oral Roberts,Houston Baptist,W
+Central Arkansas,Houston Baptist,W
+Houston Baptist,Stephen F. Austin,L
+Houston Baptist,Northwestern State,W
+Nicholls State,Houston Baptist,W
+McNeese State,Houston Baptist,W
+Houston Baptist,New Orleans,L
+Houston Baptist,Southeastern Louisiana,L
+Lamar,Houston Baptist,W
+Sam Houston State,Houston Baptist,W
+Incarnate Word,Houston Baptist,W
+Houston Baptist,Oral Roberts,L
+Houston Baptist,Central Arkansas,W
+Houston Baptist,Texas A&M-CC,L
+Houston Baptist,Arlington Baptist,W
+Texas A&M-CC,Houston Baptist,W
+Northwood University,Incarnate Word,L
+Trinity University,Incarnate Word,L
+Huston-Tillotson,Incarnate Word,L
+Incarnate Word,Northwood University,W
+Southwestern,Incarnate Word,L
+Incarnate Word,Texas A&M-Int,W
+Incarnate Word,St. Edwards,W
+Incarnate Word,McMurry,W
+Incarnate Word,Open Bible,W
+Incarnate Word,Huston-Tillotson,W
+Incarnate Word,Our Lady of the Lake,W
+Southeastern Louisiana,Incarnate Word,W
+New Orleans,Incarnate Word,L
+Incarnate Word,Central Arkansas,W
+Incarnate Word,Oral Roberts,L
+Incarnate Word,Sam Houston State,W
+Incarnate Word,Lamar,W
+Northwestern State,Incarnate Word,W
+Stephen F. Austin,Incarnate Word,W
+Incarnate Word,Texas A&M-CC,W
+McNeese State,Incarnate Word,W
+Nicholls State,Incarnate Word,L
+Butler,Lamar,W
+Washington State,Lamar,W
+Lamar,Savannah State,W
+Lamar,Grand Canyon,L
+Lamar,Texas-Pan American,L
+Lamar,Arkansas State,L
+Lamar,Tennessee Tech,L
+Stephen F. Austin,Lamar,W
+Northwestern State,Lamar,W
+Lamar,Nicholls State,L
+Lamar,McNeese State,L
+New Orleans,Lamar,W
+Southeastern Louisiana,Lamar,W
+Lamar,Texas A&M-CC,L
+Sam Houston State,Lamar,W
+Lamar,Stephen F. Austin,L
+Lamar,Northwestern State,L
+Lamar,Sam Houston State,L
+Oral Roberts,Lamar,W
+Central Arkansas,Lamar,W
+Louisiana-Lafayette,McNeese State,W
+McNeese State,Louisiana College,W
+McNeese State,Georgia State,L
+McNeese State,Stillman,W
+McNeese State,East Carolina,L
+Southern Methodist,McNeese State,W
+Texas A&M,McNeese State,W
+McNeese State,Southeastern Louisiana,W
+McNeese State,New Orleans,W
+Sam Houston State,McNeese State,W
+McNeese State,Texas A&M-CC,L
+McNeese State,Nicholls State,L
+McNeese State,Central Arkansas,L
+McNeese State,Oral Roberts,W
+Northwestern State,McNeese State,W
+Stephen F. Austin,McNeese State,W
+Southeastern Louisiana,McNeese State,W
+New Orleans,McNeese State,L
+Nicholls State,McNeese State,W
+New Orleans,Millsaps,W
+New Orleans,Champion Baptist College,W
+Nicholls State,New Orleans,W
+New Orleans,Sam Houston State,L
+Texas A&M-CC,New Orleans,L
+Southeastern Louisiana,New Orleans,L
+Oral Roberts,New Orleans,W
+Central Arkansas,New Orleans,L
+New Orleans,Nicholls State,W
+New Orleans,Southeastern Louisiana,W
+New Orleans,Stephen F. Austin,L
+New Orleans,Northwestern State,L
+Troy,Nicholls State,W
+Nicholls State,Loyola NO,W
+San Francisco,Nicholls State,W
+IUPUI,Nicholls State,L
+Nicholls State,Southeastern Louisiana,W
+Sam Houston State,Nicholls State,W
+Nicholls State,Texas A&M-CC,L
+Nicholls State,Oral Roberts,W
+Nicholls State,Central Arkansas,W
+Stephen F. Austin,Nicholls State,W
+Northwestern State,Nicholls State,W
+Southeastern Louisiana,Nicholls State,W
+Northwestern St,Le Tourneau,W
+Auburn,Northwestern St,L
+LSU,Northwestern St,W
+Northwestern St,Louisiana-Monroe,L
+Louisiana-Lafayette,Northwestern St,W
+Northwestern St,Niagara,W
+Memphis,Northwestern St,W
+Louisiana Tech,Northwestern St,W
+Northwestern St,Louisiana College,W
+Baylor,Northwestern St,W
+UTEP,Northwestern St,W
+Northwestern St,Sam Houston State,L
+Northwestern St,Lamar,W
+Texas A&M-CC,Northwestern St,W
+Houston Baptist,Northwestern St,W
+Northwestern St,Stephen F. Austin,L
+Central Arkansas,Northwestern St,L
+Oral Roberts,Northwestern St,L
+Northwestern St,Incarnate Word,W
+Northwestern St,Abilene Christian,W
+Northwestern St,McNeese State,W
+Northwestern St,Nicholls State,W
+Sam Houston State,Northwestern St,W
+Lamar,Northwestern St,L
+Stephen F. Austin,Northwestern St,W
+Southeastern Louisiana,Northwestern St,L
+New Orleans,Northwestern St,L
+Kansas State,Oral Roberts,W
+Oral Roberts,Texas State,W
+Oral Roberts,Georgia Southern,W
+Oral Roberts,Bowling Green,W
+Oral Roberts,Cameron,W
+Oral Roberts,Dallas Baptist,W
+Baylor,Oral Roberts,W
+Oral Roberts,Texas A&M-CC,L
+Oral Roberts,Central Arkansas,W
+Oral Roberts,Stephen F. Austin,L
+Oral Roberts,Northwestern State,L
+Oral Roberts,Southeastern Louisiana,W
+Texas A&M-CC,Oral Roberts,W
+Central Arkansas,Oral Roberts,L
+Oral Roberts,Sam Houston State,W
+Texas-Pan American,Sam Houston,L
+Sam Houston,Hillsdale Free Will Baptist,W
+Prairie View A&M,Sam Houston,L
+Sam Houston,Jarvis Christian,W
+Texas A&M,Sam Houston,W
+Southern Methodist,Sam Houston,W
+Sam Houston,Arkansas-Pine Bluff,W
+Sam Houston,Liberty,L
+Sam Houston,James Madison,W
+Sam Houston,Towson,W
+Toledo,Sam Houston,W
+Sam Houston,LIU Brooklyn,W
+Northwestern State,Sam Houston,L
+Stephen F. Austin,Sam Houston,W
+Sam Houston,McNeese State,W
+Sam Houston,Nicholls State,W
+Southeastern Louisiana,Sam Houston,L
+New Orleans,Sam Houston,L
+Incarnate Word,Sam Houston,W
+Abilene Christian,Sam Houston,L
+Sam Houston,Texas A&M-CC,W
+Sam Houston,Houston Baptist,W
+Sam Houston,Lamar,W
+Sam Houston,Northwestern State,W
+Sam Houston,Stephen F. Austin,L
+Lamar,Sam Houston,L
+Central Arkansas,Sam Houston,W
+Oral Roberts,Sam Houston,W
+Missouri,SE Louisiana,W
+Rice,SE Louisiana,L
+SE Louisiana,Champion Baptist College,W
+LSU,SE Louisiana,W
+SE Louisiana,Western Illinois,W
+North Texas,SE Louisiana,W
+Arkansas,SE Louisiana,W
+SE Louisiana,Southeast Missouri State,L
+SE Louisiana,Mississippi State,L
+Tennessee-Martin,SE Louisiana,L
+SE Louisiana,Spring Hill,W
+McNeese State,SE Louisiana,W
+Nicholls State,SE Louisiana,W
+SE Louisiana,Incarnate Word,W
+SE Louisiana,Abilene Christian,W
+SE Louisiana,Sam Houston State,L
+SE Louisiana,Lamar,W
+Texas A&M-CC,SE Louisiana,W
+Houston Baptist,SE Louisiana,L
+SE Louisiana,New Orleans,L
+Central Arkansas,SE Louisiana,W
+Oral Roberts,SE Louisiana,W
+SE Louisiana,McNeese State,W
+SE Louisiana,Nicholls State,W
+New Orleans,SE Louisiana,W
+SE Louisiana,Northwestern State,L
+SE Louisiana,Stephen F. Austin,L
+SF Austin,Texas-Tyler,W
+Texas State,SF Austin,L
+Texas,SF Austin,W
+Marshall,SF Austin,L
+East Tennessee State,SF Austin,W
+SF Austin,Samford,W
+North Carolina-Wilmington,SF Austin,L
+High Point,SF Austin,L
+SF Austin,Towson,W
+SF Austin,James Madison,W
+North Texas,SF Austin,L
+SF Austin,Elmhurst,W
+SF Austin,Cal State Northridge,W
+SF Austin,Lamar,W
+SF Austin,Sam Houston State,W
+Houston Baptist,SF Austin,L
+Texas A&M-CC,SF Austin,L
+Northwestern State,SF Austin,L
+Oral Roberts,SF Austin,L
+Central Arkansas,SF Austin,L
+SF Austin,Abilene Christian,W
+SF Austin,Incarnate Word,W
+SF Austin,Nicholls State,W
+SF Austin,McNeese State,W
+Lamar,SF Austin,L
+Sam Houston State,SF Austin,L
+SF Austin,Northwestern State,W
+New Orleans,SF Austin,L
+Southeastern Louisiana,SF Austin,L
+Texas A&M-CC,Huston-Tillotson,W
+Iowa State,Texas A&M-CC,W
+Texas A&M-CC,IPFW,W
+Texas A&M-CC,Tennessee Tech,L
+Texas A&M-CC,Texas-Pan American,W
+Texas A&M-CC,Rice,L
+UTSA,Texas A&M-CC,W
+Texas A&M-CC,Central Michigan,L
+Houston,Texas A&M-CC,W
+Oklahoma,Texas A&M-CC,W
+Texas A&M-CC,Texas Permian Basin,L
+Texas A&M-CC,Cal State Northridge,L
+Minnesota,Texas A&M-CC,W
+Central Arkansas,Texas A&M-CC,L
+Oral Roberts,Texas A&M-CC,L
+Texas A&M-CC,Northwestern State,W
+Texas A&M-CC,Stephen F. Austin,L
+McNeese State,Texas A&M-CC,L
+Nicholls State,Texas A&M-CC,L
+Texas A&M-CC,Southeastern Louisiana,W
+Texas A&M-CC,New Orleans,L
+Sam Houston State,Texas A&M-CC,W
+Lamar,Texas A&M-CC,L
+Incarnate Word,Texas A&M-CC,W
+Abilene Christian,Texas A&M-CC,L
+Texas A&M-CC,Central Arkansas,W
+Texas A&M-CC,Oral Roberts,W
+Houston Baptist,Texas A&M-CC,L
+Texas A&M-CC,Houston Baptist,W
+New Mexico,Alabama A&M,W
+Alabama A&M,Alabama Huntsvlle,W
+Western Michigan,Alabama A&M,W
+Eastern Kentucky,Alabama A&M,W
+Alabama A&M,Jacksonville State,L
+Tennessee State,Alabama A&M,L
+Alabama A&M,Oakwood,W
+Ohio,Alabama A&M,W
+Missouri State,Alabama A&M,W
+UAB,Alabama A&M,W
+Jackson State,Alabama A&M,L
+Grambling State,Alabama A&M,L
+Alabama A&M,Arkansas-Pine Bluff,L
+Alabama A&M,Mississippi Valley State,W
+Alabama State,Alabama A&M,W
+Southern University,Alabama A&M,W
+Alcorn State,Alabama A&M,W
+Alabama A&M,Texas Southern,W
+Alabama A&M,Prairie View A&M,W
+Arkansas-Pine Bluff,Alabama A&M,W
+Mississippi Valley State,Alabama A&M,L
+Alabama A&M,Alabama State,W
+Alabama A&M,Southern University,L
+Alabama A&M,Alcorn State,L
+Prairie View A&M,Alabama A&M,L
+Texas Southern,Alabama A&M,W
+Alabama State,Mobile,W
+Jacksonville State,Alabama State,L
+Alabama State,Chicago State,W
+Troy,Alabama State,W
+Alabama State,Western Illinois,W
+Alabama State,Milwaukee,L
+Alabama State,AUB Montgomery,W
+Alabama State,Thomas College,W
+Grambling State,Alabama State,L
+Jackson State,Alabama State,W
+Alabama State,Mississippi Valley State,W
+Alabama State,Arkansas-Pine Bluff,W
+Alabama State,Alabama A&M,W
+Alcorn State,Alabama State,L
+Southern University,Alabama State,W
+Alabama State,Prairie View A&M,W
+Alabama State,Texas Southern,W
+Mississippi Valley State,Alabama State,L
+Arkansas-Pine Bluff,Alabama State,W
+Alabama A&M,Alabama State,W
+Alabama State,Alcorn State,W
+Alabama State,Southern University,L
+Texas Southern,Alabama State,W
+Prairie View A&M,Alabama State,L
+Alcorn State,Tougaloo,W
+Alcorn State,Mississippi College,W
+Alcorn State,Dillard,W
+Saint Mary's,Alcorn State,W
+Troy,Alcorn State,W
+Jacksonville State,Alcorn State,W
+Mercer,Alcorn State,W
+Alcorn State,Denver,L
+Alcorn State,Western Illinois,L
+Texas Southern,Alcorn State,W
+Prairie View A&M,Alcorn State,W
+Alcorn State,Jackson State,W
+Alcorn State,Grambling State,W
+Alcorn State,Mississippi Valley State,W
+Arkansas-Pine Bluff,Alcorn State,L
+Alcorn State,Alabama A&M,W
+Southern University,Alcorn State,W
+Jackson State,Alcorn State,W
+Grambling State,Alcorn State,W
+Mississippi Valley State,Alcorn State,L
+Alcorn State,Arkansas-Pine Bluff,W
+Alabama A&M,Alcorn State,L
+Alcorn State,Southern University,L
+AR-Pine Bluff,Tuskegee,W
+Morehouse College,AR-Pine Bluff,L
+Oklahoma State,AR-Pine Bluff,W
+Air Force,AR-Pine Bluff,W
+Southern Methodist,AR-Pine Bluff,W
+Texas A&M,AR-Pine Bluff,W
+AR-Pine Bluff,Sam Houston State,L
+AR-Pine Bluff,Hampton,L
+Oregon State,AR-Pine Bluff,W
+Creighton,AR-Pine Bluff,W
+Iowa,AR-Pine Bluff,W
+Auburn,AR-Pine Bluff,W
+Mississippi Valley State,AR-Pine Bluff,L
+Alabama A&M,AR-Pine Bluff,L
+Alabama State,AR-Pine Bluff,W
+AR-Pine Bluff,Southern University,L
+AR-Pine Bluff,Alcorn State,L
+Prairie View A&M,AR-Pine Bluff,W
+Texas Southern,AR-Pine Bluff,W
+AR-Pine Bluff,Grambling State,W
+AR-Pine Bluff,Jackson State,W
+AR-Pine Bluff,Alabama A&M,W
+AR-Pine Bluff,Alabama State,W
+Southern University,AR-Pine Bluff,L
+Alcorn State,AR-Pine Bluff,W
+AR-Pine Bluff,Prairie View A&M,W
+AR-Pine Bluff,Texas Southern,L
+Grambling State,AR-Pine Bluff,L
+Jackson State,AR-Pine Bluff,L
+DePaul,Grambling St,W
+Marquette,Grambling St,W
+Missouri State,Grambling St,W
+Arizona State,Grambling St,W
+Grambling St,Central Baptist Coll,W
+TCU,Grambling St,W
+Grambling St,Lyon College,L
+Evansville,Grambling St,W
+Arkansas-Little Rock,Grambling St,W
+Grambling St,Alabama State,L
+Grambling St,Alabama A&M,L
+Southern University,Grambling St,W
+Alcorn State,Grambling St,W
+Grambling St,Texas Southern,L
+Grambling St,Prairie View A&M,L
+Jackson State,Grambling St,W
+Arkansas-Pine Bluff,Grambling St,W
+Mississippi Valley State,Grambling St,W
+Grambling St,Southern University,L
+Grambling St,Alcorn State,W
+Texas Southern,Grambling St,W
+Prairie View A&M,Grambling St,L
+Grambling St,Jackson State,L
+Grambling St,Arkansas-Pine Bluff,L
+Grambling St,Mississippi Valley State,W
+Jackson State,Arkansas State,L
+Tennessee-Martin,Jackson State,L
+Mississippi State,Jackson State,W
+Jackson State,Louisiana-Lafayette,W
+Jackson State,Alabama A&M,L
+Southern University,Jackson State,W
+Jackson State,Prairie View A&M,L
+Jackson State,Texas Southern,W
+Jackson State,Grambling State,W
+Mississippi Valley State,Jackson State,W
+Arkansas-Pine Bluff,Jackson State,W
+Jackson State,Southern University,L
+Prairie View A&M,Jackson State,W
+Texas Southern,Jackson State,L
+Grambling State,Jackson State,L
+Jackson State,Mississippi Valley State,W
+Jackson State,Arkansas-Pine Bluff,L
+Oklahoma State,Miss Valley St,W
+Texas A&M,Miss Valley St,W
+Miss Valley St,Champion Baptist College,W
+Mississippi State,Miss Valley St,W
+Ole Miss,Miss Valley St,W
+Georgia Tech,Miss Valley St,W
+Monmouth,Miss Valley St,W
+Miss Valley St,Longwood,W
+Miss Valley St,Tougaloo,W
+Northwestern,Miss Valley St,W
+Washington,Miss Valley St,W
+Washington State,Miss Valley St,W
+Miss Valley St,Selma University,W
+Miss Valley St,Arkansas-Pine Bluff,L
+Alabama State,Miss Valley St,W
+Alabama A&M,Miss Valley St,W
+Alcorn State,Miss Valley St,W
+Miss Valley St,Southern University,W
+Texas Southern,Miss Valley St,W
+Prairie View A&M,Miss Valley St,L
+Miss Valley St,Jackson State,W
+Miss Valley St,Grambling State,W
+Miss Valley St,Alabama State,L
+Miss Valley St,Alabama A&M,L
+Miss Valley St,Alcorn State,L
+Southern University,Miss Valley St,W
+Miss Valley St,Texas Southern,L
+Miss Valley St,Prairie View A&M,W
+Jackson State,Miss Valley St,W
+Grambling State,Miss Valley St,W
+Mississippi State,PV A&M,W
+PV A&M,Schreiner,W
+PV A&M,Sam Houston State,L
+Texas A&M,PV A&M,W
+Colorado State,PV A&M,W
+New Mexico State,PV A&M,W
+PV A&M,Bethune-Cookman,W
+Northern Colorado,PV A&M,W
+Brigham Young,PV A&M,W
+UCLA,PV A&M,W
+Western Michigan,PV A&M,W
+Wisconsin,PV A&M,W
+PV A&M,Southern University,L
+PV A&M,Alcorn State,W
+Texas Southern,PV A&M,W
+Jackson State,PV A&M,L
+Grambling State,PV A&M,L
+PV A&M,Arkansas-Pine Bluff,W
+PV A&M,Mississippi Valley State,L
+Alabama State,PV A&M,W
+Alabama A&M,PV A&M,W
+PV A&M,Texas Southern,W
+PV A&M,Jackson State,W
+PV A&M,Grambling State,L
+Arkansas-Pine Bluff,PV A&M,W
+Mississippi Valley State,PV A&M,W
+PV A&M,Alabama A&M,L
+PV A&M,Alabama State,L
+Marquette,Southern,W
+Middle Tennessee,Southern,W
+Southern,Tulane,L
+North Florida,Southern,L
+Florida,Southern,W
+Southern,Arkansas-Little Rock,L
+Southern,Blue Mountain College,W
+Denver,Southern,W
+Louisiana Tech,Southern,W
+Southern,Dillard,W
+Arizona,Southern,W
+Baylor,Southern,W
+Southern,Champion Baptist College,W
+Prairie View A&M,Southern,L
+Texas Southern,Southern,L
+Southern,Grambling State,W
+Southern,Jackson State,W
+Arkansas-Pine Bluff,Southern,L
+Mississippi Valley State,Southern,W
+Southern,Alabama A&M,W
+Southern,Alabama State,W
+Southern,Alcorn State,W
+Grambling State,Southern,L
+Jackson State,Southern,L
+Southern,Arkansas-Pine Bluff,L
+Southern,Mississippi Valley State,W
+Alabama A&M,Southern,L
+Alabama State,Southern,L
+Alcorn State,Southern,L
+Texas Southern,Wiley,W
+Florida International,Texas Southern,W
+Texas Tech,Texas Southern,W
+Texas Southern,Lehigh,L
+Texas Southern,Howard,W
+Cal State Fullerton,Texas Southern,W
+TCU,Texas Southern,W
+Texas Southern,Southern University,L
+Texas Southern,Prairie View A&M,W
+Grambling State,Texas Southern,L
+Texas Southern,Mississippi Valley State,W
+Texas Southern,Arkansas-Pine Bluff,W
+Alabama A&M,Texas Southern,W
+Prairie View A&M,Texas Southern,W
+Texas Southern,Grambling State,W
+Mississippi Valley State,Texas Southern,L
+Arkansas-Pine Bluff,Texas Southern,L
+Texas Southern,Alabama A&M,W
+Denver,Harvard,L
+Denver,Pepperdine,L
+Denver,Alaska Anchorage,W
+Denver,Southern University,W
+Mercer,Denver,W
+Denver,Alcorn State,W
+Denver,St. Francis U,W
+South Dakota,Denver,W
+Denver,IPFW,L
+Denver,IUPUI,W
+Nebraska-Omaha,Denver,L
+Western Illinois,Denver,L
+Denver,South Dakota State,L
+Denver,North Dakota State,W
+Denver,South Dakota,W
+IUPUI,Denver,W
+IPFW,Denver,L
+Denver,Western Illinois,W
+Denver,Nebraska-Omaha,W
+South Dakota State,Denver,W
+North Dakota State,Denver,W
+IPFW,Indiana-Kokomo,W
+Texas A&M-CC,IPFW,W
+IPFW,Texas-Pan American,W
+IPFW,Tennessee Tech,W
+IPFW,Purdue-Calumet,W
+Kennesaw State,IPFW,L
+Eastern Illinois,IPFW,L
+IPFW,SIU-Edwardsville,W
+IPFW,Eastern Illinois,W
+IPFW,Eastern Kentucky,L
+IPFW,Kalamazoo,W
+IPFW,North Dakota State,W
+IPFW,South Dakota State,W
+South Dakota,IPFW,W
+IPFW,IUPUI,W
+IPFW,Nebraska-Omaha,W
+IPFW,Western Illinois,W
+South Dakota State,IPFW,W
+North Dakota State,IPFW,W
+IPFW,South Dakota,W
+IUPUI,IPFW,L
+Western Illinois,IPFW,L
+Nebraska-Omaha,IPFW,L
+Utah Valley,IUPUI,W
+IUPUI,Southeast Missouri State,L
+IUPUI,Indiana-Northwest,W
+IUPUI,Gardner-Webb,L
+IUPUI,Chattanooga,L
+IUPUI,North Carolina Central,W
+IUPUI,Cincinnati Christian,W
+Southeast Missouri State,IUPUI,W
+IUPUI,Judson College,W
+IUPUI,South Dakota State,L
+IUPUI,North Dakota State,L
+South Dakota,IUPUI,W
+IUPUI,Western Illinois,L
+IUPUI,Nebraska-Omaha,L
+North Dakota State,IUPUI,W
+South Dakota State,IUPUI,W
+IUPUI,South Dakota,L
+Nebraska-Omaha,IUPUI,W
+Western Illinois,IUPUI,W
+Northern Illinois,Omaha,L
+Iowa,Omaha,W
+Omaha,UMKC,W
+UNLV,Omaha,W
+Omaha,South Carolina State,W
+Drake,Omaha,W
+South Carolina State,Omaha,L
+Omaha,Iowa Wesleyan,W
+Omaha,Waldorf College,W
+Omaha,Cal State Bakersfield,W
+Nevada,Omaha,L
+Minnesota,Omaha,W
+Omaha,Seattle,W
+Central Arkansas,Omaha,L
+Hawaii,Omaha,W
+Western Illinois,Omaha,W
+North Dakota State,Omaha,W
+South Dakota State,Omaha,L
+Omaha,Denver,L
+Omaha,South Dakota,W
+IPFW,Omaha,W
+IUPUI,Omaha,L
+Omaha,Peru State,W
+Omaha,Western Illinois,W
+Omaha,South Dakota State,L
+Omaha,North Dakota State,L
+South Dakota,Omaha,W
+Denver,Omaha,W
+Omaha,IUPUI,W
+Omaha,IPFW,L
+North Dakota St,Viterbo,W
+Saint Mary's,North Dakota St,W
+North Dakota St,Southern Miss,L
+Western Michigan,North Dakota St,L
+North Dakota,North Dakota St,W
+Santa Clara,North Dakota St,L
+North Dakota St,Rider,W
+North Dakota St,Valley City State,W
+Bryant University,North Dakota St,L
+Notre Dame,North Dakota St,L
+Ohio State,North Dakota St,W
+North Dakota St,Delaware,W
+North Dakota St,Towson,W
+Utah Valley,North Dakota St,L
+North Dakota St,Mayville State,W
+IPFW,North Dakota St,W
+IUPUI,North Dakota St,L
+North Dakota St,Nebraska-Omaha,W
+North Dakota St,Western Illinois,W
+South Dakota State,North Dakota St,L
+South Dakota,North Dakota St,L
+Denver,North Dakota St,W
+North Dakota St,IUPUI,W
+North Dakota St,IPFW,W
+Western Illinois,North Dakota St,L
+Nebraska-Omaha,North Dakota St,L
+North Dakota St,South Dakota State,W
+North Dakota St,South Dakota,W
+North Dakota St,Denver,W
+Texas State,South Dakota,L
+South Dakota,Graceland University,W
+South Dakota,Utah Valley,W
+Kansas State,South Dakota,W
+Youngstown State,South Dakota,W
+South Dakota,Cal State Northridge,W
+South Dakota,Iowa Wesleyan,W
+Western Illinois,South Dakota,W
+Nebraska-Omaha,South Dakota,W
+South Dakota,North Dakota State,L
+South Dakota,South Dakota State,L
+South Dakota,Peru State,W
+South Dakota,Nebraska-Omaha,W
+South Dakota,Western Illinois,W
+North Dakota State,South Dakota,W
+South Dakota State,South Dakota,W
+San Diego,South Dakota St,W
+South Dakota St,Loyola Marymount,L
+South Dakota St,Montana,L
+South Dakota St,Southwest St (MN),W
+Texas Tech,South Dakota St,W
+South Dakota St,Howard,W
+South Dakota St,Lehigh,W
+UC Santa Barbara,South Dakota St,W
+Stanford,South Dakota St,W
+South Dakota St,Dakota State,W
+Minnesota,South Dakota St,W
+South Dakota St,Belmont,W
+South Dakota St,Wayne State NEB,W
+North Dakota,South Dakota St,L
+UMKC,South Dakota St,L
+IUPUI,South Dakota St,L
+IPFW,South Dakota St,W
+South Dakota St,Western Illinois,W
+South Dakota St,Nebraska-Omaha,L
+South Dakota St,North Dakota State,L
+Denver,South Dakota St,L
+South Dakota,South Dakota St,L
+South Dakota St,IPFW,W
+South Dakota St,IUPUI,W
+Nebraska-Omaha,South Dakota St,L
+Western Illinois,South Dakota St,L
+North Dakota State,South Dakota St,W
+South Dakota St,Denver,W
+South Dakota St,South Dakota,W
+Idaho,Western Illinois,W
+Pacific,Western Illinois,W
+Western Illinois,Eureka,W
+Southeastern Louisiana,Western Illinois,W
+Western Illinois,Greenville,W
+Western Illinois,Eastern Illinois,W
+Western Illinois,Grace Bible College,W
+Western Illinois,Troy,W
+Western Illinois,UC Santa Barbara,L
+Western Illinois,Alcorn State,W
+Western Illinois,Nebraska-Omaha,W
+South Dakota State,Western Illinois,W
+North Dakota State,Western Illinois,W
+Nebraska-Omaha,Western Illinois,W
+Western Illinois,North Dakota State,L
+Western Illinois,South Dakota State,L
+Arkansas State,Tennessee-Martin,W
+Arkansas State,Central Arkansas,W
+Arkansas State,Southern Arkansas,W
+Texas-Arlington,Arkansas State,L
+Texas State,Arkansas State,L
+Arkansas State,Troy,L
+Arkansas State,South Alabama,W
+Georgia State,Arkansas State,W
+Western Kentucky,Arkansas State,W
+Arkansas State,Arkansas-Little Rock,W
+Louisiana-Monroe,Arkansas State,W
+Troy,Arkansas State,L
+Arkansas State,Western Kentucky,W
+South Alabama,Arkansas State,L
+Louisiana-Lafayette,Arkansas State,W
+Arkansas State,Texas-Arlington,W
+Arkansas State,Texas State,W
+Arkansas State,Lyon College,W
+Arkansas-Little Rock,Arkansas State,W
+AR-Little Rock,North Florida,L
+Florida,AR-Little Rock,W
+Middle Tennessee,AR-Little Rock,W
+Southern University,AR-Little Rock,L
+AR-Little Rock,Southern Arkansas,W
+Oklahoma,AR-Little Rock,W
+AR-Little Rock,Arkansas-Fort Smith,W
+Tulsa,AR-Little Rock,W
+Memphis,AR-Little Rock,W
+AR-Little Rock,Jacksonville State,W
+AR-Little Rock,Southern Miss,L
+AR-Little Rock,Grambling State,W
+Texas State,AR-Little Rock,L
+Texas-Arlington,AR-Little Rock,L
+AR-Little Rock,South Alabama,W
+AR-Little Rock,Troy,L
+Western Kentucky,AR-Little Rock,L
+Georgia State,AR-Little Rock,W
+AR-Little Rock,Texas State,W
+Arkansas State,AR-Little Rock,W
+AR-Little Rock,Louisiana-Lafayette,W
+South Alabama,AR-Little Rock,L
+AR-Little Rock,Georgia State,L
+AR-Little Rock,Western Kentucky,L
+Louisiana-Lafayette,AR-Little Rock,W
+Louisiana-Monroe,AR-Little Rock,W
+AR-Little Rock,Texas-Arlington,L
+Troy,AR-Little Rock,L
+AR-Little Rock,Arkansas State,W
+Georgia State,Southern Polytechnic,W
+Georgia State,McNeese State,W
+Georgia State,Canisius,L
+Florida International,Georgia State,W
+Georgia State,Young Harris College,W
+Georgia State,Georgia Southern,W
+Georgia State,Troy,W
+South Alabama,Georgia State,L
+Western Kentucky,Georgia State,L
+Georgia State,Arkansas-Little Rock,W
+Louisiana-Lafayette,Georgia State,L
+Louisiana-Monroe,Georgia State,L
+Georgia State,Texas-Arlington,W
+Georgia State,South Alabama,W
+Arkansas-Little Rock,Georgia State,L
+Troy,Georgia State,W
+Georgia State,Texas State,W
+Georgia State,Louisiana-Monroe,W
+Georgia State,Louisiana-Lafayette,W
+Texas-Arlington,Georgia State,L
+Texas State,Georgia State,L
+LA-Lafayette,Louisiana College,W
+LA-Lafayette,McNeese State,W
+Arkansas,LA-Lafayette,W
+Baylor,LA-Lafayette,W
+LA-Lafayette,Oakland,W
+Coastal Carolina,LA-Lafayette,L
+LA-Lafayette,Northwestern State,W
+Louisiana Tech,LA-Lafayette,L
+Louisville,LA-Lafayette,W
+LA-Lafayette,Houston,W
+LA-Lafayette,Centenary,W
+Jackson State,LA-Lafayette,W
+LA-Lafayette,Central Methodist,W
+Louisiana-Monroe,LA-Lafayette,W
+LA-Lafayette,Texas-Arlington,W
+LA-Lafayette,Texas State,W
+South Alabama,LA-Lafayette,W
+Troy,LA-Lafayette,L
+LA-Lafayette,Georgia State,L
+LA-Lafayette,Western Kentucky,L
+Arkansas-Little Rock,LA-Lafayette,W
+LA-Lafayette,Louisiana-Monroe,W
+Texas-Arlington,LA-Lafayette,L
+Texas State,LA-Lafayette,L
+LA-Lafayette,Arkansas-Little Rock,W
+LA-Lafayette,Arkansas State,W
+LA-Lafayette,Troy,W
+Georgia State,LA-Lafayette,W
+LA-Lafayette,South Alabama,W
+Kansas,UL Monroe,W
+UL Monroe,Samford,W
+Northwestern State,UL Monroe,L
+UL Monroe,Thomas College,W
+LSU,UL Monroe,W
+Ole Miss,UL Monroe,W
+UL Monroe,Louisiana Tech,L
+Ohio State,UL Monroe,W
+UL Monroe,Louisiana-Lafayette,W
+Texas-Arlington,UL Monroe,W
+UL Monroe,Texas State,L
+Troy,UL Monroe,L
+South Alabama,UL Monroe,L
+UL Monroe,Western Kentucky,L
+UL Monroe,Georgia State,L
+UL Monroe,Arkansas State,W
+Louisiana-Lafayette,UL Monroe,W
+Texas State,UL Monroe,W
+UL Monroe,Texas-Arlington,L
+UL Monroe,Arkansas-Little Rock,W
+Georgia State,UL Monroe,W
+Western Kentucky,UL Monroe,W
+UL Monroe,South Alabama,W
+UL Monroe,Troy,L
+Texas,South Alabama,W
+South Alabama,William Carey,W
+South Alabama,Spring Hill,W
+South Alabama,Gonzaga,L
+South Alabama,Dillard,W
+South Alabama,Arkansas,L
+New Mexico State,South Alabama,W
+South Alabama,Western Kentucky,L
+Arkansas-Little Rock,South Alabama,W
+South Alabama,Louisiana-Lafayette,W
+South Alabama,Louisiana-Monroe,L
+Texas-Arlington,South Alabama,W
+South Alabama,Arkansas-Little Rock,L
+Troy,South Alabama,W
+Western Kentucky,South Alabama,L
+Texas State,South Alabama,W
+South Alabama,Troy,W
+Louisiana-Monroe,South Alabama,W
+Louisiana-Lafayette,South Alabama,W
+Texas State,Stephen F. Austin,L
+Southern Methodist,Texas State,W
+Texas State,Tulane,W
+Texas State,Northern Kentucky,W
+Texas State,Southeast Missouri State,L
+Texas State,Cedarville,W
+Texas,Texas State,W
+Texas State,Texas-Tyler,W
+Texas State,Arkansas-Little Rock,L
+Louisiana-Monroe,Texas State,L
+Louisiana-Lafayette,Texas State,W
+Texas State,Texas-Arlington,L
+Arkansas-Little Rock,Texas State,W
+Texas State,Troy,W
+Western Kentucky,Texas State,W
+Texas State,Louisiana-Monroe,W
+Texas State,Louisiana-Lafayette,L
+Texas-Arlington,Texas State,W
+Texas State,Western Kentucky,L
+Boise State,TX-Arlington,W
+TX-Arlington,Samford,W
+TX-Arlington,Howard Payne,W
+TX-Arlington,Cleveland State,L
+Kentucky,TX-Arlington,W
+Robert Morris,TX-Arlington,W
+Eastern Michigan,TX-Arlington,W
+Texas,TX-Arlington,W
+TX-Arlington,Dallas Baptist,W
+Houston Baptist,TX-Arlington,L
+Oklahoma,TX-Arlington,W
+TX-Arlington,Cal State Bakersfield,W
+TX-Arlington,Arkansas State,L
+TX-Arlington,Arkansas-Little Rock,L
+TX-Arlington,Louisiana-Monroe,W
+Louisiana-Lafayette,TX-Arlington,W
+Texas State,TX-Arlington,L
+TX-Arlington,Troy,W
+TX-Arlington,South Alabama,W
+Western Kentucky,TX-Arlington,W
+Georgia State,TX-Arlington,W
+TX-Arlington,Louisiana-Lafayette,L
+Louisiana-Monroe,TX-Arlington,L
+TX-Arlington,Texas State,W
+Arkansas State,TX-Arlington,W
+Arkansas-Little Rock,TX-Arlington,L
+TX-Arlington,Georgia State,L
+TX-Arlington,Western Kentucky,W
+Troy,LaGrange College,W
+Central Arkansas,Troy,W
+Kansas State,Troy,W
+Troy,UC Santa Barbara,L
+Troy,Western Illinois,L
+Troy,Belhaven,W
+Troy,Western Kentucky,L
+Arkansas-Little Rock,Troy,L
+Troy,Louisiana-Monroe,L
+Troy,Louisiana-Lafayette,L
+Texas-Arlington,Troy,W
+Western Kentucky,Troy,W
+Louisiana-Lafayette,Troy,W
+Troy,Arkansas-Little Rock,L
+Louisiana-Monroe,Troy,L
+Western Kentucky,East Tennessee State,W
+Western Kentucky,North Carolina-Wilmington,W
+Western Kentucky,Eastern Illinois,W
+Southern Illinois,Western Kentucky,L
+Western Kentucky,Brescia,W
+Western Kentucky,Arkansas-Little Rock,L
+Louisiana-Monroe,Western Kentucky,L
+Louisiana-Lafayette,Western Kentucky,L
+Western Kentucky,Texas-Arlington,W
+Arkansas-Little Rock,Western Kentucky,L
+Western Kentucky,Louisiana-Monroe,W
+Texas-Arlington,Western Kentucky,W
+BYU,Weber State,W
+Stanford,BYU,L
+BYU,Mount St. Mary's,W
+BYU,Mesa College,W
+BYU,Iowa State,L
+BYU,Texas,W
+BYU,Wichita State,L
+BYU,Utah State,W
+BYU,North Texas,W
+BYU,Massachusetts,L
+BYU,Prairie View A&M,W
+Utah,BYU,W
+Oregon,BYU,W
+Loyola Marymount,BYU,W
+Pepperdine,BYU,W
+BYU,San Diego,W
+BYU,Pepperdine,W
+BYU,Loyola Marymount,W
+San Francisco,BYU,L
+Santa Clara,BYU,L
+Portland,BYU,W
+Gonzaga,BYU,W
+BYU,Pacific,W
+BYU,Saint Mary's,W
+BYU,Santa Clara,W
+BYU,San Francisco,W
+Pacific,BYU,W
+Saint Mary's,BYU,L
+BYU,Gonzaga,W
+BYU,Portland,W
+San Diego,BYU,L
+Gonzaga,Bryant University,W
+Gonzaga,Washington State,W
+Gonzaga,Dayton,L
+Gonzaga,Chaminade,W
+Gonzaga,Arkansas,W
+Gonzaga,New Mexico State,W
+West Virginia,Gonzaga,L
+Gonzaga,South Alabama,W
+Gonzaga,Kansas State,L
+Gonzaga,Santa Clara,W
+Gonzaga,San Francisco,W
+Gonzaga,Saint Mary's,W
+Gonzaga,Pacific,W
+Portland,Gonzaga,W
+Pepperdine,Gonzaga,L
+Loyola Marymount,Gonzaga,L
+Gonzaga,San Diego,W
+Gonzaga,Brigham Young,W
+Santa Clara,Gonzaga,L
+San Francisco,Gonzaga,L
+Gonzaga,Portland,W
+Gonzaga,Pepperdine,W
+Gonzaga,Loyola Marymount,W
+Brigham Young,Gonzaga,W
+San Diego,Gonzaga,W
+Pacific,Gonzaga,L
+Saint Mary's,Gonzaga,L
+Loyola Mary,Grand Canyon,W
+Loyola Mary,South Dakota State,W
+Long Beach State,Loyola Mary,L
+Loyola Mary,Northern Arizona,W
+Loyola Mary,Northern Iowa,L
+Loyola Mary,Marist,W
+Loyola Mary,Vanderbilt,L
+UC Riverside,Loyola Mary,L
+Pittsburgh,Loyola Mary,W
+Valparaiso,Loyola Mary,W
+Loyola Mary,Cal Poly,W
+Loyola Mary,La Sierra University,W
+Loyola Mary,Brigham Young,W
+Loyola Mary,San Diego,W
+San Francisco,Loyola Mary,W
+Santa Clara,Loyola Mary,W
+San Diego,Loyola Mary,W
+Brigham Young,Loyola Mary,W
+Loyola Mary,Portland,L
+Loyola Mary,Gonzaga,L
+Pacific,Loyola Mary,L
+Saint Mary's,Loyola Mary,W
+Pepperdine,Loyola Mary,W
+Loyola Mary,Saint Mary's,L
+Loyola Mary,Pacific,L
+Portland,Loyola Mary,W
+Gonzaga,Loyola Mary,W
+Loyola Mary,Pepperdine,L
+Loyola Mary,Santa Clara,W
+Loyola Mary,San Francisco,L
+Pacific,Cal Poly,W
+Pacific,North Dakota,W
+Pacific,Menlo College,W
+Pacific,Princeton,L
+Pacific,Bradley,W
+Pacific,Saint Mary's,L
+Portland,Pacific,W
+Pacific,San Francisco,L
+Pacific,Santa Clara,W
+Saint Mary's,Pacific,W
+Pacific,Loyola Marymount,L
+Pacific,Pepperdine,W
+Brigham Young,Pacific,W
+San Diego,Pacific,L
+Pepperdine,Pacific,W
+Loyola Marymount,Pacific,L
+Pacific,Brigham Young,W
+Pacific,San Diego,L
+Santa Clara,Pacific,W
+San Francisco,Pacific,W
+Pacific,Portland,W
+Pepperdine,San Diego Christian,W
+Central Michigan,Pepperdine,L
+Pepperdine,Utah Valley,W
+Pepperdine,Green Bay,L
+Pepperdine,Denver,W
+Pepperdine,Indiana State,L
+Pepperdine,Cal State Fullerton,L
+Washington State,Pepperdine,W
+Pepperdine,San Diego,W
+Pepperdine,Brigham Young,W
+Santa Clara,Pepperdine,L
+San Francisco,Pepperdine,W
+Brigham Young,Pepperdine,W
+San Diego,Pepperdine,L
+Pepperdine,Portland,W
+Saint Mary's,Pepperdine,W
+Pepperdine,Loyola Marymount,W
+Pepperdine,Saint Mary's,L
+Portland,Pepperdine,W
+Loyola Marymount,Pepperdine,L
+Pepperdine,San Francisco,L
+Pepperdine,Santa Clara,L
+Portland,Idaho,W
+Portland,Bradley,W
+Portland,Princeton,W
+Portland,San Francisco,L
+Portland,Santa Clara,L
+Portland,Saint Mary's,L
+Loyola Marymount,Portland,L
+Portland,Brigham Young,W
+Portland,San Diego,L
+San Francisco,Portland,W
+Santa Clara,Portland,L
+Portland,Loyola Marymount,W
+San Diego,Portland,W
+Brigham Young,Portland,W
+Saint Mary's,Portland,W
+Saint Mary's,North Dakota State,W
+Saint Mary's,Eastern Washington,W
+Saint Mary's,American University,W
+Saint Mary's,South Carolina,L
+Saint Mary's,George Mason,L
+Saint Mary's,William Jessup,W
+Saint Mary's,Santa Clara,L
+Saint Mary's,San Francisco,W
+Saint Mary's,Loyola Marymount,W
+San Diego,Saint Mary's,W
+Brigham Young,Saint Mary's,W
+Loyola Marymount,Saint Mary's,L
+Saint Mary's,San Diego,W
+Saint Mary's,Brigham Young,L
+San Francisco,Saint Mary's,W
+Santa Clara,Saint Mary's,L
+San Diego,South Dakota State,W
+San Diego,Grand Canyon,W
+Northern Kentucky,San Diego,L
+San Diego,San Diego Christian,W
+San Diego,Illinois-Chicago,L
+San Diego,UNC Greensboro,W
+San Diego,Southern Illinois,W
+San Diego,Pacifica College,W
+Loyola Marymount,San Diego,W
+Brigham Young,San Diego,W
+San Diego,Loyola Marymount,W
+Santa Clara,San Diego,L
+San Francisco,San Diego,W
+San Diego,San Francisco,L
+San Diego,Santa Clara,L
+San Diego,Brigham Young,L
+San Francisco,Notre Dame CA,W
+San Francisco,Sonoma State,W
+San Francisco,American University,W
+San Francisco,Loyola Marymount,W
+San Francisco,Brigham Young,L
+San Francisco,Santa Clara,W
+Brigham Young,San Francisco,W
+Santa Clara,San Francisco,L
+Loyola Marymount,San Francisco,L
+Santa Clara,Bethesda Univ,W
+Cal State Fullerton,Santa Clara,W
+Santa Clara,North Dakota State,L
+Cal State Bakersfield,Santa Clara,L
+Santa Clara,La Sierra University,W
+Santa Clara,UNLV,L
+Santa Clara,South Florida,W
+Santa Clara,Loyola Marymount,W
+Santa Clara,Brigham Young,L
+Brigham Young,Santa Clara,W
+Loyola Marymount,Santa Clara,W
+Washington State,CSU Bakersfield,W
+CSU Bakersfield,California Merced,W
+CSU Bakersfield,Sacramento State,W
+CSU Bakersfield,Nevada,W
+CSU Bakersfield,Idaho State,W
+CSU Bakersfield,Northern Arizona,W
+Fresno State,CSU Bakersfield,W
+CSU Bakersfield,Drake,L
+CSU Bakersfield,Santa Clara,L
+Nebraska-Omaha,CSU Bakersfield,W
+USC,CSU Bakersfield,W
+UTSA,CSU Bakersfield,L
+Texas-Arlington,CSU Bakersfield,W
+Idaho State,CSU Bakersfield,L
+CSU Bakersfield,Utah Valley,L
+CSU Bakersfield,Grand Canyon,L
+Seattle,CSU Bakersfield,L
+Idaho,CSU Bakersfield,W
+CSU Bakersfield,Chicago State,L
+CSU Bakersfield,UMKC,L
+New Mexico State,CSU Bakersfield,W
+Texas-Pan American,CSU Bakersfield,L
+Grand Canyon,CSU Bakersfield,W
+CSU Bakersfield,Idaho,W
+CSU Bakersfield,Seattle,W
+UMKC,CSU Bakersfield,L
+Chicago State,CSU Bakersfield,W
+CSU Bakersfield,Texas-Pan American,L
+CSU Bakersfield,New Mexico State,L
+Chicago State,Urbana,W
+Chicago State,Jacksonville State,W
+Chicago State,Southern Illinois,W
+Chicago State,Wisc. Parkside,W
+Chicago State,SIU-Edwardsville,W
+Idaho,Chicago State,L
+UMKC,Chicago State,L
+Chicago State,New Mexico State,W
+Chicago State,Texas-Pan American,L
+Cal State Bakersfield,Chicago State,L
+Utah Valley,Chicago State,W
+Chicago State,Grand Canyon,L
+Chicago State,UMKC,W
+Texas-Pan American,Chicago State,W
+New Mexico State,Chicago State,W
+Chicago State,Utah Valley,L
+Chicago State,Cal State Bakersfield,W
+Eastern Illinois,Chicago State,W
+Seattle,Chicago State,L
+Grand Canyon,Chicago State,W
+Grand Canyon,Loyola Marymount,L
+Grand Canyon,West New Mexico,W
+Grand Canyon,Savannah State,W
+Grand Canyon,Lamar,W
+Grand Canyon,San Diego Christian,W
+Grand Canyon,Vanguard,W
+Northern Arizona,Grand Canyon,W
+Grand Canyon,Middle Tennessee,L
+Grand Canyon,Texas-Pan American,W
+Grand Canyon,New Mexico State,L
+Cal State Bakersfield,Grand Canyon,L
+Utah Valley,Grand Canyon,W
+Grand Canyon,Idaho,W
+Grand Canyon,Seattle,W
+UMKC,Grand Canyon,L
+Grand Canyon,Utah Valley,L
+Grand Canyon,Cal State Bakersfield,W
+Seattle,Grand Canyon,L
+Idaho,Grand Canyon,W
+Grand Canyon,UMKC,L
+Oklahoma,Idaho,W
+Idaho,NW Nazarene,W
+Idaho,North Texas,W
+Idaho,Columbia,L
+Idaho,Boise State,L
+Idaho,Washington State,L
+Cal State Northridge,Idaho,W
+Idaho,UMKC,L
+Texas-Pan American,Idaho,L
+New Mexico State,Idaho,W
+Idaho,Utah Valley,L
+Idaho,Cal State Bakersfield,W
+Idaho,Seattle,L
+Idaho,New Mexico State,W
+Idaho,Texas-Pan American,W
+Cal State Bakersfield,Idaho,W
+Utah Valley,Idaho,W
+Idaho,Cal State Northridge,W
+Seattle,Idaho,W
+New Mexico St,Western Michigan,L
+New Mexico St,Tennessee State,W
+Hawaii,New Mexico St,L
+New Mexico St,UTEP,W
+New Mexico St,Northern Colorado,W
+UTEP,New Mexico St,L
+New Mexico St,Bethune-Cookman,W
+New Mexico St,Prairie View A&M,W
+Colorado State,New Mexico St,W
+New Mexico St,New Mexico,L
+Gonzaga,New Mexico St,W
+Arizona,New Mexico St,W
+Drake,New Mexico St,L
+New Mexico,New Mexico St,L
+New Mexico St,Northern New Mexico,W
+New Mexico St,South Alabama,W
+Grand Canyon,New Mexico St,L
+New Mexico St,Seattle,W
+New Mexico St,Idaho,W
+Chicago State,New Mexico St,W
+UMKC,New Mexico St,W
+New Mexico St,Texas-Pan American,W
+New Mexico St,Cal State Bakersfield,W
+New Mexico St,Utah Valley,W
+Idaho,New Mexico St,W
+Seattle,New Mexico St,L
+New Mexico St,UMKC,W
+New Mexico St,Chicago State,W
+Texas-Pan American,New Mexico St,L
+Utah Valley,New Mexico St,W
+Cal State Bakersfield,New Mexico St,L
+Washington,Seattle U,W
+Seattle U,Cal State Fullerton,W
+Seattle U,Evergreen State,W
+Boise State,Seattle U,W
+Seattle U,UC Riverside,W
+Eastern Washington,Seattle U,W
+Seattle U,UC Davis,W
+Cal State Northridge,Seattle U,L
+Cal State Fullerton,Seattle U,L
+Seattle U,Pacific Lutheran,W
+Seattle U,Norfolk State,W
+Nebraska-Omaha,Seattle U,W
+Seattle U,UC Santa Barbara,L
+Seattle U,UMKC,L
+New Mexico State,Seattle U,W
+Texas-Pan American,Seattle U,L
+Seattle U,Cal State Bakersfield,L
+Seattle U,Utah Valley,L
+Grand Canyon,Seattle U,W
+Idaho,Seattle U,L
+Seattle U,Texas-Pan American,W
+Seattle U,New Mexico State,L
+Utah Valley,Seattle U,L
+Cal State Bakersfield,Seattle U,W
+Seattle U,Grand Canyon,L
+Seattle U,Chicago State,L
+Seattle U,Idaho,W
+TX-Pan American,Sam Houston State,L
+TX-Pan American,Houston,L
+TX-Pan American,Huston-Tillotson,W
+TX-Pan American,Tennessee Tech,W
+TX-Pan American,IPFW,L
+Texas A&M-CC,TX-Pan American,W
+UTSA,TX-Pan American,L
+Lamar,TX-Pan American,L
+Bradley,TX-Pan American,W
+SIU-Edwardsville,TX-Pan American,W
+TX-Pan American,UTSA,L
+TCU,TX-Pan American,W
+Southern Methodist,TX-Pan American,W
+TX-Pan American,Duquesne,L
+Grand Canyon,TX-Pan American,W
+Texas A&M,TX-Pan American,W
+TX-Pan American,Idaho,L
+TX-Pan American,Seattle,L
+UMKC,TX-Pan American,L
+Chicago State,TX-Pan American,L
+New Mexico State,TX-Pan American,W
+TX-Pan American,Utah Valley,L
+TX-Pan American,Cal State Bakersfield,L
+Seattle,TX-Pan American,W
+Idaho,TX-Pan American,W
+TX-Pan American,Chicago State,W
+TX-Pan American,UMKC,W
+TX-Pan American,New Mexico State,L
+Cal State Bakersfield,TX-Pan American,L
+Utah Valley,TX-Pan American,W
+UMKC,Emporia State,L
+Nebraska-Omaha,UMKC,W
+Tennessee-Martin,UMKC,L
+Iowa State,UMKC,W
+UMKC,Youngstown State,W
+UMKC,South Dakota State,L
+Seattle,UMKC,L
+UMKC,Texas-Pan American,L
+UMKC,New Mexico State,W
+Utah Valley,UMKC,W
+Cal State Bakersfield,UMKC,L
+Southeast Missouri State,UMKC,W
+New Mexico State,UMKC,W
+Texas-Pan American,UMKC,W
+UMKC,Cal State Bakersfield,L
+UMKC,Utah Valley,W
+Utah Valley,North Carolina A&T,W
+Oklahoma State,Utah Valley,W
+Tennessee Tech,Utah Valley,W
+Utah Valley,St. Katherine,W
+Utah Valley,Haskell,W
+Utah Valley,North Dakota State,L
+Utah Valley,Tennessee Tech,W
+Cal State Bakersfield,Utah Valley,L
+Seattle,Utah Valley,L
+Texas-Pan American,Utah Valley,L
+New Mexico State,Utah Valley,W
+Utah Valley,Seattle,L
+Utah Valley,New Mexico State,W
+Utah Valley,Texas-Pan American,W

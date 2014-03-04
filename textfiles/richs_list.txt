@@ -1,0 +1,53 @@
+UMBC,Maryland-Baltimore County
+Massachusetts Lowell,UMass-Lowell
+Bryant University,Bryant
+Louisiana-Lafayette,Louisiana
+SMU,Southern Methodist
+Illinois-Chicago,UIC
+Miami,Miami (FL)
+Saint Joseph's,St. Joseph's (PA)
+St. Francis U,St. Francis (PA)
+N.J.I.T.,New Jersey Tech
+G. Washington,George Washington
+Loyola,Loyola (MD)
+SIU-Edwardsville,SIU Edwardsville
+VCU,Virginia Commonwealth
+North Carolina State,North Carolina
+Charleston,College of Charleston
+UNC Greensboro,North Carolina-Greensboro
+East Tenn St,East Tennessee State
+FGCU,Florida Gulf Coast
+Middle Tennessee,Middle Tennessee State
+NKU,Northern Kentucky
+Alaska Anchorage,?
+E Washington,Eastern Washington
+UTEP,Texas-El Paso
+UTSA,Texas-San Antonio
+N Arizona,Northern Arizona
+N Colorado,Northern Colorado
+Sacramento St,Sacramento State
+Utah Valley,Utah Valley University
+UNC Asheville,North Carolina-Asheville
+Virginia Military,Virginia Military Institute
+Charl Southern,Charleston Southern
+VMI,Virginia Military Institute
+Chaminade,?
+UNC-Wilmington,North Carolina-Wilmington
+Florida Atl,Florida Atlantic
+FIU,Florida International
+Texas A&M-CC,Texas A&M-Corpus Christi
+St. Francis,St. Francis (PA)
+UMKC,Missouri-Kansas City
+Youngstown St,Youngstown State
+LIU Brooklyn,Long Island
+Cent Michigan,Central Michigan
+E Michigan,Eastern Michigan
+N Illinois,Northern Illinois
+Florida A&M;,Florida A&M
+North Carolina A&T;,North Carolina A&T
+North Carolina Cent,North Carolina Central
+Southern Carolina St,South Carolina State
+Loyola (IL),Loyola (Chicago)
+S Illinois,Southern Illinois
+Cent Conn St,Central Connecticut State
+Fair Dickinson,Fairleigh Dickinson
