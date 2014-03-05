@@ -14,20 +14,49 @@ def get_missing_team_names():
 		output_file.write(team+"\n")
 	output_file.close()
 
+def find_manual_match(espn_name):
+	# manually_matched_file = open("textfiles/richs_list.txt", 'r')
+	# manually_matched_file = open("textfiles/allens_list.txt", 'r')
+	manually_matched_file = open("matched.txt", 'r')
+
+	for line in manually_matched_file:
+		splitLine = line.strip("\n").split(",")
+		if espn_name == splitLine[0]:
+			# If matches, return our match
+			stat_sheet_name = splitLine[1]
+			if stat_sheet_name != "?":
+				return splitLine[1]
+
+	manually_matched_file.close()
+	return 0
+
 def match_names():
 
 	unmatched_team_file = open("textfiles/unmatchingteams.txt", 'r')
-	# manually_matched_file = open("richs_list.txt", 'r')
+	# unmatched_team_file = open("still_unmatched.txt", 'r')
 
-	# matched_file = open('matched.txt', 'w')
-	# still_unmatched_file = open('matched.txt', 'w')
+	matched_file = open('new_matched.txt', 'w')
+	still_unmatched_file = open('new_still_unmatched.txt', 'w')
 
 	for unmatchedLine in unmatched_team_file:
-		splitLine = unmatchedLine.strip("\n").split("")
-		print splitLine[0]
+		splitLine = unmatchedLine.strip("\n").split(",")
+
+		espn_name = splitLine[0]
+		matched_name = find_manual_match(espn_name)
+
+		if matched_name != 0:
+			matched_file.write(espn_name + "," + matched_name + "\n")
+		else:
+			still_unmatched_file.write(espn_name + "\n")
+
+
+	unmatched_team_file.close()
+	matched_file.close()
+	still_unmatched_file.close()
 
 
 def main():
 	# get_missing_team_names()
 	match_names()
 
+main()

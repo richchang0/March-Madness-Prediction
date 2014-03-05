@@ -13,8 +13,8 @@ Appalachian St,Appalachian State
 The Citadel,Citadel
 Ga. Southern,Georgia Southern
 Cent Arkansas,Central Arkansas
-****Northwood University
-****Southwestern
+Northwood University,?
+Southwestern,?
 Northwestern St,Northwestern State
 Sam Houston,Sam Houston State
 SE Louisiana,Southeastern Louisiana
@@ -32,7 +32,7 @@ CSU Bakersfield,Cal State Bakersfield
 New Mexico St,New Mexico State
 Seattle U,Seattle
 TX-Pan American,Texas-Pan American
-UMass Lowell,UMass-Lowell
+UMass Lowell,Massachusetts Lowell
 Coast Carolina,Coastal Carolina
 UC Santa Barbara,UC-Santa Barbara
 CS Fullerton,Cal State Fullerton
@@ -42,13 +42,13 @@ E Illinois,Eastern Illinois
 E Kentucky,Eastern Kentucky
 Jacksonville St,Jacksonville State
 SE Missouri St,Southeast Missouri State
-*******Trinity University (
-*******Huston-Tillotson
+Trinity University,?
+Huston-Tillotson,?
 Texas A&M-CC;,Texas A&M-Corpus Christi
 Alabama A&M;,Alabama A&M
 AR-Pine Bluff,Arkansas-Pine Bluff
-*******Morehouse College
+Morehouse College,?
 Grambling St,Grambling State
 Miss Valley St,Mississippi Valley State
 PV A&M;,Prairie View A&M
-Southern
+Southern,?
