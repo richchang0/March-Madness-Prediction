@@ -2008,7 +2008,7 @@ Cal Poly,UC Riverside,W
 UC Davis,Cal Poly,W
 UC Irvine,Cal Poly,W
 Montana State,Cal State Fullerton,L
-Seattle,Cal State Fullerton,W
+Seattle U,Cal State Fullerton,W
 Cal State Fullerton,Santa Clara,W
 USC,Cal State Fullerton,W
 San Jose State,Cal State Fullerton,W
@@ -2016,7 +2016,7 @@ Cal State Fullerton,Marquette,L
 Cal State Fullerton,Miami (FL),L
 Cal State Fullerton,Charleston,L
 Pepperdine,Cal State Fullerton,L
-Cal State Fullerton,Seattle,L
+Cal State Fullerton,Seattle U,L
 Cal State Fullerton,Texas Southern,W
 Cal State Fullerton,Sacramento State,W
 UNLV,Cal State Fullerton,W
@@ -2044,7 +2044,7 @@ Central Michigan,CS Northridge,W
 Montana State,CS Northridge,W
 CS Northridge,La Sierra University,W
 CS Northridge,Southern Utah,W
-CS Northridge,Seattle,L
+CS Northridge,Seattle U,L
 Texas A&M-CC,CS Northridge,L
 CS Northridge,Idaho,W
 CS Northridge,Morgan State,W
@@ -2125,7 +2125,7 @@ UC Davis,SIU-Edwardsville,W
 UC Davis,Loyola (IL),W
 UC Davis,Sacramento State,L
 UC Davis,Idaho,L
-Seattle,UC Davis,W
+Seattle U,UC Davis,W
 UC Davis,Nevada,L
 Stanford,UC Davis,W
 San Jose State,UC Davis,W
@@ -2168,7 +2168,7 @@ Cal State Northridge,UC Irvine,W
 UC Irvine,UC Santa Barbara,W
 San Diego State,UC Riverside,W
 UC Riverside,Pepperdine,L
-Seattle,UC Riverside,W
+Seattle U,UC Riverside,W
 UC Riverside,Loyola Marymount,L
 UC Riverside,La Verne,W
 Air Force,UC Riverside,W
@@ -2196,7 +2196,7 @@ San Diego,UC Santa Barbara,L
 UC Santa Barbara,Troy,W
 Utah State,UC Santa Barbara,W
 UC Santa Barbara,Western Illinois,W
-Seattle,UC Santa Barbara,L
+Seattle U,UC Santa Barbara,L
 UC Santa Barbara,Masters College,W
 UC Santa Barbara,Long Beach State,W
 Cal State Northridge,UC Santa Barbara,L
@@ -3652,7 +3652,7 @@ Norfolk State,Fairleigh Dickinson,W
 LIU Brooklyn,Norfolk State,W
 Norfolk State,Florida A&M,W
 Boston U,Norfolk State,L
-Norfolk State,Seattle,L
+Norfolk State,Seattle U,L
 Norfolk State,Mount St. Mary's,L
 South Carolina State,Norfolk State,W
 Savannah State,Norfolk State,L
@@ -3976,7 +3976,7 @@ Wyoming,Air Force,L
 Air Force,UNLV,L
 Boise State,Texas-Arlington,W
 Boise State,Simpson University,W
-Boise State,Seattle,W
+Boise State,Seattle U,W
 New Orleans,Boise State,L
 Boise State,Idaho,W
 Boise State,Utah,W
@@ -4892,7 +4892,7 @@ Washington,Utah,W
 Washington State,Utah,W
 Utah,Washington,W
 Utah,Washington State,W
-Washington,Seattle,W
+Washington,Seattle U,W
 Washington,Eastern Washington,W
 Washington,Indiana,L
 Washington,Boston College,L
@@ -6214,7 +6214,7 @@ Omaha,Waldorf College,W
 Omaha,Cal State Bakersfield,W
 Nevada,Omaha,L
 Minnesota,Omaha,W
-Omaha,Seattle,W
+Omaha,Seattle U,W
 Central Arkansas,Omaha,L
 Hawaii,Omaha,W
 Western Illinois,Omaha,W
@@ -6745,7 +6745,7 @@ Texas-Arlington,CSU Bakersfield,W
 Idaho State,CSU Bakersfield,L
 CSU Bakersfield,Utah Valley,L
 CSU Bakersfield,Grand Canyon,L
-Seattle,CSU Bakersfield,L
+Seattle U,CSU Bakersfield,L
 Idaho,CSU Bakersfield,W
 CSU Bakersfield,Chicago State,L
 CSU Bakersfield,UMKC,L
@@ -6753,7 +6753,7 @@ New Mexico State,CSU Bakersfield,W
 TX-Pan American,CSU Bakersfield,L
 Grand Canyon,CSU Bakersfield,W
 CSU Bakersfield,Idaho,W
-CSU Bakersfield,Seattle,W
+CSU Bakersfield,Seattle U,W
 UMKC,CSU Bakersfield,L
 Chicago State,CSU Bakersfield,W
 CSU Bakersfield,TX-Pan American,L
@@ -6776,7 +6776,7 @@ New Mexico State,Chicago State,W
 Chicago State,Utah Valley,L
 Chicago State,Cal State Bakersfield,W
 E Illinois,Chicago State,W
-Seattle,Chicago State,L
+Seattle U,Chicago State,L
 Grand Canyon,Chicago State,W
 Grand Canyon,Loyola Marymount,L
 Grand Canyon,West New Mexico,W
@@ -6790,11 +6790,11 @@ Grand Canyon,New Mexico State,L
 Cal State Bakersfield,Grand Canyon,L
 Utah Valley,Grand Canyon,W
 Grand Canyon,Idaho,W
-Grand Canyon,Seattle,W
+Grand Canyon,Seattle U,W
 UMKC,Grand Canyon,L
 Grand Canyon,Utah Valley,L
 Grand Canyon,Cal State Bakersfield,W
-Seattle,Grand Canyon,L
+Seattle U,Grand Canyon,L
 Idaho,Grand Canyon,W
 Grand Canyon,UMKC,L
 Oklahoma,Idaho,W
@@ -6809,13 +6809,13 @@ TX-Pan American,Idaho,L
 New Mexico State,Idaho,W
 Idaho,Utah Valley,L
 Idaho,Cal State Bakersfield,W
-Idaho,Seattle,L
+Idaho,Seattle U,L
 Idaho,New Mexico State,W
 Idaho,TX-Pan American,W
 Cal State Bakersfield,Idaho,W
 Utah Valley,Idaho,W
 Idaho,Cal State Northridge,W
-Seattle,Idaho,W
+Seattle U,Idaho,W
 New Mexico St,Western Michigan,L
 New Mexico St,Tennessee State,W
 Hawaii,New Mexico St,L
@@ -6832,7 +6832,7 @@ Drake,New Mexico St,L
 New Mexico,New Mexico St,L
 New Mexico St,South Alabama,W
 Grand Canyon,New Mexico St,L
-New Mexico St,Seattle,W
+New Mexico St,Seattle U,W
 New Mexico St,Idaho,W
 Chicago State,New Mexico St,W
 UMKC,New Mexico St,W
@@ -6840,7 +6840,7 @@ New Mexico St,TX-Pan American,W
 New Mexico St,Cal State Bakersfield,W
 New Mexico St,Utah Valley,W
 Idaho,New Mexico St,W
-Seattle,New Mexico St,L
+Seattle U,New Mexico St,L
 New Mexico St,UMKC,W
 New Mexico St,Chicago State,W
 TX-Pan American,New Mexico St,L
@@ -6887,13 +6887,13 @@ TX-Pan American,Duquesne,L
 Grand Canyon,TX-Pan American,W
 Texas A&M,TX-Pan American,W
 TX-Pan American,Idaho,L
-TX-Pan American,Seattle,L
+TX-Pan American,Seattle U,L
 UMKC,TX-Pan American,L
 Chicago State,TX-Pan American,L
 New Mexico State,TX-Pan American,W
 TX-Pan American,Utah Valley,L
 TX-Pan American,Cal State Bakersfield,L
-Seattle,TX-Pan American,W
+Seattle U,TX-Pan American,W
 Idaho,TX-Pan American,W
 TX-Pan American,Chicago State,W
 TX-Pan American,UMKC,W
@@ -6906,7 +6906,7 @@ Tennessee-Martin,UMKC,L
 Iowa State,UMKC,W
 UMKC,Youngstown State,W
 UMKC,South Dakota State,L
-Seattle,UMKC,L
+Seattle U,UMKC,L
 UMKC,TX-Pan American,L
 UMKC,New Mexico State,W
 Utah Valley,UMKC,W
@@ -6923,9 +6923,9 @@ Utah Valley,Haskell,W
 Utah Valley,North Dakota State,L
 Utah Valley,Tennessee Tech,W
 Cal State Bakersfield,Utah Valley,L
-Seattle,Utah Valley,L
+Seattle U,Utah Valley,L
 TX-Pan American,Utah Valley,L
 New Mexico State,Utah Valley,W
-Utah Valley,Seattle,L
+Utah Valley,Seattle U,L
 Utah Valley,New Mexico State,W
 Utah Valley,TX-Pan American,W

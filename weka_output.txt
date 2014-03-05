@@ -1,0 +1,356 @@
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     training_data
+Instances:    2000
+Attributes:   54
+              Total Games
+              Wins
+              Losses
+              Winning Pct
+              Possessions
+              Possessions Per 40 minutes
+              Floor Pct
+              Efficiency
+              Field Goals Made
+              Field Goal Attempts
+              Field Goal Pct
+              Free Throws Made
+              Free Throw Attempts
+              Free Throw Pct
+              3-pt Field Goals Made
+              3-pt Field Goal Attempts
+              3-pt Field Goal Pct
+              Effective Field Goal Pct
+              True Shooting Pct
+              Free Throw Rate
+              Field Goal Point Pct
+              Free Throw Point Pct
+              3-pt Field Goal Point Pct
+              Points Per Possessions
+              Points
+              Points Per Game
+              Rebound Pct
+              Total Rebounds
+              Total Rebounds Per Game
+              Offensive Reb Pct
+              Offensive Rebounds
+              Offensive Rebounds Per Game
+              Defensive Reb Pct
+              Defensive Rebounds
+              Defensive Rebounds Per Game
+              Team Rebounds
+              Team Rebounds Per Game
+              Assist Pct
+              Assists
+              Assists Per Game
+              Assist to Turnover
+              Steal Pct
+              Steals
+              Steals Per Game
+              Turnover Pct
+              Turnovers
+              Turnovers Per Game
+              Block Pct
+              Blocks
+              Blocks Per Game
+              Fouls
+              Fouls Per Game
+              Disqualifications
+              Outcome
+Test mode:5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+Wins <= -4
+|   Losses <= 8
+|   |   Rebound Pct <= -5.6: L (23.0/1.0)
+|   |   Rebound Pct > -5.6
+|   |   |   Block Pct <= -2.8
+|   |   |   |   Winning Pct <= -30.4: W (3.0)
+|   |   |   |   Winning Pct > -30.4
+|   |   |   |   |   Efficiency <= -1.7: L (24.0)
+|   |   |   |   |   Efficiency > -1.7
+|   |   |   |   |   |   Points Per Possessions <= 0.01
+|   |   |   |   |   |   |   Free Throw Rate <= 0.2: L (2.0)
+|   |   |   |   |   |   |   Free Throw Rate > 0.2: W (7.0/1.0)
+|   |   |   |   |   |   Points Per Possessions > 0.01: L (12.0/1.0)
+|   |   |   Block Pct > -2.8
+|   |   |   |   Free Throw Point Pct <= 2.6
+|   |   |   |   |   Blocks Per Game <= -1.3
+|   |   |   |   |   |   Wins <= -6
+|   |   |   |   |   |   |   Field Goal Pct <= -2.4: W (5.0/1.0)
+|   |   |   |   |   |   |   Field Goal Pct > -2.4: L (3.0)
+|   |   |   |   |   |   Wins > -6: W (8.0)
+|   |   |   |   |   Blocks Per Game > -1.3
+|   |   |   |   |   |   Disqualifications <= -1
+|   |   |   |   |   |   |   Efficiency <= -5.6
+|   |   |   |   |   |   |   |   Blocks <= -27: L (9.0/1.0)
+|   |   |   |   |   |   |   |   Blocks > -27
+|   |   |   |   |   |   |   |   |   Field Goal Point Pct <= 0.9: W (18.0)
+|   |   |   |   |   |   |   |   |   Field Goal Point Pct > 0.9
+|   |   |   |   |   |   |   |   |   |   True Shooting Pct <= -2.9
+|   |   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game <= 0.3: W (10.0)
+|   |   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game > 0.3: L (2.0)
+|   |   |   |   |   |   |   |   |   |   True Shooting Pct > -2.9: L (4.0)
+|   |   |   |   |   |   |   Efficiency > -5.6
+|   |   |   |   |   |   |   |   Assist to Turnover <= 0.36
+|   |   |   |   |   |   |   |   |   Field Goal Attempts <= 191
+|   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game <= 1.5
+|   |   |   |   |   |   |   |   |   |   |   Winning Pct <= -10.3: L (36.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Winning Pct > -10.3: W (2.0)
+|   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game > 1.5: W (2.0)
+|   |   |   |   |   |   |   |   |   Field Goal Attempts > 191: W (4.0)
+|   |   |   |   |   |   |   |   Assist to Turnover > 0.36: W (4.0)
+|   |   |   |   |   |   Disqualifications > -1
+|   |   |   |   |   |   |   Fouls <= 13
+|   |   |   |   |   |   |   |   True Shooting Pct <= 3.7
+|   |   |   |   |   |   |   |   |   Floor Pct <= -5.5
+|   |   |   |   |   |   |   |   |   |   Free Throw Attempts <= -115: W (3.0)
+|   |   |   |   |   |   |   |   |   |   Free Throw Attempts > -115: L (5.0)
+|   |   |   |   |   |   |   |   |   Floor Pct > -5.5: L (43.0)
+|   |   |   |   |   |   |   |   True Shooting Pct > 3.7: W (3.0)
+|   |   |   |   |   |   |   Fouls > 13
+|   |   |   |   |   |   |   |   Wins <= -9: W (3.0)
+|   |   |   |   |   |   |   |   Wins > -9
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Point Pct <= -2.2
+|   |   |   |   |   |   |   |   |   |   Assist to Turnover <= -0.53: W (2.0)
+|   |   |   |   |   |   |   |   |   |   Assist to Turnover > -0.53
+|   |   |   |   |   |   |   |   |   |   |   Total Games <= 0: L (17.0)
+|   |   |   |   |   |   |   |   |   |   |   Total Games > 0
+|   |   |   |   |   |   |   |   |   |   |   |   Assist to Turnover <= -0.24: L (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Assist to Turnover > -0.24: W (2.0)
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Point Pct > -2.2
+|   |   |   |   |   |   |   |   |   |   Assists <= -50: L (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Assists > -50
+|   |   |   |   |   |   |   |   |   |   |   Disqualifications <= 2: L (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Disqualifications > 2: W (12.0)
+|   |   |   |   Free Throw Point Pct > 2.6
+|   |   |   |   |   Assists Per Game <= -5.3: L (4.0)
+|   |   |   |   |   Assists Per Game > -5.3
+|   |   |   |   |   |   Field Goal Attempts <= -35: W (18.0/1.0)
+|   |   |   |   |   |   Field Goal Attempts > -35
+|   |   |   |   |   |   |   Rebound Pct <= 2.2
+|   |   |   |   |   |   |   |   Free Throw Point Pct <= 3.3: W (4.0/1.0)
+|   |   |   |   |   |   |   |   Free Throw Point Pct > 3.3: L (6.0)
+|   |   |   |   |   |   |   Rebound Pct > 2.2: W (6.0)
+|   Losses > 8
+|   |   Free Throw Rate <= -10.9
+|   |   |   Disqualifications <= 1
+|   |   |   |   Assists <= 2: W (6.0/1.0)
+|   |   |   |   Assists > 2: L (3.0)
+|   |   |   Disqualifications > 1: L (7.0)
+|   |   Free Throw Rate > -10.9: L (135.0/3.0)
+Wins > -4
+|   Wins <= 4
+|   |   Losses <= -1
+|   |   |   Field Goal Point Pct <= -10
+|   |   |   |   Total Games <= 0
+|   |   |   |   |   Team Rebounds Per Game <= 0.5
+|   |   |   |   |   |   Rebound Pct <= -2.3
+|   |   |   |   |   |   |   Rebound Pct <= -5.8: L (4.0)
+|   |   |   |   |   |   |   Rebound Pct > -5.8: W (3.0)
+|   |   |   |   |   |   Rebound Pct > -2.3: L (13.0)
+|   |   |   |   |   Team Rebounds Per Game > 0.5: W (3.0)
+|   |   |   |   Total Games > 0: W (3.0)
+|   |   |   Field Goal Point Pct > -10
+|   |   |   |   Free Throw Attempts <= -26
+|   |   |   |   |   Disqualifications <= -9: W (30.0)
+|   |   |   |   |   Disqualifications > -9
+|   |   |   |   |   |   Disqualifications <= 2
+|   |   |   |   |   |   |   Offensive Reb Pct <= -3.3
+|   |   |   |   |   |   |   |   Field Goal Point Pct <= -4: W (10.0)
+|   |   |   |   |   |   |   |   Field Goal Point Pct > -4
+|   |   |   |   |   |   |   |   |   Offensive Reb Pct <= -6.2
+|   |   |   |   |   |   |   |   |   |   Points Per Possessions <= -0.07: L (2.0)
+|   |   |   |   |   |   |   |   |   |   Points Per Possessions > -0.07: W (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Offensive Reb Pct > -6.2: L (7.0)
+|   |   |   |   |   |   |   Offensive Reb Pct > -3.3
+|   |   |   |   |   |   |   |   Efficiency <= 4
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts <= 70: W (46.0)
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts > 70
+|   |   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts <= 96: L (2.0)
+|   |   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts > 96: W (6.0)
+|   |   |   |   |   |   |   |   Efficiency > 4
+|   |   |   |   |   |   |   |   |   Steal Pct <= 1.3: W (9.0/1.0)
+|   |   |   |   |   |   |   |   |   Steal Pct > 1.3: L (5.0)
+|   |   |   |   |   |   Disqualifications > 2: W (40.0/1.0)
+|   |   |   |   Free Throw Attempts > -26
+|   |   |   |   |   Defensive Rebounds Per Game <= 4.4
+|   |   |   |   |   |   Defensive Rebounds Per Game <= -1.8
+|   |   |   |   |   |   |   Team Rebounds Per Game <= -1.6: L (2.0)
+|   |   |   |   |   |   |   Team Rebounds Per Game > -1.6: W (28.0)
+|   |   |   |   |   |   Defensive Rebounds Per Game > -1.8
+|   |   |   |   |   |   |   Team Rebounds <= 34
+|   |   |   |   |   |   |   |   Losses <= -4
+|   |   |   |   |   |   |   |   |   Disqualifications <= -11: L (4.0)
+|   |   |   |   |   |   |   |   |   Disqualifications > -11
+|   |   |   |   |   |   |   |   |   |   Blocks Per Game <= -1.9: L (3.0)
+|   |   |   |   |   |   |   |   |   |   Blocks Per Game > -1.9
+|   |   |   |   |   |   |   |   |   |   |   Wins <= 1
+|   |   |   |   |   |   |   |   |   |   |   |   Possessions <= -198: L (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Possessions > -198: W (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Wins > 1: W (47.0/3.0)
+|   |   |   |   |   |   |   |   Losses > -4
+|   |   |   |   |   |   |   |   |   Disqualifications <= 11
+|   |   |   |   |   |   |   |   |   |   Floor Pct <= 5.5
+|   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds <= 102: W (125.0/49.0)
+|   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds > 102: L (8.0)
+|   |   |   |   |   |   |   |   |   |   Floor Pct > 5.5: W (9.0)
+|   |   |   |   |   |   |   |   |   Disqualifications > 11: W (8.0)
+|   |   |   |   |   |   |   Team Rebounds > 34: W (13.0)
+|   |   |   |   |   Defensive Rebounds Per Game > 4.4: W (16.0)
+|   |   Losses > -1
+|   |   |   Assist to Turnover <= -0.12
+|   |   |   |   Disqualifications <= -10: W (11.0)
+|   |   |   |   Disqualifications > -10
+|   |   |   |   |   Points <= -387: W (8.0)
+|   |   |   |   |   Points > -387
+|   |   |   |   |   |   Blocks Per Game <= -2.1: L (10.0)
+|   |   |   |   |   |   Blocks Per Game > -2.1
+|   |   |   |   |   |   |   Defensive Rebounds Per Game <= -2.7
+|   |   |   |   |   |   |   |   Turnovers Per Game <= -0.2: L (2.0)
+|   |   |   |   |   |   |   |   Turnovers Per Game > -0.2: W (10.0)
+|   |   |   |   |   |   |   Defensive Rebounds Per Game > -2.7
+|   |   |   |   |   |   |   |   Turnover Pct <= 4.2
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts <= -202: W (7.0)
+|   |   |   |   |   |   |   |   |   3-pt Field Goal Attempts > -202
+|   |   |   |   |   |   |   |   |   |   Steals Per Game <= -1.6: L (17.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Steals Per Game > -1.6
+|   |   |   |   |   |   |   |   |   |   |   Turnovers <= -17: W (5.0)
+|   |   |   |   |   |   |   |   |   |   |   Turnovers > -17
+|   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game <= -0.7: L (16.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game > -0.7
+|   |   |   |   |   |   |   |   |   |   |   |   |   Turnover Pct <= 3.4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Total Rebounds Per Game <= 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses <= 2
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   3-pt Field Goals Made <= -43: L (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   3-pt Field Goals Made > -43: W (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Possessions <= 235: L (15.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Possessions > 235: W (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses > 2
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Assist to Turnover <= -0.34: L (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Assist to Turnover > -0.34: W (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Total Rebounds Per Game > 4: L (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Turnover Pct > 3.4: W (7.0)
+|   |   |   |   |   |   |   |   Turnover Pct > 4.2: L (10.0)
+|   |   |   Assist to Turnover > -0.12
+|   |   |   |   Defensive Rebounds <= -111: W (17.0)
+|   |   |   |   Defensive Rebounds > -111
+|   |   |   |   |   Offensive Rebounds <= 12
+|   |   |   |   |   |   Rebound Pct <= 1.3
+|   |   |   |   |   |   |   Defensive Rebounds Per Game <= 1.7
+|   |   |   |   |   |   |   |   Wins <= -3
+|   |   |   |   |   |   |   |   |   Free Throw Attempts <= -37
+|   |   |   |   |   |   |   |   |   |   Disqualifications <= -6: W (3.0)
+|   |   |   |   |   |   |   |   |   |   Disqualifications > -6
+|   |   |   |   |   |   |   |   |   |   |   Assist to Turnover <= -0.04: W (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Assist to Turnover > -0.04: L (7.0)
+|   |   |   |   |   |   |   |   |   Free Throw Attempts > -37
+|   |   |   |   |   |   |   |   |   |   Total Rebounds Per Game <= 0.7: W (20.0)
+|   |   |   |   |   |   |   |   |   |   Total Rebounds Per Game > 0.7: L (2.0)
+|   |   |   |   |   |   |   |   Wins > -3
+|   |   |   |   |   |   |   |   |   Blocks <= 25
+|   |   |   |   |   |   |   |   |   |   Points Per Game <= -9.6: W (6.0)
+|   |   |   |   |   |   |   |   |   |   Points Per Game > -9.6
+|   |   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game <= -1.5: W (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Team Rebounds Per Game > -1.5
+|   |   |   |   |   |   |   |   |   |   |   |   Fouls Per Game <= 3.4
+|   |   |   |   |   |   |   |   |   |   |   |   |   Total Rebounds <= -115: L (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Total Rebounds > -115
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game <= 0.7
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Free Throw Attempts <= 66
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses <= 3
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Offensive Rebounds <= -2
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Free Throw Attempts <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game <= -2.9: W (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game > -2.9: L (11.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Free Throw Attempts > 9: W (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Offensive Rebounds > -2: L (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds > 11: W (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Losses > 3: L (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Free Throw Attempts > 66: L (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Defensive Rebounds Per Game > 0.7: L (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Fouls Per Game > 3.4: W (4.0)
+|   |   |   |   |   |   |   |   |   Blocks > 25
+|   |   |   |   |   |   |   |   |   |   Turnover Pct <= -3.3: L (2.0)
+|   |   |   |   |   |   |   |   |   |   Turnover Pct > -3.3
+|   |   |   |   |   |   |   |   |   |   |   Free Throw Pct <= -3: L (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Free Throw Pct > -3: W (16.0)
+|   |   |   |   |   |   |   Defensive Rebounds Per Game > 1.7: W (20.0/1.0)
+|   |   |   |   |   |   Rebound Pct > 1.3
+|   |   |   |   |   |   |   Defensive Rebounds <= 40: L (14.0)
+|   |   |   |   |   |   |   Defensive Rebounds > 40
+|   |   |   |   |   |   |   |   Field Goal Pct <= 0: L (3.0)
+|   |   |   |   |   |   |   |   Field Goal Pct > 0: W (2.0)
+|   |   |   |   |   Offensive Rebounds > 12
+|   |   |   |   |   |   Disqualifications <= -8: W (15.0)
+|   |   |   |   |   |   Disqualifications > -8
+|   |   |   |   |   |   |   Turnover Pct <= -2.4: W (16.0)
+|   |   |   |   |   |   |   Turnover Pct > -2.4
+|   |   |   |   |   |   |   |   Points Per Possessions <= -0.01
+|   |   |   |   |   |   |   |   |   Losses <= 4
+|   |   |   |   |   |   |   |   |   |   Effective Field Goal Pct <= -4.7: L (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Effective Field Goal Pct > -4.7: W (31.0/1.0)
+|   |   |   |   |   |   |   |   |   Losses > 4: L (2.0)
+|   |   |   |   |   |   |   |   Points Per Possessions > -0.01
+|   |   |   |   |   |   |   |   |   Free Throw Attempts <= 139
+|   |   |   |   |   |   |   |   |   |   Total Games <= -1: L (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Total Games > -1
+|   |   |   |   |   |   |   |   |   |   |   Efficiency <= -0.3: L (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Efficiency > -0.3
+|   |   |   |   |   |   |   |   |   |   |   |   Points Per Game <= 1.7
+|   |   |   |   |   |   |   |   |   |   |   |   |   Rebound Pct <= 2.2: W (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Rebound Pct > 2.2: L (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Points Per Game > 1.7: W (19.0)
+|   |   |   |   |   |   |   |   |   Free Throw Attempts > 139: L (7.0)
+|   Wins > 4
+|   |   Losses <= -7: W (432.0/17.0)
+|   |   Losses > -7
+|   |   |   Points Per Game <= 9.5: W (170.0/13.0)
+|   |   |   Points Per Game > 9.5
+|   |   |   |   Team Rebounds Per Game <= 0
+|   |   |   |   |   Assist to Turnover <= 0.13: W (5.0)
+|   |   |   |   |   Assist to Turnover > 0.13
+|   |   |   |   |   |   Assist to Turnover <= 0.67: L (8.0)
+|   |   |   |   |   |   Assist to Turnover > 0.67: W (3.0)
+|   |   |   |   Team Rebounds Per Game > 0: W (6.0)
+
+Number of Leaves  : 	129
+
+Size of the tree : 	257
+
+
+Time taken to build model: 0.36 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1500               75      %
+Incorrectly Classified Instances       500               25      %
+Kappa statistic                          0.4326
+Mean absolute error                      0.2655
+Root mean squared error                  0.4801
+Relative absolute error                 59.6287 %
+Root relative squared error            101.7657 %
+Total Number of Instances             2000     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.605     0.177      0.632     0.605     0.618      0.693    L
+                 0.823     0.395      0.806     0.823     0.814      0.693    W
+Weighted Avg.    0.75      0.322      0.748     0.75      0.749      0.693
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+  405  264 |    a = L
+  236 1095 |    b = W
+
