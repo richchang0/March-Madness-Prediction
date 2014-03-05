@@ -4,9 +4,9 @@ def get_missing_team_names():
 	team_array = []
 	for game in db.game_results.find():
 
-		if db.team_stats.find({ 'Team Name': game['Home']}).count() == 0:
-			if game['Home'] not in team_array:
-				team_array.append(game['Home'])
+		if db.team_stats.find({ 'Team Name': game['Away']}).count() == 0:
+			if game['Away'] not in team_array:
+				team_array.append(game['Away'])
 				# print game['Home']
 
 	output_file = open("textfiles/unmatchingteams.txt", 'w')

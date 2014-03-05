@@ -15,7 +15,7 @@ def get_page(url):
 	return soup
 
 def get_teams():
-
+	
 	alphabet = list(string.ascii_uppercase)
 	baseUrl = "http://statsheet.com/mcb/teams/browse/name?t="
 
@@ -32,8 +32,6 @@ def get_teams():
 					outputFile.write(line + "\n")
 					outputFile.close()
 
-
-
 def get_stats():
 
 	teamFile = open('textfiles/teams_statsheet.txt', 'r')
@@ -44,13 +42,16 @@ def get_stats():
 	extraPart = '/team_stats?season=' + season + '&type=all'
 
 	# url = 'http://statsheet.com/mcb/teams/syracuse/team_stats?type=all'
-	for team in teamFile:
+	url = "http://statsheet.com/mcb/teams/nebraska-omaha/team_stats?type=all"
+	thearray = [url]
+	for url in thearray:
 
-		splitLine = team.strip("\n").split(",")
-		teamName = splitLine[0]
-		teamURL = splitLine[1]
+		# splitLine = team.strip("\n").split(",")
+		# teamName = splitLine[0]
+		# teamURL = splitLine[1]
 
-		url = teamURL + extraPart
+		teamName = "Nebraska-Omaha"
+		# url = teamURL + extraPart
 
 		soup = get_page(url)
 		# print soup
@@ -66,7 +67,7 @@ def get_stats():
 
 			if valueStr != "":
 				valueStr = valueStr[:-1]
-				statFile = open('textfiles/stats.txt', 'a')
+				statFile = open('test.txt', 'a')
 				statFile.write(teamName + "," + valueStr + "\n")
 				statFile.close()
 
@@ -118,7 +119,7 @@ def get_games():
 
 def main():
 	# get_teams()
-	# get_stats()
-	get_games()
+	get_stats()
+	# get_games()
 
 main()
