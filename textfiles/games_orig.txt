@@ -1170,7 +1170,7 @@ St. John's,Georgetown,W
 Seton Hall,Georgetown,W
 Georgetown,Xavier,W
 Marquette,Georgetown,W
-Marquette,Southern,W
+Marquette,Southern University,W
 Marquette,Grambling State,W
 Marquette,Ohio State,L
 Arizona State,Marquette,W
@@ -1960,6 +1960,7 @@ Minnesota,Coastal Carolina,W
 Minnesota,Wofford,W
 Minnesota,Syracuse,L
 Minnesota,Arkansas,L
+Chaminade,Minnesota,L
 Minnesota,New Orleans,W
 Minnesota,South Dakota State,W
 Minnesota,Nebraska-Omaha,W
@@ -2149,6 +2150,7 @@ Hawaii,Missouri,L
 Hawaii,Hawaii Hilo,W
 Hawaii,New Orleans,W
 Northern Arizona,Hawaii,L
+Hawaii,Chaminade,W
 Hawaii,Boise State,L
 Hawaii,Saint Mary's,W
 Hawaii,Oregon State,W
@@ -2589,7 +2591,7 @@ Louisiana Tech,Illinois-Chicago,W
 Louisiana Tech,St. Bonaventure,W
 Jackson State,Louisiana Tech,L
 Louisiana Tech,Louisiana-Lafayette,L
-Louisiana Tech,Southern,W
+Louisiana Tech,Southern University,W
 Louisiana Tech,Northwestern State,W
 Louisiana Tech,Oklahoma State,L
 Louisiana Tech,McNeese State,W
@@ -2633,7 +2635,7 @@ Tulane,Marshall,W
 Marshall,UAB,L
 Marshall,Middle Tennessee,L
 Old Dominion,Marshall,W
-Middle Tennessee,Southern,W
+Middle Tennessee,Southern University,W
 Middle Tennessee,North Florida,W
 Middle Tennessee,Akron,W
 Middle Tennessee,Arkansas-Little Rock,W
@@ -2658,6 +2660,7 @@ Florida International,Middle Tennessee,L
 Middle Tennessee,Tulane,W
 Middle Tennessee,Southern Miss,W
 Middle Tennessee,Rice,W
+North Texas,Northwood University,W
 Oklahoma,North Texas,W
 North Texas,Nicholls State,W
 North Texas,Columbia,L
@@ -2708,6 +2711,7 @@ Rice,Rider,L
 Santa Clara,Rice,L
 Houston Baptist,Rice,W
 Rice,South Alabama,W
+Rice,Northwood University,W
 Rice,Houston,L
 Texas,Rice,W
 Rice,Harvard,L
@@ -2738,7 +2742,7 @@ Southern Miss,UTEP,W
 Southern Miss,Florida International,W
 Florida Atlantic,Southern Miss,L
 Tulane,N.J.I.T.,W
-Southern,Tulane,L
+Southern University,Tulane,L
 Tulane,Loyola (IL),W
 Tulane,Cedarville,W
 Tulane,Northern Kentucky,L
@@ -2810,6 +2814,7 @@ UTSA,Texas-Pan American,L
 UTSA,Texas A&M-CC,W
 Nicholls State,UTSA,W
 Texas Tech,UTSA,W
+UTSA,Huston-Tillotson,W
 Texas-Pan American,UTSA,L
 UTSA,Cal State Bakersfield,L
 UTSA,Georgia State,L
@@ -3950,6 +3955,7 @@ Southern Illinois,Illinois State,W
 Belmont,Indiana State,W
 Indiana State,Truman State,W
 Indiana State,Tulsa,L
+Alaska Anchorage,Indiana State,L
 Indiana State,Pepperdine,W
 Eastern Illinois,Indiana State,L
 UMKC,Indiana State,L
@@ -4838,7 +4844,7 @@ Arizona,Drexel,W
 Arizona,Duke,W
 Arizona,Texas Tech,W
 Arizona,New Mexico State,W
-Arizona,Southern,W
+Arizona,Southern University,W
 Arizona,Northern Arizona,W
 Arizona,Washington State,W
 Arizona,Washington,W
@@ -5281,7 +5287,7 @@ Auburn,Vanderbilt,L
 Auburn,South Carolina,W
 Florida,North Florida,W
 Florida,Arkansas-Little Rock,W
-Florida,Southern,W
+Florida,Southern University,W
 Jacksonville,Florida,L
 Florida,Kansas,W
 Florida,Memphis,W
@@ -5783,10 +5789,16 @@ Houston Baptist,Central Arkansas,W
 Houston Baptist,Texas A&M-CC,L
 Houston Baptist,Arlington Baptist,W
 Texas A&M-CC,Houston Baptist,W
+Northwood University,Incarnate Word,L
+Trinity University,Incarnate Word,L
+Huston-Tillotson,Incarnate Word,L
+Incarnate Word,Northwood University,W
+Southwestern,Incarnate Word,L
 Incarnate Word,Texas A&M-Int,W
 Incarnate Word,St. Edwards,W
 Incarnate Word,McMurry,W
 Incarnate Word,Open Bible,W
+Incarnate Word,Huston-Tillotson,W
 Incarnate Word,Our Lady of the Lake,W
 Southeastern Louisiana,Incarnate Word,W
 New Orleans,Incarnate Word,L
@@ -5988,6 +6000,7 @@ Sam Houston State,SF Austin,L
 SF Austin,Northwestern State,W
 New Orleans,SF Austin,L
 Southeastern Louisiana,SF Austin,L
+Texas A&M-CC,Huston-Tillotson,W
 Iowa State,Texas A&M-CC,W
 Texas A&M-CC,IPFW,W
 Texas A&M-CC,Tennessee Tech,L
@@ -6031,14 +6044,14 @@ Grambling State,Alabama A&M,L
 Alabama A&M,Arkansas-Pine Bluff,L
 Alabama A&M,Mississippi Valley State,W
 Alabama State,Alabama A&M,W
-Southern,Alabama A&M,W
+Southern University,Alabama A&M,W
 Alcorn State,Alabama A&M,W
 Alabama A&M,Texas Southern,W
 Alabama A&M,Prairie View A&M,W
 Arkansas-Pine Bluff,Alabama A&M,W
 Mississippi Valley State,Alabama A&M,L
 Alabama A&M,Alabama State,W
-Alabama A&M,Southern,L
+Alabama A&M,Southern University,L
 Alabama A&M,Alcorn State,L
 Prairie View A&M,Alabama A&M,L
 Texas Southern,Alabama A&M,W
@@ -6056,14 +6069,14 @@ Alabama State,Mississippi Valley State,W
 Alabama State,Arkansas-Pine Bluff,W
 Alabama State,Alabama A&M,W
 Alcorn State,Alabama State,L
-Southern,Alabama State,W
+Southern University,Alabama State,W
 Alabama State,Prairie View A&M,W
 Alabama State,Texas Southern,W
 Mississippi Valley State,Alabama State,L
 Arkansas-Pine Bluff,Alabama State,W
 Alabama A&M,Alabama State,W
 Alabama State,Alcorn State,W
-Alabama State,Southern,L
+Alabama State,Southern University,L
 Texas Southern,Alabama State,W
 Prairie View A&M,Alabama State,L
 Alcorn State,Tougaloo,W
@@ -6082,14 +6095,15 @@ Alcorn State,Grambling State,W
 Alcorn State,Mississippi Valley State,W
 Arkansas-Pine Bluff,Alcorn State,L
 Alcorn State,Alabama A&M,W
-Southern,Alcorn State,W
+Southern University,Alcorn State,W
 Jackson State,Alcorn State,W
 Grambling State,Alcorn State,W
 Mississippi Valley State,Alcorn State,L
 Alcorn State,Arkansas-Pine Bluff,W
 Alabama A&M,Alcorn State,L
-Alcorn State,Southern,L
+Alcorn State,Southern University,L
 AR-Pine Bluff,Tuskegee,W
+Morehouse College,AR-Pine Bluff,L
 Oklahoma State,AR-Pine Bluff,W
 Air Force,AR-Pine Bluff,W
 Southern Methodist,AR-Pine Bluff,W
@@ -6103,7 +6117,7 @@ Auburn,AR-Pine Bluff,W
 Mississippi Valley State,AR-Pine Bluff,L
 Alabama A&M,AR-Pine Bluff,L
 Alabama State,AR-Pine Bluff,W
-AR-Pine Bluff,Southern,L
+AR-Pine Bluff,Southern University,L
 AR-Pine Bluff,Alcorn State,L
 Prairie View A&M,AR-Pine Bluff,W
 Texas Southern,AR-Pine Bluff,W
@@ -6111,7 +6125,7 @@ AR-Pine Bluff,Grambling State,W
 AR-Pine Bluff,Jackson State,W
 AR-Pine Bluff,Alabama A&M,W
 AR-Pine Bluff,Alabama State,W
-Southern,AR-Pine Bluff,L
+Southern University,AR-Pine Bluff,L
 Alcorn State,AR-Pine Bluff,W
 AR-Pine Bluff,Prairie View A&M,W
 AR-Pine Bluff,Texas Southern,L
@@ -6128,14 +6142,14 @@ Evansville,Grambling St,W
 Arkansas-Little Rock,Grambling St,W
 Grambling St,Alabama State,L
 Grambling St,Alabama A&M,L
-Southern,Grambling St,W
+Southern University,Grambling St,W
 Alcorn State,Grambling St,W
 Grambling St,Texas Southern,L
 Grambling St,Prairie View A&M,L
 Jackson State,Grambling St,W
 Arkansas-Pine Bluff,Grambling St,W
 Mississippi Valley State,Grambling St,W
-Grambling St,Southern,L
+Grambling St,Southern University,L
 Grambling St,Alcorn State,W
 Texas Southern,Grambling St,W
 Prairie View A&M,Grambling St,L
@@ -6147,13 +6161,13 @@ Tennessee-Martin,Jackson State,L
 Mississippi State,Jackson State,W
 Jackson State,Louisiana-Lafayette,W
 Jackson State,Alabama A&M,L
-Southern,Jackson State,W
+Southern University,Jackson State,W
 Jackson State,Prairie View A&M,L
 Jackson State,Texas Southern,W
 Jackson State,Grambling State,W
 Mississippi Valley State,Jackson State,W
 Arkansas-Pine Bluff,Jackson State,W
-Jackson State,Southern,L
+Jackson State,Southern University,L
 Prairie View A&M,Jackson State,W
 Texas Southern,Jackson State,L
 Grambling State,Jackson State,L
@@ -6176,7 +6190,7 @@ Miss Valley St,Arkansas-Pine Bluff,L
 Alabama State,Miss Valley St,W
 Alabama A&M,Miss Valley St,W
 Alcorn State,Miss Valley St,W
-Miss Valley St,Southern,W
+Miss Valley St,Southern University,W
 Texas Southern,Miss Valley St,W
 Prairie View A&M,Miss Valley St,L
 Miss Valley St,Jackson State,W
@@ -6184,7 +6198,7 @@ Miss Valley St,Grambling State,W
 Miss Valley St,Alabama State,L
 Miss Valley St,Alabama A&M,L
 Miss Valley St,Alcorn State,L
-Southern,Miss Valley St,W
+Southern University,Miss Valley St,W
 Miss Valley St,Texas Southern,L
 Miss Valley St,Prairie View A&M,W
 Jackson State,Miss Valley St,W
@@ -6201,7 +6215,7 @@ Brigham Young,PV A&M,W
 UCLA,PV A&M,W
 Western Michigan,PV A&M,W
 Wisconsin,PV A&M,W
-PV A&M,Southern,L
+PV A&M,Southern University,L
 PV A&M,Alcorn State,W
 Texas Southern,PV A&M,W
 Jackson State,PV A&M,L
@@ -6253,7 +6267,7 @@ Texas Southern,Lehigh,L
 Texas Southern,Howard,W
 Cal State Fullerton,Texas Southern,W
 TCU,Texas Southern,W
-Texas Southern,Southern,L
+Texas Southern,Southern University,L
 Texas Southern,Prairie View A&M,W
 Grambling State,Texas Southern,L
 Texas Southern,Mississippi Valley State,W
@@ -6266,7 +6280,8 @@ Arkansas-Pine Bluff,Texas Southern,L
 Texas Southern,Alabama A&M,W
 Denver,Harvard,L
 Denver,Pepperdine,L
-Denver,Southern,W
+Denver,Alaska Anchorage,W
+Denver,Southern University,W
 Mercer,Denver,W
 Denver,Alcorn State,W
 Denver,St. Francis U,W
@@ -6468,7 +6483,7 @@ Arkansas-Little Rock,Arkansas State,W
 AR-Little Rock,North Florida,L
 Florida,AR-Little Rock,W
 Middle Tennessee,AR-Little Rock,W
-Southern,AR-Little Rock,L
+Southern University,AR-Little Rock,L
 AR-Little Rock,Southern Arkansas,W
 Oklahoma,AR-Little Rock,W
 AR-Little Rock,Arkansas-Fort Smith,W
@@ -6695,6 +6710,7 @@ San Diego,BYU,L
 Gonzaga,Bryant University,W
 Gonzaga,Washington State,W
 Gonzaga,Dayton,L
+Gonzaga,Chaminade,W
 Gonzaga,Arkansas,W
 Gonzaga,New Mexico State,W
 West Virginia,Gonzaga,L
@@ -7006,6 +7022,7 @@ Seattle U,Chicago State,L
 Seattle U,Idaho,W
 TX-Pan American,Sam Houston State,L
 TX-Pan American,Houston,L
+TX-Pan American,Huston-Tillotson,W
 TX-Pan American,Tennessee Tech,W
 TX-Pan American,IPFW,L
 Texas A&M-CC,TX-Pan American,W

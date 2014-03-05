@@ -15,9 +15,9 @@ def get_missing_team_names():
 	output_file.close()
 
 def find_manual_match(espn_name):
+
 	# manually_matched_file = open("textfiles/richs_list.txt", 'r')
-	# manually_matched_file = open("textfiles/allens_list.txt", 'r')
-	manually_matched_file = open("matched.txt", 'r')
+	manually_matched_file = open("textfiles/allens_list.txt", 'r')
 
 	for line in manually_matched_file:
 		splitLine = line.strip("\n").split(",")
@@ -55,8 +55,40 @@ def match_names():
 	still_unmatched_file.close()
 
 
+def find_match(stat_name):
+	matched_names = open("textfiles/matched.txt", "r")
+
+	for line in matched_names:
+		splitLine = line.strip("\n").split(",")
+		fileStatName = splitLine[1]
+		if stat_name == fileStatName:
+			espn_name = splitLine[0]
+			return espn_name
+
+	return 0
+
+
+def replace_statsheet_names():
+	stat_file = open("textfiles/stats.txt", "r")
+
+	modified_stat_file = open("modified_stats.txt", "w")
+
+	for line in stat_file:
+		splitLine = line.strip("\n").split(",")
+		statName = splitLine[0]
+
+		espn_name = find_match(statName)
+		if espn_name != 0:
+			splitLine[0] = espn_name
+
+		line = ",".join(map(str, splitLine))
+
+		modified_stat_file.write(line + "\n")
+	
+
 def main():
 	# get_missing_team_names()
-	match_names()
+	# match_names()
+	# replace_statsheet_names()
 
 main()

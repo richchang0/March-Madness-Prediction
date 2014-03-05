@@ -86,3 +86,4 @@ CSU Bakersfield,Cal State Bakersfield
 New Mexico St,New Mexico State
 Seattle U,Seattle
 TX-Pan American,Texas-Pan American
+PV A&M,Prairie View A&M

@@ -1,0 +1,74 @@
+UMass Lowell
+Coast Carolina
+Chaminade
+UC Santa Barbara
+CS Fullerton
+CS Northridge
+Long Beach St
+Alaska Anchorage
+Mount St Mary's
+St Francis (NY)
+St Francis (PA)
+E Illinois
+E Kentucky
+Jacksonville St
+SE Missouri St
+Tenn St
+Tenn Tech
+UT Martin
+Washington St
+American U
+Boston U
+Mississippi St
+Appalachian St
+The Citadel
+Ga. Southern
+Cent Arkansas
+Northwood University
+Trinity University
+Huston-Tillotson
+Southwestern
+Northwestern St
+Sam Houston
+SE Louisiana
+SF Austin
+AR-Pine Bluff
+Morehouse College
+Grambling St
+Miss Valley St
+PV A&M
+Southern
+Omaha
+North Dakota St
+South Dakota St
+AR-Little Rock
+LA-Lafayette
+UL Monroe
+TX-Arlington
+BYU
+Loyola Mary
+CSU Bakersfield
+New Mexico St
+Seattle U
+TX-Pan American
+
+UNC Asheville,North Carolina-Asheville
+Virginia Military,Virginia Military Institute
+Charl Southern,Charleston Southern
+VMI,Virginia Military Institute
+Texas A&M-CC,Texas A&M-Corpus Christi
+UNC-Wilmington,North Carolina-Wilmington
+Middle Tennessee,Middle Tennessee State
+Florida Atl,Florida Atlantic
+FIU,Florida International
+UMKC,Missouri-Kansas City
+Youngstown St,Youngstown State
+LIU Brooklyn,Long Island
+Cent Michigan,Central Michigan
+E Michigan,Eastern Michigan
+N Illinois,Northern Illinois
+North Carolina Cent,North Carolina Central
+Southern Carolina St,South Carolina State
+S Illinois,Southern Illinois
+Cent Conn St,Central Connecticut State
+Fair Dickinson,Fairleigh Dickinson
