@@ -2,14 +2,17 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import string, re
 
+# Initialize driver for getting pages
+driver = webdriver.PhantomJS()
+
 def get_page(url):
 
 	print "getting url: " + url
-	driver = webdriver.PhantomJS()
+	
 	driver.get(url)
 	data = driver.page_source
 
-	driver.quit()
+	# driver.quit()
 	soup = BeautifulSoup(data)
 
 	return soup
@@ -27,98 +30,149 @@ def get_teams():
 			for tr in table.findAll("tr"):
 				tds = tr.findAll("td")
 				if len(tds):
-					outputFile = open('textfiles/teams_statsheet.txt', 'a')
-					line = str(tds[1].text) + "," + str(tds[1].a['href']) + "," + str(tds[2].text)
+					outputFile = open('textfiles/teams_url_names_statsheet.txt', 'a')
+					link = str(tds[1].a['href'])
+					name_from_link = link.split("/")[-1]
+					line =  name_from_link + "," + link + "," + str(tds[2].text)
 					outputFile.write(line + "\n")
 					outputFile.close()
 
-def get_stats():
 
-	teamFile = open('textfiles/teams_statsheet.txt', 'r')
-	
-	# TargetURL
-	# http://statsheet.com/mcb/teams/syracuse/team_stats?season=2013-2014&type=all
-	season = '2013-2014'
-	extraPart = '/team_stats?season=' + season + '&type=all'
+# Doesn't fully work...... not all teams have the Summary section on their pages
+def get_home_court():
 
-	# url = 'http://statsheet.com/mcb/teams/syracuse/team_stats?type=all'
-	url = "http://statsheet.com/mcb/teams/nebraska-omaha/team_stats?type=all"
-	thearray = [url]
-	for url in thearray:
+	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
 
-		# splitLine = team.strip("\n").split(",")
-		# teamName = splitLine[0]
-		# teamURL = splitLine[1]
+	for line in teamFile:
+		# url = 'http://statsheet.com/mcb/teams/michigan-state'
+		splitLine = line.strip("\n").split(",")
 
-		teamName = "Nebraska-Omaha"
-		# url = teamURL + extraPart
+		teamURL = splitLine[1]
 
-		soup = get_page(url)
-		# print soup
-		for table in soup.findAll("table", { "class" : "table-stats" }):
+		soup = get_page(teamURL)
+		tableResults = soup.findAll("table")
 
-			valueStr = ""
-			for tr in table.findAll("tr"):
-				tds = tr.findAll("td")
+		detailTable = tableResults[2]
+		rows = detailTable.findAll("tr")
 
-				# this are the values
-				if len(tds):
-					valueStr += str(tds[1].text) + ","
+		homeCourt = rows[2].findAll("td")[1].a['href'].split("/")[-1]
 
-			if valueStr != "":
-				valueStr = valueStr[:-1]
-				statFile = open('test.txt', 'a')
-				statFile.write(teamName + "," + valueStr + "\n")
-				statFile.close()
+		print homeCourt
+
+		splitLine.append(homeCourt)
+
+		newLine = ",".join(splitLine)
+
+		newTeamFile = open('textfiles/ff.txt', 'a')
+		newTeamFile.write(newLine + "\n")
+		newTeamFile.close()
 
 	teamFile.close()
 
-def get_games():
-	team_file = open('textfiles/teams.txt', 'r')
-	lines = team_file.readlines()
+def get_stats():
 
-	for line in lines:
-		line_array = line.split(",")
-		if len(line_array) < 2:
-			continue
-		team_name = line_array[0]
-		url = line_array[1]
+	# teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	teamFile = open('textfiles/test.txt', 'r')
+	
+	# TargetURL
+	# http://statsheet.com/mcb/teams/syracuse/team_stats?season=2013-2014&type=all
+	season = '2011-2012'
+	extraPart = '/team_stats?season=' + season + '&type=all'
+
+	# url = "http://statsheet.com/mcb/teams/nebraska-omaha/team_stats?type=all"
+	# thearray = [url]
+	for team in teamFile:
+
+		splitLine = team.strip("\n").split(",")
+		teamName = splitLine[0]
+		teamURL = splitLine[1]
+
+		# teamName = "Nebraska-Omaha"
+		url = teamURL + extraPart
+
 		soup = get_page(url)
-		gameFile = open('textfiles/games.txt', 'a')
-		for tr in soup.findAll("tr"):
-			ret_line = ""
-			if tr["class"][0] not in ['stathead', 'colhead']:
-				game_status = tr.findAll("li", {"class":"game-status"})
-				opponent_team_name= tr.findAll("li", {"class":"team-name"})[0].text
+		# print soup
 
-				opponent_team_name = opponent_team_name.replace("*","") 
-				opponent_team_name = re.sub(r'^#\d{1,2}[\W_]? ',"", opponent_team_name)
-				# opponent_team_name = re.sub(r'\([^\(]*\)',"", opponent_team_name)
-				if len(game_status)>1:
+		tableResults = soup.findAll("table", { "class" : "table-stats" })
 
-					if game_status[0].text == "@":
-						ret_line+=opponent_team_name+","
-						ret_line+=team_name+","
-						if game_status[1].span.text == "W":
-							ret_line+= "L"
-						else:
-							ret_line+= "W"
+		if len(tableResults) == 0:
+			valueStr = "NULL"
+			statFile = open('textfiles/stats_' + season + '.txt', 'a')
+			statFile.write(teamName + "," + valueStr + "\n")
+			statFile.close()
+		else:
+			for table in tableResults:
+
+				valueStr = ""
+				for tr in table.findAll("tr"):
+					tds = tr.findAll("td")
+
+					# this are the values
+					if len(tds):
+						valueStr += str(tds[1].text) + ","
+
+				if valueStr != "":
+					valueStr = valueStr[:-1]
+					statFile = open('textfiles/stats_' + season + '.txt', 'a')
+					statFile.write(teamName + "," + valueStr + "\n")
+					statFile.close()
+
+	teamFile.close()
+
+
+def get_games():
+
+	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+
+	season = '2012-2013'
+	extraPart = '/schedule?season=' + season
+
+	for team in teamFile:
+
+		splitLine = team.strip("\n").split(",")
+		teamName = splitLine[0]
+		teamURL = splitLine[1]
+
+		url = teamURL + extraPart
+
+		soup = get_page(url)
+
+		tableSchedule = soup.findAll("table", { "class" : "sortable" })
+
+		for game in tableSchedule:
+			for tr in game.findAll("tr"):
+				tds = tr.findAll("td")
+				if len(tds):
+					opponentTD = tds[5].findAll("a")
+
+					if len(opponentTD) == 1:
+						opponentName = opponentTD[0]['href'].split("/")[-1]
 					else:
-						ret_line+=team_name+","
-						ret_line+=opponent_team_name+","
+						opponentName = opponentTD[1]['href'].split("/")[-1]
 
-						if game_status[1].span.text == "W":
-							ret_line+= "W"
+					location = tds[8].a['href'].split("/")[-1]
+					teamScore = tds[2].text
+					opponentScore = tds[4].text
+
+					try:
+						if int(teamScore) > int(opponentScore):
+							outcome = "W"
 						else:
-							ret_line+= "L"
-			ret_line+="\n"
-			if ret_line != "\n":
-				gameFile.write(ret_line)
-	gameFile.close()
-				
+							outcome = "L"
+					except:
+						outcome = "NULL"
+
+					# print "result: " + str(teamScore) + " to " + str(opponentScore) + " at " + location
+					resultLine = teamName + "," + opponentName + "," + outcome + "," + location
+					print resultLine
+
+					gameFile = open('textfiles/games_' + season + '.txt', 'a')
+					gameFile.write(resultLine + "\n")
+					gameFile.close()
 
 def main():
 	# get_teams()
+	# get_home_court()
 	get_stats()
 	# get_games()
 
