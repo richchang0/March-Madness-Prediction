@@ -1,351 +1,351 @@
-abilene-christian,http://statsheet.com/mcb/teams/abilene-christian,Southland
-air-force,http://statsheet.com/mcb/teams/air-force,Mountain West
-akron,http://statsheet.com/mcb/teams/akron,MAC
-alabama,http://statsheet.com/mcb/teams/alabama,SEC
-alabama-am,http://statsheet.com/mcb/teams/alabama-am,SWAC
-alabama-state,http://statsheet.com/mcb/teams/alabama-state,SWAC
-albany,http://statsheet.com/mcb/teams/albany,America East
-alcorn-state,http://statsheet.com/mcb/teams/alcorn-state,SWAC
-american-university,http://statsheet.com/mcb/teams/american-university,Patriot
-appalachian-state,http://statsheet.com/mcb/teams/appalachian-state,SoCon
-arizona,http://statsheet.com/mcb/teams/arizona,Pac-12
-arizona-state,http://statsheet.com/mcb/teams/arizona-state,Pac-12
-arkansas,http://statsheet.com/mcb/teams/arkansas,SEC
-arkansas-state,http://statsheet.com/mcb/teams/arkansas-state,Sun Belt
-arkansas-little-rock,http://statsheet.com/mcb/teams/arkansas-little-rock,Sun Belt
-arkansas-pine-bluff,http://statsheet.com/mcb/teams/arkansas-pine-bluff,SWAC
-army,http://statsheet.com/mcb/teams/army,Patriot
-auburn,http://statsheet.com/mcb/teams/auburn,SEC
-austin-peay,http://statsheet.com/mcb/teams/austin-peay,Ohio Valley
-ball-state,http://statsheet.com/mcb/teams/ball-state,MAC
-baylor,http://statsheet.com/mcb/teams/baylor,Big 12
-belmont,http://statsheet.com/mcb/teams/belmont,Ohio Valley
-bethune-cookman,http://statsheet.com/mcb/teams/bethune-cookman,MEAC
-binghamton,http://statsheet.com/mcb/teams/binghamton,America East
-boise-state,http://statsheet.com/mcb/teams/boise-state,Mountain West
-boston-college,http://statsheet.com/mcb/teams/boston-college,ACC
-boston-university,http://statsheet.com/mcb/teams/boston-university,Patriot
-bowling-green,http://statsheet.com/mcb/teams/bowling-green,MAC
-bradley,http://statsheet.com/mcb/teams/bradley,Missouri Valley
-brigham-young,http://statsheet.com/mcb/teams/brigham-young,West Coast
-brown,http://statsheet.com/mcb/teams/brown,Ivy League
-bryant,http://statsheet.com/mcb/teams/bryant,NEC
-bucknell,http://statsheet.com/mcb/teams/bucknell,Patriot
-buffalo,http://statsheet.com/mcb/teams/buffalo,MAC
-butler,http://statsheet.com/mcb/teams/butler,Big East
-cal-poly,http://statsheet.com/mcb/teams/cal-poly,Big West
-cal-state-bakersfield,http://statsheet.com/mcb/teams/cal-state-bakersfield,WAC
-cal-state-fullerton,http://statsheet.com/mcb/teams/cal-state-fullerton,Big West
-cal-state-northridge,http://statsheet.com/mcb/teams/cal-state-northridge,Big West
-california,http://statsheet.com/mcb/teams/california,Pac-12
-campbell,http://statsheet.com/mcb/teams/campbell,Big South
-canisius,http://statsheet.com/mcb/teams/canisius,MAAC
-central-arkansas,http://statsheet.com/mcb/teams/central-arkansas,Southland
-central-connecticut-state,http://statsheet.com/mcb/teams/central-connecticut-state,NEC
-central-michigan,http://statsheet.com/mcb/teams/central-michigan,MAC
-charleston-southern,http://statsheet.com/mcb/teams/charleston-southern,Big South
-north-carolina-charlotte,http://statsheet.com/mcb/teams/north-carolina-charlotte,Conference USA
-chattanooga,http://statsheet.com/mcb/teams/chattanooga,SoCon
-chicago-state,http://statsheet.com/mcb/teams/chicago-state,WAC
-cincinnati,http://statsheet.com/mcb/teams/cincinnati,American Athletic
-citadel,http://statsheet.com/mcb/teams/citadel,SoCon
-clemson,http://statsheet.com/mcb/teams/clemson,ACC
-cleveland-state,http://statsheet.com/mcb/teams/cleveland-state,Horizon
-coastal-carolina,http://statsheet.com/mcb/teams/coastal-carolina,Big South
-colgate,http://statsheet.com/mcb/teams/colgate,Patriot
-college-of-charleston,http://statsheet.com/mcb/teams/college-of-charleston,CAA
-colorado,http://statsheet.com/mcb/teams/colorado,Pac-12
-colorado-state,http://statsheet.com/mcb/teams/colorado-state,Mountain West
-columbia,http://statsheet.com/mcb/teams/columbia,Ivy League
-connecticut,http://statsheet.com/mcb/teams/connecticut,American Athletic
-coppin-state,http://statsheet.com/mcb/teams/coppin-state,MEAC
-cornell,http://statsheet.com/mcb/teams/cornell,Ivy League
-creighton,http://statsheet.com/mcb/teams/creighton,Big East
-dartmouth,http://statsheet.com/mcb/teams/dartmouth,Ivy League
-davidson,http://statsheet.com/mcb/teams/davidson,SoCon
-dayton,http://statsheet.com/mcb/teams/dayton,A-10
-delaware,http://statsheet.com/mcb/teams/delaware,CAA
-delaware-state,http://statsheet.com/mcb/teams/delaware-state,MEAC
-denver,http://statsheet.com/mcb/teams/denver,Summit League
-depaul,http://statsheet.com/mcb/teams/depaul,Big East
-detroit,http://statsheet.com/mcb/teams/detroit,Horizon
-drake,http://statsheet.com/mcb/teams/drake,Missouri Valley
-drexel,http://statsheet.com/mcb/teams/drexel,CAA
-duke,http://statsheet.com/mcb/teams/duke,ACC
-duquesne,http://statsheet.com/mcb/teams/duquesne,A-10
-east-carolina,http://statsheet.com/mcb/teams/east-carolina,Conference USA
-east-tennessee-state,http://statsheet.com/mcb/teams/east-tennessee-state,Atlantic Sun
-eastern-illinois,http://statsheet.com/mcb/teams/eastern-illinois,Ohio Valley
-eastern-kentucky,http://statsheet.com/mcb/teams/eastern-kentucky,Ohio Valley
-eastern-michigan,http://statsheet.com/mcb/teams/eastern-michigan,MAC
-eastern-washington,http://statsheet.com/mcb/teams/eastern-washington,Big Sky
-elon,http://statsheet.com/mcb/teams/elon,SoCon
-evansville,http://statsheet.com/mcb/teams/evansville,Missouri Valley
-fairfield,http://statsheet.com/mcb/teams/fairfield,MAAC
-fairleigh-dickinson,http://statsheet.com/mcb/teams/fairleigh-dickinson,NEC
-florida,http://statsheet.com/mcb/teams/florida,SEC
-florida-am,http://statsheet.com/mcb/teams/florida-am,MEAC
-florida-atlantic,http://statsheet.com/mcb/teams/florida-atlantic,Conference USA
-florida-gulf-coast,http://statsheet.com/mcb/teams/florida-gulf-coast,Atlantic Sun
-florida-international,http://statsheet.com/mcb/teams/florida-international,Conference USA
-florida-state,http://statsheet.com/mcb/teams/florida-state,ACC
-fordham,http://statsheet.com/mcb/teams/fordham,A-10
-fresno-state,http://statsheet.com/mcb/teams/fresno-state,Mountain West
-furman,http://statsheet.com/mcb/teams/furman,SoCon
-gardner-webb,http://statsheet.com/mcb/teams/gardner-webb,Big South
-george-mason,http://statsheet.com/mcb/teams/george-mason,A-10
-george-washington,http://statsheet.com/mcb/teams/george-washington,A-10
-georgetown,http://statsheet.com/mcb/teams/georgetown,Big East
-georgia,http://statsheet.com/mcb/teams/georgia,SEC
-georgia-southern,http://statsheet.com/mcb/teams/georgia-southern,SoCon
-georgia-state,http://statsheet.com/mcb/teams/georgia-state,Sun Belt
-georgia-tech,http://statsheet.com/mcb/teams/georgia-tech,ACC
-gonzaga,http://statsheet.com/mcb/teams/gonzaga,West Coast
-grambling-state,http://statsheet.com/mcb/teams/grambling-state,SWAC
-grand-canyon,http://statsheet.com/mcb/teams/grand-canyon,WAC
-wisconsin-green-bay,http://statsheet.com/mcb/teams/wisconsin-green-bay,Horizon
-hampton,http://statsheet.com/mcb/teams/hampton,MEAC
-hartford,http://statsheet.com/mcb/teams/hartford,America East
-harvard,http://statsheet.com/mcb/teams/harvard,Ivy League
-hawaii,http://statsheet.com/mcb/teams/hawaii,Big West
-high-point,http://statsheet.com/mcb/teams/high-point,Big South
-hofstra,http://statsheet.com/mcb/teams/hofstra,CAA
-holy-cross,http://statsheet.com/mcb/teams/holy-cross,Patriot
-houston,http://statsheet.com/mcb/teams/houston,American Athletic
-houston-baptist,http://statsheet.com/mcb/teams/houston-baptist,Southland
-howard,http://statsheet.com/mcb/teams/howard,MEAC
-idaho,http://statsheet.com/mcb/teams/idaho,WAC
-idaho-state,http://statsheet.com/mcb/teams/idaho-state,Big Sky
-illinois,http://statsheet.com/mcb/teams/illinois,Big Ten
-illinois-state,http://statsheet.com/mcb/teams/illinois-state,Missouri Valley
-incarnate-word,http://statsheet.com/mcb/teams/incarnate-word,Southland
-indiana,http://statsheet.com/mcb/teams/indiana,Big Ten
-indiana-state,http://statsheet.com/mcb/teams/indiana-state,Missouri Valley
-iona,http://statsheet.com/mcb/teams/iona,MAAC
-iowa,http://statsheet.com/mcb/teams/iowa,Big Ten
-iowa-state,http://statsheet.com/mcb/teams/iowa-state,Big 12
-iupu-fort-wayne,http://statsheet.com/mcb/teams/iupu-fort-wayne,Summit League
-iupui,http://statsheet.com/mcb/teams/iupui,Summit League
-jackson-state,http://statsheet.com/mcb/teams/jackson-state,SWAC
-jacksonville,http://statsheet.com/mcb/teams/jacksonville,Atlantic Sun
-jacksonville-state,http://statsheet.com/mcb/teams/jacksonville-state,Ohio Valley
-james-madison,http://statsheet.com/mcb/teams/james-madison,CAA
-kansas,http://statsheet.com/mcb/teams/kansas,Big 12
-kansas-state,http://statsheet.com/mcb/teams/kansas-state,Big 12
-kennesaw-state,http://statsheet.com/mcb/teams/kennesaw-state,Atlantic Sun
-kent-state,http://statsheet.com/mcb/teams/kent-state,MAC
-kentucky,http://statsheet.com/mcb/teams/kentucky,SEC
-la-salle,http://statsheet.com/mcb/teams/la-salle,A-10
-lafayette,http://statsheet.com/mcb/teams/lafayette,Patriot
-lamar,http://statsheet.com/mcb/teams/lamar,Southland
-lehigh,http://statsheet.com/mcb/teams/lehigh,Patriot
-liberty,http://statsheet.com/mcb/teams/liberty,Big South
-lipscomb,http://statsheet.com/mcb/teams/lipscomb,Atlantic Sun
-long-beach-state,http://statsheet.com/mcb/teams/long-beach-state,Big West
-long-island,http://statsheet.com/mcb/teams/long-island,NEC
-longwood,http://statsheet.com/mcb/teams/longwood,Big South
-louisiana-lafayette,http://statsheet.com/mcb/teams/louisiana-lafayette,Sun Belt
-louisiana-tech,http://statsheet.com/mcb/teams/louisiana-tech,Conference USA
-louisiana-monroe,http://statsheet.com/mcb/teams/louisiana-monroe,Sun Belt
-louisville,http://statsheet.com/mcb/teams/louisville,American Athletic
-loyola-il,http://statsheet.com/mcb/teams/loyola-il,Missouri Valley
-loyola-md,http://statsheet.com/mcb/teams/loyola-md,Patriot
-loyola-marymount,http://statsheet.com/mcb/teams/loyola-marymount,West Coast
-lsu,http://statsheet.com/mcb/teams/lsu,SEC
-maine,http://statsheet.com/mcb/teams/maine,America East
-manhattan,http://statsheet.com/mcb/teams/manhattan,MAAC
-marist,http://statsheet.com/mcb/teams/marist,MAAC
-marquette,http://statsheet.com/mcb/teams/marquette,Big East
-marshall,http://statsheet.com/mcb/teams/marshall,Conference USA
-maryland,http://statsheet.com/mcb/teams/maryland,ACC
-maryland-baltimore-county,http://statsheet.com/mcb/teams/maryland-baltimore-county,America East
-maryland-eastern-shore,http://statsheet.com/mcb/teams/maryland-eastern-shore,MEAC
-massachusetts,http://statsheet.com/mcb/teams/massachusetts,A-10
-mcneese-state,http://statsheet.com/mcb/teams/mcneese-state,Southland
-memphis,http://statsheet.com/mcb/teams/memphis,American Athletic
-mercer,http://statsheet.com/mcb/teams/mercer,Atlantic Sun
-miami-fl,http://statsheet.com/mcb/teams/miami-fl,ACC
-miami-oh,http://statsheet.com/mcb/teams/miami-oh,MAC
-michigan,http://statsheet.com/mcb/teams/michigan,Big Ten
-michigan-state,http://statsheet.com/mcb/teams/michigan-state,Big Ten
-middle-tennessee-state,http://statsheet.com/mcb/teams/middle-tennessee-state,Conference USA
-wisconsin-milwaukee,http://statsheet.com/mcb/teams/wisconsin-milwaukee,Horizon
-minnesota,http://statsheet.com/mcb/teams/minnesota,Big Ten
-mississippi-state,http://statsheet.com/mcb/teams/mississippi-state,SEC
-mississippi-valley-state,http://statsheet.com/mcb/teams/mississippi-valley-state,SWAC
-missouri,http://statsheet.com/mcb/teams/missouri,SEC
-missouri-state,http://statsheet.com/mcb/teams/missouri-state,Missouri Valley
-missouri-kansas-city,http://statsheet.com/mcb/teams/missouri-kansas-city,WAC
-monmouth,http://statsheet.com/mcb/teams/monmouth,MAAC
-montana,http://statsheet.com/mcb/teams/montana,Big Sky
-montana-state,http://statsheet.com/mcb/teams/montana-state,Big Sky
-morehead-state,http://statsheet.com/mcb/teams/morehead-state,Ohio Valley
-morgan-state,http://statsheet.com/mcb/teams/morgan-state,MEAC
-mount-st-marys,http://statsheet.com/mcb/teams/mount-st-marys,NEC
-murray-state,http://statsheet.com/mcb/teams/murray-state,Ohio Valley
-navy,http://statsheet.com/mcb/teams/navy,Patriot
-north-carolina-state,http://statsheet.com/mcb/teams/north-carolina-state,ACC
-nebraska,http://statsheet.com/mcb/teams/nebraska,Big Ten
-nebraska-omaha,http://statsheet.com/mcb/teams/nebraska-omaha,Summit League
-nevada,http://statsheet.com/mcb/teams/nevada,Mountain West
-new-hampshire,http://statsheet.com/mcb/teams/new-hampshire,America East
-new-jersey-tech,http://statsheet.com/mcb/teams/new-jersey-tech,Independents
-new-mexico,http://statsheet.com/mcb/teams/new-mexico,Mountain West
-new-mexico-state,http://statsheet.com/mcb/teams/new-mexico-state,WAC
-new-orleans,http://statsheet.com/mcb/teams/new-orleans,Southland
-niagara,http://statsheet.com/mcb/teams/niagara,MAAC
-nicholls-state,http://statsheet.com/mcb/teams/nicholls-state,Southland
-norfolk-state,http://statsheet.com/mcb/teams/norfolk-state,MEAC
-north-carolina,http://statsheet.com/mcb/teams/north-carolina,ACC
-north-carolina-at,http://statsheet.com/mcb/teams/north-carolina-at,MEAC
-north-carolina-central,http://statsheet.com/mcb/teams/north-carolina-central,MEAC
-north-carolina-asheville,http://statsheet.com/mcb/teams/north-carolina-asheville,Big South
-north-carolina-greensboro,http://statsheet.com/mcb/teams/north-carolina-greensboro,SoCon
-north-carolina-wilmington,http://statsheet.com/mcb/teams/north-carolina-wilmington,CAA
-north-dakota,http://statsheet.com/mcb/teams/north-dakota,Big Sky
-north-dakota-state,http://statsheet.com/mcb/teams/north-dakota-state,Summit League
-north-florida,http://statsheet.com/mcb/teams/north-florida,Atlantic Sun
-north-texas,http://statsheet.com/mcb/teams/north-texas,Conference USA
-northeastern,http://statsheet.com/mcb/teams/northeastern,CAA
-northern-arizona,http://statsheet.com/mcb/teams/northern-arizona,Big Sky
-northern-colorado,http://statsheet.com/mcb/teams/northern-colorado,Big Sky
-northern-illinois,http://statsheet.com/mcb/teams/northern-illinois,MAC
-northern-iowa,http://statsheet.com/mcb/teams/northern-iowa,Missouri Valley
-northern-kentucky,http://statsheet.com/mcb/teams/northern-kentucky,Atlantic Sun
-northwestern,http://statsheet.com/mcb/teams/northwestern,Big Ten
-northwestern-state,http://statsheet.com/mcb/teams/northwestern-state,Southland
-notre-dame,http://statsheet.com/mcb/teams/notre-dame,ACC
-oakland,http://statsheet.com/mcb/teams/oakland,Horizon
-ohio,http://statsheet.com/mcb/teams/ohio,MAC
-ohio-state,http://statsheet.com/mcb/teams/ohio-state,Big Ten
-oklahoma,http://statsheet.com/mcb/teams/oklahoma,Big 12
-oklahoma-state,http://statsheet.com/mcb/teams/oklahoma-state,Big 12
-old-dominion,http://statsheet.com/mcb/teams/old-dominion,Conference USA
-mississippi,http://statsheet.com/mcb/teams/mississippi,SEC
-oral-roberts,http://statsheet.com/mcb/teams/oral-roberts,Southland
-oregon,http://statsheet.com/mcb/teams/oregon,Pac-12
-oregon-state,http://statsheet.com/mcb/teams/oregon-state,Pac-12
-pacific,http://statsheet.com/mcb/teams/pacific,West Coast
-penn-state,http://statsheet.com/mcb/teams/penn-state,Big Ten
-pennsylvania,http://statsheet.com/mcb/teams/pennsylvania,Ivy League
-pepperdine,http://statsheet.com/mcb/teams/pepperdine,West Coast
-pittsburgh,http://statsheet.com/mcb/teams/pittsburgh,ACC
-portland,http://statsheet.com/mcb/teams/portland,West Coast
-portland-state,http://statsheet.com/mcb/teams/portland-state,Big Sky
-prairie-view-am,http://statsheet.com/mcb/teams/prairie-view-am,SWAC
-presbyterian,http://statsheet.com/mcb/teams/presbyterian,Big South
-princeton,http://statsheet.com/mcb/teams/princeton,Ivy League
-providence,http://statsheet.com/mcb/teams/providence,Big East
-purdue,http://statsheet.com/mcb/teams/purdue,Big Ten
-quinnipiac,http://statsheet.com/mcb/teams/quinnipiac,MAAC
-radford,http://statsheet.com/mcb/teams/radford,Big South
-rhode-island,http://statsheet.com/mcb/teams/rhode-island,A-10
-rice,http://statsheet.com/mcb/teams/rice,Conference USA
-richmond,http://statsheet.com/mcb/teams/richmond,A-10
-rider,http://statsheet.com/mcb/teams/rider,MAAC
-robert-morris,http://statsheet.com/mcb/teams/robert-morris,NEC
-rutgers,http://statsheet.com/mcb/teams/rutgers,American Athletic
-sacramento-state,http://statsheet.com/mcb/teams/sacramento-state,Big Sky
-sacred-heart,http://statsheet.com/mcb/teams/sacred-heart,NEC
-saint-louis,http://statsheet.com/mcb/teams/saint-louis,A-10
-saint-marys,http://statsheet.com/mcb/teams/saint-marys,West Coast
-sam-houston-state,http://statsheet.com/mcb/teams/sam-houston-state,Southland
-samford,http://statsheet.com/mcb/teams/samford,SoCon
-san-diego,http://statsheet.com/mcb/teams/san-diego,West Coast
-san-diego-state,http://statsheet.com/mcb/teams/san-diego-state,Mountain West
-san-francisco,http://statsheet.com/mcb/teams/san-francisco,West Coast
-san-jose-state,http://statsheet.com/mcb/teams/san-jose-state,Mountain West
-santa-clara,http://statsheet.com/mcb/teams/santa-clara,West Coast
-savannah-state,http://statsheet.com/mcb/teams/savannah-state,MEAC
-seattle,http://statsheet.com/mcb/teams/seattle,WAC
-seton-hall,http://statsheet.com/mcb/teams/seton-hall,Big East
-siena,http://statsheet.com/mcb/teams/siena,MAAC
-siu-edwardsville,http://statsheet.com/mcb/teams/siu-edwardsville,Ohio Valley
-south-alabama,http://statsheet.com/mcb/teams/south-alabama,Sun Belt
-south-carolina,http://statsheet.com/mcb/teams/south-carolina,SEC
-south-carolina-state,http://statsheet.com/mcb/teams/south-carolina-state,MEAC
-south-dakota,http://statsheet.com/mcb/teams/south-dakota,Summit League
-south-dakota-state,http://statsheet.com/mcb/teams/south-dakota-state,Summit League
-south-florida,http://statsheet.com/mcb/teams/south-florida,American Athletic
-southeast-missouri-state,http://statsheet.com/mcb/teams/southeast-missouri-state,Ohio Valley
-southeastern-louisiana,http://statsheet.com/mcb/teams/southeastern-louisiana,Southland
-southern-illinois,http://statsheet.com/mcb/teams/southern-illinois,Missouri Valley
-southern-methodist,http://statsheet.com/mcb/teams/southern-methodist,American Athletic
-southern-miss,http://statsheet.com/mcb/teams/southern-miss,Conference USA
-southern-university,http://statsheet.com/mcb/teams/southern-university,SWAC
-southern-utah,http://statsheet.com/mcb/teams/southern-utah,Big Sky
-st-bonaventure,http://statsheet.com/mcb/teams/st-bonaventure,A-10
-st-francis-ny,http://statsheet.com/mcb/teams/st-francis-ny,NEC
-st-francis-pa,http://statsheet.com/mcb/teams/st-francis-pa,NEC
-st-johns,http://statsheet.com/mcb/teams/st-johns,Big East
-st-josephs-pa,http://statsheet.com/mcb/teams/st-josephs-pa,A-10
-st-peters,http://statsheet.com/mcb/teams/st-peters,MAAC
-stanford,http://statsheet.com/mcb/teams/stanford,Pac-12
-stephen-f-austin,http://statsheet.com/mcb/teams/stephen-f-austin,Southland
-stetson,http://statsheet.com/mcb/teams/stetson,Atlantic Sun
-stony-brook,http://statsheet.com/mcb/teams/stony-brook,America East
-syracuse,http://statsheet.com/mcb/teams/syracuse,ACC
-texas-christian,http://statsheet.com/mcb/teams/texas-christian,Big 12
-temple,http://statsheet.com/mcb/teams/temple,American Athletic
-tennessee,http://statsheet.com/mcb/teams/tennessee,SEC
-tennessee-state,http://statsheet.com/mcb/teams/tennessee-state,Ohio Valley
-tennessee-tech,http://statsheet.com/mcb/teams/tennessee-tech,Ohio Valley
-tennessee-martin,http://statsheet.com/mcb/teams/tennessee-martin,Ohio Valley
-texas,http://statsheet.com/mcb/teams/texas,Big 12
-texas-am,http://statsheet.com/mcb/teams/texas-am,SEC
-texas-am-corpus-christi,http://statsheet.com/mcb/teams/texas-am-corpus-christi,Southland
-texas-southern,http://statsheet.com/mcb/teams/texas-southern,SWAC
-texas-state,http://statsheet.com/mcb/teams/texas-state,Sun Belt
-texas-tech,http://statsheet.com/mcb/teams/texas-tech,Big 12
-texas-arlington,http://statsheet.com/mcb/teams/texas-arlington,Sun Belt
-texas-el-paso,http://statsheet.com/mcb/teams/texas-el-paso,Conference USA
-texas-pan-american,http://statsheet.com/mcb/teams/texas-pan-american,WAC
-texas-san-antonio,http://statsheet.com/mcb/teams/texas-san-antonio,Conference USA
-toledo,http://statsheet.com/mcb/teams/toledo,MAC
-towson,http://statsheet.com/mcb/teams/towson,CAA
-troy,http://statsheet.com/mcb/teams/troy,Sun Belt
-tulane,http://statsheet.com/mcb/teams/tulane,Conference USA
-tulsa,http://statsheet.com/mcb/teams/tulsa,Conference USA
-uab,http://statsheet.com/mcb/teams/uab,Conference USA
-california-davis,http://statsheet.com/mcb/teams/california-davis,Big West
-california-irvine,http://statsheet.com/mcb/teams/california-irvine,Big West
-california-riverside,http://statsheet.com/mcb/teams/california-riverside,Big West
-california-santa-barbara,http://statsheet.com/mcb/teams/california-santa-barbara,Big West
-central-florida,http://statsheet.com/mcb/teams/central-florida,American Athletic
-ucla,http://statsheet.com/mcb/teams/ucla,Pac-12
-illinois-chicago,http://statsheet.com/mcb/teams/illinois-chicago,Horizon
-umass-lowell,http://statsheet.com/mcb/teams/umass-lowell,America East
-unlv,http://statsheet.com/mcb/teams/unlv,Mountain West
-southern-california,http://statsheet.com/mcb/teams/southern-california,Pac-12
-usc-upstate,http://statsheet.com/mcb/teams/usc-upstate,Atlantic Sun
-utah,http://statsheet.com/mcb/teams/utah,Pac-12
-utah-state,http://statsheet.com/mcb/teams/utah-state,Mountain West
-utah-valley-state,http://statsheet.com/mcb/teams/utah-valley-state,WAC
-valparaiso,http://statsheet.com/mcb/teams/valparaiso,Horizon
-vanderbilt,http://statsheet.com/mcb/teams/vanderbilt,SEC
-vermont,http://statsheet.com/mcb/teams/vermont,America East
-villanova,http://statsheet.com/mcb/teams/villanova,Big East
-virginia,http://statsheet.com/mcb/teams/virginia,ACC
-virginia-commonwealth,http://statsheet.com/mcb/teams/virginia-commonwealth,A-10
-virginia-military-institute,http://statsheet.com/mcb/teams/virginia-military-institute,Big South
-virginia-tech,http://statsheet.com/mcb/teams/virginia-tech,ACC
-wagner,http://statsheet.com/mcb/teams/wagner,NEC
-wake-forest,http://statsheet.com/mcb/teams/wake-forest,ACC
-washington,http://statsheet.com/mcb/teams/washington,Pac-12
-washington-state,http://statsheet.com/mcb/teams/washington-state,Pac-12
-weber-state,http://statsheet.com/mcb/teams/weber-state,Big Sky
-west-virginia,http://statsheet.com/mcb/teams/west-virginia,Big 12
-western-carolina,http://statsheet.com/mcb/teams/western-carolina,SoCon
-western-illinois,http://statsheet.com/mcb/teams/western-illinois,Summit League
-western-kentucky,http://statsheet.com/mcb/teams/western-kentucky,Sun Belt
-western-michigan,http://statsheet.com/mcb/teams/western-michigan,MAC
-wichita-state,http://statsheet.com/mcb/teams/wichita-state,Missouri Valley
-william-mary,http://statsheet.com/mcb/teams/william-mary,CAA
-winthrop,http://statsheet.com/mcb/teams/winthrop,Big South
-wisconsin,http://statsheet.com/mcb/teams/wisconsin,Big Ten
-wofford,http://statsheet.com/mcb/teams/wofford,SoCon
-wright-state,http://statsheet.com/mcb/teams/wright-state,Horizon
-wyoming,http://statsheet.com/mcb/teams/wyoming,Mountain West
-xavier,http://statsheet.com/mcb/teams/xavier,Big East
-yale,http://statsheet.com/mcb/teams/yale,Ivy League
-youngstown-state,http://statsheet.com/mcb/teams/youngstown-state,Horizon
+abilene-christian,http://statsheet.com/mcb/teams/abilene-christian,Southland,NULL
+air-force,http://statsheet.com/mcb/teams/air-force,Mountain West,clune-arena
+akron,http://statsheet.com/mcb/teams/akron,MAC,james-a-rhodes-arena
+alabama,http://statsheet.com/mcb/teams/alabama,SEC,coleman-coliseum
+alabama-am,http://statsheet.com/mcb/teams/alabama-am,SWAC,elmore-gym
+alabama-state,http://statsheet.com/mcb/teams/alabama-state,SWAC,joe-l-reed-acadome
+albany,http://statsheet.com/mcb/teams/albany,America East,recreation-and-convocation-center
+alcorn-state,http://statsheet.com/mcb/teams/alcorn-state,SWAC,davey-whitney-complex
+american-university,http://statsheet.com/mcb/teams/american-university,Patriot,bender-arena
+appalachian-state,http://statsheet.com/mcb/teams/appalachian-state,SoCon,holmes-center
+arizona,http://statsheet.com/mcb/teams/arizona,Pac-12,mckale-center
+arizona-state,http://statsheet.com/mcb/teams/arizona-state,Pac-12,wells-fargo-arena
+arkansas,http://statsheet.com/mcb/teams/arkansas,SEC,bud-walton-arena
+arkansas-state,http://statsheet.com/mcb/teams/arkansas-state,Sun Belt,convocation-center-ar
+arkansas-little-rock,http://statsheet.com/mcb/teams/arkansas-little-rock,Sun Belt,jack-stephens-center
+arkansas-pine-bluff,http://statsheet.com/mcb/teams/arkansas-pine-bluff,SWAC,k-l-johnson-complex
+army,http://statsheet.com/mcb/teams/army,Patriot,christl-arena
+auburn,http://statsheet.com/mcb/teams/auburn,SEC,auburn-arena
+austin-peay,http://statsheet.com/mcb/teams/austin-peay,Ohio Valley,winfield-dunn-center
+ball-state,http://statsheet.com/mcb/teams/ball-state,MAC,worthen-arena
+baylor,http://statsheet.com/mcb/teams/baylor,Big 12,ferrell-center
+belmont,http://statsheet.com/mcb/teams/belmont,Ohio Valley,curb-event-center
+bethune-cookman,http://statsheet.com/mcb/teams/bethune-cookman,MEAC,moore-gym
+binghamton,http://statsheet.com/mcb/teams/binghamton,America East,events-center
+boise-state,http://statsheet.com/mcb/teams/boise-state,Mountain West,taco-bell-arena
+boston-college,http://statsheet.com/mcb/teams/boston-college,ACC,silvio-o-conte-forum
+boston-university,http://statsheet.com/mcb/teams/boston-university,Patriot,case-gym
+bowling-green,http://statsheet.com/mcb/teams/bowling-green,MAC,stroh-center
+bradley,http://statsheet.com/mcb/teams/bradley,Missouri Valley,carver-arena
+brigham-young,http://statsheet.com/mcb/teams/brigham-young,West Coast,marriott-center
+brown,http://statsheet.com/mcb/teams/brown,Ivy League,pizzitola-sports-center
+bryant,http://statsheet.com/mcb/teams/bryant,NEC,chace-athletic-center
+bucknell,http://statsheet.com/mcb/teams/bucknell,Patriot,sojka-pavilion
+buffalo,http://statsheet.com/mcb/teams/buffalo,MAC,alumni-arena
+butler,http://statsheet.com/mcb/teams/butler,Big East,hinkle-fieldhouse
+cal-poly,http://statsheet.com/mcb/teams/cal-poly,Big West,mott-gym
+cal-state-bakersfield,http://statsheet.com/mcb/teams/cal-state-bakersfield,WAC,rabobank-arena
+cal-state-fullerton,http://statsheet.com/mcb/teams/cal-state-fullerton,Big West,titan-gym
+cal-state-northridge,http://statsheet.com/mcb/teams/cal-state-northridge,Big West,the-matadome
+california,http://statsheet.com/mcb/teams/california,Pac-12,haas-pavilion
+campbell,http://statsheet.com/mcb/teams/campbell,Big South,john-w-pope-jr-convocation-center
+canisius,http://statsheet.com/mcb/teams/canisius,MAAC,koessler-athletic-center
+central-arkansas,http://statsheet.com/mcb/teams/central-arkansas,Southland,farris-center
+central-connecticut-state,http://statsheet.com/mcb/teams/central-connecticut-state,NEC,william-h-detrick-gymnasium
+central-michigan,http://statsheet.com/mcb/teams/central-michigan,MAC,dan-rose-center
+charleston-southern,http://statsheet.com/mcb/teams/charleston-southern,Big South,csu-fieldhouse
+north-carolina-charlotte,http://statsheet.com/mcb/teams/north-carolina-charlotte,Conference USA,halton-arena
+chattanooga,http://statsheet.com/mcb/teams/chattanooga,SoCon,mckenzie-arena
+chicago-state,http://statsheet.com/mcb/teams/chicago-state,WAC,jones-convocation-center
+cincinnati,http://statsheet.com/mcb/teams/cincinnati,American Athletic,fifth-third-arena
+citadel,http://statsheet.com/mcb/teams/citadel,SoCon,mcalister-fieldhouse
+clemson,http://statsheet.com/mcb/teams/clemson,ACC,littlejohn-coliseum
+cleveland-state,http://statsheet.com/mcb/teams/cleveland-state,Horizon,csu-convocation-center
+coastal-carolina,http://statsheet.com/mcb/teams/coastal-carolina,Big South,kimbel-arena
+colgate,http://statsheet.com/mcb/teams/colgate,Patriot,cotterell-court
+college-of-charleston,http://statsheet.com/mcb/teams/college-of-charleston,CAA,td-arena
+colorado,http://statsheet.com/mcb/teams/colorado,Pac-12,coors-events-center
+colorado-state,http://statsheet.com/mcb/teams/colorado-state,Mountain West,moby-arena
+columbia,http://statsheet.com/mcb/teams/columbia,Ivy League,levien-gymnasium
+connecticut,http://statsheet.com/mcb/teams/connecticut,American Athletic,hartford-civic-center
+coppin-state,http://statsheet.com/mcb/teams/coppin-state,MEAC,coppin-center
+cornell,http://statsheet.com/mcb/teams/cornell,Ivy League,newman-arena
+creighton,http://statsheet.com/mcb/teams/creighton,Big East,centurylink-center
+dartmouth,http://statsheet.com/mcb/teams/dartmouth,Ivy League,edward-leede-arena
+davidson,http://statsheet.com/mcb/teams/davidson,SoCon,belk-arena
+dayton,http://statsheet.com/mcb/teams/dayton,A-10,university-of-dayton-arena
+delaware,http://statsheet.com/mcb/teams/delaware,CAA,bob-carpenter-center
+delaware-state,http://statsheet.com/mcb/teams/delaware-state,MEAC,memorial-hall
+denver,http://statsheet.com/mcb/teams/denver,Summit League,magness-arena
+depaul,http://statsheet.com/mcb/teams/depaul,Big East,allstate-arena
+detroit,http://statsheet.com/mcb/teams/detroit,Horizon,calihan-hall
+drake,http://statsheet.com/mcb/teams/drake,Missouri Valley,drake-knapp-center
+drexel,http://statsheet.com/mcb/teams/drexel,CAA,daskalakis-athletic-center
+duke,http://statsheet.com/mcb/teams/duke,ACC,cameron-indoor-stadium
+duquesne,http://statsheet.com/mcb/teams/duquesne,A-10,a-j-palumbo-center
+east-carolina,http://statsheet.com/mcb/teams/east-carolina,Conference USA,williams-arena-at-minges-coliseum
+east-tennessee-state,http://statsheet.com/mcb/teams/east-tennessee-state,Atlantic Sun,2-memorial-center
+eastern-illinois,http://statsheet.com/mcb/teams/eastern-illinois,Ohio Valley,lantz-arena
+eastern-kentucky,http://statsheet.com/mcb/teams/eastern-kentucky,Ohio Valley,mcbrayer-arena
+eastern-michigan,http://statsheet.com/mcb/teams/eastern-michigan,MAC,convocation-center-mi
+eastern-washington,http://statsheet.com/mcb/teams/eastern-washington,Big Sky,reese-court
+elon,http://statsheet.com/mcb/teams/elon,SoCon,alumni-gym
+evansville,http://statsheet.com/mcb/teams/evansville,Missouri Valley,2-ford-center
+fairfield,http://statsheet.com/mcb/teams/fairfield,MAAC,arena-at-harbor-yard
+fairleigh-dickinson,http://statsheet.com/mcb/teams/fairleigh-dickinson,NEC,rothman-center
+florida,http://statsheet.com/mcb/teams/florida,SEC,o-connell-center
+florida-am,http://statsheet.com/mcb/teams/florida-am,MEAC,alfred-lawson-multipurpose-center
+florida-atlantic,http://statsheet.com/mcb/teams/florida-atlantic,Conference USA,fau-gymnasium
+florida-gulf-coast,http://statsheet.com/mcb/teams/florida-gulf-coast,Atlantic Sun,alico-arena
+florida-international,http://statsheet.com/mcb/teams/florida-international,Conference USA,pharmed-arena
+florida-state,http://statsheet.com/mcb/teams/florida-state,ACC,donald-l-tucker-center
+fordham,http://statsheet.com/mcb/teams/fordham,A-10,rose-hill-gym
+fresno-state,http://statsheet.com/mcb/teams/fresno-state,Mountain West,savemart-center
+furman,http://statsheet.com/mcb/teams/furman,SoCon,timmons-arena
+gardner-webb,http://statsheet.com/mcb/teams/gardner-webb,Big South,paul-porter-arena
+george-mason,http://statsheet.com/mcb/teams/george-mason,A-10,patriot-center
+george-washington,http://statsheet.com/mcb/teams/george-washington,A-10,charles-e-smith-center
+georgetown,http://statsheet.com/mcb/teams/georgetown,Big East,verizon-center
+georgia,http://statsheet.com/mcb/teams/georgia,SEC,stegeman-coliseum
+georgia-southern,http://statsheet.com/mcb/teams/georgia-southern,SoCon,hanner-fieldhouse
+georgia-state,http://statsheet.com/mcb/teams/georgia-state,Sun Belt,gsu-sports-arena
+georgia-tech,http://statsheet.com/mcb/teams/georgia-tech,ACC,hank-mccamish-pavilion
+gonzaga,http://statsheet.com/mcb/teams/gonzaga,West Coast,mccarthey-athletic-center
+grambling-state,http://statsheet.com/mcb/teams/grambling-state,SWAC,gsu-assembly-center
+grand-canyon,http://statsheet.com/mcb/teams/grand-canyon,WAC,NULL
+wisconsin-green-bay,http://statsheet.com/mcb/teams/wisconsin-green-bay,Horizon,resch-center
+hampton,http://statsheet.com/mcb/teams/hampton,MEAC,hampton-convocation-center-va
+hartford,http://statsheet.com/mcb/teams/hartford,America East,chase-family-arena
+harvard,http://statsheet.com/mcb/teams/harvard,Ivy League,lavietes-pavilion
+hawaii,http://statsheet.com/mcb/teams/hawaii,Big West,stan-sheriff-center
+high-point,http://statsheet.com/mcb/teams/high-point,Big South,millis-athletic-center
+hofstra,http://statsheet.com/mcb/teams/hofstra,CAA,mack-sports-complex
+holy-cross,http://statsheet.com/mcb/teams/holy-cross,Patriot,hart-center
+houston,http://statsheet.com/mcb/teams/houston,American Athletic,hofheinz-pavilion
+houston-baptist,http://statsheet.com/mcb/teams/houston-baptist,Southland,sharp-gymnasium
+howard,http://statsheet.com/mcb/teams/howard,MEAC,burr-gymnasium
+idaho,http://statsheet.com/mcb/teams/idaho,WAC,cowan-spectrum
+idaho-state,http://statsheet.com/mcb/teams/idaho-state,Big Sky,reed-gym
+illinois,http://statsheet.com/mcb/teams/illinois,Big Ten,assembly-hall-il
+illinois-state,http://statsheet.com/mcb/teams/illinois-state,Missouri Valley,redbird-arena
+incarnate-word,http://statsheet.com/mcb/teams/incarnate-word,Southland,NULL
+indiana,http://statsheet.com/mcb/teams/indiana,Big Ten,assembly-hall-in
+indiana-state,http://statsheet.com/mcb/teams/indiana-state,Missouri Valley,hulman-center
+iona,http://statsheet.com/mcb/teams/iona,MAAC,hynes-athletic-center
+iowa,http://statsheet.com/mcb/teams/iowa,Big Ten,carver-hawkeye-arena
+iowa-state,http://statsheet.com/mcb/teams/iowa-state,Big 12,james-h-hilton-coliseum
+iupu-fort-wayne,http://statsheet.com/mcb/teams/iupu-fort-wayne,Summit League,allen-county-war-memorial-coliseum
+iupui,http://statsheet.com/mcb/teams/iupui,Summit League,iupui-gymnasium
+jackson-state,http://statsheet.com/mcb/teams/jackson-state,SWAC,williams-assembly-center
+jacksonville,http://statsheet.com/mcb/teams/jacksonville,Atlantic Sun,jacksonville-veterans-memorial-coliseum
+jacksonville-state,http://statsheet.com/mcb/teams/jacksonville-state,Ohio Valley,pete-mathews-coliseum
+james-madison,http://statsheet.com/mcb/teams/james-madison,CAA,jmu-convocation-center
+kansas,http://statsheet.com/mcb/teams/kansas,Big 12,allen-fieldhouse
+kansas-state,http://statsheet.com/mcb/teams/kansas-state,Big 12,bramlage-coliseum
+kennesaw-state,http://statsheet.com/mcb/teams/kennesaw-state,Atlantic Sun,ksu-convocation-center
+kent-state,http://statsheet.com/mcb/teams/kent-state,MAC,memorial-athletic-and-convocation-center
+kentucky,http://statsheet.com/mcb/teams/kentucky,SEC,rupp-arena
+la-salle,http://statsheet.com/mcb/teams/la-salle,A-10,tom-gola-arena
+lafayette,http://statsheet.com/mcb/teams/lafayette,Patriot,kirby-sports-center
+lamar,http://statsheet.com/mcb/teams/lamar,Southland,montagne-center
+lehigh,http://statsheet.com/mcb/teams/lehigh,Patriot,stabler-arena
+liberty,http://statsheet.com/mcb/teams/liberty,Big South,vines-convocation-center
+lipscomb,http://statsheet.com/mcb/teams/lipscomb,Atlantic Sun,allen-arena
+long-beach-state,http://statsheet.com/mcb/teams/long-beach-state,Big West,the-walter-pyramid
+long-island,http://statsheet.com/mcb/teams/long-island,NEC,athletic-recreation-wellness-center
+longwood,http://statsheet.com/mcb/teams/longwood,Big South,willett-hall
+louisiana-lafayette,http://statsheet.com/mcb/teams/louisiana-lafayette,Sun Belt,cajun-dome
+louisiana-tech,http://statsheet.com/mcb/teams/louisiana-tech,Conference USA,thomas-assembly-center
+louisiana-monroe,http://statsheet.com/mcb/teams/louisiana-monroe,Sun Belt,fant-ewing-coliseum
+louisville,http://statsheet.com/mcb/teams/louisville,American Athletic,kfc-yum-center
+loyola-il,http://statsheet.com/mcb/teams/loyola-il,Missouri Valley,joseph-j-gentile-center
+loyola-md,http://statsheet.com/mcb/teams/loyola-md,Patriot,reitz-arena
+loyola-marymount,http://statsheet.com/mcb/teams/loyola-marymount,West Coast,gersten-pavilion
+lsu,http://statsheet.com/mcb/teams/lsu,SEC,pete-maravich-center
+maine,http://statsheet.com/mcb/teams/maine,America East,alfond-arena
+manhattan,http://statsheet.com/mcb/teams/manhattan,MAAC,draddy-gymnasium
+marist,http://statsheet.com/mcb/teams/marist,MAAC,mccann-center
+marquette,http://statsheet.com/mcb/teams/marquette,Big East,bmo-harris-bradley-center
+marshall,http://statsheet.com/mcb/teams/marshall,Conference USA,cam-henderson-center
+maryland,http://statsheet.com/mcb/teams/maryland,ACC,comcast-center
+maryland-baltimore-county,http://statsheet.com/mcb/teams/maryland-baltimore-county,America East,retriever-activities-center
+maryland-eastern-shore,http://statsheet.com/mcb/teams/maryland-eastern-shore,MEAC,william-p-hytche-center
+massachusetts,http://statsheet.com/mcb/teams/massachusetts,A-10,william-d-mullins-center
+mcneese-state,http://statsheet.com/mcb/teams/mcneese-state,Southland,burton-coliseum
+memphis,http://statsheet.com/mcb/teams/memphis,American Athletic,fedex-forum
+mercer,http://statsheet.com/mcb/teams/mercer,Atlantic Sun,university-center-ga
+miami-fl,http://statsheet.com/mcb/teams/miami-fl,ACC,bankunited-center
+miami-oh,http://statsheet.com/mcb/teams/miami-oh,MAC,john-d-millett-hall
+michigan,http://statsheet.com/mcb/teams/michigan,Big Ten,crisler-arena
+michigan-state,http://statsheet.com/mcb/teams/michigan-state,Big Ten,breslin-center
+middle-tennessee-state,http://statsheet.com/mcb/teams/middle-tennessee-state,Conference USA,murphy-center
+wisconsin-milwaukee,http://statsheet.com/mcb/teams/wisconsin-milwaukee,Horizon,klotsche-center
+minnesota,http://statsheet.com/mcb/teams/minnesota,Big Ten,williams-arena
+mississippi-state,http://statsheet.com/mcb/teams/mississippi-state,SEC,humphrey-coliseum
+mississippi-valley-state,http://statsheet.com/mcb/teams/mississippi-valley-state,SWAC,harrison-complex
+missouri,http://statsheet.com/mcb/teams/missouri,SEC,mizzou-arena
+missouri-state,http://statsheet.com/mcb/teams/missouri-state,Missouri Valley,jqhs-arena
+missouri-kansas-city,http://statsheet.com/mcb/teams/missouri-kansas-city,WAC,swinney-recreation-center
+monmouth,http://statsheet.com/mcb/teams/monmouth,MAAC,multipurpose-activity-center
+montana,http://statsheet.com/mcb/teams/montana,Big Sky,dahlberg-arena
+montana-state,http://statsheet.com/mcb/teams/montana-state,Big Sky,worthington-arena
+morehead-state,http://statsheet.com/mcb/teams/morehead-state,Ohio Valley,ellis-t-johnson-arena
+morgan-state,http://statsheet.com/mcb/teams/morgan-state,MEAC,hill-fieldhouse
+mount-st-marys,http://statsheet.com/mcb/teams/mount-st-marys,NEC,knott-arena
+murray-state,http://statsheet.com/mcb/teams/murray-state,Ohio Valley,regional-events-center
+navy,http://statsheet.com/mcb/teams/navy,Patriot,alumni-hall-md
+north-carolina-state,http://statsheet.com/mcb/teams/north-carolina-state,ACC,pnc-arena
+nebraska,http://statsheet.com/mcb/teams/nebraska,Big Ten,bob-devaney-sports-center
+nebraska-omaha,http://statsheet.com/mcb/teams/nebraska-omaha,Summit League,ralston-arena
+nevada,http://statsheet.com/mcb/teams/nevada,Mountain West,lawlor-events-center
+new-hampshire,http://statsheet.com/mcb/teams/new-hampshire,America East,lundholm-gym
+new-jersey-tech,http://statsheet.com/mcb/teams/new-jersey-tech,Independents,estelle-and-zoom-fleisher-athletic-center
+new-mexico,http://statsheet.com/mcb/teams/new-mexico,Mountain West,university-arena
+new-mexico-state,http://statsheet.com/mcb/teams/new-mexico-state,WAC,pan-american-center
+new-orleans,http://statsheet.com/mcb/teams/new-orleans,Southland,lakefront-arena
+niagara,http://statsheet.com/mcb/teams/niagara,MAAC,gallagher-center
+nicholls-state,http://statsheet.com/mcb/teams/nicholls-state,Southland,stopher-gym
+norfolk-state,http://statsheet.com/mcb/teams/norfolk-state,MEAC,joseph-g-echols-hall
+north-carolina,http://statsheet.com/mcb/teams/north-carolina,ACC,dean-e-smith-center
+north-carolina-at,http://statsheet.com/mcb/teams/north-carolina-at,MEAC,corbett-sports-center
+north-carolina-central,http://statsheet.com/mcb/teams/north-carolina-central,MEAC,mclendon-mcdougald-gymnasium
+north-carolina-asheville,http://statsheet.com/mcb/teams/north-carolina-asheville,Big South,justice-center
+north-carolina-greensboro,http://statsheet.com/mcb/teams/north-carolina-greensboro,SoCon,greensboro-coliseum
+north-carolina-wilmington,http://statsheet.com/mcb/teams/north-carolina-wilmington,CAA,trask-coliseum
+north-dakota,http://statsheet.com/mcb/teams/north-dakota,Big Sky,sioux-center
+north-dakota-state,http://statsheet.com/mcb/teams/north-dakota-state,Summit League,bison-sports-arena
+north-florida,http://statsheet.com/mcb/teams/north-florida,Atlantic Sun,unf-arena
+north-texas,http://statsheet.com/mcb/teams/north-texas,Conference USA,super-pit
+northeastern,http://statsheet.com/mcb/teams/northeastern,CAA,matthews-arena
+northern-arizona,http://statsheet.com/mcb/teams/northern-arizona,Big Sky,walkup-skydome
+northern-colorado,http://statsheet.com/mcb/teams/northern-colorado,Big Sky,butler-hancock-sports-pavilion
+northern-illinois,http://statsheet.com/mcb/teams/northern-illinois,MAC,convocation-center-il
+northern-iowa,http://statsheet.com/mcb/teams/northern-iowa,Missouri Valley,mcleod-center
+northern-kentucky,http://statsheet.com/mcb/teams/northern-kentucky,Atlantic Sun,bank-of-kentucky-center
+northwestern,http://statsheet.com/mcb/teams/northwestern,Big Ten,welsh-ryan-arena
+northwestern-state,http://statsheet.com/mcb/teams/northwestern-state,Southland,prather-coliseum
+notre-dame,http://statsheet.com/mcb/teams/notre-dame,ACC,joyce-center
+oakland,http://statsheet.com/mcb/teams/oakland,Horizon,athletics-center-arena
+ohio,http://statsheet.com/mcb/teams/ohio,MAC,convocation-center-oh
+ohio-state,http://statsheet.com/mcb/teams/ohio-state,Big Ten,value-city-arena
+oklahoma,http://statsheet.com/mcb/teams/oklahoma,Big 12,lloyd-noble-center
+oklahoma-state,http://statsheet.com/mcb/teams/oklahoma-state,Big 12,gallagher-iba-arena
+old-dominion,http://statsheet.com/mcb/teams/old-dominion,Conference USA,constant-convocation-center
+mississippi,http://statsheet.com/mcb/teams/mississippi,SEC,smith-coliseum
+oral-roberts,http://statsheet.com/mcb/teams/oral-roberts,Southland,mabee-center
+oregon,http://statsheet.com/mcb/teams/oregon,Pac-12,matthew-knight-arena
+oregon-state,http://statsheet.com/mcb/teams/oregon-state,Pac-12,gill-coliseum
+pacific,http://statsheet.com/mcb/teams/pacific,West Coast,spanos-center
+penn-state,http://statsheet.com/mcb/teams/penn-state,Big Ten,bryce-jordan-center
+pennsylvania,http://statsheet.com/mcb/teams/pennsylvania,Ivy League,the-palestra
+pepperdine,http://statsheet.com/mcb/teams/pepperdine,West Coast,firestone-fieldhouse
+pittsburgh,http://statsheet.com/mcb/teams/pittsburgh,ACC,petersen-events-center
+portland,http://statsheet.com/mcb/teams/portland,West Coast,chiles-center
+portland-state,http://statsheet.com/mcb/teams/portland-state,Big Sky,stott-center
+prairie-view-am,http://statsheet.com/mcb/teams/prairie-view-am,SWAC,william-nicks-center
+presbyterian,http://statsheet.com/mcb/teams/presbyterian,Big South,ross-e-templeton-p-e-center
+princeton,http://statsheet.com/mcb/teams/princeton,Ivy League,jadwin-gymnasium
+providence,http://statsheet.com/mcb/teams/providence,Big East,dunkin-donuts-center
+purdue,http://statsheet.com/mcb/teams/purdue,Big Ten,mackey-arena
+quinnipiac,http://statsheet.com/mcb/teams/quinnipiac,MAAC,td-bank-sports-center
+radford,http://statsheet.com/mcb/teams/radford,Big South,dedmon-center
+rhode-island,http://statsheet.com/mcb/teams/rhode-island,A-10,ryan-center
+rice,http://statsheet.com/mcb/teams/rice,Conference USA,autry-court
+richmond,http://statsheet.com/mcb/teams/richmond,A-10,robins-center
+rider,http://statsheet.com/mcb/teams/rider,MAAC,alumni-gymnasium
+robert-morris,http://statsheet.com/mcb/teams/robert-morris,NEC,charles-l-sewall-center
+rutgers,http://statsheet.com/mcb/teams/rutgers,American Athletic,louis-brown-athletic-center
+sacramento-state,http://statsheet.com/mcb/teams/sacramento-state,Big Sky,hornets-nest
+sacred-heart,http://statsheet.com/mcb/teams/sacred-heart,NEC,william-pitt-center
+saint-louis,http://statsheet.com/mcb/teams/saint-louis,A-10,chaifetz-arena
+saint-marys,http://statsheet.com/mcb/teams/saint-marys,West Coast,mckeon-pavilion
+sam-houston-state,http://statsheet.com/mcb/teams/sam-houston-state,Southland,johnson-coliseum
+samford,http://statsheet.com/mcb/teams/samford,SoCon,pete-hanna-center
+san-diego,http://statsheet.com/mcb/teams/san-diego,West Coast,jenny-craig-pavilion
+san-diego-state,http://statsheet.com/mcb/teams/san-diego-state,Mountain West,cox-arena
+san-francisco,http://statsheet.com/mcb/teams/san-francisco,West Coast,war-memorial-gymnasium
+san-jose-state,http://statsheet.com/mcb/teams/san-jose-state,Mountain West,event-center
+santa-clara,http://statsheet.com/mcb/teams/santa-clara,West Coast,leavey-center
+savannah-state,http://statsheet.com/mcb/teams/savannah-state,MEAC,tiger-arena
+seattle,http://statsheet.com/mcb/teams/seattle,WAC,2-key-arena
+seton-hall,http://statsheet.com/mcb/teams/seton-hall,Big East,prudential-center
+siena,http://statsheet.com/mcb/teams/siena,MAAC,times-union-center
+siu-edwardsville,http://statsheet.com/mcb/teams/siu-edwardsville,Ohio Valley,vadalabene-center
+south-alabama,http://statsheet.com/mcb/teams/south-alabama,Sun Belt,mitchell-center
+south-carolina,http://statsheet.com/mcb/teams/south-carolina,SEC,colonial-center
+south-carolina-state,http://statsheet.com/mcb/teams/south-carolina-state,MEAC,scsu-gymnasium
+south-dakota,http://statsheet.com/mcb/teams/south-dakota,Summit League,dakotadome
+south-dakota-state,http://statsheet.com/mcb/teams/south-dakota-state,Summit League,frost-arena
+south-florida,http://statsheet.com/mcb/teams/south-florida,American Athletic,sun-dome
+southeast-missouri-state,http://statsheet.com/mcb/teams/southeast-missouri-state,Ohio Valley,show-me-center
+southeastern-louisiana,http://statsheet.com/mcb/teams/southeastern-louisiana,Southland,university-center-la
+southern-illinois,http://statsheet.com/mcb/teams/southern-illinois,Missouri Valley,siu-arena
+southern-methodist,http://statsheet.com/mcb/teams/southern-methodist,American Athletic,moody-coliseum
+southern-miss,http://statsheet.com/mcb/teams/southern-miss,Conference USA,reed-green-coliseum
+southern-university,http://statsheet.com/mcb/teams/southern-university,SWAC,f-g-clark-center
+southern-utah,http://statsheet.com/mcb/teams/southern-utah,Big Sky,centrum-arena
+st-bonaventure,http://statsheet.com/mcb/teams/st-bonaventure,A-10,reilly-center
+st-francis-ny,http://statsheet.com/mcb/teams/st-francis-ny,NEC,pope-physical-education-center
+st-francis-pa,http://statsheet.com/mcb/teams/st-francis-pa,NEC,degol-arena
+st-johns,http://statsheet.com/mcb/teams/st-johns,Big East,madison-square-garden
+st-josephs-pa,http://statsheet.com/mcb/teams/st-josephs-pa,A-10,alumni-memorial-fieldhouse
+st-peters,http://statsheet.com/mcb/teams/st-peters,MAAC,yanitelli-arena
+stanford,http://statsheet.com/mcb/teams/stanford,Pac-12,maples-pavilion
+stephen-f-austin,http://statsheet.com/mcb/teams/stephen-f-austin,Southland,william-r-johnson-coliseum
+stetson,http://statsheet.com/mcb/teams/stetson,Atlantic Sun,edmunds-center
+stony-brook,http://statsheet.com/mcb/teams/stony-brook,America East,pritchard-gymnasium
+syracuse,http://statsheet.com/mcb/teams/syracuse,ACC,carrier-dome
+texas-christian,http://statsheet.com/mcb/teams/texas-christian,Big 12,daniel-meyer-coliseum
+temple,http://statsheet.com/mcb/teams/temple,American Athletic,liacouras-center
+tennessee,http://statsheet.com/mcb/teams/tennessee,SEC,thompson-boling-arena
+tennessee-state,http://statsheet.com/mcb/teams/tennessee-state,Ohio Valley,gentry-center
+tennessee-tech,http://statsheet.com/mcb/teams/tennessee-tech,Ohio Valley,eblen-center
+tennessee-martin,http://statsheet.com/mcb/teams/tennessee-martin,Ohio Valley,skyhawk-center
+texas,http://statsheet.com/mcb/teams/texas,Big 12,frank-c-erwin-jr-special-events-center
+texas-am,http://statsheet.com/mcb/teams/texas-am,SEC,reed-arena
+texas-am-corpus-christi,http://statsheet.com/mcb/teams/texas-am-corpus-christi,Southland,american-bank-center
+texas-southern,http://statsheet.com/mcb/teams/texas-southern,SWAC,health-pe-arena
+texas-state,http://statsheet.com/mcb/teams/texas-state,Sun Belt,strahan-coliseum
+texas-tech,http://statsheet.com/mcb/teams/texas-tech,Big 12,united-spirit-arena
+texas-arlington,http://statsheet.com/mcb/teams/texas-arlington,Sun Belt,college-park-center
+texas-el-paso,http://statsheet.com/mcb/teams/texas-el-paso,Conference USA,don-haskins-center
+texas-pan-american,http://statsheet.com/mcb/teams/texas-pan-american,WAC,utpa-fieldhouse
+texas-san-antonio,http://statsheet.com/mcb/teams/texas-san-antonio,Conference USA,utsa-convocation-center
+toledo,http://statsheet.com/mcb/teams/toledo,MAC,savage-hall
+towson,http://statsheet.com/mcb/teams/towson,CAA,towson-center
+troy,http://statsheet.com/mcb/teams/troy,Sun Belt,trojan-arena
+tulane,http://statsheet.com/mcb/teams/tulane,Conference USA,devlin-fieldhouse
+tulsa,http://statsheet.com/mcb/teams/tulsa,Conference USA,reynolds-center
+uab,http://statsheet.com/mcb/teams/uab,Conference USA,bartow-arena
+california-davis,http://statsheet.com/mcb/teams/california-davis,Big West,davis-pavilion
+california-irvine,http://statsheet.com/mcb/teams/california-irvine,Big West,bren-events-center
+california-riverside,http://statsheet.com/mcb/teams/california-riverside,Big West,student-recreation-center
+california-santa-barbara,http://statsheet.com/mcb/teams/california-santa-barbara,Big West,the-thunderdome
+central-florida,http://statsheet.com/mcb/teams/central-florida,American Athletic,ucf-arena
+ucla,http://statsheet.com/mcb/teams/ucla,Pac-12,pauley-pavilion
+illinois-chicago,http://statsheet.com/mcb/teams/illinois-chicago,Horizon,uic-pavilion
+umass-lowell,http://statsheet.com/mcb/teams/umass-lowell,America East,NULL
+unlv,http://statsheet.com/mcb/teams/unlv,Mountain West,thomas-mack-center
+southern-california,http://statsheet.com/mcb/teams/southern-california,Pac-12,galen-center
+usc-upstate,http://statsheet.com/mcb/teams/usc-upstate,Atlantic Sun,g-b-hodge-center
+utah,http://statsheet.com/mcb/teams/utah,Pac-12,jon-m-huntsman-center
+utah-state,http://statsheet.com/mcb/teams/utah-state,Mountain West,dee-glen-smith-spectrum
+utah-valley-state,http://statsheet.com/mcb/teams/utah-valley-state,WAC,uccu-center
+valparaiso,http://statsheet.com/mcb/teams/valparaiso,Horizon,athletics-recreation-center
+vanderbilt,http://statsheet.com/mcb/teams/vanderbilt,SEC,memorial-gym-tn
+vermont,http://statsheet.com/mcb/teams/vermont,America East,patrick-gym
+villanova,http://statsheet.com/mcb/teams/villanova,Big East,the-pavilion
+virginia,http://statsheet.com/mcb/teams/virginia,ACC,john-paul-jones-arena
+virginia-commonwealth,http://statsheet.com/mcb/teams/virginia-commonwealth,A-10,stuart-siegel-center
+virginia-military-institute,http://statsheet.com/mcb/teams/virginia-military-institute,Big South,cameron-hall
+virginia-tech,http://statsheet.com/mcb/teams/virginia-tech,ACC,cassell-coliseum
+wagner,http://statsheet.com/mcb/teams/wagner,NEC,spiro-sports-center
+wake-forest,http://statsheet.com/mcb/teams/wake-forest,ACC,lawrence-joel-coliseum
+washington,http://statsheet.com/mcb/teams/washington,Pac-12,alaska-airlines-arena
+washington-state,http://statsheet.com/mcb/teams/washington-state,Pac-12,friel-court
+weber-state,http://statsheet.com/mcb/teams/weber-state,Big Sky,dee-events-center
+west-virginia,http://statsheet.com/mcb/teams/west-virginia,Big 12,wvu-coliseum
+western-carolina,http://statsheet.com/mcb/teams/western-carolina,SoCon,ramsey-center
+western-illinois,http://statsheet.com/mcb/teams/western-illinois,Summit League,western-hall
+western-kentucky,http://statsheet.com/mcb/teams/western-kentucky,Sun Belt,e-a-diddle-arena
+western-michigan,http://statsheet.com/mcb/teams/western-michigan,MAC,university-arena-mi
+wichita-state,http://statsheet.com/mcb/teams/wichita-state,Missouri Valley,charles-koch-arena
+william-mary,http://statsheet.com/mcb/teams/william-mary,CAA,william-mary-hall
+winthrop,http://statsheet.com/mcb/teams/winthrop,Big South,winthrop-coliseum
+wisconsin,http://statsheet.com/mcb/teams/wisconsin,Big Ten,kohl-center
+wofford,http://statsheet.com/mcb/teams/wofford,SoCon,benjamin-johnson-arena
+wright-state,http://statsheet.com/mcb/teams/wright-state,Horizon,nutter-center
+wyoming,http://statsheet.com/mcb/teams/wyoming,Mountain West,arena-auditorium
+xavier,http://statsheet.com/mcb/teams/xavier,Big East,cintas-center
+yale,http://statsheet.com/mcb/teams/yale,Ivy League,2-john-j-lee-amphitheater
+youngstown-state,http://statsheet.com/mcb/teams/youngstown-state,Horizon,NULL
