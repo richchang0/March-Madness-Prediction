@@ -9,6 +9,7 @@ def get_page(url):
 
 	print "getting url: " + url
 	
+	# driver = webdriver.PhantomJS()
 	driver.get(url)
 	data = driver.page_source
 
@@ -37,7 +38,7 @@ def get_teams():
 					outputFile.write(line + "\n")
 					outputFile.close()
 
-
+# IGNORE THIS FUNCTION -- calculating teams in another way..... see clean_data.py
 # Doesn't fully work...... not all teams have the Summary section on their pages
 def get_home_court():
 
@@ -122,7 +123,11 @@ def get_stats():
 
 def get_games():
 
-	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	# teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	teamFile = open('textfiles/temp_games_list.txt', 'r')
+
+	# Target url
+	# http://statsheet.com/mcb/teams/syracuse/schedule?season=2012-2013
 
 	season = '2012-2013'
 	extraPart = '/schedule?season=' + season
@@ -151,29 +156,36 @@ def get_games():
 						opponentName = opponentTD[1]['href'].split("/")[-1]
 
 					location = tds[8].a['href'].split("/")[-1]
-					teamScore = tds[2].text
-					opponentScore = tds[4].text
+					isConf = tds[9].text
 
-					try:
-						if int(teamScore) > int(opponentScore):
-							outcome = "W"
-						else:
-							outcome = "L"
-					except:
-						outcome = "NULL"
+					# print isConf
+					# c = raw_input()
 
-					# print "result: " + str(teamScore) + " to " + str(opponentScore) + " at " + location
-					resultLine = teamName + "," + opponentName + "," + outcome + "," + location
-					print resultLine
+					# only save conference games
+					if isConf == "Yes":
+						teamScore = tds[2].text
+						opponentScore = tds[4].text
 
-					gameFile = open('textfiles/games_' + season + '.txt', 'a')
-					gameFile.write(resultLine + "\n")
-					gameFile.close()
+						try:
+							if int(teamScore) > int(opponentScore):
+								outcome = "W"
+							else:
+								outcome = "L"
+						except:
+							outcome = "NULL"
+
+						# print "result: " + str(teamScore) + " to " + str(opponentScore) + " at " + location
+						resultLine = teamName + "," + opponentName + "," + outcome + "," + location
+						print resultLine
+
+						gameFile = open('textfiles/games_conf_' + season + '.txt', 'a')
+						gameFile.write(resultLine + "\n")
+						gameFile.close()
 
 def main():
 	# get_teams()
 	# get_home_court()
-	get_stats()
+	# get_stats()
 	# get_games()
 
 main()
