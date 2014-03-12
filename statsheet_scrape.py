@@ -31,7 +31,7 @@ def get_teams():
 			for tr in table.findAll("tr"):
 				tds = tr.findAll("td")
 				if len(tds):
-					outputFile = open('textfiles/teams_url_names_statsheet.txt', 'a')
+					outputFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'a')
 					link = str(tds[1].a['href'])
 					name_from_link = link.split("/")[-1]
 					line =  name_from_link + "," + link + "," + str(tds[2].text)
@@ -42,7 +42,7 @@ def get_teams():
 # Doesn't fully work...... not all teams have the Summary section on their pages
 def get_home_court():
 
-	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	teamFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'r')
 
 	for line in teamFile:
 		# url = 'http://statsheet.com/mcb/teams/michigan-state'
@@ -64,7 +64,7 @@ def get_home_court():
 
 		newLine = ",".join(splitLine)
 
-		newTeamFile = open('textfiles/ff.txt', 'a')
+		newTeamFile = open('textfiles/teams/ff.txt', 'a')
 		newTeamFile.write(newLine + "\n")
 		newTeamFile.close()
 
@@ -72,8 +72,8 @@ def get_home_court():
 
 def get_stats():
 
-	# teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
-	teamFile = open('textfiles/test.txt', 'r')
+	teamFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'r')
+	# teamFile = open('textfiles/test.txt', 'r')
 	
 	# TargetURL
 	# http://statsheet.com/mcb/teams/syracuse/team_stats?season=2013-2014&type=all
@@ -98,7 +98,7 @@ def get_stats():
 
 		if len(tableResults) == 0:
 			valueStr = "NULL"
-			statFile = open('textfiles/stats_' + season + '.txt', 'a')
+			statFile = open('textfiles/stats/stats_' + season + '.txt', 'a')
 			statFile.write(teamName + "," + valueStr + "\n")
 			statFile.close()
 		else:
@@ -114,7 +114,7 @@ def get_stats():
 
 				if valueStr != "":
 					valueStr = valueStr[:-1]
-					statFile = open('textfiles/stats_' + season + '.txt', 'a')
+					statFile = open('textfiles/stats/stats_' + season + '.txt', 'a')
 					statFile.write(teamName + "," + valueStr + "\n")
 					statFile.close()
 
@@ -123,8 +123,8 @@ def get_stats():
 
 def get_games():
 
-	# teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
-	teamFile = open('textfiles/temp_games_list.txt', 'r')
+	teamFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'r')
+	# teamFile = open('textfiles/temp_games_list.txt', 'r')
 
 	# Target url
 	# http://statsheet.com/mcb/teams/syracuse/schedule?season=2012-2013
@@ -178,7 +178,7 @@ def get_games():
 						resultLine = teamName + "," + opponentName + "," + outcome + "," + location
 						print resultLine
 
-						gameFile = open('textfiles/games_conf_' + season + '.txt', 'a')
+						gameFile = open('textfiles/games/games_conf_' + season + '.txt', 'a')
 						gameFile.write(resultLine + "\n")
 						gameFile.close()
 

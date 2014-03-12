@@ -1,10 +1,10 @@
 # Functions for buiding the data for our model
-import random
+import random,os
 
 # Get the stats for the home and away team
 def get_stats(home,away):
 	fileName = 'stats_2012-2013'
-	stats = open("textfiles/" + fileName + ".txt", "r")
+	stats = open("textfiles/stats/" + fileName + ".txt", "r")
 
 	home_stats = []
 	away_stats = []
@@ -50,15 +50,14 @@ def calc_delta(home_stats, away_stats, outcome):
 	return delta_stats
 
 
-def generate_examples():
+def generate_examples(fileName):
 
 	# fileName = 'march_games'
-	fileName = 'games_conf_2012-2013_formatted_unique'
-	outputName = 'training_data_2012-2013'
+	outputName = fileName + "_data"
 	# outputName = 'march_games_data'
 
-	games = open("textfiles/" + fileName + ".txt", "r")
-	output = open("textfiles/" + outputName + ".csv", "w")
+	games = open("textfiles/games/" + fileName + ".txt", "r")
+	output = open("textfiles/model_data/" + outputName + ".csv", "w")
 
 	# count = 0
 	for match in games:
@@ -94,9 +93,54 @@ def generate_examples():
 
 		output.write(delta_str + "\n")
 
-def main():
-	generate_examples()
+	return outputName
 
+# Modify attr_to_delete to remove the attributes that you want 
+def remove_attributes(dataFile):
+	attr_array = ['Total Games', 'Wins', 'Losses', 'Winning Pct', 'Possessions', 'Possessions Per 40 minutes', 'Floor Pct', 'Efficiency', 'Field Goals Made', 'Field Goal Attempts', 'Field Goal Pct', 'Free Throws Made', 'Free Throw Attempts', 'Free Throw Pct', '3-pt Field Goals Made', '3-pt Field Goal Attempts', '3-pt Field Goal Pct', 'Effective Field Goal Pct', 'True Shooting Pct', 'Free Throw Rate', 'Field Goal Point Pct', 'Free Throw Point Pct', '3-pt Field Goal Point Pct', 'Points Per Possessions', 'Points', 'Points Per Game', 'Rebound Pct', 'Total Rebounds', 'Total Rebounds Per Game', 'Offensive Reb Pct', 'Offensive Rebounds', 'Offensive Rebounds Per Game', 'Defensive Reb Pct', 'Defensive Rebounds', 'Defensive Rebounds Per Game', 'Team Rebounds', 'Team Rebounds Per Game', 'Assist Pct', 'Assists', 'Assists Per Game', 'Assist to Turnover', 'Steal Pct', 'Steals', 'Steals Per Game', 'Turnover Pct', 'Turnovers', 'Turnovers Per Game', 'Block Pct', 'Blocks', 'Blocks Per Game', 'Fouls', 'Fouls Per Game', 'Disqualifications', 'Outcome']
+
+	training_file = open("textfiles/model_data/" + dataFile + ".csv", 'r')
+	lines = training_file.readlines()
+	new_lines = []
+
+	attr_to_delete = ["Wins", "Losses", "Field Goals Made", "Free Throws Made", "3-pt Field Goals Made"]
+	indexes_to_delete = []
+	for attr in attr_to_delete:
+		indexes_to_delete.append(attr_array.index(attr))
+
+	adjuster = 0
+	for index in indexes_to_delete:
+		attr_array.pop(index - adjuster)
+		adjuster += 1
+
+	header_string = ",".join(attr_array)
+	new_lines.append(header_string + "\n")
+
+
+	for line in lines:
+		adjuster = 0
+		stat_array = line.split(",")
+
+		for index in indexes_to_delete:
+			# print attr_to_delete[i]+":"+stat_array[index]
+			stat_array.pop(index - adjuster)
+			adjuster += 1
+		stat_string = ",".join(stat_array)
+		new_lines.append(stat_string)
+
+	training_file2 = open("textfiles/model_data/" + dataFile + "_fixed" + ".csv", "w+")
+	training_file2.writelines(new_lines)
+
+	training_file.close()
+	os.remove("textfiles/model_data/" + dataFile + ".csv")
+
+def main():
+
+	# gameList = 'games_conf_2012-2013_formatted_unique'
+	gameList = 'march_games'
+
+	dataFile = generate_examples(gameList)
+	remove_attributes(dataFile)
 
 main()
 

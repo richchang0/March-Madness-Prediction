@@ -2,7 +2,7 @@
 # into a format that works with our build_examples.py that generates data for the model
 
 def determine_home_court():
-	gameFile = open('textfiles/games_2012-2013.txt', 'r')
+	gameFile = open('textfiles/games/games_2012-2013.txt', 'r')
 
 	prevTeamName = ""
 
@@ -20,7 +20,7 @@ def determine_home_court():
 			if prevTeamName != "":
 				homeCourt = keywithmaxval(locations)
 				print prevTeamName + "," + homeCourt
-				teamHomeFile = open('textfiles/team_home_matches.txt', 'a')
+				teamHomeFile = open('textfiles/teams/team_home_matches.txt', 'a')
 				teamHomeFile.write(prevTeamName + "," + homeCourt + "\n")
 				teamHomeFile.close()
 			prevTeamName = curTeamName
@@ -32,10 +32,17 @@ def determine_home_court():
 		else:
 			locations[curLocation] = 1
 
+def keywithmaxval(d):
+     """ a) create a list of the dict's keys and values; 
+         b) return the key with the max value"""  
+     v=list(d.values())
+     k=list(d.keys())
+     return k[v.index(max(v))]
+
 def write_team_with_home():
 
-	homeFile = open('textfiles/team_home_matches.txt', 'r')
-	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	homeFile = open('textfiles/teams/team_home_matches.txt', 'r')
+	teamFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'r')
 
 	teamHomeMappings = {}
 
@@ -62,14 +69,14 @@ def write_team_with_home():
 
 		newLine = ",".join(splitLine)
 
-		newTeamFile = open('textfiles/team_with_home_statsheet.txt', 'a')
+		newTeamFile = open('textfiles/teams/team_with_home_statsheet.txt', 'a')
 		newTeamFile.write(newLine + "\n")
 		newTeamFile.close()
 
 # Search for team that matches name and returns the home team
 def get_home_court(name):
 	# print "looking for hometeam for: " + name
-	teamFile = open('textfiles/teams_url_names_statsheet.txt', 'r')
+	teamFile = open('textfiles/teams/teams_url_names_statsheet.txt', 'r')
 
 	for team in teamFile:
 		splitLine = team.strip("\n").split(",")
@@ -90,7 +97,7 @@ def adjust_game_format():
 	fileName = 'games_conf_2012-2013'
 	# fileName = 'test'
 
-	gameFile = open('textfiles/' + fileName + '.txt', 'r')
+	gameFile = open('textfiles/games/' + fileName + '.txt', 'r')
 
 	for game in gameFile:
 		splitLine = game.strip("\n").split(",")
@@ -114,7 +121,7 @@ def adjust_game_format():
 
 				updatedFormat = secondTeam + "," + firstTeam + "," + adjustedOutcome
 
-			fixedGameFile = open('textfiles/' + fileName + "_formatted"  + ".txt", 'a')
+			fixedGameFile = open('textfiles/games/' + fileName + "_formatted"  + ".txt", 'a')
 			fixedGameFile.write(updatedFormat + "\n")
 			fixedGameFile.close()
 
@@ -123,7 +130,7 @@ def adjust_game_format():
 def remove_duplicate_games():
 	# print "in remove_duplicate_games"
 	fileName = 'games_conf_2012-2013_formatted'
-	gameFile = open("textfiles/" + fileName + ".txt", 'r')
+	gameFile = open("textfiles/games/" + fileName + ".txt", 'r')
 
 	seenGames = []
 	for game in gameFile:
@@ -133,7 +140,7 @@ def remove_duplicate_games():
 			seenGames.append(cleanGame)
 
 	# Write unique games to file
-	uniqueGameFile = open("textfiles/" + fileName + "_unique.txt", 'w')
+	uniqueGameFile = open("textfiles/games/" + fileName + "_unique.txt", 'w')
 	for uniqGame in seenGames:
 		uniqueGameFile.write(uniqGame + "\n")
 
@@ -144,6 +151,6 @@ def main():
 	# determine_home_court()
 	# write_team_with_home()
 	# adjust_game_format()
-	remove_duplicate_games()
+	# remove_duplicate_games()
 
 main()

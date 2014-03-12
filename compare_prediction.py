@@ -1,21 +1,29 @@
+import os
 
-def add_question_marks():
-	filename = open("textfiles/march_games_data_fixed.csv","r")
-	writing_file = open("textfiles/march_games_data_fixed_predict.csv","w")
+def add_question_marks(fileName):
+	filename = open("textfiles/model_data/" + fileName + ".csv","r")
+
+	writing_file = open("textfiles/model_data/" + fileName + "_predict.csv","w")
+
+	isFirst = True
 	for line in filename:
-		splitline = line.strip("\n").split(",")
-		splitline[-1] = "?"
-		str_to_write = ",".join(map(str,splitline))
-		writing_file.write(str_to_write+"\n")
+		if isFirst:
+			isFirst = False
+			writing_file.write(line)
+		else:
+			splitline = line.strip("\n").split(",")
+			splitline[-1] = "?"
+			str_to_write = ",".join(map(str,splitline))
+			writing_file.write(str_to_write+"\n")
+
 
 def calculate_accuracy():
-	actual = open("textfiles/march_games.txt","r")
-	predict = open("textfiles/march_games_data_results.csv","r")
+	actual = open("textfiles/games/march_games.txt","r")
+	predict = open("textfiles/model_results/march_games_data_fixed_predict_results.csv","r")
 
 	actual_result = []
 	for line in actual:
 		actual_result.append(line.strip("\n").split(",")[-1])
-
 
 	predicted_result = []
 	for line in predict:
@@ -30,5 +38,11 @@ def calculate_accuracy():
 
 	print float(correct)/float(total)
 
-# add_question_marks()
-calculate_accuracy()
+def main():
+	# fileName = 'march_games_data_fixed'
+	# add_question_marks(fileName)
+
+	# resultFileName = ''
+	calculate_accuracy()
+
+main()

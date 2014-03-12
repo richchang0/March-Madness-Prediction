@@ -1,18 +1,3 @@
-import import_db as db
-
-def get_missing_team_names():
-	team_array = []
-	for game in db.game_results.find():
-
-		if db.team_stats.find({ 'Team Name': game['Away']}).count() == 0:
-			if game['Away'] not in team_array:
-				team_array.append(game['Away'])
-				# print game['Home']
-
-	output_file = open("textfiles/unmatchingteams.txt", 'w')
-	for team in team_array:
-		output_file.write(team+"\n")
-	output_file.close()
 
 def find_manual_match(espn_name):
 
@@ -84,13 +69,6 @@ def replace_statsheet_names():
 		line = ",".join(map(str, splitLine))
 
 		modified_stat_file.write(line + "\n")
-	
-def keywithmaxval(d):
-     """ a) create a list of the dict's keys and values; 
-         b) return the key with the max value"""  
-     v=list(d.values())
-     k=list(d.keys())
-     return k[v.index(max(v))]
 
 def main():
 	# get_missing_team_names()
