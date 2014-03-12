@@ -44,8 +44,9 @@ def calc_delta(home_stats, away_stats, outcome):
 
 def generate_examples():
 
-	fileName = 'games_conf_2012-2013_formatted_unique'
-	outputName = 'training_data_2012-2013'
+	fileName = 'march_games'
+	# fileName = 'games_conf_2012-2013_formatted_unique'
+	outputName = 'march_games_data'
 
 	games = open("textfiles/" + fileName + ".txt", "r")
 	output = open("textfiles/" + outputName + ".txt", "w")
@@ -72,6 +73,7 @@ def generate_examples():
 
 		# if (len(home_stats) == 0) or (len(away_stats) == 0):
 		# 	break
+
 		# Remove team name from the list
 		home_stats = home_stats[1:]
 		away_stats = away_stats[1:]

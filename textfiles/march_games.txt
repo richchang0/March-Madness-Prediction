@@ -1,9 +1,7 @@
-*first four
 north-carolina-at,liberty,W
 middle-tennessee-state,saint-marys,L
 long-island,james-madison,L
 boise-state,la-salle,L
-*round1
 louisville,north-carolina-at,W
 colorado-state,missouri,W
 oklahoma-state,oregon,L
@@ -36,7 +34,6 @@ butler,bucknell,W
 marquette,davidson,W
 illinois,colorado,W
 miami-fl,pacific,W
-*round2
 louisville,colorado-state,W
 oregon,saint-louis,W
 memphis,michigan-state,L
@@ -53,7 +50,6 @@ indiana,temple,W
 california,syracuse,L
 butler,marquette,L
 illinois,miami-fl,L
-*round3
 louisville,oregon,W
 michigan-state,duke,L
 wichita-state,la-salle,W
@@ -62,13 +58,10 @@ kansas,michigan,L
 florida,florida-gulf-coast,W
 indiana,syracuse,L
 marquette,miami-fl,W
-*round4
 louisville,duke,L
 wichita-state,ohio-state,W
 michigan,florida,W
 syracuse,marquette,W
-*round5
 louisville,wichita-state,W
 michigan,syracuse,W
-*round6
 louisville,michigan,W
