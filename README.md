@@ -10,8 +10,6 @@ Overview of the files contained in this repo
 ##### Scripts
 - statsheet_scrape.py
  - used to get team info (name, url, stats, schedule)
-- espn_scrape.py
-  - no longer used
 - clean_data.py
  - cleans the data scraped from statsheet into our custom format
 - build_examples.py
@@ -19,6 +17,8 @@ Overview of the files contained in this repo
 - compare_prediction.py
  - elminates last column of march instances to create testing data
  - calculates accuracy of Weka's predicted output using our training model
+- espn_scrape.py
+  - no longer used
 - util.py
  - no longer used
 
