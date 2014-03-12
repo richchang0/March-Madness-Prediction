@@ -1,2 +1,0 @@
-auburn,iupu-fort-wayne,W,auburn-arena
-iupu-fort-wayne,auburn,L,auburn-arena

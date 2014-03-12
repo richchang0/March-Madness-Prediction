@@ -30,4 +30,5 @@ def calculate_accuracy():
 
 	print float(correct)/float(total)
 
-calculate_accuracy()
+add_question_marks()
+# calculate_accuracy()
