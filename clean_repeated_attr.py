@@ -18,7 +18,6 @@ for line in lines:
 		adjuster += 1
 	stat_string = ",".join(stat_array)
 	new_lines.append(stat_string)
-
 training_file2 = open("training_data_fixed.txt", "w+")
 training_file2.writelines(new_lines)
 
