@@ -1,7 +1,7 @@
 
 def add_question_marks():
-	filename = open("textfiles/training_data_2012-2013.txt","r")
-	writing_file = open("textfiles/march_games_predict.csv","w")
+	filename = open("textfiles/march_games_data_fixed.csv","r")
+	writing_file = open("textfiles/march_games_data_fixed_predict.csv","w")
 	for line in filename:
 		splitline = line.strip("\n").split(",")
 		splitline[-1] = "?"
@@ -10,7 +10,7 @@ def add_question_marks():
 
 def calculate_accuracy():
 	actual = open("textfiles/march_games.txt","r")
-	predict = open("textfiles/march_games_predict.csv","r")
+	predict = open("textfiles/march_games_data_results.csv","r")
 
 	actual_result = []
 	for line in actual:
@@ -30,5 +30,5 @@ def calculate_accuracy():
 
 	print float(correct)/float(total)
 
-add_question_marks()
-# calculate_accuracy()
+# add_question_marks()
+calculate_accuracy()

@@ -1,4 +1,5 @@
 # Functions for buiding the data for our model
+import random
 
 # Get the stats for the home and away team
 def get_stats(home,away):
@@ -31,6 +32,13 @@ def calc_delta(home_stats, away_stats, outcome):
 		val = float(home_stats[i]) - float(away_stats[i])
 		delta_stats.append(val)
 
+	if outcome == "NULL":
+		rand = random.choice([True, False])
+		if rand:
+			outcome = 'W'
+		else:
+			outcome = 'L'
+
 
 	delta_stats.append(outcome)
 	# Append outcome to the result
@@ -44,12 +52,13 @@ def calc_delta(home_stats, away_stats, outcome):
 
 def generate_examples():
 
-	fileName = 'march_games'
-	# fileName = 'games_conf_2012-2013_formatted_unique'
-	outputName = 'march_games_data'
+	# fileName = 'march_games'
+	fileName = 'games_conf_2012-2013_formatted_unique'
+	outputName = 'training_data_2012-2013'
+	# outputName = 'march_games_data'
 
 	games = open("textfiles/" + fileName + ".txt", "r")
-	output = open("textfiles/" + outputName + ".txt", "w")
+	output = open("textfiles/" + outputName + ".csv", "w")
 
 	# count = 0
 	for match in games:
